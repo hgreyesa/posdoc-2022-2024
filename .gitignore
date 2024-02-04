@@ -7,14 +7,35 @@
 #!procesos/sustancias/logs/
 #!procesos/sustancias/dbCon.py
 
-!procesos/retc_emisoras/funciones_es/__pycache__/
-!procesos/retc_emisoras/funciones_es/dbCon.py
-!procesos/retc_emisoras/funciones_es/logs_db/
-!procesos/retc_emisoras/funciones_es/out_append/2004-2022_prueba1.csv
-!procesos/retc_emisoras/funciones_es/out_dms_dd/coordinates_prueba1.csv
-!procesos/sustancias/__pycache__/
-!procesos/sustancias/dbCon.py
-!procesos/sustancias/logs/
 
+#!.log
+#!procesos/retc_establecimientos/funciones_es/dbCon.py
+#!procesos/retc_establecimientos/funciones_es/logs_db/
+#!procesos/retc_establecimientos/funciones_es/__pycache__/
+#!procesos/retc_establecimientos/funciones_es/out_append/2004-2022_prueba1.csv
+#!procesos/retc_establecimientos/funciones_es/out_dms_dd/coordinates_prueba1.csv
+#!procesos/retc_emisoras/funciones_es/__pycache__/
+#!procesos/retc_emisoras/funciones_es/dbCon.py
+#!procesos/retc_emisoras/funciones_es/logs_db/
+#!procesos/retc_emisoras/funciones_es/out_append/2004-2022_prueba1.csv
+#!procesos/retc_emisoras/funciones_es/out_dms_dd/coordinates_prueba1.csv
+#!procesos/sustancias/__pycache__/
+#!procesos/sustancias/dbCon.py
+#!procesos/sustancias/logs/
+#
+
+#Ignorando todos los archivos de log
+*.log
+
+#Ignorando todos los archivos de cache de python
+*.pyc
+
+#Ignorando archivos de conexión
+procesos/retc_establecimientos/funciones_es/dbCon.py
+procesos/sustancias/dbCon.py
+
+#Ignorado algunos resultados temporales
+procesos/retc_establecimientos/funciones_es/out_append/2004-2022_prueba1.csv
+procesos/retc_establecimientos/funciones_es/out_dms_dd/coordinates_prueba1.csv
 
 
