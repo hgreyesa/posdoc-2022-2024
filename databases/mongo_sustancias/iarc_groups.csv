@@ -1,0 +1,867 @@
+_id,cas,iarc,name
+64f656e0145188be35837cfb,100-00-5,2B,4-Chloronitrobenzene
+64f656e0145188be35837cfc,100-17-4,2B,para-Nitroanisole
+64f656e0145188be35837cfd,100-40-3,2B,4-Vinylcyclohexene
+64f656e0145188be35837cfe,100-41-4,2B,Ethylbenzene
+64f656e0145188be35837cff,100-42-5,2A,Styrene
+64f656e0145188be35837d00,100-44-7,2A,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)"
+64f656e0145188be35837d01,100-75-4,2B,N-Nitrosopiperidine
+64f656e0145188be35837d02,10043-92-2,1,Radon-222 and its decay products
+64f656e0145188be35837d03,10048-13-2,2B,Sterigmatocystin
+64f656e0145188be35837d04,10048-32-5,3,Parasorbic acid
+64f656e0145188be35837d05,101-14-4,1,"4,4'-Methylenebis(2-chloroaniline) (MOCA)"
+64f656e0145188be35837d06,101-21-3,3,Chloropropham
+64f656e0145188be35837d07,101-25-7,3,Dinitrosopentamethylenetetramine
+64f656e0145188be35837d08,101-61-1,2B,"Michler’s base [4,4´-methylenebis(N,N-dimethyl)­benzenamine]"
+64f656e0145188be35837d09,101-68-8,3,"4,4'-Methylenediphenyl diisocyanate"
+64f656e0145188be35837d0a,101-77-9,2B,"4,4'-Methylenedianiline"
+64f656e0145188be35837d0b,101-80-4,2B,"4,4'-Diaminodiphenyl ether"
+64f656e0145188be35837d0c,101-90-6,2B,Diglycidyl resorcinol ether
+64f656e0145188be35837d0d,101043-37-2,2B,Microcystin-LR
+64f656e0145188be35837d0e,102-50-1,3,meta-Cresidine
+64f656e0145188be35837d0f,102-71-6,3,Triethanolamine
+64f656e0145188be35837d10,103-03-7,3,Phenicarbazide
+64f656e0145188be35837d11,103-11-7,2B,2-Ethylhexyl acrylate
+64f656e0145188be35837d12,103-23-1,3,Di(2-ethylhexyl) adipate
+64f656e0145188be35837d13,103-33-3,3,Azobenzene
+64f656e0145188be35837d14,103-90-2,3,Paracetamol (Acetaminophen)
+64f656e0145188be35837d15,10380-28-6,3,Copper 8-hydroxyquinoline
+64f656e0145188be35837d16,104-94-9,3,para-Anisidine
+64f656e0145188be35837d17,105-11-3,3,para-Benzoquinone dioxime
+64f656e0145188be35837d18,105-55-5,3,"N,N'-Diethylthiourea"
+64f656e0145188be35837d19,105-60-2,3,Caprolactam
+64f656e0145188be35837d1a,105-74-8,3,Lauroyl peroxide
+64f656e0145188be35837d1b,10540-29-1,1,Tamoxifen
+64f656e0145188be35837d1c,105650-23-5,2B,"PhIP (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine)"
+64f656e0145188be35837d1d,105735-71-5,2B,"3,7-Dinitrofluoranthene"
+64f656e0145188be35837d1e,10595-95-6,2B,N-Nitrosomethylethylamine
+64f656e0145188be35837d1f,10599-90-3,3,Chloramine
+64f656e0145188be35837d20,106-46-7,2B,para-Dichlorobenzene
+64f656e0145188be35837d21,106-47-8,2B,para-Chloroaniline
+64f656e0145188be35837d22,106-50-3,3,para-Phenylenediamine
+64f656e0145188be35837d23,106-51-4,3,para-Quinone
+64f656e0145188be35837d24,106-87-6,2B,4-Vinylcyclohexene diepoxide
+64f656e0145188be35837d25,106-88-7,2B,"1,2-Epoxybutane"
+64f656e0145188be35837d26,106-89-8,2A,Epichlorohydrin
+64f656e0145188be35837d27,106-91-2,2A,Glycidyl methacrylate
+64f656e0145188be35837d28,106-93-4,2A,Ethylene dibromide
+64f656e0145188be35837d29,106-94-5,2B,1-Bromopropane
+64f656e0145188be35837d2a,106-99-0,1,"1,3-Butadiene"
+64f656e0145188be35837d2b,107-02-8,2A,Acrolein
+64f656e0145188be35837d2c,107-05-1,3,Allyl chloride
+64f656e0145188be35837d2d,107-06-2,2B,"1,2-Dichloroethane"
+64f656e0145188be35837d2e,107-13-1,2B,Acrylonitrile
+64f656e0145188be35837d2f,107-14-2,3,Chloroacetonitrile
+64f656e0145188be35837d30,107-30-2,1,Bis(chloromethyl)ether; chloromethyl methyl ether (technical-grade)
+64f656e0145188be35837d31,1071-83-6,2A,Glyphosate
+64f656e0145188be35837d32,1072-52-2,3,2-(1-Aziridinyl)ethanol
+64f656e0145188be35837d33,108-05-4,2B,Vinyl acetate
+64f656e0145188be35837d34,108-10-1,2B,Methyl isobutyl ketone
+64f656e0145188be35837d35,108-30-5,3,Succinic anhydride
+64f656e0145188be35837d36,108-45-2,3,meta-Phenylenediamine
+64f656e0145188be35837d37,108-46-3,3,Resorcinol
+64f656e0145188be35837d38,108-60-1,3,Bis(2-chloro-1-methylethyl)ether
+64f656e0145188be35837d39,108-78-1,2B,Melamine
+64f656e0145188be35837d3a,108-88-3,3,Toluene
+64f656e0145188be35837d3b,108-94-1,3,Cyclohexanone
+64f656e0145188be35837d3c,108-95-2,3,Phenol
+64f656e0145188be35837d3d,108-99-6,3,β-Picoline
+64f656e0145188be35837d3e,109-70-6,2B,1-Bromo-3-chloropropane
+64f656e0145188be35837d3f,109-99-9,2B,Tetrahydrofuran
+64f656e0145188be35837d40,110-00-9,2B,Furan
+64f656e0145188be35837d41,110-57-6,3,"trans-1,4-Dichlorobutene"
+64f656e0145188be35837d42,110-86-1,2B,Pyridine
+64f656e0145188be35837d43,110-91-8,3,Morpholine
+64f656e0145188be35837d44,11056-06-7,2B,Bleomycins
+64f656e0145188be35837d45,111-42-2,2B,Diethanolamine
+64f656e0145188be35837d46,111-44-4,3,Bis(2-chloroethyl)ether
+64f656e0145188be35837d47,111-76-2,3,2-Butoxyethanol
+64f656e0145188be35837d48,111025-46-8,2A,Pioglitazone
+64f656e0145188be35837d49,111189-32-3,3,"Naphtho[1,2-b]fluoranthene"
+64f656e0145188be35837d4a,1116-54-7,2B,N-Nitrosodiethanolamine
+64f656e0145188be35837d4b,1120-71-4,2A,"1,3-Propane sultone"
+64f656e0145188be35837d4c,1143-38-0,3,Dithranol
+64f656e0145188be35837d4d,115-02-6,2B,Azaserine
+64f656e0145188be35837d4e,115-07-1,3,Propylene
+64f656e0145188be35837d4f,115-28-6,2B,Chlorendic acid
+64f656e0145188be35837d50,115-32-2,3,Dicofol
+64f656e0145188be35837d51,115-96-8,3,Tris(2-chloroethyl) phosphate
+64f656e0145188be35837d52,116-06-3,3,Aldicarb
+64f656e0145188be35837d53,116-14-3,2A,Tetrafluoroethylene
+64f656e0145188be35837d54,1163-19-5,3,Decabromodiphenyl oxide
+64f656e0145188be35837d55,116355-83-0,2B,Fumonisin B1
+64f656e0145188be35837d56,117-10-2,2B,"Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)"
+64f656e0145188be35837d57,117-39-5,3,Quercetin
+64f656e0145188be35837d58,117-79-3,3,2-Aminoanthraquinone
+64f656e0145188be35837d59,117-81-7,2B,Di(2-ethylhexyl)phthalate
+64f656e0145188be35837d5a,118-74-1,2B,Hexachlorobenzene
+64f656e0145188be35837d5b,118-92-3,3,Anthranilic acid
+64f656e0145188be35837d5c,118-96-7,3,"2,4,6-Trinitrotoluene"
+64f656e0145188be35837d5d,118399-22-7,3,Nodularins
+64f656e0145188be35837d5e,119-34-6,3,4-Amino-2-nitrophenol
+64f656e0145188be35837d5f,119-61-9,2B,Benzophenone
+64f656e0145188be35837d60,119-90-4,2B,"3,3'-Dimethoxybenzidine (ortho-Dianisidine)"
+64f656e0145188be35837d61,119-93-7,2B,"3,3'-Dimethylbenzidine (ortho-Tolidine)"
+64f656e0145188be35837d62,120-12-7,2B,Anthracene
+64f656e0145188be35837d63,120-58-1,3,Isosafrole
+64f656e0145188be35837d64,120-71-8,2B,para-Cresidine
+64f656e0145188be35837d65,120-80-9,2B,Catechol
+64f656e0145188be35837d66,12001-28-4,1,"Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)"
+64f656e0145188be35837d67,12001-29-5,1,"Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)"
+64f656e0145188be35837d68,12001-79-5,3,Vitamin K substances
+64f656e0145188be35837d69,12070-12-1,2A,Cobalt metal with tungsten carbide
+64f656e0145188be35837d6a,121-14-2,2B,"2,4-Dinitrotoluene"
+64f656e0145188be35837d6b,121-66-4,3,2-Amino-5-nitrothiazole
+64f656e0145188be35837d6c,121-69-7,3,"N,N-Dimethylaniline"
+64f656e0145188be35837d6d,121-73-3,3,3-Chloronitrobenzene
+64f656e0145188be35837d6e,121-75-5,2A,Malathion
+64f656e0145188be35837d6f,121-88-0,3,2-Amino-5-nitrophenol
+64f656e0145188be35837d70,12122-67-7,3,Zineb
+64f656e0145188be35837d71,12172-73-5,1,"Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)"
+64f656e0145188be35837d72,12192-57-3,3,Aurothioglucose
+64f656e0145188be35837d73,122-34-9,3,Simazine
+64f656e0145188be35837d74,122-39-4,2B,Diphenylamine
+64f656e0145188be35837d75,122-42-9,3,Propham
+64f656e0145188be35837d76,122-60-1,2B,Phenyl glycidyl ether
+64f656e0145188be35837d77,122-66-7,2B,"1,2-Diphenylhydrazine"
+64f656e0145188be35837d78,122320-73-4,3,Rosiglitazone
+64f656e0145188be35837d79,123-31-9,3,Hydroquinone
+64f656e0145188be35837d7a,123-33-1,3,Maleic hydrazide
+64f656e0145188be35837d7b,123-35-3,2B,β-Myrcene
+64f656e0145188be35837d7c,123-91-1,2B,"1,4-Dioxane"
+64f656e0145188be35837d7d,124-48-1,3,Chlorodibromomethane
+64f656e0145188be35837d7e,124-58-3,2B,Methylarsonic acid
+64f656e0145188be35837d7f,12427-38-2,3,Maneb
+64f656e0145188be35837d80,125-33-7,2B,Primidone
+64f656e0145188be35837d81,126-07-8,2B,Griseofulvin
+64f656e0145188be35837d82,126-72-7,2A,"Tris(2,3-dibromopropyl) phosphate"
+64f656e0145188be35837d83,126-85-2,2B,Nitrogen mustard N-oxide
+64f656e0145188be35837d84,126-99-8,2B,Chloroprene
+64f656e0145188be35837d85,12663-46-6,3,Cyclochlorotine
+64f656e0145188be35837d86,127-07-1,3,Hydroxyurea
+64f656e0145188be35837d87,127-18-4,2A,Tetrachloroethylene (Perchloroethylene)
+64f656e0145188be35837d88,127-19-5,2B,"N,N-Dimethylacetamide"
+64f656e0145188be35837d89,127-69-5,3,Sulfafurazole (Sulfisoxazole)
+64f656e0145188be35837d8a,128-37-0,3,Butylated hydroxytoluene (BHT)
+64f656e0145188be35837d8b,128-66-5,3,Vat Yellow 4
+64f656e0145188be35837d8c,129-00-0,3,Pyrene
+64f656e0145188be35837d8d,129-15-7,2B,2-Methyl-1-nitroanthraquinone (uncertain purity)
+64f656e0145188be35837d8e,129-17-9,3,Blue VRS
+64f656e0145188be35837d8f,129-20-4,3,Oxyphenbutazone
+64f656e0145188be35837d90,129-43-1,2B,1-Hydroxyanthraquinone
+64f656e0145188be35837d91,129-73-7,2B,Leucomalachite green
+64f656e0145188be35837d92,13010-47-4,2A,1-(2-Chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU)
+64f656e0145188be35837d93,13045-94-8,3,Medphalan
+64f656e0145188be35837d94,1307-96-6,2B,Cobalt(II) oxide
+64f656e0145188be35837d95,1308-06-1,3,"Cobalt(II,III) oxide"
+64f656e0145188be35837d96,1309-37-1,3,Ferric oxide
+64f656e0145188be35837d97,131-79-3,3,Yellow OB
+64f656e0145188be35837d98,1313-27-5,2B,Molybdenum trioxide
+64f656e0145188be35837d99,1314-62-1,2B,Vanadium pentoxide
+64f656e0145188be35837d9a,1317-42-6,3,Cobalt(II) sulfide
+64f656e0145188be35837d9b,1317-60-8,3,Haematite
+64f656e0145188be35837d9c,1318-02-1,3,"Zeolites other than erionite (clinoptilolite, phillipsite,mordenite, non-fibrous Japanese zeolite, synthetic zeolites)"
+64f656e0145188be35837d9d,132-27-4,2B,Sodium ortho-phenylphenate
+64f656e0145188be35837d9e,132-65-0,3,Dibenzothiophene
+64f656e0145188be35837d9f,13233-32-4,1,Radium-224 and its decay products
+64f656e0145188be35837da0,13256-22-9,2B,N-Nitrososarcosine
+64f656e0145188be35837da1,13292-46-1,3,Rifampicin
+64f656e0145188be35837da2,133-06-2,3,Captan
+64f656e0145188be35837da3,1330-20-7,3,Xylenes
+64f656e0145188be35837da4,1332-21-4,1,"Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)"
+64f656e0145188be35837da5,1333-86-4,2B,Carbon black
+64f656e0145188be35837da6,1336-36-3,1,Polychlorinated biphenyls
+64f656e0145188be35837da7,1338-16-5,3,Iron sorbitol-citric acid complex
+64f656e0145188be35837da8,134-29-2,2A,ortho-Anisidine hydrochloride
+64f656e0145188be35837da9,134-32-7,3,1-Naphthylamine
+64f656e0145188be35837daa,13463-67-7,2B,Titanium dioxide
+64f656e0145188be35837dab,13483-18-6,3,"1,2-Bis(chloromethoxy)ethane"
+64f656e0145188be35837dac,135-20-6,2B,Cupferron
+64f656e0145188be35837dad,135-88-6,3,N-Phenyl-2-naphthylamine
+64f656e0145188be35837dae,136-40-3,2B,Phenazopyridine hydrochloride
+64f656e0145188be35837daf,137-17-7,3,"2,4,5-Trimethylaniline"
+64f656e0145188be35837db0,137-26-8,3,Thiram
+64f656e0145188be35837db1,137-30-4,3,Ziram
+64f656e0145188be35837db2,138-59-0,3,Shikimic acid
+64f656e0145188be35837db3,139-05-9,3,Cyclamates (sodium cyclamate)
+64f656e0145188be35837db4,139-13-9,2B,Nitrilotriacetic acid and its salts
+64f656e0145188be35837db5,139-65-1,2B,"4,4'-Thiodianiline"
+64f656e0145188be35837db6,139-94-6,3,Nithiazide
+64f656e0145188be35837db7,13909-09-6,1,"Semustine [1-(2-Chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea, Methyl-CCNU]"
+64f656e0145188be35837db8,13982-63-3,1,Radium-226 and its decay products
+64f656e0145188be35837db9,13983-17-0,3,Wollastonite
+64f656e0145188be35837dba,140-11-4,3,Benzyl acetate
+64f656e0145188be35837dbb,140-56-7,3,para-Dimethylaminoazobenzenediazo sodium sulfonate
+64f656e0145188be35837dbc,140-57-8,2B,Aramite®
+64f656e0145188be35837dbd,140-88-5,2B,Ethyl acrylate
+64f656e0145188be35837dbe,1401-55-4,3,Tannic acid and tannins
+64f656e0145188be35837dbf,1402-68-2,1,Aflatoxins
+64f656e0145188be35837dc0,14047-09-7,2A,"3,3′,4,4′-Tetrachloroazobenzene"
+64f656e0145188be35837dc1,141-32-2,3,n-Butyl acrylate
+64f656e0145188be35837dc2,141-37-7,3,"3,4-Epoxy-6-methylcyclohexylmethyl-3,4-epoxy-6-methylcyclo-hexanecarboxylate"
+64f656e0145188be35837dc3,141-90-2,2B,Thiouracil
+64f656e0145188be35837dc4,142-04-1,2A,Aniline hydrochloride
+64f656e0145188be35837dc5,142-83-6,2B,"2,4-Hexadienal"
+64f656e0145188be35837dc6,143-50-0,2B,Chlordecone (Kepone)
+64f656e0145188be35837dc7,143-67-9,3,Vinblastine sulfate
+64f656e0145188be35837dc8,144-34-3,3,Methyl selenac
+64f656e0145188be35837dc9,14426-28-9,3,Malachite green
+64f656e0145188be35837dca,14484-64-1,3,Ferbam
+64f656e0145188be35837dcb,14596-37-3,1,"Phosphorus-32, as phosphate"
+64f656e0145188be35837dcc,148-18-5,3,Sodium diethyldithiocarbamate
+64f656e0145188be35837dcd,148-24-3,3,8-Hydroxyquinoline
+64f656e0145188be35837dce,148-82-3,1,Melphalan
+64f656e0145188be35837dcf,14808-60-7,1,"Silica dust, crystalline, in the form of quartz or cristobalite"
+64f656e0145188be35837dd0,149-29-1,3,Patulin
+64f656e0145188be35837dd1,149-30-4,2A,2-Mercaptobenzothiazole
+64f656e0145188be35837dd2,14901-08-7,2B,Cycasin
+64f656e0145188be35837dd3,150-13-0,3,para-Aminobenzoic acid
+64f656e0145188be35837dd4,150-68-5,3,Monuron
+64f656e0145188be35837dd5,150-69-6,3,Dulcin
+64f656e0145188be35837dd6,15086-94-9,3,Eosin
+64f656e0145188be35837dd7,151-56-4,2B,Aziridine
+64f656e0145188be35837dd8,15262-20-1,1,Radium-228 and its decay products
+64f656e0145188be35837dd9,154-93-8,2A,Bischloroethyl nitrosourea (BCNU)
+64f656e0145188be35837dda,15501-74-3,3,Sepiolite
+64f656e0145188be35837ddb,15503-86-3,3,Isatidine
+64f656e0145188be35837ddc,156-10-5,3,para-Nitrosodiphenylamine
+64f656e0145188be35837ddd,156-51-4,3,Phenelzine sulfate
+64f656e0145188be35837dde,15625-89-5,2B,"Trimethylolpropane triacrylate, technical grade"
+64f656e0145188be35837ddf,15663-27-1,2A,Cisplatin
+64f656e0145188be35837de0,15721-02-5,3,"2,2',5,5'-Tetrachlorobenzidine"
+64f656e0145188be35837de1,1582-09-8,3,Trifluralin
+64f656e0145188be35837de2,16065-83-1,3,Chromium (III) compounds
+64f656e0145188be35837de3,1615-80-1,2B,"1,2-Diethylhydrazine"
+64f656e0145188be35837de4,1634-04-4,3,Methyl tert-butyl ether
+64f656e0145188be35837de5,16543-55-8,1,"N'-Nitrosonornicotine (NNN) and 4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone (NNK)"
+64f656e0145188be35837de6,16568-02-8,3,Gyromitrin
+64f656e0145188be35837de7,1675-54-3,3,Bisphenol A diglycidyl ether (Araldite)
+64f656e0145188be35837de8,1689-82-3,3,4-Hydroxyazobenzene
+64f656e0145188be35837de9,1694-09-3,2B,Benzyl violet 4B
+64f656e0145188be35837dea,16984-48-8,3,"Fluorides (inorganic, used in drinking-water)"
+64f656e0145188be35837deb,1705-85-7,3,6-Methylchrysene
+64f656e0145188be35837dec,1706-01-0,3,3-Methylfluoranthene
+64f656e0145188be35837ded,17117-34-9,2B,3-Nitrobenzanthrone
+64f656e0145188be35837dee,1746-01-6,1,"2,3,7,8-Tetrachlorodibenzo-para-dioxin"
+64f656e0145188be35837def,1836-75-5,2B,Nitrofen (technical-grade)
+64f656e0145188be35837df0,18540-29-9,1,Chromium (VI) compounds
+64f656e0145188be35837df1,18883-66-4,2B,Streptozotocin
+64f656e0145188be35837df2,189-55-9,2B,"Dibenzo[a,i]pyrene"
+64f656e0145188be35837df3,189-64-0,2B,"Dibenzo[a,h]pyrene"
+64f656e0145188be35837df4,1897-45-6,2B,Chlorothalonil
+64f656e0145188be35837df5,191-07-1,3,Coronene
+64f656e0145188be35837df6,191-24-2,3,Benzo[ghi]perylene
+64f656e0145188be35837df7,191-26-4,3,Anthanthrene
+64f656e0145188be35837df8,191-30-0,2A,"Dibenzo[a,l]pyrene"
+64f656e0145188be35837df9,1912-24-9,3,Atrazine
+64f656e0145188be35837dfa,1918-02-1,3,Picloram
+64f656e0145188be35837dfb,192-47-2,3,"Dibenzo[h,rst]pentaphene"
+64f656e0145188be35837dfc,192-51-8,3,"Dibenzo[e,l]pyrene"
+64f656e0145188be35837dfd,192-65-4,3,"Dibenzo[a,e]pyrene"
+64f656e0145188be35837dfe,192-97-2,3,Benzo[e]pyrene
+64f656e0145188be35837dff,193-09-9,3,"Naphtho[2,3-e]pyrene"
+64f656e0145188be35837e00,193-39-5,2B,"Indeno[1,2,3-cd]pyrene"
+64f656e0145188be35837e01,1936-15-8,3,CI Orange G
+64f656e0145188be35837e02,194-59-2,2B,"7H-Dibenzo[c,g]carbazole"
+64f656e0145188be35837e03,195-19-7,2B,Benzo[c]phenanthrene
+64f656e0145188be35837e04,1954-28-5,3,Triethylene glycol diglycidyl ether
+64f656e0145188be35837e05,196-78-1,3,Benzo[g]chrysene
+64f656e0145188be35837e06,198-55-0,3,Perylene
+64f656e0145188be35837e07,20073-24-9,3,3-Carbethoxypsoralen
+64f656e0145188be35837e08,202-33-5,2B,Benz[j]aceanthrylene
+64f656e0145188be35837e09,202-94-8,3,11H-Benz[bc]aceanthrylene
+64f656e0145188be35837e0a,202-98-2,3,4H-Cyclopenta[def]chrysene
+64f656e0145188be35837e0b,20268-51-3,3,7-Nitrobenz[a]anthracene
+64f656e0145188be35837e0c,203-12-3,3,Benzo[ghi]fluoranthene
+64f656e0145188be35837e0d,203-20-3,3,"Naphtho[2,1-a]fluoranthene"
+64f656e0145188be35837e0e,203-33-8,3,Benzo[a]fluoranthene
+64f656e0145188be35837e0f,205-12-9,3,Benzo[c]fluorene
+64f656e0145188be35837e10,205-82-3,2B,Benzo[j]fluoranthene
+64f656e0145188be35837e11,205-99-2,2B,Benzo[b]fluoranthene
+64f656e0145188be35837e12,20589-63-3,3,3-Nitroperylene
+64f656e0145188be35837e13,206-44-0,3,Fluoranthene
+64f656e0145188be35837e14,2068-78-2,3,Vincristine sulfate
+64f656e0145188be35837e15,207-08-9,2B,Benzo[k]fluoranthene
+64f656e0145188be35837e16,207-83-0,3,"13H-Dibenzo[a,g]fluorene"
+64f656e0145188be35837e17,20830-75-5,2B,Digoxin
+64f656e0145188be35837e18,20830-81-3,2B,Daunomycin
+64f656e0145188be35837e19,20941-65-5,3,Ethyl tellurac
+64f656e0145188be35837e1a,211-91-6,3,Benz[l]aceanthrylene
+64f656e0145188be35837e1b,21259-20-1,3,T2-Trichothecene
+64f656e0145188be35837e1c,213-46-7,3,Picene
+64f656e0145188be35837e1d,214-17-5,3,Benzo[b]chrysene
+64f656e0145188be35837e1e,215-58-7,3,"Dibenz[a,c]anthracene"
+64f656e0145188be35837e1f,2164-17-2,3,Fluometuron
+64f656e0145188be35837e20,2168-68-5,3,Bis(1-aziridinyl)morpholinophosphine sulfide
+64f656e0145188be35837e21,217-59-4,3,Triphenylene
+64f656e0145188be35837e22,218-01-9,2B,Chrysene
+64f656e0145188be35837e23,21884-44-6,3,Luteoskyrin
+64f656e0145188be35837e24,22248-79-9,2B,Tetrachlorvinphos
+64f656e0145188be35837e25,22349-59-3,3,"1,4-Dimethylphenanthrene"
+64f656e0145188be35837e26,22398-80-7,2A,Indium phosphide
+64f656e0145188be35837e27,224-41-9,3,"Dibenz[a,j]anthracene"
+64f656e0145188be35837e28,224-42-0,2A,"Dibenz[a,j]acridine"
+64f656e0145188be35837e29,224-53-3,2B,"Dibenz[c,h]acridine"
+64f656e0145188be35837e2a,2243-62-1,3,"1,5-Naphthalenediamine"
+64f656e0145188be35837e2b,225-11-6,3,Benz[a]acridine
+64f656e0145188be35837e2c,225-51-4,3,Benz[c]acridine
+64f656e0145188be35837e2d,22506-53-2,2B,"3,9-Dinitrofluoranthene"
+64f656e0145188be35837e2e,22571-95-5,3,Symphytine
+64f656e0145188be35837e2f,226-36-8,2B,"Dibenz[a,h]acridine"
+64f656e0145188be35837e30,22839-47-0,2B,Aspartame
+64f656e0145188be35837e31,22966-79-6,3,Oestradiol mustard
+64f656e0145188be35837e32,22975-76-4,3,"4,4'-Dimethylangelicin plus ultraviolet A radiation"
+64f656e0145188be35837e33,2303-16-4,3,Diallate
+64f656e0145188be35837e34,2318-18-5,3,Senkirkine
+64f656e0145188be35837e35,23214-92-8,2A,Adriamycin
+64f656e0145188be35837e36,23246-96-0,2B,Riddelliine
+64f656e0145188be35837e37,23255-93-8,3,Hycanthone mesylate
+64f656e0145188be35837e38,2353-45-9,3,Fast Green FCF
+64f656e0145188be35837e39,23537-16-8,3,Rugulosin
+64f656e0145188be35837e3a,23746-34-1,3,Potassium bis(2-hydroxyethyl)dithiocarbamate
+64f656e0145188be35837e3b,238-84-6,3,Benzo[a]fluorene
+64f656e0145188be35837e3c,2385-85-5,2B,Mirex
+64f656e0145188be35837e3d,2386-90-5,3,"Bis(2,3-epoxycyclopentyl)ether"
+64f656e0145188be35837e3e,239-35-0,3,"Benzo[b]naphtho[2,1-d]thiophene"
+64f656e0145188be35837e3f,2425-06-1,2A,Captafol
+64f656e0145188be35837e40,2425-85-6,3,CI Pigment Red 3
+64f656e0145188be35837e41,2426-08-6,2B,1-Butyl glycidyl ether
+64f656e0145188be35837e42,2429-74-5,2B,CI Direct Blue 15
+64f656e0145188be35837e43,243-17-4,3,Benzo[b]fluorene
+64f656e0145188be35837e44,2432-99-7,3,11-Aminoundecanoic acid
+64f656e0145188be35837e45,2437-29-8,3,Malachite green
+64f656e0145188be35837e46,24560-98-3,3,"cis-9,10-Epoxystearic acid"
+64f656e0145188be35837e47,2475-45-8,2B,Disperse Blue 1
+64f656e0145188be35837e48,24938-64-5,3,para-Aramid fibrils
+64f656e0145188be35837e49,25013-15-4,3,Vinyl toluene
+64f656e0145188be35837e4a,25013-16-5,2B,Butylated hydroxyanisole (BHA)
+64f656e0145188be35837e4b,25038-54-4,3,Nylon 6
+64f656e0145188be35837e4c,25732-74-5,3,"Acepyrene (3,4-dihydrocyclopenta[cd]pyrene)"
+64f656e0145188be35837e4d,25812-30-0,3,Gemfibrozil
+64f656e0145188be35837e4e,25962-77-0,2B,"trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)-vinyl]-1,3,4-oxadiazole"
+64f656e0145188be35837e4f,26148-68-5,2B,"A-alpha-C (2-Amino-9H-pyrido[2,3-b]indole)"
+64f656e0145188be35837e50,262-12-4,3,Dibenzo-para-dioxin
+64f656e0145188be35837e51,26308-28-1,3,Ripazepam
+64f656e0145188be35837e52,2646-17-5,2B,Oil Orange SS
+64f656e0145188be35837e53,26471-62-5,2B,Toluene diisocyanates
+64f656e0145188be35837e54,26782-43-4,3,Hydroxysenkirkine
+64f656e0145188be35837e55,271-89-6,2B,Benzofuran
+64f656e0145188be35837e56,27208-37-3,2A,Cyclopenta[cd]pyrene
+64f656e0145188be35837e57,2757-90-6,3,Agaritine
+64f656e0145188be35837e58,2783-94-0,3,Sunset Yellow FCF
+64f656e0145188be35837e59,2784-94-3,2B,HC Blue No. 1
+64f656e0145188be35837e5a,2832-40-8,3,Disperse Yellow 3
+64f656e0145188be35837e5b,2835-39-4,3,Allyl isovalerate
+64f656e0145188be35837e5c,28407-37-6,2B,CI Direct Blue 218
+64f656e0145188be35837e5d,28434-86-8,2B,"3,3'-Dichloro-4,4'-diaminodiphenyl ether"
+64f656e0145188be35837e5e,2871-01-4,3,HC Red No. 3
+64f656e0145188be35837e5f,29069-24-7,3,Prednimustine
+64f656e0145188be35837e60,29291-35-8,3,N-Nitrosofolic acid
+64f656e0145188be35837e61,2955-38-6,3,Prazepam
+64f656e0145188be35837e62,2973-10-6,2B,Diisopropyl sulfate
+64f656e0145188be35837e63,29767-20-2,2A,Teniposide
+64f656e0145188be35837e64,298-00-0,3,Methyl parathion
+64f656e0145188be35837e65,298-81-7,1,Methoxsalen (8-methoxypsoralen) plus ultraviolet A radiation
+64f656e0145188be35837e66,299-75-2,1,Treosulfan
+64f656e0145188be35837e67,29975-16-4,3,Estazolam
+64f656e0145188be35837e68,3018-12-0,3,Dichloroacetonitrile
+64f656e0145188be35837e69,302-01-2,2A,Hydrazine
+64f656e0145188be35837e6a,302-17-0,2A,Chloral hydrate
+64f656e0145188be35837e6b,303-34-4,2B,Lasiocarpine
+64f656e0145188be35837e6c,303-47-9,2B,Ochratoxin A
+64f656e0145188be35837e6d,30310-80-6,3,N-Nitrosohydroxyproline
+64f656e0145188be35837e6e,305-03-3,1,Chlorambucil
+64f656e0145188be35837e6f,30516-87-1,2B,Zidovudine (AZT)
+64f656e0145188be35837e70,3068-88-0,2B,beta-Butyrolactone
+64f656e0145188be35837e71,308076-74-6,2B,"Silicon carbide, fibrous"
+64f656e0145188be35837e72,309-00-2,2A,"Dieldrin, and aldrin metabolized to dieldrin"
+64f656e0145188be35837e73,3118-97-6,3,Sudan II
+64f656e0145188be35837e74,313-67-7,1,Aristolochic acid
+64f656e0145188be35837e75,314-13-6,3,Evans blue
+64f656e0145188be35837e76,315-18-4,3,Zectran
+64f656e0145188be35837e77,315-22-0,2B,Monocrotaline
+64f656e0145188be35837e78,3173-72-6,3,"1,5-Naphthalene diisocyanate"
+64f656e0145188be35837e79,320-67-2,2A,Azacitidine
+64f656e0145188be35837e7a,3252-43-5,2B,Dibromoacetonitrile
+64f656e0145188be35837e7b,3296-90-0,2B,"2,2-Bis(bromomethyl)propane-1,3-diol"
+64f656e0145188be35837e7c,331-39-5,2B,Caffeic acid
+64f656e0145188be35837e7d,33229-34-4,3,HC Blue No. 2
+64f656e0145188be35837e7e,333-41-5,2A,Diazinon
+64f656e0145188be35837e7f,334-88-3,3,Diazomethane
+64f656e0145188be35837e80,33419-42-0,1,Etoposide
+64f656e0145188be35837e81,335-67-1,2B,Perfluorooctanoic acid (PFOA)
+64f656e0145188be35837e82,3351-28-8,3,1-Methylchrysene
+64f656e0145188be35837e83,3351-30-2,3,4-Methylchrysene
+64f656e0145188be35837e84,3351-31-3,3,3-Methylchrysene
+64f656e0145188be35837e85,3351-32-4,3,2-Methylchrysene
+64f656e0145188be35837e86,33543-31-6,3,2-Methylfluoranthene
+64f656e0145188be35837e87,3564-09-8,2B,Ponceau 3R
+64f656e0145188be35837e88,3567-69-9,3,Carmoisine
+64f656e0145188be35837e89,3570-75-0,2B,2-(2-Formylhydrazino)-4-(5-nitro-2-furyl)thiazole
+64f656e0145188be35837e8a,366-70-1,2A,Procarbazine hydrochloride
+64f656e0145188be35837e8b,3688-53-7,2B,AF-2 [2-(2-Furyl)-3-(5-nitro-2-furyl)acrylamide]
+64f656e0145188be35837e8c,3697-24-3,2B,5-Methylchrysene
+64f656e0145188be35837e8d,37319-17-8,2B,Pentosan polysulfate sodium
+64f656e0145188be35837e8e,3761-53-3,2B,Ponceau MX
+64f656e0145188be35837e8f,37620-20-5,3,"N'-Nitrosoanabasine (NAB)"
+64f656e0145188be35837e90,3771-19-5,2B,Nafenopin
+64f656e0145188be35837e91,3778-73-2,3,Isophosphamide
+64f656e0145188be35837e92,3795-88-8,2B,5-(Morpholinomethyl)-3-[(5-nitrofurfurylidene)­amino]-2-oxazolidinone
+64f656e0145188be35837e93,3844-45-9,3,"Brilliant Blue FCF, disodium salt"
+64f656e0145188be35837e94,38571-73-2,3,"1,2,3-Tris(chloromethoxy)propane"
+64f656e0145188be35837e95,3902-71-4,3,"4,5',8-Trimethylpsoralen"
+64f656e0145188be35837e96,396-01-0,2B,Triamterene
+64f656e0145188be35837e97,4063-41-6,3,"4,5'-Dimethylangelicin plus ultraviolet A radiation"
+64f656e0145188be35837e98,40762-15-0,3,Doxefazepam
+64f656e0145188be35837e99,409-21-2,2A,Silicon carbide whiskers
+64f656e0145188be35837e9a,4170-30-3,2B,Crotonaldehyde
+64f656e0145188be35837e9b,420-12-2,3,Ethylene sulfide
+64f656e0145188be35837e9c,42397-64-8,2B,"1,6-Dinitropyrene"
+64f656e0145188be35837e9d,42397-65-9,2B,"1,8-Dinitropyrene"
+64f656e0145188be35837e9e,4342-03-4,2B,Dacarbazine
+64f656e0145188be35837e9f,439-14-5,3,Diazepam
+64f656e0145188be35837ea0,443-48-1,2B,Metronidazole
+64f656e0145188be35837ea1,446-86-6,1,Azathioprine
+64f656e0145188be35837ea2,4548-53-2,3,Ponceau SX
+64f656e0145188be35837ea3,4549-40-0,2B,N-Nitrosomethylvinylamine
+64f656e0145188be35837ea4,4657-93-6,3,5-Aminoacenaphthene
+64f656e0145188be35837ea5,4680-78-8,3,Guinea Green B
+64f656e0145188be35837ea6,480-54-6,3,Retrorsine
+64f656e0145188be35837ea7,480-81-9,3,Seneciphylline
+64f656e0145188be35837ea8,484-20-8,2A,5-Methoxypsoralen
+64f656e0145188be35837ea9,492-17-1,3,"2,4'-Diphenyldiamine"
+64f656e0145188be35837eaa,492-80-8,2B,Auramine
+64f656e0145188be35837eab,493-52-7,3,Methyl red
+64f656e0145188be35837eac,494-03-1,1,Chlornaphazine
+64f656e0145188be35837ead,494-38-2,3,Acridine orange
+64f656e0145188be35837eae,50-00-0,1,Formaldehyde
+64f656e0145188be35837eaf,50-06-6,2B,Phenobarbital
+64f656e0145188be35837eb0,50-07-7,2B,Mitomycin C
+64f656e0145188be35837eb1,50-18-0,1,Cyclophosphamide
+64f656e0145188be35837eb2,50-29-3,2A,"DDT (4,4'-dichlorodiphenyltrichloroethane)"
+64f656e0145188be35837eb3,50-32-8,1,Benzo[a]pyrene
+64f656e0145188be35837eb4,50-33-9,3,Phenylbutazone
+64f656e0145188be35837eb5,50-41-9,3,Clomiphene citrate
+64f656e0145188be35837eb6,50-44-2,3,6-Mercaptopurine
+64f656e0145188be35837eb7,50-55-5,3,Reserpine
+64f656e0145188be35837eb8,50-76-0,3,Actinomycin D
+64f656e0145188be35837eb9,501-30-4,3,Kojic acid
+64f656e0145188be35837eba,505-60-2,1,Sulfur mustard
+64f656e0145188be35837ebb,509-14-8,2B,Tetranitromethane
+64f656e0145188be35837ebc,50926-11-9,2B,Indium tin oxide
+64f656e0145188be35837ebd,51-02-5,3,Pronetalol hydrochloride
+64f656e0145188be35837ebe,51-03-6,3,Piperonyl butoxide
+64f656e0145188be35837ebf,51-18-3,3,"2,4,6-Tris(1-aziridinyl)-s-triazine"
+64f656e0145188be35837ec0,51-21-8,3,5-Fluorouracil
+64f656e0145188be35837ec1,51-52-5,2B,Propylthiouracil
+64f656e0145188be35837ec2,51-75-2,2A,Nitrogen mustard
+64f656e0145188be35837ec3,51-79-6,2A,Ethyl carbamate (Urethane)
+64f656e0145188be35837ec4,510-15-6,3,Chlorobenzilate
+64f656e0145188be35837ec5,51264-14-3,2B,Amsacrine
+64f656e0145188be35837ec6,513-37-1,2B,1-Chloro-2-methylpropene
+64f656e0145188be35837ec7,5131-60-2,3,4-Chloro-meta-phenylenediamine
+64f656e0145188be35837ec8,5141-20-8,3,Light Green SF
+64f656e0145188be35837ec9,51481-61-9,3,Cimetidine
+64f656e0145188be35837eca,5160-02-1,3,D & C Red No. 9
+64f656e0145188be35837ecb,51630-58-1,3,Fenvalerate
+64f656e0145188be35837ecc,518-75-2,3,Citrinin
+64f656e0145188be35837ecd,52-01-7,3,Spironolactone
+64f656e0145188be35837ece,52-24-4,1,Thiotepa
+64f656e0145188be35837ecf,52-46-0,3,Apholate
+64f656e0145188be35837ed0,52-68-6,3,Trichlorfon
+64f656e0145188be35837ed1,520-18-3,3,Kaempferol
+64f656e0145188be35837ed2,523-44-4,3,CI Acid Orange 20
+64f656e0145188be35837ed3,523-50-2,3,Angelicin plus ultraviolet A radiation
+64f656e0145188be35837ed4,52645-53-1,3,Permethrin
+64f656e0145188be35837ed5,52918-63-5,3,Deltamethrin
+64f656e0145188be35837ed6,53-03-2,3,Prednisone
+64f656e0145188be35837ed7,53-70-3,2A,"Dibenz[a,h]anthracene"
+64f656e0145188be35837ed8,5307-14-2,3,"1,4-Diamino-2-nitrobenzene"
+64f656e0145188be35837ed9,531-76-0,2B,Merphalan
+64f656e0145188be35837eda,531-82-8,2B,N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide
+64f656e0145188be35837edb,532-82-1,3,Chrysoidine
+64f656e0145188be35837edc,536-33-4,3,Ethionamide
+64f656e0145188be35837edd,5385-75-1,3,"Dibenzo[a,e]fluoranthene"
+64f656e0145188be35837ede,53973-98-1,2B,"Carrageenan, degraded (Poligeenan)"
+64f656e0145188be35837edf,54-05-7,3,Chloroquine
+64f656e0145188be35837ee0,54-31-9,3,Furosemide (Frusemide)
+64f656e0145188be35837ee1,54-85-3,3,Isonicotinic acid hydrazide (Isoniazid)
+64f656e0145188be35837ee2,540-73-8,2A,"1,2-Dimethylhydrazine"
+64f656e0145188be35837ee3,541-73-1,3,meta-Dichlorobenzene
+64f656e0145188be35837ee4,542-56-3,2B,Isobutyl nitrite
+64f656e0145188be35837ee5,542-75-6,2B,"1,3-Dichloropropene (technical-grade)"
+64f656e0145188be35837ee6,542-78-9,3,Malonaldehyde
+64f656e0145188be35837ee7,542-88-1,1,Bis(chloromethyl)ether; chloromethyl methyl ether (technical-grade)
+64f656e0145188be35837ee8,5431-33-4,3,Glycidyl oleate
+64f656e0145188be35837ee9,545-06-2,3,Trichloroacetonitrile
+64f656e0145188be35837eea,545-55-1,3,Tris(1-aziridinyl)phosphine oxide
+64f656e0145188be35837eeb,5456-28-0,3,Ethyl selenac
+64f656e0145188be35837eec,54749-90-5,2A,Chlorozotocin
+64f656e0145188be35837eed,548-62-9,2B,Gentian violet
+64f656e0145188be35837eee,55-18-5,2A,N-Nitrosodiethylamine
+64f656e0145188be35837eef,55-98-1,1,Busulfan
+64f656e0145188be35837ef0,551-74-6,3,Mannomustine dihydrochloride
+64f656e0145188be35837ef1,5522-43-0,2A,1-Nitropyrene
+64f656e0145188be35837ef2,555-84-0,2B,1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone
+64f656e0145188be35837ef3,55557-01-2,3,N-Nitrosoguvacine
+64f656e0145188be35837ef4,55557-02-3,3,N-Nitrosoguvacoline
+64f656e0145188be35837ef5,556-52-5,2A,Glycidol
+64f656e0145188be35837ef6,5589-96-8,2B,Bromochloroacetic acid
+64f656e0145188be35837ef7,56-04-2,2B,Methylthiouracil
+64f656e0145188be35837ef8,56-23-5,2B,Carbon tetrachloride
+64f656e0145188be35837ef9,56-25-7,3,Cantharidin
+64f656e0145188be35837efa,56-38-2,2B,Parathion
+64f656e0145188be35837efb,56-53-1,1,Diethylstilbestrol
+64f656e0145188be35837efc,56-55-3,2B,Benz[a]anthracene
+64f656e0145188be35837efd,56-75-7,2A,Chloramphenicol
+64f656e0145188be35837efe,562-10-7,3,Doxylamine succinate
+64f656e0145188be35837eff,563-41-7,3,Semicarbazide hydrochloride
+64f656e0145188be35837f00,563-47-3,2B,"3-Chloro-2-methylpropene, technical grade"
+64f656e0145188be35837f01,56894-91-8,3,"1,4-Bis(chloromethoxymethyl)benzene"
+64f656e0145188be35837f02,569-61-9,2B,CI Basic Red 9
+64f656e0145188be35837f03,569-64-2,3,Malachite green
+64f656e0145188be35837f04,57-06-7,3,Allyl isothiocyanate
+64f656e0145188be35837f05,57-14-7,2B,"1,1-Dimethylhydrazine"
+64f656e0145188be35837f06,57-39-6,3,Tris(2-methyl-1-aziridinyl)phosphine oxide
+64f656e0145188be35837f07,57-41-0,2B,Phenytoin
+64f656e0145188be35837f08,57-57-8,2B,beta-Propiolactone
+64f656e0145188be35837f09,57-68-1,3,Sulfamethazine
+64f656e0145188be35837f0a,57-74-9,2B,Chlordane
+64f656e0145188be35837f0b,57-88-5,3,Cholesterol
+64f656e0145188be35837f0c,57018-52-7,2B,1-tert-Butoxypropan-2-ol
+64f656e0145188be35837f0d,57117-31-4,1,"2,3,4,7,8-Pentachlorodibenzofuran"
+64f656e0145188be35837f0e,57465-28-8,1,"3,4,5,3’,4’-Pentachlorobiphenyl (PCB-126)"
+64f656e0145188be35837f0f,57835-92-4,2B,4-Nitropyrene
+64f656e0145188be35837f10,58-08-2,3,Caffeine
+64f656e0145188be35837f11,58-14-0,3,Pyrimethamine
+64f656e0145188be35837f12,58-55-9,3,Theophylline
+64f656e0145188be35837f13,58-89-9,1,Lindane
+64f656e0145188be35837f14,58-93-5,2B,Hydrochlorothiazide
+64f656e0145188be35837f15,581-89-5,3,2-Nitronaphthalene
+64f656e0145188be35837f16,59-05-2,3,Methotrexate
+64f656e0145188be35837f17,59-87-0,3,Nitrofural (Nitrofurazone)
+64f656e0145188be35837f18,59-89-2,2B,N-Nitrosomorpholine
+64f656e0145188be35837f19,592-62-1,2B,Methylazoxymethanol acetate
+64f656e0145188be35837f1a,59277-89-3,3,Aciclovir
+64f656e0145188be35837f1b,593-60-2,2A,Vinyl bromide
+64f656e0145188be35837f1c,593-70-4,3,Chlorofluoromethane
+64f656e0145188be35837f1d,59536-65-1,2A,Polybrominated biphenyls
+64f656e0145188be35837f1e,598-55-0,3,Methyl carbamate
+64f656e0145188be35837f1f,59820-43-8,3,HC Yellow No. 4
+64f656e0145188be35837f20,5989-27-5,3,d-Limonene
+64f656e0145188be35837f21,599-79-1,2B,Sulfasalazine
+64f656e0145188be35837f22,60-09-3,2B,para-Aminoazobenzene
+64f656e0145188be35837f23,60-11-7,2B,para-Dimethylaminoazobenzene
+64f656e0145188be35837f24,60-35-5,2B,Acetamide
+64f656e0145188be35837f25,60-56-0,3,Methimazole
+64f656e0145188be35837f26,60102-37-6,3,Petasitenine
+64f656e0145188be35837f27,60153-49-3,2B,3-(N-Nitrosomethylamino)propionitrile
+64f656e0145188be35837f28,602-60-8,3,9-Nitroanthracene
+64f656e0145188be35837f29,602-87-9,2B,5-Nitroacenaphthene
+64f656e0145188be35837f2a,603-48-5,3,Leucogentian violet
+64f656e0145188be35837f2b,604-75-1,2B,Oxazepam
+64f656e0145188be35837f2c,6055-19-2,1,Cyclophosphamide
+64f656e0145188be35837f2d,606-20-2,2B,"2,6-Dinitrotoluene"
+64f656e0145188be35837f2e,607-57-8,2B,2-Nitrofluorene
+64f656e0145188be35837f2f,609-20-1,3,"2,6-Dichloro-para-phenylenediamine"
+64f656e0145188be35837f30,61-57-4,2B,Niridazole
+64f656e0145188be35837f31,61-82-5,3,Amitrole
+64f656e0145188be35837f32,611-06-3,2B,"2,4-Dichloro-1-nitrobenzene"
+64f656e0145188be35837f33,613-35-4,2B,"N,N'-Diacetylbenzidine"
+64f656e0145188be35837f34,615-05-4,2B,"2,4-Diaminoanisole"
+64f656e0145188be35837f35,615-28-1,2B,ortho-Phenylenediamine dihydrochloride
+64f656e0145188be35837f36,615-53-2,2B,N-Methyl-N-nitrosourethane
+64f656e0145188be35837f37,6164-98-3,3,Chlordimeform
+64f656e0145188be35837f38,618-85-9,3,"3,5-Dinitrotoluene"
+64f656e0145188be35837f39,62-44-2,1,Phenacetin
+64f656e0145188be35837f3a,62-50-0,2B,Ethyl methanesulfonate
+64f656e0145188be35837f3b,62-53-3,2A,Aniline
+64f656e0145188be35837f3c,62-55-5,2B,Thioacetamide
+64f656e0145188be35837f3d,62-56-6,3,Thiourea
+64f656e0145188be35837f3e,62-73-7,2B,Dichlorvos
+64f656e0145188be35837f3f,62-75-9,2A,N-Nitrosodimethylamine
+64f656e0145188be35837f40,621-64-7,2B,N-Nitrosodi-n-propylamine
+64f656e0145188be35837f41,62450-06-0,2B,"Trp-P-1 (3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole)"
+64f656e0145188be35837f42,62450-07-1,2B,"Trp-P-2 (3-Amino-1-methyl-5H-pyrido[4,3-b]indole)"
+64f656e0145188be35837f43,627-12-3,3,n-Propyl carbamate
+64f656e0145188be35837f44,63-25-2,3,Carbaryl
+64f656e0145188be35837f45,63-92-3,2B,Phenoxybenzamine hydrochloride
+64f656e0145188be35837f46,630-20-6,2B,"1,1,1,2-Tetrachloroethane"
+64f656e0145188be35837f47,63041-90-7,3,6-Nitrobenzo[a]pyrene
+64f656e0145188be35837f48,631-64-1,2B,Dibromoacetic acid
+64f656e0145188be35837f49,632-99-5,2B,Magenta
+64f656e0145188be35837f4a,6358-53-8,2B,Citrus Red No. 2
+64f656e0145188be35837f4b,6368-72-5,3,Sudan Red 7B
+64f656e0145188be35837f4c,637-07-0,3,Clofibrate
+64f656e0145188be35837f4d,6373-74-6,3,CI Acid Orange 3
+64f656e0145188be35837f4e,64-17-5,1,Ethanol in alcoholic beverages
+64f656e0145188be35837f4f,64-67-5,2A,Diethyl sulfate
+64f656e0145188be35837f50,64091-91-4,1,"N'-Nitrosonornicotine (NNN) and 4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone (NNK)"
+64f656e0145188be35837f51,641-48-5,3,"1,2-Dihydroaceanthrylene"
+64f656e0145188be35837f52,6416-57-5,3,Sudan Brown RR
+64f656e0145188be35837f53,64436-13-1,3,Arsenobetaine and other organic arsenic compounds that are not metabolized in humans
+64f656e0145188be35837f54,6459-94-5,2B,CI Acid Red 114
+64f656e0145188be35837f55,64741-56-6,2B,"Bitumens, occupational exposure to straight-run bitumens and their emissions during road paving"
+64f656e0145188be35837f56,64742-93-4,2A,"Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing"
+64f656e0145188be35837f57,65271-80-9,2B,Mitoxantrone
+64f656e0145188be35837f58,65996-93-2,1,Coal-tar pitch
+64f656e0145188be35837f59,66-27-3,2A,Methyl methanesulfonate
+64f656e0145188be35837f5a,66-75-1,2B,Uracil mustard
+64f656e0145188be35837f5b,66733-21-9,1,Erionite
+64f656e0145188be35837f5c,67-20-9,3,Nitrofurantoin
+64f656e0145188be35837f5d,67-45-8,3,Furazolidone
+64f656e0145188be35837f5e,67-63-0,3,Isopropyl alcohol
+64f656e0145188be35837f5f,67-66-3,2B,Chloroform
+64f656e0145188be35837f60,67-72-1,2B,Hexachloroethane
+64f656e0145188be35837f61,67730-10-3,2B,"Glu-P-2 (2-Aminodipyrido[1,2-a:3',2'-d]imidazole)"
+64f656e0145188be35837f62,67730-11-4,2B,"Glu-P-1 (2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole)"
+64f656e0145188be35837f63,68-12-2,2A,"N,N-Dimethylformamide"
+64f656e0145188be35837f64,68-76-8,3,Tris(aziridinyl)-para-benzoquinone (Triaziquone)
+64f656e0145188be35837f65,680-31-9,2B,Hexamethylphosphoramide
+64f656e0145188be35837f66,68006-83-7,2B,"MeA-alpha-C (2-Amino-3-methyl-9H-pyrido[2,3-b]indole)"
+64f656e0145188be35837f67,68308-34-9,1,Shale oils
+64f656e0145188be35837f68,684-93-5,2A,N-Methyl-N-nitrosourea
+64f656e0145188be35837f69,68603-42-9,2B,Coconut oil diethanolamine condensate
+64f656e0145188be35837f6a,6870-67-3,3,Jacobine
+64f656e0145188be35837f6b,69-53-4,3,Ampicillin
+64f656e0145188be35837f6c,693-98-1,2B,2-Methylimidazole
+64f656e0145188be35837f6d,69655-05-6,3,Didanosine
+64f656e0145188be35837f6e,70-25-7,2A,N-Methyl-N´-nitro-N-nitrosoguanidine (MNNG)
+64f656e0145188be35837f6f,70-30-4,3,Hexachlorophene
+64f656e0145188be35837f70,7099-43-6,3,"5,6-Cyclopenteno-1,2-benzanthracene"
+64f656e0145188be35837f71,71-43-2,1,Benzene
+64f656e0145188be35837f72,71-55-6,2A,"1,1,1-Trichloroethane"
+64f656e0145188be35837f73,71-58-9,2B,Medroxyprogesterone acetate
+64f656e0145188be35837f74,712-68-5,2B,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole"
+64f656e0145188be35837f75,71267-22-6,3,"N'-Nitrosoanatabine (NAT)"
+64f656e0145188be35837f76,72-20-8,3,Endrin
+64f656e0145188be35837f77,72-43-5,3,Methoxychlor
+64f656e0145188be35837f78,72-57-1,2B,Trypan blue
+64f656e0145188be35837f79,7220-79-3,3,Methylene blue
+64f656e0145188be35837f7a,723-46-6,3,Sulfamethoxazole
+64f656e0145188be35837f7b,73459-03-7,3,5-Methylangelicin plus ultraviolet A radiation
+64f656e0145188be35837f7c,74-83-9,3,Methyl bromide
+64f656e0145188be35837f7d,74-85-1,3,Ethylene
+64f656e0145188be35837f7e,74-87-3,3,Methyl chloride
+64f656e0145188be35837f7f,74-88-4,3,Methyl iodide
+64f656e0145188be35837f80,74-96-4,3,Bromoethane
+64f656e0145188be35837f81,7439-92-1,2B,Lead
+64f656e0145188be35837f82,7439-97-6,3,Mercury and inorganic mercury compounds
+64f656e0145188be35837f83,7440-02-0,2B,"Nickel, metallic"
+64f656e0145188be35837f84,7440-07-5,1,Plutonium
+64f656e0145188be35837f85,7440-29-1,1,Thorium-232 and its decay products
+64f656e0145188be35837f86,7440-38-2,1,Arsenic and inorganic arsenic compounds
+64f656e0145188be35837f87,7440-41-7,1,Beryllium and beryllium compounds
+64f656e0145188be35837f88,7440-43-9,1,Cadmium and cadmium compounds
+64f656e0145188be35837f89,7440-47-3,3,"Chromium, metallic"
+64f656e0145188be35837f8a,7440-48-4,2A,Cobalt metal with tungsten carbide
+64f656e0145188be35837f8b,7440-61-1,1,"Uranium, mixture of isotopes"
+64f656e0145188be35837f8c,7446-09-5,3,Sulfur dioxide
+64f656e0145188be35837f8d,7460-84-6,3,Glycidyl stearate
+64f656e0145188be35837f8e,7481-89-2,2B,Zalcitabine
+64f656e0145188be35837f8f,7496-02-8,2A,6-Nitrochrysene
+64f656e0145188be35837f90,75-00-3,3,Chloroethane
+64f656e0145188be35837f91,75-01-4,1,Vinyl chloride
+64f656e0145188be35837f92,75-02-5,2A,Vinyl fluoride
+64f656e0145188be35837f93,75-07-0,2B,Acetaldehyde
+64f656e0145188be35837f94,75-09-2,2A,Dichloromethane (Methylene chloride)
+64f656e0145188be35837f95,75-21-8,1,Ethylene oxide
+64f656e0145188be35837f96,75-25-2,3,Bromoform
+64f656e0145188be35837f97,75-26-3,2A,2-Bromopropane
+64f656e0145188be35837f98,75-27-4,2B,Bromodichloromethane
+64f656e0145188be35837f99,75-35-4,2B,Vinylidene chloride
+64f656e0145188be35837f9a,75-38-7,3,Vinylidene fluoride
+64f656e0145188be35837f9b,75-45-6,3,Chlorodifluoromethane
+64f656e0145188be35837f9c,75-52-5,2B,Nitromethane
+64f656e0145188be35837f9d,75-55-8,2B,2-Methylaziridine (Propyleneimine)
+64f656e0145188be35837f9e,75-56-9,2B,Propylene oxide
+64f656e0145188be35837f9f,75-60-5,2B,Dimethylarsinic acid
+64f656e0145188be35837fa0,75-87-6,2A,Chloral
+64f656e0145188be35837fa1,75-88-7,3,"2-Chloro-1,1,1-trifluoroethane"
+64f656e0145188be35837fa2,7519-36-0,3,N-Nitrosoproline
+64f656e0145188be35837fa3,75321-20-9,2B,"1,3-Dinitropyrene"
+64f656e0145188be35837fa4,7572-29-4,3,Dichloroacetylene
+64f656e0145188be35837fa5,759-73-9,2A,N-Ethyl-N-nitrosourea
+64f656e0145188be35837fa6,76-01-7,3,Pentachloroethane
+64f656e0145188be35837fa7,76-03-9,2B,Trichloroacetic acid
+64f656e0145188be35837fa8,76-44-8,2B,Heptachlor
+64f656e0145188be35837fa9,76180-96-6,2A,"IQ (2-Amino-3-methylimidazo[4,5-f]quinoline)"
+64f656e0145188be35837faa,7631-86-9,3,"Silica, amorphous"
+64f656e0145188be35837fab,7647-01-0,3,Hydrochloric acid
+64f656e0145188be35837fac,765-34-4,2B,Glycidaldehyde
+64f656e0145188be35837fad,77-09-8,2B,Phenolphthalein
+64f656e0145188be35837fae,77-78-1,2A,Dimethyl sulfate
+64f656e0145188be35837faf,77094-11-2,2B,"MeIQ (2-Amino-3,4-dimethylimidazo[4,5-f]quinoline)"
+64f656e0145188be35837fb0,7722-84-1,3,Hydrogen peroxide
+64f656e0145188be35837fb1,77439-76-0,2B,3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone
+64f656e0145188be35837fb2,77500-04-0,2B,"MeIQx (2-Amino-3,8-dimethylimidazo[4,5-f]quinoxaline)"
+64f656e0145188be35837fb3,7758-01-2,2B,Potassium bromate
+64f656e0145188be35837fb4,7758-19-2,3,Sodium chlorite
+64f656e0145188be35837fb5,7782-49-2,3,Selenium and selenium compounds
+64f656e0145188be35837fb6,78-59-1,2B,Isophorone
+64f656e0145188be35837fb7,78-79-5,2B,Isoprene
+64f656e0145188be35837fb8,78-87-5,1,"1,2-Dichloropropane"
+64f656e0145188be35837fb9,78-98-8,3,Methylglyoxal
+64f656e0145188be35837fba,789-07-1,3,2-Nitropyrene
+64f656e0145188be35837fbb,79-00-5,3,"1,1,2-Trichloroethane"
+64f656e0145188be35837fbc,79-01-6,1,Trichloroethylene
+64f656e0145188be35837fbd,79-06-1,2A,Acrylamide
+64f656e0145188be35837fbe,79-10-7,3,Acrylic acid
+64f656e0145188be35837fbf,79-34-5,2B,"1,1,2,2-Tetrachloroethane"
+64f656e0145188be35837fc0,79-43-6,2B,Dichloroacetic acid
+64f656e0145188be35837fc1,79-44-7,2A,Dimethylcarbamoyl chloride
+64f656e0145188be35837fc2,79-46-9,2B,2-Nitropropane
+64f656e0145188be35837fc3,79-94-7,2A,Tetrabromobisphenol A
+64f656e0145188be35837fc4,79217-60-0,1,Cyclosporine
+64f656e0145188be35837fc5,794-93-4,3,Dihydroxymethylfuratrizine
+64f656e0145188be35837fc6,80-08-0,3,Dapsone
+64f656e0145188be35837fc7,80-62-6,3,Methyl methacrylate
+64f656e0145188be35837fc8,800-24-8,3,Aziridyl benzoquinone
+64f656e0145188be35837fc9,8001-35-2,2B,Toxaphene (Polychlorinated camphenes)
+64f656e0145188be35837fca,8001-50-1,3,Terpene polychlorinates (Strobane®)
+64f656e0145188be35837fcb,8001-58-9,2A,Creosotes
+64f656e0145188be35837fcc,8002-05-9,3,Crude oil
+64f656e0145188be35837fcd,8007-45-2,1,Coal-tar distillation
+64f656e0145188be35837fce,8018-07-3,3,Acriflavinium chloride
+64f656e0145188be35837fcf,804-36-4,3,Nitrovin
+64f656e0145188be35837fd0,8047-67-4,3,Saccharated iron oxide
+64f656e0145188be35837fd1,8052-42-4,2B,Bitumens
+64f656e0145188be35837fd2,81-07-2,3,Saccharin and its salts
+64f656e0145188be35837fd3,81-15-2,3,Musk xylene
+64f656e0145188be35837fd4,81-49-2,2B,"1-Amino-2,4-dibromoanthraquinone"
+64f656e0145188be35837fd5,81-88-9,3,Rhodamine B
+64f656e0145188be35837fd6,817-09-4,2B,Trichlormethine (Trimustine hydrochloride)
+64f656e0145188be35837fd7,82-28-0,3,1-Amino-2-methylanthraquinone
+64f656e0145188be35837fd8,82-68-8,3,Quintozene (Pentachloronitrobenzene)
+64f656e0145188be35837fd9,822-36-6,2B,4-Methylimidazole
+64f656e0145188be35837fda,82413-20-5,3,Droloxifene
+64f656e0145188be35837fdb,828-00-2,3,Dimethoxane
+64f656e0145188be35837fdc,83-32-9,3,Acenaphthene
+64f656e0145188be35837fdd,83-63-6,3,Diacetylaminoazotoluene
+64f656e0145188be35837fde,83-66-9,3,Musk ambrette
+64f656e0145188be35837fdf,83-67-0,3,Theobromine
+64f656e0145188be35837fe0,832-69-9,3,1-Methylphenanthrene
+64f656e0145188be35837fe1,83463-62-1,3,Bromochloroacetonitrile
+64f656e0145188be35837fe2,838-88-0,2B,"4,4'-Methylene bis(2-methylaniline)"
+64f656e0145188be35837fe3,84-65-1,2B,Anthraquinone
+64f656e0145188be35837fe4,842-07-9,3,Sudan I
+64f656e0145188be35837fe5,846-50-4,3,Temazepam
+64f656e0145188be35837fe6,85-01-8,3,Phenanthrene
+64f656e0145188be35837fe7,85-68-7,3,Butyl benzyl phthalate
+64f656e0145188be35837fe8,85-83-6,3,Scarlet Red
+64f656e0145188be35837fe9,85-84-7,3,Yellow AB
+64f656e0145188be35837fea,85-86-9,3,Sudan III
+64f656e0145188be35837feb,85502-23-4,3,3-(N-Nitrosomethylamino)propionaldehyde
+64f656e0145188be35837fec,85878-62-2,3,"Pyrido[3,4-c]psoralen"
+64f656e0145188be35837fed,85878-63-3,3,"7-Methylpyrido[3,4-c]psoralen"
+64f656e0145188be35837fee,86-30-6,3,N-Nitrosodiphenylamine
+64f656e0145188be35837fef,86-54-4,3,Hydralazine
+64f656e0145188be35837ff0,86-57-7,3,1-Nitronaphthalene
+64f656e0145188be35837ff1,86-73-7,3,Fluorene
+64f656e0145188be35837ff2,86-74-8,2B,Carbazole
+64f656e0145188be35837ff3,86-88-4,3,1-Naphthylthiourea (ANTU)
+64f656e0145188be35837ff4,868-85-9,2B,Dimethyl hydrogen phosphite
+64f656e0145188be35837ff5,87-29-6,3,Cinnamyl anthranilate
+64f656e0145188be35837ff6,87-62-7,2B,"2,6-Dimethylaniline (2,6-Xylidine)"
+64f656e0145188be35837ff7,87-68-3,3,Hexachlorobutadiene
+64f656e0145188be35837ff8,87-86-5,1,Pentachlorophenol
+64f656e0145188be35837ff9,87625-62-5,3,Ptaquiloside
+64f656e0145188be35837ffa,88-05-1,3,"2,4,6-Trimethylaniline"
+64f656e0145188be35837ffb,88-06-2,2B,"2,4,6-Trichlorophenol"
+64f656e0145188be35837ffc,88-12-0,3,N-Vinyl-2-pyrrolidone
+64f656e0145188be35837ffd,88-72-2,2A,2-Nitrotoluene
+64f656e0145188be35837ffe,88-73-3,2B,2-Chloronitrobenzene
+64f656e0145188be35837fff,89-61-2,2B,"1,4-Dichloro-2-nitrobenzene"
+64f656e0145188be35838000,89-82-7,2B,Pulegone
+64f656e0145188be35838001,892-21-7,3,3-Nitrofluoranthene
+64f656e0145188be35838002,89778-26-7,3,Toremifene
+64f656e0145188be35838003,90-04-0,2A,ortho-Anisidine
+64f656e0145188be35838004,90-43-7,3,ortho-Phenylphenol
+64f656e0145188be35838005,90-65-3,3,Penicillic acid
+64f656e0145188be35838006,90-94-8,2B,"Michler’s ketone [4,4´-Bis(dimethylamino)­benzophenone]"
+64f656e0145188be35838007,9000-07-1,3,"Carrageenan, native"
+64f656e0145188be35838008,9000-38-8,2B,Kava extract
+64f656e0145188be35838009,9002-84-0,3,Polytetrafluoroethylene
+64f656e0145188be3583800a,9002-86-2,3,Polyvinyl chloride
+64f656e0145188be3583800b,9002-88-4,3,Polyethylene
+64f656e0145188be3583800c,9002-89-5,3,Polyvinyl alcohol
+64f656e0145188be3583800d,9003-01-4,3,Polyacrylic acid
+64f656e0145188be3583800e,9003-07-0,3,Polypropylene
+64f656e0145188be3583800f,9003-20-7,3,Polyvinyl acetate
+64f656e0145188be35838010,9003-22-9,3,Vinyl chloride-vinyl acetate copolymers
+64f656e0145188be35838011,9003-39-8,3,Polyvinyl pyrrolidone
+64f656e0145188be35838012,9003-53-6,3,Polystyrene
+64f656e0145188be35838013,9003-54-7,3,Styrene-acrylonitrile copolymers
+64f656e0145188be35838014,9003-55-8,3,Styrene-butadiene copolymers
+64f656e0145188be35838015,9004-51-7,3,Iron-dextrin complex
+64f656e0145188be35838016,9004-66-4,2B,Iron-dextran complex
+64f656e0145188be35838017,90045-36-6,2B,Ginkgo biloba extract
+64f656e0145188be35838018,9009-54-5,3,Polyurethane foams
+64f656e0145188be35838019,9010-98-4,3,Polychloroprene
+64f656e0145188be3583801a,9011-06-7,3,Vinylidene chloride-vinyl chloride copolymers
+64f656e0145188be3583801b,9011-14-7,3,Polymethyl methacrylate
+64f656e0145188be3583801c,9016-87-9,3,Polymethylene polyphenyl isocyanate
+64f656e0145188be3583801d,90370-29-9,3,"4,4',6-Trimethylangelicin plus ultraviolet A radiation"
+64f656e0145188be3583801e,91-20-3,2B,Naphthalene
+64f656e0145188be3583801f,91-22-5,2B,Quinoline
+64f656e0145188be35838020,91-23-6,2A,ortho-Nitroanisole
+64f656e0145188be35838021,91-59-8,1,2-Naphthylamine
+64f656e0145188be35838022,91-64-5,3,Coumarin
+64f656e0145188be35838023,91-93-0,3,"3,3'-Dimethoxybenzidine-4,4'-diisocyanate"
+64f656e0145188be35838024,91-94-1,2B,"3,3'-Dichlorobenzidine"
+64f656e0145188be35838025,915-67-3,3,Amaranth
+64f656e0145188be35838026,92-67-1,1,4-Aminobiphenyl
+64f656e0145188be35838027,92-87-5,1,Benzidine
+64f656e0145188be35838028,92-93-3,3,4-Nitrobiphenyl
+64f656e0145188be35838029,924-16-3,2B,N-Nitrosodi-n-butylamine
+64f656e0145188be3583802a,924-42-5,2B,N-Methylolacrylamide
+64f656e0145188be3583802b,93-15-2,2A,Methyleugenol
+64f656e0145188be3583802c,930-55-2,2B,N-Nitrosopyrrolidine
+64f656e0145188be3583802d,94-36-0,3,Benzoyl peroxide
+64f656e0145188be3583802e,94-58-6,2B,Dihydrosafrole
+64f656e0145188be3583802f,94-59-7,2B,Safrole
+64f656e0145188be35838030,94-75-7,2B,"2,4-D (2,4-dichlorophenoxyacetic acid)"
+64f656e0145188be35838031,95-06-7,2B,Sulfallate
+64f656e0145188be35838032,95-50-1,3,ortho-Dichlorobenzene
+64f656e0145188be35838033,95-53-4,1,ortho-Toluidine
+64f656e0145188be35838034,95-54-5,2B,ortho-Phenylenediamine
+64f656e0145188be35838035,95-68-1,3,"2,4-Xylidine"
+64f656e0145188be35838036,95-69-2,2A,4-Chloro-ortho-toluidine
+64f656e0145188be35838037,95-70-5,3,"2,5-Diaminotoluene"
+64f656e0145188be35838038,95-78-3,3,"2,5-Xylidine"
+64f656e0145188be35838039,95-79-4,3,5-Chloro-ortho-toluidine
+64f656e0145188be3583803a,95-80-7,2B,"2,4-Diaminotoluene"
+64f656e0145188be3583803b,95-83-0,2B,4-Chloro-ortho-phenylenediamine
+64f656e0145188be3583803c,95-85-2,2B,2-Amino-4-chlorophenol
+64f656e0145188be3583803d,96-09-3,2A,"Styrene-7,8-oxide"
+64f656e0145188be3583803e,96-12-8,2B,"1,2-Dibromo-3-chloropropane"
+64f656e0145188be3583803f,96-13-9,2B,"2,3-Dibromopropan-1-ol"
+64f656e0145188be35838040,96-18-4,2A,"1,2,3-Trichloropropane"
+64f656e0145188be35838041,96-23-1,2B,"1,3-Dichloro-2-propanol"
+64f656e0145188be35838042,96-24-2,2B,"3-Monochloro-1,2-propanediol"
+64f656e0145188be35838043,96-33-3,2B,Methyl acrylate
+64f656e0145188be35838044,96-45-7,3,Ethylenethiourea
+64f656e0145188be35838045,96-48-0,3,gamma-Butyrolactone
+64f656e0145188be35838046,97-53-0,3,Eugenol
+64f656e0145188be35838047,97-54-1,2B,Isoeugenol
+64f656e0145188be35838048,97-56-3,2B,ortho-Aminoazotoluene
+64f656e0145188be35838049,97-77-8,3,Disulfiram
+64f656e0145188be3583804a,97-88-1,2B,Butyl methacrylate
+64f656e0145188be3583804b,98-00-0,2B,Furfuryl alcohol
+64f656e0145188be3583804c,98-01-1,3,Furfural
+64f656e0145188be3583804d,98-07-7,2A,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)"
+64f656e0145188be3583804e,98-56-6,2B,4-Chlorobenzotrifluoride
+64f656e0145188be3583804f,98-82-8,2B,Cumene
+64f656e0145188be35838050,98-83-9,2B,α-Methylstyrene
+64f656e0145188be35838051,98-87-3,2A,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)"
+64f656e0145188be35838052,98-88-4,2A,"alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)"
+64f656e0145188be35838053,98-95-3,2B,Nitrobenzene
+64f656e0145188be35838054,989-38-8,3,Rhodamine 6G
+64f656e0145188be35838055,99-08-1,3,Nitrotoluenes
+64f656e0145188be35838056,99-55-8,3,5-Nitro-ortho-toluidine
+64f656e0145188be35838057,99-56-9,3,"1,2-Diamino-4-nitrobenzene"
+64f656e0145188be35838058,99-57-0,3,2-Amino-4-nitrophenol
+64f656e0145188be35838059,99-59-2,3,5-Nitro-ortho-anisidine
+64f656e0145188be3583805a,99-80-9,3,"N-Methyl-N,4-dinitrosoaniline"
+64f656e0145188be3583805b,99-97-8,2B,"N,N-Dimethyl-p-toluidine"
+64f656e0145188be3583805c,99-99-0,3,Nitrotoluenes

@@ -1,0 +1,138 @@
+_id,cas,grupo,iarc,silentsprint,ssi_nombre,ssi_url,sustancia
+65bd5c5f7d2fe1563734df9e,76-13-1,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"1,1,2-Tricloro-1.2.2-Trifluoroetano (CFC-113)"
+65bd5c5f7d2fe1563734df9f,75-01-4,Sustancias Organohalogenadas,1,Industrial chemicals,vinyl chloride,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=75-01-4,Cloruro de vinilo
+65bd5c5f7d2fe1563734dfa0,PFCs,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Perfluorocarbonos
+65bd5c5f7d2fe1563734dfa1,HFCs,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Hidrofluorocarbonos
+65bd5c5f7d2fe1563734dfa2,87-68-3,Sustancias Organohalogenadas,3,No aparece en el listado,No aplica,No aplica,"Hexacloro-1,3-Butadieno"
+65bd5c5f7d2fe1563734dfa3,S/C1,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Arsénico (compuestos)
+65bd5c5f7d2fe1563734dfa4,Pb,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Plomo (compuestos)
+65bd5c5f7d2fe1563734dfa5,1717-00-6,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"1,1-Dicloro-1-Fluoroetano (HCFC-141b)"
+65bd5c5f7d2fe1563734dfa6,58-89-9,Plaguicidas,1,No aparece en el listado,No aplica,No aplica,Lindano (HCH)
+65bd5c5f7d2fe1563734dfa7,7440-47-3,Metales y sus Compuestos,3,No aparece en el listado,No aplica,No aplica,"Cromo (polvos respirables, humos o vapores)"
+65bd5c5f7d2fe1563734dfa8,83-32-9,,3,No aparece en el listado,No aplica,No aplica,Acenafteno
+65bd5c5f7d2fe1563734dfa9,108-90-7,Sustancias Organohalogenadas,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Clorobenceno (monoclorobenceno)
+65bd5c5f7d2fe1563734dfaa,124-38-9,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Bióxido de carbono
+65bd5c5f7d2fe1563734dfab,138261-41-3,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Imidacloprid
+65bd5c5f7d2fe1563734dfac,74-83-9,Sustancias Agotadoras de la Capa de Ozono,3,No aparece en el listado,No aplica,No aplica,Bromuro de metilo
+65bd5c5f7d2fe1563734dfad,87-86-5,Sustancias Organohalogenadas,1,No aparece en el listado,No aplica,No aplica,Pentaclorofenol
+65bd5c5f7d2fe1563734dfae,101-14-4,,1,Industrial chemicals,"4,4 '-methylene-bis(2-chloroaniline)",http://sciencereview.silentspring.org/mamm_detail.cfm?cid=101-14-4,"4,4'metileno-bis (2-cloroanilina) (MBOCA)"
+65bd5c5f7d2fe1563734dfaf,71-55-6,Sustancias Agotadoras de la Capa de Ozono,2A,No aparece en el listado,No aplica,No aplica,"1,1,1-Tricloroetano"
+65bd5c5f7d2fe1563734dfb0,5124-30-1,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"1,1-metileno bis(4-isocianato de ciclohexano)"
+65bd5c5f7d2fe1563734dfb1,76-15-3,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cloropentafluoroetano (CFC-115)
+65bd5c5f7d2fe1563734dfb2,S/C4,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Mercurio (compuestos)
+65bd5c5f7d2fe1563734dfb3,88-06-2,Sustancias Organohalogenadas,2B,No aparece en el listado,No aplica,No aplica,"2,4,6-Triclorofenol"
+65bd5c5f7d2fe1563734dfb4,26628-22-8,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Azida de sodio
+65bd5c5f7d2fe1563734dfb5,100-42-5,Hidrocarburos Aromáticos y Alifáticos,2A,Industrial chemicals,styrene,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=100-42-5,Estireno (fenil etileno)
+65bd5c5f7d2fe1563734dfb6,121-14-2,Hidrocarburos Aromáticos y Alifáticos,2B,Industrial chemicals,"2,4-dinitrotoluene",http://sciencereview.silentspring.org/mamm_detail.cfm?cid=121-14-2,"2,4-Dinitrotolueno"
+65bd5c5f7d2fe1563734dfb7,Ni,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Níquel (compuestos)
+65bd5c5f7d2fe1563734dfb8,95-95-4,Sustancias Organohalogenadas,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"2,4,5-Triclorofenol"
+65bd5c5f7d2fe1563734dfb9,298-00-0,Plaguicidas,3,No aparece en el listado,No aplica,No aplica,Metil paration
+65bd5c5f7d2fe1563734dfba,62-75-9,Hidrocarburos Aromáticos y Alifáticos,2A,No aparece en el listado,No aplica,No aplica,Nitrosodimetilamina
+65bd5c5f7d2fe1563734dfbb,6923-22-4,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Monocrotofos
+65bd5c5f7d2fe1563734dfbc,S/C3,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cromo (compuestos)
+65bd5c5f7d2fe1563734dfbd,S/C11,Compuestos Orgánicos Persistentes (COP),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Furanos
+65bd5c5f7d2fe1563734dfbe,S/C5,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Níquel (compuestos)
+65bd5c5f7d2fe1563734dfbf,58-90-2,Sustancias Organohalogenadas,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"2,3,4,6-Tetraclorofenol"
+65bd5c5f7d2fe1563734dfc0,S/C10,Compuestos Orgánicos Persistentes (COP),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Dioxinas
+65bd5c5f7d2fe1563734dfc1,118-52-5,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"1,3-dicloro-5,5-dimetilhidantoína"
+65bd5c5f7d2fe1563734dfc2,79-00-5,Sustancias Organohalogenadas,3,No aparece en el listado,No aplica,No aplica,"1,1,2-Tricloroetano"
+65bd5c5f7d2fe1563734dfc3,Hg,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Mercurio (compuestos)
+65bd5c5f7d2fe1563734dfc4,2837-89-0,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"2-Cloro-1,1,2,2-Tetrafluoroetano (HCFC-124)"
+65bd5c5f7d2fe1563734dfc5,74-82-8,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Metano
+65bd5c5f7d2fe1563734dfc6,72-20-8,Compuestos Orgánicos Persistentes (COP),3,No aparece en el listado,No aplica,No aplica,Endrin
+65bd5c5f7d2fe1563734dfc7,92-52-4,Hidrocarburos Aromáticos y Alifáticos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Bifenilo
+65bd5c5f7d2fe1563734dfc8,95-50-1,Sustancias Organohalogenadas,3,No aparece en el listado,No aplica,No aplica,"1,2-Diclorobenceno"
+65bd5c5f7d2fe1563734dfc9,55-56-1,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Clorhexidina
+65bd5c5f7d2fe1563734dfca,105-39-5,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cloroacetato de etilo
+65bd5c5f7d2fe1563734dfcb,7439-97-6,Metales y sus Compuestos,3,No aparece en el listado,No aplica,No aplica,Mercurio
+65bd5c5f7d2fe1563734dfcc,107-13-1,Otras sustancias RETC,2B,Industrial chemicals,acrylonitrile,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=107-13-1,Acrilonitrilo
+65bd5c5f7d2fe1563734dfcd,PCDDs,Compuestos Orgánicos Persistentes (COP),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Dioxinas
+65bd5c5f7d2fe1563734dfce,56-23-5,Sustancias Agotadoras de la Capa de Ozono,2B,Chlorinated solvent,carbon tetrachloride ,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=56-23-5,Tetracloruro de carbono
+65bd5c5f7d2fe1563734dfcf,76-14-2,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Diclorotetrafluoroetano (CFC-114)
+65bd5c5f7d2fe1563734dfd0,10049-04-4,Otras sustancias RETC,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Dioxido de cloro
+65bd5c5f7d2fe1563734dfd1,207-08-9,,2B,No aparece en el listado,No aplica,No aplica,Benzo(k)fluoranteno
+65bd5c5f7d2fe1563734dfd2,72-55-9,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Diclorodifenildicloroetileno (DDE)
+65bd5c5f7d2fe1563734dfd3,108-95-2,Hidrocarburos Aromáticos y Alifáticos,3,No aparece en el listado,No aplica,No aplica,Fenol
+65bd5c5f7d2fe1563734dfd4,75-25-2,Sustancias Organohalogenadas,3,No aparece en el listado,No aplica,No aplica,Bromoformo
+65bd5c5f7d2fe1563734dfd5,75-45-6,Sustancias Agotadoras de la Capa de Ozono,3,No aparece en el listado,No aplica,No aplica,Clorodifluorometano (HCFC-22)
+65bd5c5f7d2fe1563734dfd6,302-01-2,Otras sustancias RETC,2A,Industrial chemicals,hydrazine,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=302-01-2,Hidracina
+65bd5c5f7d2fe1563734dfd7,110-80-5,Otras sustancias RETC,No aparece en el listado,No aparece en el listado,No aplica,No aplica,2-Etoxietanol (Termonoetilico de etilenglicol)
+65bd5c5f7d2fe1563734dfd8,62-53-3,Hidrocarburos Aromáticos y Alifáticos,2A,No aparece en el listado,No aplica,No aplica,Anilina
+65bd5c5f7d2fe1563734dfd9,As,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Arsénico (compuestos)
+65bd5c5f7d2fe1563734dfda,56-55-3,,2B,No aparece en el listado,No aplica,No aplica,Benzo(a)antraceno
+65bd5c5f7d2fe1563734dfdb,7758-98-7,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Sulfato de cobre
+65bd5c5f7d2fe1563734dfdc,75-69-4,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Triclorofluoroetano (CFC-11)
+65bd5c5f7d2fe1563734dfdd,1332-21-4,Otras sustancias RETC,1,No aparece en el listado,No aplica,No aplica,Asbesto
+65bd5c5f7d2fe1563734dfde,7761-88-8,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Nitrato de plata
+65bd5c5f7d2fe1563734dfdf,115-29-7,Plaguicidas,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Endosulfan
+65bd5c5f7d2fe1563734dfe0,50-32-8,,1,Product of combustion,benzo[a]pyrene,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=50-32-8,Benzo(a)pireno
+65bd5c5f7d2fe1563734dfe1,10102-44-0,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Bióxido de nitrógeno
+65bd5c5f7d2fe1563734dfe2,98-82-8,,2B,No aparece en el listado,No aplica,No aplica,Cumeno
+65bd5c5f7d2fe1563734dfe3,57-12-5,Otras sustancias RETC,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cianuro inorgánico/orgánico
+65bd5c5f7d2fe1563734dfe4,79-01-6,Hidrocarburos Aromáticos y Alifáticos,1,No aparece en el listado,No aplica,No aplica,Tricloroetileno
+65bd5c5f7d2fe1563734dfe5,S/C9,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Perfluorocarbonos
+65bd5c5f7d2fe1563734dfe6,84-74-2,Hidrocarburos Aromáticos y Alifáticos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Dibutilftalato
+65bd5c5f7d2fe1563734dfe7,108-88-3,,3,No aparece en el listado,No aplica,No aplica,Tolueno
+65bd5c5f7d2fe1563734dfe8,50-00-0,Otras sustancias RETC,1,No aparece en el listado,No aplica,No aplica,Formaldehido
+65bd5c5f7d2fe1563734dfe9,193-39-5,,2B,No aparece en el listado,No aplica,No aplica,"Indeno(1,2,3-c,d)pireno"
+65bd5c5f7d2fe1563734dfea,8001-35-2,Compuestos Orgánicos Persistentes (COP),2B,No aparece en el listado,No aplica,No aplica,Toxafeno
+65bd5c5f7d2fe1563734dfeb,S/C6,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Plomo (compuestos)
+65bd5c5f7d2fe1563734dfec,4098-71-9,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Diisocianato de isoforona
+65bd5c5f7d2fe1563734dfed,PCDFs,Compuestos Orgánicos Persistentes (COP),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Furanos
+65bd5c5f7d2fe1563734dfee,107-02-8,Otras sustancias RETC,2A,No aparece en el listado,No aplica,No aplica,Acroleina
+65bd5c5f7d2fe1563734dfef,79-06-1,Otras sustancias RETC,2A,Industrial chemicals,acrylamide,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=79-06-1,Acrilamina
+65bd5c5f7d2fe1563734dff0,2921-88-2,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Clorpirifos
+65bd5c5f7d2fe1563734dff1,71-43-2,Hidrocarburos Aromáticos y Alifáticos,1,Industrial chemicals,benzene,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=71-43-2,Benceno
+65bd5c5f7d2fe1563734dff2,76-44-8,Compuestos Orgánicos Persistentes (COP),2B,No aparece en el listado,No aplica,No aplica,Heptacloro
+65bd5c5f7d2fe1563734dff3,91-59-8,Hidrocarburos Aromáticos y Alifáticos,1,No aparece en el listado,No aplica,No aplica,Beta-naftalina
+65bd5c5f7d2fe1563734dff4,75-09-2,Sustancias Organohalogenadas,2A,Chlorinated solvent,methylene chloride ,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=75-09-2,Cloruro de metileno
+65bd5c5f7d2fe1563734dff5,67-72-1,Sustancias Organohalogenadas,2B,No aparece en el listado,No aplica,No aplica,Hexacloroetano
+65bd5c5f7d2fe1563734dff6,106-46-7,Sustancias Organohalogenadas,2B,No aparece en el listado,No aplica,No aplica,"1,4-Diclorobenceno"
+65bd5c5f7d2fe1563734dff7,1330-20-7,,3,No aparece en el listado,No aplica,No aplica,Xileno (mezcla de isómeros)
+65bd5c5f7d2fe1563734dff8,123-91-1,Otras sustancias RETC,2B,Industrial chemicals,"1,4-dioxane",http://sciencereview.silentspring.org/mamm_detail.cfm?cid=123-91-1,Dioxano
+65bd5c5f7d2fe1563734dff9,2551-62-4,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Hexafluoruro de azufre
+65bd5c5f7d2fe1563734dffa,7440-38-2,Metales y sus Compuestos,1,No aparece en el listado,No aplica,No aplica,Arsénico
+65bd5c5f7d2fe1563734dffb,106-99-0,Otras sustancias RETC,1,Industrial chemicals,"1,3-butadiene",http://sciencereview.silentspring.org/mamm_detail.cfm?cid=106-99-0,Butadieno
+65bd5c5f7d2fe1563734dffc,S/C8,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Hidrofluorocarbonos
+65bd5c5f7d2fe1563734dffd,1330-78-5,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Fosfato de tris(metilfenilo)
+65bd5c5f7d2fe1563734dffe,108-05-4,,2B,No aparece en el listado,No aplica,No aplica,Acetato de vinilo
+65bd5c5f7d2fe1563734dfff,72-43-5,Plaguicidas,3,No aparece en el listado,No aplica,No aplica,Metoxicloro
+65bd5c5f7d2fe1563734e000,10024-97-2,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Oxido nitroso
+65bd5c5f7d2fe1563734e001,9016-87-9,Sustancias Organohalogenadas,3,No aparece en el listado,No aplica,No aplica,Diisocianato de difenilmetano polimérico
+65bd5c5f7d2fe1563734e002,74-87-3,Sustancias Organohalogenadas,3,No aparece en el listado,No aplica,No aplica,Clorometano
+65bd5c5f7d2fe1563734e003,75-71-8,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Diclorodifluorometano (CFC-12)
+65bd5c5f7d2fe1563734e004,7440-02-0,Metales y sus Compuestos,2B,No aparece en el listado,No aplica,No aplica,"Níquel (polvos respirables, humos o vapores)"
+65bd5c5f7d2fe1563734e005,74-90-8,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cianuro de hidrógeno
+65bd5c5f7d2fe1563734e006,26471-62-5,Hidrocarburos Aromáticos y Alifáticos,2B,Industrial chemicals,toluene diisocyanate mixtures,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=26471-62-5,Tolueno diisocianato
+65bd5c5f7d2fe1563734e007,1763-23-1,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Ácido sulfónico de perfluorooctano y sus sales
+65bd5c5f7d2fe1563734e008,1897-45-6,,2B,No aparece en el listado,No aplica,No aplica,Clorotalonil
+65bd5c5f7d2fe1563734e009,57-74-9,Compuestos Orgánicos Persistentes (COP),2B,No aparece en el listado,No aplica,No aplica,Clordano
+65bd5c5f7d2fe1563734e00a,92-67-1,Hidrocarburos Aromáticos y Alifáticos,1,Dyes,4-aminobiphenyl,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=92-67-1,4-Amino difenilo
+65bd5c5f7d2fe1563734e00b,118-74-1,Compuestos Orgánicos Persistentes (COP),2B,No aparece en el listado,No aplica,No aplica,Hexaclorobenceno
+65bd5c5f7d2fe1563734e00c,94-75-7,Plaguicidas,2B,No aparece en el listado,No aplica,No aplica,"Acido 2,4 Diclorofenoxiacetico"
+65bd5c5f7d2fe1563734e00d,7783-06-4,Otras sustancias RETC,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Acido sulfhídrico
+65bd5c5f7d2fe1563734e00e,110-86-1,Hidrocarburos Aromáticos y Alifáticos,2B,No aparece en el listado,No aplica,No aplica,Piridina
+65bd5c5f7d2fe1563734e00f,Cd,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cadmio (compuestos)
+65bd5c5f7d2fe1563734e010,205-99-2,,2B,No aparece en el listado,No aplica,No aplica,Benzo(b)fluoranteno
+65bd5c5f7d2fe1563734e011,106-89-8,Sustancias Organohalogenadas,2A,No aparece en el listado,No aplica,No aplica,Epiclorhidrina
+65bd5c5f7d2fe1563734e012,542-88-1,Sustancias Organohalogenadas,1,No aparece en el listado,No aplica,No aplica,Eter bis-cloro metilico
+65bd5c5f7d2fe1563734e013,S/C2,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cadmio (compuestos)
+65bd5c5f7d2fe1563734e014,S/C7,Gases de Efecto Invernadero (GEI),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Hidrobromofluorocarbonos
+65bd5c5f7d2fe1563734e015,1309-64-4,,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Antimonio trióxido
+65bd5c5f7d2fe1563734e016,101-68-8,,3,No aparece en el listado,No aplica,No aplica,Metileno bis(fenilisocianato)
+65bd5c5f7d2fe1563734e017,306-83-2,Sustancias Agotadoras de la Capa de Ozono,No aparece en el listado,No aparece en el listado,No aplica,No aplica,"2,2-Dicloro-1,1,1-Trifluoroetano (HCFC-123)"
+65bd5c5f7d2fe1563734e018,106-51-4,,3,No aparece en el listado,No aplica,No aplica,P-benzoquinona
+65bd5c5f7d2fe1563734e019,7439-92-1,,2B,No aparece en el listado,No aplica,No aplica,"Plomo (polvos respirables, humos o vapores)"
+65bd5c5f7d2fe1563734e01a,126-72-7,,2A,No aparece en el listado,No aplica,No aplica,"Fosfato de tris(2,3-dibromopropilo)"
+65bd5c5f7d2fe1563734e01b,Cr,Metales y sus Compuestos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Cromo (compuestos)
+65bd5c5f7d2fe1563734e01c,107-06-2,Sustancias Organohalogenadas,2B,Chlorinated solvent,"1,2-dichloroethane",http://sciencereview.silentspring.org/mamm_detail.cfm?cid=107-06-2,"1,2,-Dicloroetano"
+65bd5c5f7d2fe1563734e01d,75-21-8,,1,Industrial chemicals,ethylene oxide,http://sciencereview.silentspring.org/mamm_detail.cfm?cid=75-21-8,Oxido de etileno
+65bd5c5f7d2fe1563734e01e,1336-36-3,Compuestos Orgánicos Persistentes (COP),1,No aparece en el listado,No aplica,No aplica,Bifenilos policlorados
+65bd5c5f7d2fe1563734e01f,67-66-3,Sustancias Organohalogenadas,2B,No aparece en el listado,No aplica,No aplica,Cloroformo
+65bd5c5f7d2fe1563734e020,75-07-0,Otras sustancias RETC,2B,No aparece en el listado,No aplica,No aplica,Acetaldehido
+65bd5c5f7d2fe1563734e021,120-82-1,Hidrocarburos Aromáticos y Alifáticos,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Triclorobenceno
+65bd5c5f7d2fe1563734e022,79-34-5,Sustancias Organohalogenadas,2B,No aparece en el listado,No aplica,No aplica,"1,1,2,2-Tetracloroetano"
+65bd5c5f7d2fe1563734e023,72-02-8,Compuestos Orgánicos Persistentes (COP),No aparece en el listado,No aparece en el listado,No aplica,No aplica,Endrin
+65bd5c5f7d2fe1563734e024,79-46-9,Otras sustancias RETC,2B,No aparece en el listado,No aplica,No aplica,2-Nitropropano
+65bd5c5f7d2fe1563734e025,7440-43-9,Metales y sus Compuestos,1,No aparece en el listado,No aplica,No aplica,Cadmio
+65bd5c5f7d2fe1563734e026,81-81-2,Plaguicidas,No aparece en el listado,No aparece en el listado,No aplica,No aplica,Warfarina
