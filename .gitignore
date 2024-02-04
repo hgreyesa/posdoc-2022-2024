@@ -1,5 +1,9 @@
+procesos/retc_emisoras/funciones/dbCon.py
 procesos/retc_emisoras/funciones/__pycache__
-procesos/retc_emisoras/funciones/logs_db
+procesos/retc_emisoras/funciones/logs_db/*
 procesos/retc_emisoras/funciones/output_append/*
 procesos/retc_emisoras/funciones/out_dms_dd/*
+/home/reyes/dev/posdoc-2022-2024/procesos/sustancias/__pycache__
+/home/reyes/dev/posdoc-2022-2024/procesos/sustancias/logs/*
+/home/reyes/dev/posdoc-2022-2024/procesos/sustancias/dbCon.py
 
