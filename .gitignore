@@ -7,11 +7,14 @@
 #!procesos/sustancias/logs/
 #!procesos/sustancias/dbCon.py
 
-!procesos/retc_emisoras/funciones/__pycache__/
-!procesos/retc_emisoras/funciones/dbCon.py
-!procesos/retc_emisoras/funciones/logs_db/
-!procesos/retc_emisoras/funciones/out_append/2004-2022_prueba1.csv
-!procesos/retc_emisoras/funciones/out_dms_dd/coordinates_prueba1.csv
+!procesos/retc_emisoras/funciones_es/__pycache__/
+!procesos/retc_emisoras/funciones_es/dbCon.py
+!procesos/retc_emisoras/funciones_es/logs_db/
+!procesos/retc_emisoras/funciones_es/out_append/2004-2022_prueba1.csv
+!procesos/retc_emisoras/funciones_es/out_dms_dd/coordinates_prueba1.csv
 !procesos/sustancias/__pycache__/
 !procesos/sustancias/dbCon.py
 !procesos/sustancias/logs/
+
+
+
