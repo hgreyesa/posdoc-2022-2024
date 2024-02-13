@@ -3,12 +3,12 @@ import pandas as pd
 #Este formato se aplica a dos años
 listado = [2004, 2005]
 
-inputpath ="/home/reyes/dev/posdoc-2022-2024/databases/retc/emisoras/"
+inputpath ="/home/reyes/dev/posdoc-2022-2024/databases/retc/emisiones/"
 output_path="out_preparacion/"
 
 for archivo in listado:
     #print("{}es_{}.csv".format(inputpath,archivo))
-    filename = "{}es_{}.csv".format(inputpath,archivo)
+    filename = "{}em_{}.csv".format(inputpath,archivo)
     print(filename)
 
     #Se lee el archivo original    
@@ -16,32 +16,28 @@ for archivo in listado:
 
     #Se agregan las columnas faltantes
     es["anio"] = archivo
-    es["scian"] = "Atributo no considerado en este año"
-    es["descscian"] = "Atributo no considerado en este año"
-    es["subsector"] = "Atributo no considerado en este año"
-    es["claveambiental"] = "Atributo no considerado en este año"
+    es["municipio"] = "Atributo no considerado en este año"
+    es["gruposustancia"] = "Atributo no considerado en este año"
 
     es.rename(columns = {
-        "NRA":"nra",
-        "Nombre":"establecimiento",
-        "Sector":"sector",
-        "Actividad principal":"actprincipal",
-        "Parque o puerto industrial":"parqueindustrial",
-        "Coordenada UTM X":"utmx",
-        "Coordenada UTM Y":"utmy",
-        "Latitud Norte":"latitudnorte",
-        "Longitud Oeste":"longitudoeste",
-        "Calle":"calle",
-        "No. Exterior":"numexterior",
-        "No. Interior":"numinterior",
-        "Colonia":"colonia",
-        "Localidad":"localidad",
-        "Estado":"estado",
-        "Delegación\Municipio":"municipio",
-        "Código postal":"codigopostal",
-        "Actividad principal SEMARNAT":"actsemarnat",
-        "Entre calle 1":"entrec1",
-        "Entre calle 2":"entrec2",
+        "NRA"	:"nra",
+        "Nombre"	:"nombre",
+        "Sector"	:"sector",
+        "Estado"	:"estado",
+        "No. CAS"	:"cas",
+        "Descripción"	:"sustancia",
+        "Unidad"	:"unidad",
+        "Aire"	:"em_aire",
+        "Agua"	:"em_agua",
+        "Suelo"	:"em_suelo",
+        "Reuso"	:"tr_reutilizacion",
+        "Reciclado"	:"tr_reciclado",
+        "Coprocesamiento"	:"tr_coprocesamiento",
+        "Tratamiento"	:"tr_tratamiento",
+        "Disposición final"	:"tr_dispfinal",
+        "Incineración"	:"tr_incineracion",
+        "Alcantarillado"	:"tr_alcantarillado",
+        "Otros"	:"tr_otros",
     }, inplace = True)
 
     print("\tSe ordenan las columnas")

@@ -1,0 +1,389 @@
+ALC_FEN	Alcalinidad a la Fenoftaleína				ACUIFERO
+ALC_TOT	Alcalinidad Total	ALC_mg/L			SUBTIPO
+CO3	Carbonatos				LONGITUD
+HCO3	Bicarbonatos				LATITUD
+OH	Hidroxilos		CONDUCT_mS/cm		PERIODO
+CLOROF_A	Clorofila A		CR_TOT_mg/L		ALC_mg/L
+COLI_FEC	Coliformes Fecales	COLI_FEC_NMP/100_mL	DUR_mg/L		AS_TOT_mg/L
+COLI_TOT	Coliformes Totales		FE_TOT_mg/L		CD_TOT_mg/L
+E_COLI	Escherichia coli		FLUORUROS_mg/L		COLI_FEC_NMP/100_mL
+COT	Carbono Orgánico Total		HG_TOT_mg/L		CONDUCT_mS/cm
+COT_SOL	Carbono Orgánico Soluble		MN_TOT_mg/L		CR_TOT_mg/L
+DBO_SOL	Demanda Bioquímica de Oxígeno Soluble				DUR_mg/L
+DBO_TOT	Demanda Bioquímica de Oxígeno Total		PB_TOT_mg/L		FE_TOT_mg/L
+DQO_SOL	Demanda Química de Oxígeno Soluble		SDT_M_mg/L		FLUORUROS_mg/L
+DQO_TOT	Demanda Química de Oxígeno Total		SDT_mg/L		HG_TOT_mg/L
+N_NH3	Nitrógeno Amoniacal	N_NO3_mg/L	CALIDAD_ALC		MN_TOT_mg/L
+N_NO2	Nitrógeno de Nitritos		CALIDAD_AS		N_NO3_mg/L
+N_NO3	Nitrógeno de Nitratos		CALIDAD_CD		PB_TOT_mg/L
+N_ORG	Nitrógeno Orgánico		CALIDAD_COLI_FEC		SDT_M_mg/L
+N_TOT	Nitrógeno Total (Cálculo)		CALIDAD_CONDUC		SDT_mg/L
+N_TOTK	Nitrógeno Kjeldahl		CALIDAD_CR		CALIDAD_ALC
+TOX_D_48_UT	Toxicidad Daphnia magna, 48 h		CALIDAD_DUR		CALIDAD_AS
+TOX_D_48_SUP_UT	Toxicidad Daphnia magna, Superficial, 48 h		CALIDAD_FE		CALIDAD_CD
+TOX_D_48_FON_UT	Toxicidad Daphnia magna, Fondo, 48 h		CALIDAD_FLUO		CALIDAD_COLI_FEC
+TOX_FIS_SUP_15_UT	Toxicidad Vibrio fischeri Superficial, 15min		CALIDAD_HG		CALIDAD_CONDUC
+TOX_FIS_SUP_30_UT	Toxicidad Vibrio fischeri Superficial, 30min		CALIDAD_MN		CALIDAD_CR
+TOX_FIS_SUP_5_UT	Toxicidad Vibrio fischeri Superficial, 5min		CALIDAD_N_NO3		CALIDAD_DUR
+TOX_FIS_FON_15_UT	Toxicidad Vibrio fischeri Fondo, 15min		CALIDAD_PB		CALIDAD_FE
+TOX_FIS_FON_30_UT	Toxicidad Vibrio fischeri Fondo, 30min		CALIDAD_SDT_ra		CALIDAD_FLUO
+TOX_FIS_FON_5_UT	Toxicidad Vibrio fischeri Fondo, 5min		CALIDAD_SDT_salin		CALIDAD_HG
+TOX_V_15_UT	Toxicidad Vibrio fischeri 15min UT		CUMPLE_CON_ALC		CALIDAD_MN
+TOX_V_30_UT	Toxicidad Vibrio fischeri, 30min		CUMPLE_CON_AS		CALIDAD_N_NO3
+TOX_V_5_UT	Toxicidad Vibrio fischeri 5min UT		CUMPLE_CON_CD		CALIDAD_PB
+AOXF	Halógeno Orgánico Absorbible Fijo (AOXF)		CUMPLE_CON_CF		CALIDAD_SDT_ra
+P_TOT	Fósforo Total		CUMPLE_CON_COND		CALIDAD_SDT_salin
+PO4_TOT	Fosfatos Totales (a partir de P total)		CUMPLE_CON_CR		CUMPLE_CON_ALC
+ORTO_PO4	Fósforo Reactivo total (o-fosfatos)		CUMPLE_CON_DUR		CUMPLE_CON_AS
+COLOR_VER	Color Verdadero		CUMPLE_CON_FE		CUMPLE_CON_CD
+TRANSPARENCIA	Transparencia disco de Secchi		CUMPLE_CON_FLUO		CUMPLE_CON_CF
+ABS_UV	Absorción UV		CUMPLE_CON_HG		CUMPLE_CON_COND
+SDT	Sólidos Disueltos Totales (Cálculo)		CUMPLE_CON_MN		CUMPLE_CON_CR
+CONDUC_CAMPO	Conductividad eléctrica		CUMPLE_CON_NO3		CUMPLE_CON_DUR
+CONDUC_CAMPO_SUP	Conductividad eléctrica superficie		CUMPLE_CON_PB		CUMPLE_CON_FE
+CONDUC_CAMPO_MED	Conductividad eléctrica media		CUMPLE_CON_SDT_ra		CUMPLE_CON_FLUO
+CONDUC_CAMPO_FON	Conductividad eléctrica fondo		CUMPLE_CON_SDT_salin		CUMPLE_CON_HG
+pH_CAMPO	Potencial de Hidrógeno		CONTAMINANTES		CUMPLE_CON_MN
+pH_CAMPO_SUP	Potencial de Hidrógeno superficie		SEMAFORO		CUMPLE_CON_NO3
+pH_CAMPO_MED	Potencial de Hidrógeno media				CUMPLE_CON_PB
+pH_CAMPO_FON	Potencial de Hidrógeno fondo				CUMPLE_CON_SDT_ra
+SALINIDAD_SUP	Salinidad superficie				CUMPLE_CON_SDT_salin
+SALINIDAD_MED	Salinidad media				CONTAMINANTES
+SALINIDAD_FON	Salinidad fondo				SEMAFORO
+OD_%	Oxígeno Disuelto_%				
+OD_mg/L	Oxígeno Disuelto				
+OD_%_SUP	Oxígeno Disuelto superficie_%				
+OD_mg/L_SUP	Oxígeno Disuelto superficie				
+OD_%_MED	Oxígeno Disuelto media_%				
+OD_mg/L_MED	Oxígeno Disuelto media				
+OD_%_FON	Oxígeno Disuelto fondo_%				
+OD_mg/L_FON	Oxígeno Disuelto fondo				
+1,1,1,2_TTCETA	1,1,1,2-Tetracloroetano				
+1,1,2,2_TETRACLETAN	1,1,2,2-Tetracloroetano				
+1,1,2_TCETA	1,1,2-Tricloroetano				
+1,1_DICLETILEN	1,1-Dicloroetileno				
+1,2,4_TRICLBENCEN	1,2,4-Triclorobenceno				
+1,2_DIBR_3_CLPROPAN	1,2-Dibromo-3-Cloropropano (DBCP)				
+1,2_DICLETAN	1,2-Dicloroetano				
+1,2_DICLPROPAN	1,2-Dicloropropano				
+1,2_DIFENILHIDRACINA	1,2-Difenilhidracina				
+1_C_NAF	1-Cloronaftaleno				
+2,3_DICLOROFENOL_DCF	2,3-Diclorofenol				
+2,4,5_T	2,4,5-T				
+2,4,5_TRICLOROFENOL	2,4,5-Triclorofenol				
+2,4,6_TRICLFENOL	2,4,6-Triclorofenol				
+2,4_D_D_C_FENOXIACETICO	2,4-Diclorofenoxiacetico				
+2,4_DICLFENOL	2,4-Diclorofenol				
+2,4_DIMETILFEN	2,4-Dimetilfenol				
+2,4_DINITOL	2,4-Dinitrotolueno				
+2,4_DNF	2,4-Dinitrofenol				
+2,6_DINTOL	2,6-Dinitrotolueno				
+2_CEVE	2-Cloroetilvinil Éter				
+2_CF	2-Clorofenol				
+2_CLNAFT	2-Cloronaftaleno				
+2_NIFENOL	2-Nitrofenol				
+4_BRFENFENETER	4-Bromofenil Fenil Éter				
+4_NITROFENOL	4-Nitrofenol				
+ACENAF	Acenafteno				
+ACENAFTIL	Acenaftileno				
+ANTRA	Antraceno				
+BEN_A_ANT	Benzo(A)Antraceno				
+BEN_A_PIR	Benzo(A)Pireno				
+BEN_B_FANT	Benzo(B)Fluoranteno				
+BEN_G,H,I_PER	Benzo(GHI)Perileno				
+BEN_K_FANT	Benzo(K)Fluoranteno				
+CRISENO	Criseno				
+DIBEN_ANT	Dibenzo(AH)Antraceno				
+FENANTRENO	Fenantreno				
+FLUORANTENO	Fluoranteno				
+FLUORENO	Fluoreno				
+IND_PIR	Indeno (1,2,3-CD) Pireno				
+NAFTALENO	Naftaleno				
+PIRENO	Pireno				
+HAPS	Total de hidrocarburos poliaromáticos				
+ACRILONITRILO	Acrilonitrilo				
+ACROLEINA	Acroleina				
+AL_TOT	Aluminio Total				
+ALACLOR	Alaclor				
+ALDICARB	Aldicarb				
+ALDRIN	Aldrín				
+ATRAZINA	Atrazina				
+B_TOT	Boro Total				
+B2_ETILHEXIL_FTALATO	Bis (2-Etilhexil) Ftalato				
+BA_TOT	Bario Total				
+BE_TOT	Berilio Total				
+BENCENO	Benceno				
+BENCIDINA	Bencidina				
+BIS2_CLETETER	Bis (2-Cloroetil) Éter				
+BIS2_CLIOISOPET	Bis (2-Cloroisopropil) Éter				
+BOLSTAR	Bolstar				
+BPCS	Bifenilos Policlorados				
+BR_CLMET	Bromoclorometano				
+BROMOMETANO	Bromometano				
+CARBOFURANO	Carbofurano				
+CIS_1,2_DICLETEN	Cis-1,2-Dicloroetileno				
+CL_BENC	Clorobenceno				
+CL_METILENO	Cloruro de Metileno				
+CL_RES	Cloro Residual				
+CLORATALONIL	Clorotalonil				
+CLORDANO	CLORDANO				
+CLOROMETANO	Clorometano				
+CLOROTOLURON	Clorotoluron				
+CLORPIRYFOS	Clorpiryfos				
+CLORURO_DE_VINILO	Cloruro de Vinilo				
+CLORUROS_TOT	Cloruros Totales				
+COUMAFOS	Coumafos				
+CR_HEX	Cromo Hexavalente				
+CYANACINA	Cyanacina				
+DALAPON	Dalapon				
+DDD	DDD				
+DDE	DDE				
+DDT	DDT				
+DELTAMETRINA	Deltametrina				
+DEMETON_S	Demeton-S				
+DI_2_ETILEXIL_ADIPATO	Di (2 Etilexil) Adipato				
+DIAZINON	Diazinon				
+DICAMBA	Dicamba				
+DICLORVOS	Diclorvos				
+DIELDRIN	Dieldrín				
+DIET_FTAL	Dietilftalato				
+DIMETIL_FTAL	Dimetilftalato				
+DIMETOATO	Dimetoato				
+DINITRO_O_CRESOL	Dinitro-o-Cresol				
+DINOSEB	Dinoseb				
+DIURON	Diuron				
+END_ALD	Endrín Aldehído				
+ENDO_SUL	Endosulfan (Endosulfano)				
+ALFA_ENDO	Alfa-Endosulfan				
+BETA_ENDO	Beta-Endosulfan				
+ENDO_SULSO4	Endosulfan sulfato				
+ENDRIN	Endrín				
+ENTEROC_FEC	Enterococos Fecales				
+EPN	EPN				
+ESTIRENO	Estireno				
+ETILBENCENO	Etilbenceno				
+ETOPROP	Etoprop				
+FE_TOT	Fierro Total				
+FENITROTION	Fenitrotion				
+FENOL	Fenol				
+FENOLES_TOT	Fenoles Totales				
+FENSULFOTION	Fensulfotión				
+FENTION	Fentión				
+FLUORUROS_TOT	Fluoruros Totales				
+FORATO	Forato				
+GLIFOSATO	Glifosato				
+GRAS_ACEI	Grasas y Aceites				
+H_HELMINTOS	Huevos de Helminto				
+HEPTA_EPOX	Heptacloro epóxido				
+HEPTACLOR	Heptacloro				
+HEXACL_BENC	Hexaclorobenceno				
+HEXACL_BUT	Hexaclorobutadieno				
+HEXACL_CICLOPEN	Hexaclorociclopentadieno				
+HEXACL_ETANO	Hexacloroetano				
+ISO_FOR	Isoforona				
+ISOPROTURON	Isoproturon				
+K_TOT	Potasio Total				
+LINURON	Linuron				
+MALATION	Malatión				
+MAT_FLOTANTE	MATERIA FLOTANTE				
+MCPA	MCPA				
+MERFOS	Merfos				
+METIL_AZINF_GUT	Metilazinfos (Gution)				
+METILPARATION	Metilparatión				
+METILTERBUTILETER_MTBE_	Metilterbutiléter (MTBE)				
+METOLACLOR	Metolaclor				
+METOXICLO	Metoxicloro				
+MEVINFOS	Mevinfos				
+MIREX	Mirex				
+MN_TOT	Manganeso Total				
+MO_TOT	Molibdeno Total				
+MOLINATO	Molinato				
+N_NITROS_DIMETILA	N-Nitrosodimetilamina				
+N_NITROS_N_PROPAM	N-Nitrosodi-N-Propilamina				
+N_NITROSODIFENILAMINA	N-Nitrosodifenilamina				
+NA_TOT	Sodio Total				
+NITROBENCENO	Nitrobenceno				
+OXAMIL	Oxamil				
+PARATION	Paratión				
+PCBEN	Pentaclorobenceno				
+PENDIMETALIN	Pendimetalin				
+PENTACLOROFENOL	Pentaclorofenol				
+PICLORAN	Picloran				
+PIRYPROXYFEN	Piryproxyfen				
+RONNEL	Ronnel				
+SAAM	Sustancias Activas al Azul de Metileno				
+SB_TOT	Antimonio Total				
+SE_TOT	Selenio Total				
+SILVEX	Silvex				
+SIMAZINA	Simazina				
+SIO2	Silica Total (SiO2)				
+SO4_TOT	Sulfatos Totales				
+SOLID_SED	Sólidos Sedimentables				
+SST	Sólidos Suspendidos Totales				
+SULFOTEP	Sulfotep				
+SULFUROS_TOT	Sulfuros (H2S)				
+TALIO	Talio Total				
+TERBUFOS	Terbufos				
+TERBUTILAZINA	Terbutilazina				
+TETRACL_CARB	Tetracloruro de Carbono				
+TETRACLOROETILENO_	Tetracloroeteno (Tetracloroetileno)				
+TOKUTION	Tokutión				
+TOLUENO	Tolueno				
+TOXAFENO	Toxafeno				
+TRANS_1,2_DICLOROETILENO	Trans-1,2-Dicloroetileno				
+TRIALATO	Trialato				
+TRICLORANATO	Tricloranato				
+TRICLORFON	Triclorfon				
+TRICLOROETILENO	Tricloroetileno				
+TRICLOROFLUOROMETANO	Triclorofluorometano				
+TRIFLURALIN	Trifluralin				
+TURBIEDAD	Turbiedad				
+AS_TOT	Arsénico Total	AS_TOT_mg/L			
+CD_TOT	Cadmio Total	CD_TOT_mg/L			
+CR_TOT	Cromo Total				
+HG_TOT	Mercurio Total				
+NI_TOT	Níquel Total				
+PB_TOT	Plomo Total				
+CN_TOT	Cianuros Totales				
+CU_TOT	Cobre Total				
+ZN_TOT	Zinc Total				
+POT_REDOX_CAMPO	Potencial REDOX				
+POT_REDOX_CAMPO_FON	Potencial REDOX fondo				
+POT_REDOX_CAMPO_MED	Potencial REDOX media				
+POT_REDOX_CAMPO_SUP	Potencial REDOX superficie				
+ACENAF_8310	Acenafteno_8310				
+ACENAFTIL_8310	Acenaftileno_8310				
+ANTRA_8310	Antraceno_8310				
+BEN_A_ANT_8310	Benzo(A)Antraceno_8310				
+BEN_A_PIR_8310	Benzo(A)Pireno_8310				
+BEN_B_FANT_8310	Benzo(B)Fluoranteno_8310				
+BEN_G,H,I_PER_8310	Benzo(GHI)Perileno_8310				
+BEN_K_FANT_8310	Benzo(K)Fluoranteno_8310				
+CRISENO_8310	Criseno_8310				
+DIBEN_ANT_8310	Dibenzo(AH)Antraceno_8310				
+FENANTRENO_8310	Fenantreno_8310				
+FLUORANTENO_8310	Fluoranteno_8310				
+FLUORENO_8310	Fluoreno_8310				
+IND_PIR_8310	Indeno (1,2,3-CD) Pireno_8310				
+NAFTALENO_8310	Naftaleno_8310				
+PIRENO_8310	Pireno_8310				
+HAPS_8310	Total de hidrocarburos poliaromáticos				
+1,2_DICLBENC	1,2-Diclorobenceno				
+1,3_DICLBEN	1,3-Diclorobenceno				
+1,4_DICLBEN	1,4-Diclorobenceno				
+DICLOROBENCENOS	Diclorobencenos (Mezcla de Isomeros)				
+BR_DICLMET	Bromodiclorometano				
+BROMOF	Bromoformo				
+CLOROFORMO	Cloroformo				
+DIBR_CLMET	Dibromoclorometano				
+THMs	Trihalometanos Totales				
+M,P_XILENO	m,p-Xilenos				
+O_XILENO	o-Xileno				
+XILEN_ISOMEROS	Mezcla de Isómeros de Xilenos				
+ALFA_BHC	Alfa-BHC				
+BETA_BHC	Beta-BHC				
+GAMA_BHC_LIN	Gama-BHC (Lindano)				
+DELTA_BHC	Delta-BHC				
+BHC_ISOMEROS	Mezcla de Isómeros BHC				
+CA_TOT	Calcio Total				
+MG_TOT	Magnesio Total				
+DUR_TOT	Dureza Total				
+TEMP_AMB	Temperatura ambiente				
+TEMP_AGUA	Temperatura agua				
+TEMP_AGUA_SUP	Temperatura agua superficie				
+TEMP_AGUA_MED	Temperatura agua media				
+TEMP_AGUA_FON	Temperatura agua fondo				
+TEMP_AGUA_0.5	Temperatura Prof. 0.5 m.				
+TEMP_AGUA_1	Temperatura Prof. 1 m.				
+TEMP_AGUA_2	Temperatura Prof. 2 m.				
+TEMP_AGUA_3	Temperatura Prof. 3 m.				
+TEMP_AGUA_4	Temperatura Prof. 4 m.				
+TEMP_AGUA_5	Temperatura Prof. 5 m.				
+TEMP_AGUA_6	Temperatura Prof. 6 m.				
+TEMP_AGUA_7	Temperatura Prof. 7 m.				
+TEMP_AGUA_8	Temperatura Prof. 8 m.				
+TEMP_AGUA_9	Temperatura Prof. 9 m.				
+TEMP_AGUA_10	Temperatura Prof. 10 m.				
+TEMP_AGUA_11	Temperatura Prof. 11 m.				
+TEMP_AGUA_12	Temperatura Prof. 12 m.				
+TEMP_AGUA_13	Temperatura Prof. 13 m.				
+TEMP_AGUA_14	Temperatura Prof. 14 m.				
+TEMP_AGUA_15	Temperatura Prof. 15 m.				
+TEMP_AGUA_16	Temperatura Prof. 16 m.				
+TEMP_AGUA_17	Temperatura Prof. 17 m.				
+TEMP_AGUA_18	Temperatura Prof. 18 m.				
+TEMP_AGUA_19	Temperatura Prof. 19 m.				
+TEMP_AGUA_20	Temperatura Prof. 20 m.				
+TEMP_AGUA_21	Temperatura Prof. 21 m.				
+TEMP_AGUA_22	Temperatura Prof. 22 m.				
+TEMP_AGUA_23	Temperatura Prof. 23 m.				
+TEMP_AGUA_24	Temperatura Prof. 24 m.				
+TEMP_AGUA_25	Temperatura Prof. 25 m.				
+TEMP_AGUA_26	Temperatura Prof. 26 m.				
+TEMP_AGUA_27	Temperatura Prof. 27 m.				
+TEMP_AGUA_28	Temperatura Prof. 28 m.				
+TEMP_AGUA_29	Temperatura Prof. 29 m.				
+TEMP_AGUA_30	Temperatura Prof. 30 m.				
+TEMP_AGUA_31	Temperatura Prof. 31 m.				
+TEMP_AGUA_32	Temperatura Prof. 32 m.				
+TEMP_AGUA_33	Temperatura Prof. 33 m.				
+TEMP_AGUA_34	Temperatura Prof. 34 m.				
+TEMP_AGUA_35	Temperatura Prof. 35 m.				
+TEMP_AGUA_36	Temperatura Prof. 36 m.				
+TEMP_AGUA_37	Temperatura Prof. 37 m.				
+TEMP_AGUA_38	Temperatura Prof. 38 m.				
+TEMP_AGUA_39	Temperatura Prof. 39 m.				
+TEMP_AGUA_39.5	Temperatura Prof. 39.5 m.				
+PROFUNDIDAD	Profundidad				
+CAUDAL	Caudal				
+CLORUROS_SOL	Cloruros Solubles				
+FLUORUROS_SOL	Fluoruros Solubles				
+SO4_SOL	Sulfatos Solubles				
+AS_SOL	Arsénico Soluble				
+CD_SOL	Cadmio Soluble				
+CR_SOL	Cromo Soluble				
+FE_SOL	Fierro Soluble				
+MN_SOL	Manganeso Soluble				
+HG_SOL	Mercurio Soluble				
+PB_SOL	Plomo Soluble				
+ZN_SOL	Zinc Soluble				
+AL_SOL	Aluminio Soluble				
+CU_SOL	Cobre Soluble				
+TALIO_SOL	Talio Soluble				
+NI_SOL	Niquel Soluble				
+CA_SOL	Calcio Soluble				
+MG_SOL	Magnesio Soluble				
+K_SOL	Potasio Soluble				
+NA_SOL	Sodio Soluble				
+SULFUROS_SOL	Sulfuros Solubles				
+BA_SOL	Bario Soluble				
+SB_SOL	Antimonio Soluble				
+AG_TOT	Plata Total				
+S	Azufre				
+AMPA	Acido Aminometil Fosfonico				
+V_TOT	Vanadio Total				
+SE	Selenio				
+SSV	Sólidos Suspendidos Volátiles				
+C.MESÓFILOS AEROBIOS	Cuenta total en placa				
+DUR_Ca	Dureza Calcio				
+DUR_Mg	Dureza Magnesio				
+NH4	Amonio				
+ST	Sólidos Totales				
+HIDROCAR_F_LIG_SED	Hidrocarburos Fracción Ligera (Sedimento)				
+HIDROCAR_F_MED_SED	Hidrocarburos Fracción Media (Sedimento)				
+HIDROCAR_F_PES_SED	Hidrocarburos Fracción Pesada (Sedimento)				
+AS_TOT_SED	Arsénico Total (Sedimento)				
+TALIO_SED	Talio (Sedimento)				
+PB_TOT_SED	Plomo Total (Sedimento)				
+AG_TOT_SED	Plata (Sedimento)				
+CD_TOT_SED	Cadmio Total (Sedimento)				
+BE_TOT_SED	Berilio Total (Sedimento)				
+NI_TOT_SED	Niquel Total (Sedimento)				
+SE_TOT_SED	Selenio (Sedimento)				
+HG_TOT_SED	Mercurio Total (Sedimento)				
+CR_HEX_SED	Cromo Hexavalente (Sedimento)				
+BA_TOT_SED	Bario Total (Sedimento)				
+V_SED	Vanadio Total (Sedimento)				
+DIBR_MET	Dibromometano				
+DIBROMOETILENO	Dibromoetileno				
+S_TOT	Azufre Total (a partir de SO4)				

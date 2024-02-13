@@ -1,0 +1,900 @@
+estado,municipio
+Aguascalientes,Acajete
+Aguascalientes,Aguascalientes
+Aguascalientes,Ahuazotepec
+Aguascalientes,Amozoc
+Aguascalientes,Asientos
+Aguascalientes,Atlixco
+Aguascalientes,Atzala
+Aguascalientes,Chalchicomula de Sesma
+Aguascalientes,Chietla
+Aguascalientes,Chignautla
+Aguascalientes,Coronango
+Aguascalientes,Cuautinchan
+Aguascalientes,Cuautlancingo
+Aguascalientes,El Llano
+Aguascalientes,Huauchinango
+Aguascalientes,Huejotzingo
+Aguascalientes,Hueytamalco
+Aguascalientes,Izucar de Matamoros
+Aguascalientes,Jesus Maria
+Aguascalientes,Jesús María
+Aguascalientes,Juan C. Bonilla
+Aguascalientes,Nopalucan
+Aguascalientes,Oriental
+Aguascalientes,Palmar de Bravo
+Aguascalientes,Puebla
+Aguascalientes,Rafael Lara Grajales
+Aguascalientes,Rincon de Romos
+Aguascalientes,Rincón de Romos
+Aguascalientes,San Andres Cholula
+Aguascalientes,San Francisco de los Romo
+Aguascalientes,San Jose Chiapa
+Aguascalientes,San Martin Texmelucan
+Aguascalientes,San Miguel Xoxtla
+Aguascalientes,San Pedro Cholula
+Aguascalientes,San Salvador Huixcolotla
+Aguascalientes,San Salvador el Verde
+Aguascalientes,Santiago Miahuatlan
+Aguascalientes,Tecali de Herrera
+Aguascalientes,Tehuacan
+Aguascalientes,Tepanco de Lopez
+Aguascalientes,Tepeaca
+Aguascalientes,Tepeyahualco
+Aguascalientes,Tepezala
+Aguascalientes,Teziutlan
+Aguascalientes,Tlacotepec de Benito Juarez
+Aguascalientes,Tlahuapan
+Aguascalientes,Xicotepec
+Aguascalientes,Xiutetelco
+Aguascalientes,Yehualtepec
+Baja California,Ensenada
+Baja California,Mexicali
+Baja California,Playas de Rosarito
+Baja California,Tecate
+Baja California,Tijuana
+Baja California Sur,Comondu
+Baja California Sur,Comondú
+Baja California Sur,La Paz
+Baja California Sur,Los Cabos
+Baja California Sur,Mulege
+Baja California Sur,Mulegé
+Campeche,Calkiní
+Campeche,Campeche
+Campeche,Carmen
+Campeche,Champoton
+Campeche,Champotón
+Campeche,Escarcega
+Campeche,Hopelchén
+Campeche,Palizada
+Campeche,Tenabo
+Chiapas,Arriaga
+Chiapas,Benemerito de las Americas
+Chiapas,Benemérito de las Américas
+Chiapas,Chiapa de Corzo
+Chiapas,Chicoasen
+Chiapas,Frontera Comalapa
+Chiapas,Huixtla
+Chiapas,Jiquipilas
+Chiapas,Juarez
+Chiapas,Juárez
+Chiapas,Mapastepec
+Chiapas,Metapa
+Chiapas,Ocozocoautla de Espinosa
+Chiapas,Ostuacan
+Chiapas,Ostuacán
+Chiapas,Palenque
+Chiapas,Pichucalco
+Chiapas,Reforma
+Chiapas,San Cristobal de las Casas
+Chiapas,Soyalo
+Chiapas,Suchiate
+Chiapas,Sunuapa
+Chiapas,Tapachula
+Chiapas,Tecpatan
+Chiapas,Tuxtla Gutierrez
+Chiapas,Tuxtla Gutiérrez
+Chiapas,Venustiano Carranza
+Chiapas,Villaflores
+Chihuahua,Ahumada
+Chihuahua,Aquiles Serdan
+Chihuahua,Aquiles Serdán
+Chihuahua,Ascension
+Chihuahua,Ascensión
+Chihuahua,Buenaventura
+Chihuahua,Camargo
+Chihuahua,Chihuahua
+Chihuahua,Chinipas
+Chihuahua,Chínipas
+Chihuahua,Cuauhtemoc
+Chihuahua,Cuauhtémoc
+Chihuahua,Cusihuiriachi
+Chihuahua,Delicias
+Chihuahua,Guadalupe
+Chihuahua,Guadalupe y Calvo
+Chihuahua,Guerrero
+Chihuahua,Hidalgo del Parral
+Chihuahua,Jimenez
+Chihuahua,Juarez
+Chihuahua,Juárez
+Chihuahua,Madera
+Chihuahua,Meoqui
+Chihuahua,Moris
+Chihuahua,Nuevo Casas Grandes
+Chihuahua,Ocampo
+Chihuahua,Ojinaga
+Chihuahua,Praxedis G. Guerrero
+Chihuahua,San Francisco del Oro
+Chihuahua,Satevo
+Chihuahua,Satevó
+Chihuahua,Saucillo
+Chihuahua,Urique
+Ciudad de México,Alvaro Obregon
+Ciudad de México,Azcapotzalco
+Ciudad de México,Benito Juarez
+Ciudad de México,Benito Juárez
+Ciudad de México,Coyoacan
+Ciudad de México,Coyoacán
+Ciudad de México,Cuajimalpa de Morelos
+Ciudad de México,Cuauhtemoc
+Ciudad de México,Cuauhtémoc
+Ciudad de México,Gustavo A. Madero
+Ciudad de México,Iztacalco
+Ciudad de México,Iztapalapa
+Ciudad de México,La Magdalena Contreras
+Ciudad de México,Miguel Hidalgo
+Ciudad de México,Tlahuac
+Ciudad de México,Tlalpan
+Ciudad de México,Tláhuac
+Ciudad de México,Venustiano Carranza
+Ciudad de México,Xochimilco
+Ciudad de México,Álvaro Obregón
+Coahuila de Zaragoza,Acuna
+Coahuila de Zaragoza,Acuña
+Coahuila de Zaragoza,Arteaga
+Coahuila de Zaragoza,Castanos
+Coahuila de Zaragoza,Castaños
+Coahuila de Zaragoza,Cuatro Ciénegas
+Coahuila de Zaragoza,Cuatrocienegas
+Coahuila de Zaragoza,Francisco I. Madero
+Coahuila de Zaragoza,Frontera
+Coahuila de Zaragoza,General Cepeda
+Coahuila de Zaragoza,Hidalgo
+Coahuila de Zaragoza,Matamoros
+Coahuila de Zaragoza,Monclova
+Coahuila de Zaragoza,Muzquiz
+Coahuila de Zaragoza,Nava
+Coahuila de Zaragoza,Ocampo
+Coahuila de Zaragoza,Parras
+Coahuila de Zaragoza,Piedras Negras
+Coahuila de Zaragoza,Progreso
+Coahuila de Zaragoza,Ramos Arizpe
+Coahuila de Zaragoza,Sabinas
+Coahuila de Zaragoza,Saltillo
+Coahuila de Zaragoza,San Juan de Sabinas
+Coahuila de Zaragoza,San Pedro
+Coahuila de Zaragoza,Sierra Mojada
+Coahuila de Zaragoza,Torreon
+Coahuila de Zaragoza,Torreón
+Coahuila de Zaragoza,Zaragoza
+Colima,Colima
+Colima,Coquimatlan
+Colima,Cuauhtemoc
+Colima,Cuauhtémoc
+Colima,Ixtlahuacan
+Colima,Ixtlahuacán
+Colima,Manzanillo
+Colima,Minatitlan
+Colima,Minatitlán
+Colima,Tecoman
+Colima,Tecomán
+Colima,Villa de Alvarez
+Durango,Cuencame
+Durango,Cuencamé
+Durango,Durango
+Durango,Gomez Palacio
+Durango,Guanacevi
+Durango,Guanaceví
+Durango,Gómez Palacio
+Durango,Inde
+Durango,Lerdo
+Durango,Mapimi
+Durango,Mapimí
+Durango,Nombre de Dios
+Durango,Otaez
+Durango,Otáez
+Durango,Panuco de Coronado
+Durango,San Dimas
+Durango,San Juan del Rio
+Durango,San Juan del Río
+Durango,Santiago Papasquiaro
+Durango,Tepehuanes
+Durango,Tlahualilo
+Durango,Topia
+Guanajuato,Abasolo
+Guanajuato,Allende
+Guanajuato,Apaseo el Alto
+Guanajuato,Apaseo el Grande
+Guanajuato,Celaya
+Guanajuato,Comonfort
+Guanajuato,Cortazar
+Guanajuato,Guanajuato
+Guanajuato,Irapuato
+Guanajuato,Jaral del Progreso
+Guanajuato,Leon
+Guanajuato,León
+Guanajuato,Penjamo
+Guanajuato,Purisima del Rincon
+Guanajuato,Purísima del Rincón
+Guanajuato,Romita
+Guanajuato,Salamanca
+Guanajuato,Salvatierra
+Guanajuato,San Francisco del Rincon
+Guanajuato,San Francisco del Rincón
+Guanajuato,San Jose Iturbide
+Guanajuato,San José Iturbide
+Guanajuato,San Luis de la Paz
+Guanajuato,San Miguel de Allende
+Guanajuato,Santa Cruz de Juventino Rosas
+Guanajuato,Silao
+Guanajuato,Silao de la Victoria
+Guanajuato,Villagran
+Guanajuato,Villagrán
+Guerrero,Acapulco de Juarez
+Guerrero,Acapulco de Juárez
+Guerrero,Arcelia
+Guerrero,Chilpancingo de los Bravo
+Guerrero,Cocula
+Guerrero,Cutzamala de Pinzon
+Guerrero,Eduardo Neri
+Guerrero,General Heliodoro Castillo
+Guerrero,Iguala de la Independencia
+Guerrero,La Union de Isidoro Montes de Oca
+Guerrero,La Unión de Isidoro Montes de Oca
+Guerrero,Taxco de Alarcon
+Guerrero,Teloloapan
+Hidalgo,Acatlan
+Hidalgo,Actopan
+Hidalgo,Apan
+Hidalgo,Atitalaquia
+Hidalgo,Atotonilco de Tula
+Hidalgo,Emiliano Zapata
+Hidalgo,Huejutla de Reyes
+Hidalgo,Huichapan
+Hidalgo,Lolotla
+Hidalgo,Metepec
+Hidalgo,Mineral de la Reforma
+Hidalgo,Molango de Escamilla
+Hidalgo,Nopala de Villagran
+Hidalgo,Pachuca de Soto
+Hidalgo,Progreso de Obregon
+Hidalgo,Progreso de Obregón
+Hidalgo,San Agustin Tlaxiaca
+Hidalgo,Santiago de Anaya
+Hidalgo,Tepeapulco
+Hidalgo,Tepeji del Rio de Ocampo
+Hidalgo,Tepeji del Río de Ocampo
+Hidalgo,Tizayuca
+Hidalgo,Tlaxcoapan
+Hidalgo,Tolcayuca
+Hidalgo,Tula de Allende
+Hidalgo,Tulancingo de Bravo
+Hidalgo,Villa de Tezontepec
+Hidalgo,Xochicoatlan
+Hidalgo,Xochicoatlán
+Hidalgo,Zimapan
+Hidalgo,Zimapán
+Jalisco,Acatic
+Jalisco,Acatlan de Juarez
+Jalisco,Acatlán de Juárez
+Jalisco,Amatitan
+Jalisco,Amatitán
+Jalisco,Ameca
+Jalisco,Arandas
+Jalisco,Atotonilco el Alto
+Jalisco,Autlan de Navarro
+Jalisco,Autlán de Navarro
+Jalisco,Ayotlan
+Jalisco,Bolanos
+Jalisco,Chapala
+Jalisco,EL Arenal
+Jalisco,El Salto
+Jalisco,Guadalajara
+Jalisco,Hostotipaquillo
+Jalisco,Ixtlahuacan de los Membrillos
+Jalisco,Ixtlahuacán de los Membrillos
+Jalisco,Jamay
+Jalisco,Jilotlan de los Dolores
+Jalisco,Jilotlán de los Dolores
+Jalisco,La Barca
+Jalisco,Lagos de Moreno
+Jalisco,Ocotlan
+Jalisco,Ocotlán
+Jalisco,Pihuamo
+Jalisco,Poncitlan
+Jalisco,Poncitlán
+Jalisco,Puerto Vallarta
+Jalisco,San Juan de los Lagos
+Jalisco,San Martin de Bolanos
+Jalisco,San Miguel el Alto
+Jalisco,San Pedro Tlaquepaque
+Jalisco,San Sebastian del Oeste
+Jalisco,San Sebastián del Oeste
+Jalisco,Tala
+Jalisco,Tamazula de Gordiano
+Jalisco,Tecolotlan
+Jalisco,Tecolotlán
+Jalisco,Teocuitatlan de Corona
+Jalisco,Tepatitlan de Morelos
+Jalisco,Tepatitlán de Morelos
+Jalisco,Tequila
+Jalisco,Tlajomulco de Zuniga
+Jalisco,Tlajomulco de Zúñiga
+Jalisco,Tlaquepaque
+Jalisco,Toliman
+Jalisco,Tolimán
+Jalisco,Tonala
+Jalisco,Tonaya
+Jalisco,Tototlan
+Jalisco,Tuxpan
+Jalisco,Villa Corona
+Jalisco,Zacoalco de Torres
+Jalisco,Zapopan
+Jalisco,Zapotiltic
+Jalisco,Zapotlan el Grande
+Jalisco,Zapotlanejo
+Jalisco,Zapotlán el Grande
+Michoacán de Ocampo,Apatzingan
+Michoacán de Ocampo,Apatzingán
+Michoacán de Ocampo,Aquila
+Michoacán de Ocampo,Arteaga
+Michoacán de Ocampo,Coalcoman de Vazquez Pallares
+Michoacán de Ocampo,Coalcomán de Vázquez Pallares
+Michoacán de Ocampo,Copándaro
+Michoacán de Ocampo,Cuitzeo
+Michoacán de Ocampo,Ecuandureo
+Michoacán de Ocampo,Hidalgo
+Michoacán de Ocampo,Jiquilpan
+Michoacán de Ocampo,Jungapeo
+Michoacán de Ocampo,La Piedad
+Michoacán de Ocampo,Lagunillas
+Michoacán de Ocampo,Lazaro Cardenas
+Michoacán de Ocampo,Los Reyes
+Michoacán de Ocampo,Lázaro Cárdenas
+Michoacán de Ocampo,Madero
+Michoacán de Ocampo,Morelia
+Michoacán de Ocampo,Nuevo Parangaricutiro
+Michoacán de Ocampo,Purepero
+Michoacán de Ocampo,Salvador Escalante
+Michoacán de Ocampo,Tacambaro
+Michoacán de Ocampo,Tacámbaro
+Michoacán de Ocampo,Tanhuato
+Michoacán de Ocampo,Taretan
+Michoacán de Ocampo,Tarimbaro
+Michoacán de Ocampo,Tocumbo
+Michoacán de Ocampo,Uruapan
+Michoacán de Ocampo,Vista Hermosa
+Michoacán de Ocampo,Yurecuaro
+Michoacán de Ocampo,Zacapu
+Michoacán de Ocampo,Zamora
+Michoacán de Ocampo,Zitacuaro
+Michoacán de Ocampo,Zitácuaro
+Morelos,Atlatlahucan
+Morelos,Ayala
+Morelos,Cuautla
+Morelos,Cuernavaca
+Morelos,Emiliano Zapata
+Morelos,Jiutepec
+Morelos,Puente de Ixtla
+Morelos,Tlaltizapan
+Morelos,Xochitepec
+Morelos,Yautepec
+Morelos,Yecapixtla
+Morelos,Zacatepec de Hidalgo
+México,Acambay
+México,Acolman
+México,Almoloya de Juarez
+México,Almoloya de Juárez
+México,Amecameca
+México,Apaxco
+México,Atizapan
+México,Atizapan de Zaragoza
+México,Atizapán de Zaragoza
+México,Atlacomulco
+México,Axapusco
+México,Calimaya
+México,Capulhuac
+México,Chalco
+México,Chapa de Mota
+México,Chiautla
+México,Chicoloapan
+México,Chimalhuacan
+México,Coacalco de Berriozabal
+México,Coacalco de Berriozábal
+México,Coyotepec
+México,Cuautitlan
+México,Cuautitlan Izcalli
+México,Cuautitlán
+México,Cuautitlán Izcalli
+México,Ecatepec de Morelos
+México,Huehuetoca
+México,Hueypoxtla
+México,Huixquilucan
+México,Ixtapaluca
+México,Ixtlahuaca
+México,Jilotepec
+México,Jocotitlan
+México,Jocotitlán
+México,La Paz
+México,Lerma
+México,Metepec
+México,Morelos
+México,Naucalpan de Juarez
+México,Naucalpan de Juárez
+México,Nextlalpan
+México,Nezahualcoyotl
+México,Nezahualcóyotl
+México,Nicolas Romero
+México,Ocoyoacac
+México,San Felipe del Progreso
+México,San Martin de las Piramides
+México,San Martín de las Pirámides
+México,San Mateo Atenco
+México,Soyaniquilpan de Juarez
+México,Soyaniquilpan de Juárez
+México,Tecamac
+México,Tecámac
+México,Temascalcingo
+México,Temascaltepec
+México,Tenancingo
+México,Tenango del Valle
+México,Teoloyucan
+México,Teotihuacan
+México,Teotihuacán
+México,Tepetlaoxtoc
+México,Tepotzotlan
+México,Tepotzotlán
+México,Texcoco
+México,Tezoyuca
+México,Tianguistenco
+México,Tlalmanalco
+México,Tlalnepantla de Baz
+México,Toluca
+México,Tultitlan
+México,Tultitlán
+México,Valle de Bravo
+México,Valle de Chalco Solidaridad
+México,Villa Guerrero
+México,Villa de Allende
+México,Xalatlaco
+México,Xonacatlan
+México,Zacazonapan
+México,Zacualpan
+México,Zinacantepec
+México,Zumpango
+Nayarit,Acaponeta
+Nayarit,Bahia de Banderas
+Nayarit,Bahía de Banderas
+Nayarit,Del Nayar
+Nayarit,La Yesca
+Nayarit,San Blas
+Nayarit,San Pedro Lagunillas
+Nayarit,Santa Maria del Oro
+Nayarit,Tepic
+Nayarit,Xalisco
+Nuevo León,Abasolo
+Nuevo León,Allende
+Nuevo León,Anahuac
+Nuevo León,Apodaca
+Nuevo León,Aramberri
+Nuevo León,Cadereyta Jimenez
+Nuevo León,Cadereyta Jiménez
+Nuevo León,Carmen
+Nuevo León,Cienega de Flores
+Nuevo León,Ciénega de Flores
+Nuevo León,Doctor González
+Nuevo León,Dr. Arroyo
+Nuevo León,Dr. Gonzalez
+Nuevo León,El Carmen
+Nuevo León,Garcia
+Nuevo León,García
+Nuevo León,General Escobedo
+Nuevo León,General Zuazua
+Nuevo León,Gral.  Escobedo
+Nuevo León,Gral.  Zuazua
+Nuevo León,Gral. Bravo
+Nuevo León,Gral. Escobedo
+Nuevo León,Guadalupe
+Nuevo León,Hidalgo
+Nuevo León,Higueras
+Nuevo León,Juarez
+Nuevo León,Juárez
+Nuevo León,Lampazos de Naranjo
+Nuevo León,Linares
+Nuevo León,Los Herreras
+Nuevo León,Los Ramones
+Nuevo León,Mina
+Nuevo León,Montemorelos
+Nuevo León,Monterrey
+Nuevo León,Pesqueria
+Nuevo León,Pesquería
+Nuevo León,Sabinas Hidalgo
+Nuevo León,Salinas Victoria
+Nuevo León,San Nicolas de los Garza
+Nuevo León,San Nicolás de los Garza
+Nuevo León,San Pedro Garza Garcia
+Nuevo León,San Pedro Garza García
+Nuevo León,Santa Catarina
+Oaxaca,Acatlan de Perez Figueroa
+Oaxaca,Acatlán de Pérez Figueroa
+Oaxaca,Cosolapa
+Oaxaca,El Barrio de la Soledad
+Oaxaca,Guadalupe Etla
+Oaxaca,Juchitan de Zaragoza
+Oaxaca,Oaxaca de Juarez
+Oaxaca,Oaxaca de Juárez
+Oaxaca,Salina Cruz
+Oaxaca,San Juan Bautista Tuxtepec
+Oaxaca,San Lorenzo Cacaotepec
+Oaxaca,San Pablo Etla
+Oaxaca,San Pedro Mixtepec
+Oaxaca,San Pedro Totolapa
+Oaxaca,San Pedro y San Pablo Teposcolula
+Oaxaca,Santa Cruz Xoxocotlan
+Oaxaca,Santa Maria Huatulco
+Oaxaca,Santa Maria del Tule
+Oaxaca,Santo Domingo Tehuantepec
+Oaxaca,Tlalixtac de Cabrera
+Puebla,Acajete
+Puebla,Ahuazotepec
+Puebla,Amozoc
+Puebla,Atzala
+Puebla,Chalchicomula de Sesma
+Puebla,Chietla
+Puebla,Coronango
+Puebla,Cuautinchán
+Puebla,Cuautlancingo
+Puebla,Huejotzingo
+Puebla,Izúcar de Matamoros
+Puebla,Nopalucan
+Puebla,Palmar de Bravo
+Puebla,Puebla
+Puebla,Rafael Lara Grajales
+Puebla,San Andrés Cholula
+Puebla,San José Chiapa
+Puebla,San Martín Texmelucan
+Puebla,San Miguel Xoxtla
+Puebla,San Salvador Huixcolotla
+Puebla,Tehuacán
+Puebla,Tepanco de López
+Puebla,Tepeaca
+Puebla,Tlahuapan
+Puebla,Xiutetelco
+Puebla,Yehualtepec
+Querétaro,Amealco de Bonfil
+Querétaro,Cadereyta de Montes
+Querétaro,Colon
+Querétaro,Colón
+Querétaro,Corregidora
+Querétaro,El Marques
+Querétaro,El Marqués
+Querétaro,Ezequiel Montes
+Querétaro,Huimilpan
+Querétaro,Pedro Escobedo
+Querétaro,Queretaro
+Querétaro,Querétaro
+Querétaro,San Joaquin
+Querétaro,San Juan del Rio
+Querétaro,San Juan del Río
+Querétaro,Tequisquiapan
+Querétaro,Toliman
+Querétaro,Tolimán
+Quintana Roo,Benito Juarez
+Quintana Roo,Benito Juárez
+Quintana Roo,Cozumel
+Quintana Roo,Isla Mujeres
+Quintana Roo,Lazaro Cardenas
+Quintana Roo,Lázaro Cárdenas
+Quintana Roo,Othon P. Blanco
+Quintana Roo,Othón P. Blanco
+Quintana Roo,Solidaridad
+Quintana Roo,Tulum
+San Luis Potosí,Cerritos
+San Luis Potosí,Cerro de San Pedro
+San Luis Potosí,Charcas
+San Luis Potosí,Ciudad Valles
+San Luis Potosí,Ebano
+San Luis Potosí,El Naranjo
+San Luis Potosí,Huehuetlan
+San Luis Potosí,Matehuala
+San Luis Potosí,Mexquitic de Carmona
+San Luis Potosí,Moctezuma
+San Luis Potosí,Rioverde
+San Luis Potosí,San Luis Potosi
+San Luis Potosí,San Luis Potosí
+San Luis Potosí,Soledad de Graciano Sanchez
+San Luis Potosí,Soledad de Graciano Sánchez
+San Luis Potosí,Tamasopo
+San Luis Potosí,Tamazunchale
+San Luis Potosí,Tamuin
+San Luis Potosí,Tamuín
+San Luis Potosí,Venado
+San Luis Potosí,Villa Hidalgo
+San Luis Potosí,Villa de Reyes
+San Luis Potosí,Villa de la Paz
+San Luis Potosí,Zaragoza
+Sinaloa,Ahome
+Sinaloa,Badiraguato
+Sinaloa,Choix
+Sinaloa,Cosala
+Sinaloa,Culiacan
+Sinaloa,Culiacán
+Sinaloa,El Fuerte
+Sinaloa,Mazatlan
+Sinaloa,Mazatlán
+Sinaloa,Mocorito
+Sinaloa,Navolato
+Sinaloa,Rosario
+Sinaloa,Salvador Alvarado
+Sinaloa,Sinaloa
+Sonora,Agua Prieta
+Sonora,Alamos
+Sonora,Altar
+Sonora,Banamichi
+Sonora,Caborca
+Sonora,Cajeme
+Sonora,Cananea
+Sonora,Cucurpe
+Sonora,Cumpas
+Sonora,Empalme
+Sonora,Guaymas
+Sonora,Hermosillo
+Sonora,Huatabampo
+Sonora,La Colorada
+Sonora,Magdalena
+Sonora,Naco
+Sonora,Nacozari de Garcia
+Sonora,Nacozari de García
+Sonora,Navojoa
+Sonora,Nogales
+Sonora,Pitiquito
+Sonora,Puerto Penasco
+Sonora,Rosario
+Sonora,Sahuaripa
+Sonora,San Luis Rio Colorado
+Sonora,Santa Ana
+Sonora,Santa Cruz
+Sonora,Soyopa
+Sonora,Suaqui Grande
+Sonora,Yecora
+Tabasco,Cardenas
+Tabasco,Centla
+Tabasco,Centro
+Tabasco,Comalcalco
+Tabasco,Cunduacan
+Tabasco,Cunduacán
+Tabasco,Cárdenas
+Tabasco,Emiliano Zapata
+Tabasco,Huimanguillo
+Tabasco,Jalapa
+Tabasco,Jalpa de Mendez
+Tabasco,Jalpa de Méndez
+Tabasco,Jonuta
+Tabasco,Macuspana
+Tabasco,Nacajuca
+Tabasco,Paraiso
+Tabasco,Paraíso
+Tabasco,Teapa
+Tabasco,Tenosique
+Tamaulipas,Altamira
+Tamaulipas,Antiguo Morelos
+Tamaulipas,Camargo
+Tamaulipas,Ciudad Madero
+Tamaulipas,El Mante
+Tamaulipas,Hidalgo
+Tamaulipas,Jaumave
+Tamaulipas,Llera
+Tamaulipas,Matamoros
+Tamaulipas,Mier
+Tamaulipas,Miguel Aleman
+Tamaulipas,Nuevo Laredo
+Tamaulipas,Reynosa
+Tamaulipas,Rio Bravo
+Tamaulipas,Río Bravo
+Tamaulipas,San Fernando
+Tamaulipas,Soto la Marina
+Tamaulipas,Tampico
+Tamaulipas,Valle Hermoso
+Tamaulipas,Victoria
+Tamaulipas,Xicotencatl
+Tlaxcala,Acuamanala de Miguel Hidalgo
+Tlaxcala,Apetatitlan de Antonio Carvajal
+Tlaxcala,Apizaco
+Tlaxcala,Atlangatepec
+Tlaxcala,Calpulalpan
+Tlaxcala,Cuapiaxtla
+Tlaxcala,El Carmen Tequexquitla
+Tlaxcala,Huamantla
+Tlaxcala,Ixtacuixtla de Mariano Matamoros
+Tlaxcala,Ixtenco
+Tlaxcala,La Magdalena Tlaltelulco
+Tlaxcala,Mazatecochco de Jose Maria Morelos
+Tlaxcala,Mazatecochco de José María Morelos
+Tlaxcala,Nativitas
+Tlaxcala,Papalotla de Xicohtencatl
+Tlaxcala,Papalotla de Xicohténcatl
+Tlaxcala,San Pablo del Monte
+Tlaxcala,Santa Cruz Tlaxcala
+Tlaxcala,Santa Isabel Xiloxoxtla
+Tlaxcala,Teolocholco
+Tlaxcala,Tepeyanco
+Tlaxcala,Tetla de la Solidaridad
+Tlaxcala,Tlaxcala
+Tlaxcala,Tlaxco
+Tlaxcala,Tzompantepec
+Tlaxcala,Xaloztoc
+Tlaxcala,Xicohtzinco
+Tlaxcala,Yauhquemecan
+Tlaxcala,Yauhquemehcan
+Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos
+Tlaxcala,Zitlaltepec de Trinidad Sanchez Santos
+Veracruz de Ignacio de la Llave,Acayucan
+Veracruz de Ignacio de la Llave,Agua Dulce
+Veracruz de Ignacio de la Llave,Alto Lucero de Gutierrez Barrios
+Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios
+Veracruz de Ignacio de la Llave,Alvarado
+Veracruz de Ignacio de la Llave,Amatitlan
+Veracruz de Ignacio de la Llave,Amatitlán
+Veracruz de Ignacio de la Llave,Amatlan de los Reyes
+Veracruz de Ignacio de la Llave,Amatlán de los Reyes
+Veracruz de Ignacio de la Llave,Apazapan
+Veracruz de Ignacio de la Llave,Atoyac
+Veracruz de Ignacio de la Llave,Boca del Rio
+Veracruz de Ignacio de la Llave,Boca del Río
+Veracruz de Ignacio de la Llave,Carlos A. Carrillo
+Veracruz de Ignacio de la Llave,Cerro Azul
+Veracruz de Ignacio de la Llave,Chacaltianguis
+Veracruz de Ignacio de la Llave,Chinameca
+Veracruz de Ignacio de la Llave,Coatepec
+Veracruz de Ignacio de la Llave,Coatzacoalcos
+Veracruz de Ignacio de la Llave,Coatzintla
+Veracruz de Ignacio de la Llave,Cordoba
+Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio
+Veracruz de Ignacio de la Llave,Cosoleacaque
+Veracruz de Ignacio de la Llave,Cotaxtla
+Veracruz de Ignacio de la Llave,Cuichapa
+Veracruz de Ignacio de la Llave,Cuitlahuac
+Veracruz de Ignacio de la Llave,Cuitláhuac
+Veracruz de Ignacio de la Llave,Córdoba
+Veracruz de Ignacio de la Llave,El Higo
+Veracruz de Ignacio de la Llave,Fortin
+Veracruz de Ignacio de la Llave,Fortín
+Veracruz de Ignacio de la Llave,Hidalgotitlan
+Veracruz de Ignacio de la Llave,Hueyapan de Ocampo
+Veracruz de Ignacio de la Llave,Isla
+Veracruz de Ignacio de la Llave,Ixhuatlan del Sureste
+Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste
+Veracruz de Ignacio de la Llave,Ixtaczoquitlan
+Veracruz de Ignacio de la Llave,Ixtaczoquitlán
+Veracruz de Ignacio de la Llave,Jalacingo
+Veracruz de Ignacio de la Llave,Jaltipan
+Veracruz de Ignacio de la Llave,Jáltipan
+Veracruz de Ignacio de la Llave,La Antigua
+Veracruz de Ignacio de la Llave,Las Choapas
+Veracruz de Ignacio de la Llave,Lerdo de Tejada
+Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano
+Veracruz de Ignacio de la Llave,Martinez de la Torre
+Veracruz de Ignacio de la Llave,Martínez de la Torre
+Veracruz de Ignacio de la Llave,Medellin
+Veracruz de Ignacio de la Llave,Medellín
+Veracruz de Ignacio de la Llave,Minatitlan
+Veracruz de Ignacio de la Llave,Minatitlán
+Veracruz de Ignacio de la Llave,Moloacan
+Veracruz de Ignacio de la Llave,Moloacán
+Veracruz de Ignacio de la Llave,Nanchital de Lazaro Cardenas del Rio
+Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río
+Veracruz de Ignacio de la Llave,Naolinco
+Veracruz de Ignacio de la Llave,Nogales
+Veracruz de Ignacio de la Llave,Orizaba
+Veracruz de Ignacio de la Llave,Panuco
+Veracruz de Ignacio de la Llave,Paso de Ovejas
+Veracruz de Ignacio de la Llave,Paso del Macho
+Veracruz de Ignacio de la Llave,Perote
+Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo
+Veracruz de Ignacio de la Llave,Pueblo Viejo
+Veracruz de Ignacio de la Llave,Pánuco
+Veracruz de Ignacio de la Llave,Rio Blanco
+Veracruz de Ignacio de la Llave,Río Blanco
+Veracruz de Ignacio de la Llave,San Andres Tuxtla
+Veracruz de Ignacio de la Llave,San Andrés Tuxtla
+Veracruz de Ignacio de la Llave,San Juan Evangelista
+Veracruz de Ignacio de la Llave,San Rafael
+Veracruz de Ignacio de la Llave,Tantoyuca
+Veracruz de Ignacio de la Llave,Temapache
+Veracruz de Ignacio de la Llave,Tezonapa
+Veracruz de Ignacio de la Llave,Tierra Blanca
+Veracruz de Ignacio de la Llave,Tihuatlan
+Veracruz de Ignacio de la Llave,Tihuatlán
+Veracruz de Ignacio de la Llave,Tlalnelhuayocan
+Veracruz de Ignacio de la Llave,Tlapacoyan
+Veracruz de Ignacio de la Llave,Tres Valles
+Veracruz de Ignacio de la Llave,Tuxpam
+Veracruz de Ignacio de la Llave,Tuxpan
+Veracruz de Ignacio de la Llave,Ursulo Galvan
+Veracruz de Ignacio de la Llave,Ursulo Galván
+Veracruz de Ignacio de la Llave,Uxpanapa
+Veracruz de Ignacio de la Llave,Veracruz
+Veracruz de Ignacio de la Llave,Xalapa
+Veracruz de Ignacio de la Llave,Álamo Temapache
+Yucatán,Abala
+Yucatán,Abalá
+Yucatán,Acanceh
+Yucatán,Baca
+Yucatán,Cacalchen
+Yucatán,Cacalchén
+Yucatán,Chapab
+Yucatán,Chicxulub Pueblo
+Yucatán,Chumayel
+Yucatán,Conkal
+Yucatán,Cuzama
+Yucatán,Hocaba
+Yucatán,Hocabá
+Yucatán,Hoctun
+Yucatán,Hoctún
+Yucatán,Hunucma
+Yucatán,Hunucmá
+Yucatán,Izamal
+Yucatán,Kanasin
+Yucatán,Kanasín
+Yucatán,Kantunil
+Yucatán,Kinchil
+Yucatán,Kopoma
+Yucatán,Kopomá
+Yucatán,Mama
+Yucatán,Maxcanu
+Yucatán,Maxcanú
+Yucatán,Merida
+Yucatán,Muna
+Yucatán,Muxupip
+Yucatán,Mérida
+Yucatán,Opichen
+Yucatán,Opichén
+Yucatán,Progreso
+Yucatán,Santa Elena
+Yucatán,Seye
+Yucatán,Sotuta
+Yucatán,Tahmek
+Yucatán,Teabo
+Yucatán,Tecoh
+Yucatán,Tekal de Venegas
+Yucatán,Tekanto
+Yucatán,Tekantó
+Yucatán,Tekax
+Yucatán,Tepakan
+Yucatán,Tepakán
+Yucatán,Ticul
+Yucatán,Tixkokob
+Yucatán,Tixmehuac
+Yucatán,Tixpehual
+Yucatán,Tixpéhual
+Yucatán,Tizimin
+Yucatán,Uman
+Yucatán,Umán
+Yucatán,Valladolid
+Zacatecas,Calera
+Zacatecas,Chalchihuites
+Zacatecas,Concepcion del Oro
+Zacatecas,Fresnillo
+Zacatecas,General Panfilo Natera
+Zacatecas,Guadalupe
+Zacatecas,Mazapil
+Zacatecas,Miguel Auza
+Zacatecas,Morelos
+Zacatecas,Nochistlan de Mejia
+Zacatecas,Nochistlán de Mejía
+Zacatecas,Noria de angeles
+Zacatecas,Ojocaliente
+Zacatecas,Sombrerete
+Zacatecas,Vetagrande
+Zacatecas,Villanueva
+Zacatecas,Zacatecas

@@ -14,42 +14,37 @@ import datetime
 #
 
 #Este formato solo se aplica a un año
-inputpath ="/home/reyes/dev/posdoc-2022-2024/databases/retc/emisoras/es_2012.csv"
+inputpath ="/home/reyes/dev/posdoc-2022-2024/databases/retc/emisiones/em_2012.csv"
 output_path="out_preparacion/"
 
+# Encabezado del archivo original "NRA"	"Establecimiento"	"Sector"	"Entidad Federativa"	"Municipio"	"Grupo Sustancia"	"Sustancia"	"CAS"	"Unidad"	"Aire"	"Agua"	"Suelo"	"Reutilización"	"Reciclado"	"Coprocesamiento"	"Tratamiento"	"Disposición Final"	"Alcantarillado"	"Incineración"	"Otro"
 
 es2012 = pd.read_csv(inputpath, sep="\t",low_memory=False, encoding='utf-8')
 
 
-#Se agregan las columnas que faltan		
-	
+#Se agregan las columnas que faltan
 es2012["anio"] = 2012
-es2012["utmx"] = "Atributo no considerado en este año"
-es2012["utmy"] = "Atributo no considerado en este año"
-es2012["actsemarnat"] = "Atributo no considerado en este año"
-es2012["subsector"] = "Atributo no considerado en este año"
-
 #Se renombran las columnas 
 es2012.rename(columns = {'NRA':'nra'}, inplace = True)
-es2012.rename(columns = {'Establecimiento':'establecimiento'}, inplace = True)
+es2012.rename(columns = {'Establecimiento':'nombre'}, inplace = True)
 es2012.rename(columns = {'Sector':'sector'}, inplace = True)
-es2012.rename(columns = {'Número SCIAN':'scian'}, inplace = True)
-es2012.rename(columns = {'SCIAN':'descscian'}, inplace = True)
-es2012.rename(columns = {'Clave Ambiental':'claveambiental'}, inplace = True)
-es2012.rename(columns = {'Actividad Principal':'actprincipal'}, inplace = True)
-es2012.rename(columns = {'Nombre Parque Industrial':'parqueindustrial'}, inplace = True)
-es2012.rename(columns = {'Latitud Norte':'latitudnorte'}, inplace = True)
-es2012.rename(columns = {'Longitud Oeste':'longitudoeste'}, inplace = True)
-es2012.rename(columns = {'Calle':'calle'}, inplace = True)
-es2012.rename(columns = {'Número Exterior':'numexterior'}, inplace = True)
-es2012.rename(columns = {'Número Interior':'numinterior'}, inplace = True)
-es2012.rename(columns = {'Entre Calle 1':'entrec1'}, inplace = True)
-es2012.rename(columns = {'Entre Calle 2':'entrec2'}, inplace = True)
-es2012.rename(columns = {'Colonia':'colonia'}, inplace = True)
-es2012.rename(columns = {'Localidad':'localidad'}, inplace = True)
-es2012.rename(columns = {'Municipio':'municipio'}, inplace = True)
 es2012.rename(columns = {'Entidad Federativa':'estado'}, inplace = True)
-es2012.rename(columns = {'Código Postal':'codigopostal'}, inplace = True)
+es2012.rename(columns = {'Municipio':'municipio'}, inplace = True)
+es2012.rename(columns = {'Grupo Sustancia':'gruposustancia'}, inplace = True)
+es2012.rename(columns = {'Sustancia':'sustancia'}, inplace = True)
+es2012.rename(columns = {'CAS':'cas'}, inplace = True)
+es2012.rename(columns = {'Unidad':'unidad'}, inplace = True)
+es2012.rename(columns = {'Aire':'em_aire'}, inplace = True)
+es2012.rename(columns = {'Agua':'em_agua'}, inplace = True)
+es2012.rename(columns = {'Suelo':'em_suelo'}, inplace = True)
+es2012.rename(columns = {'Reutilización':'tr_reutilizacion'}, inplace = True)
+es2012.rename(columns = {'Reciclado':'tr_reciclado'}, inplace = True)
+es2012.rename(columns = {'Coprocesamiento':'tr_coprocesamiento'}, inplace = True)
+es2012.rename(columns = {'Tratamiento':'tr_tratamiento'}, inplace = True)
+es2012.rename(columns = {'Disposición Final':'tr_dispfinal'}, inplace = True)
+es2012.rename(columns = {'Alcantarillado':'tr_alcantarillado'}, inplace = True)
+es2012.rename(columns = {'Incineración':'tr_incineracion'}, inplace = True)
+es2012.rename(columns = {'Otro':'tr_otros'}, inplace = True)
 
 print("\tSe ordenan las columnas")
 es2012 = es2012.reindex(sorted(es2012.columns), axis=1)
