@@ -74,33 +74,33 @@ Para mantener una consistencia en la base de datos, se opto por adicionar las co
 
 Se ordenan los nombres de las columnas para hacer una fusión más sencilla:
 
-| Attributos ordenados |
-| -------------------- |
-| actprincipal         |
-| actsemarnat          |
-| anio                 |
-| calle                |
-| claveambiental       |
-| codigopostal         |
-| colonia              |
-| descscian            |
-| entrec1              |
-| entrec2              |
-| establecimiento      |
-| estado               |
-| latitudnorte         |
-| localidad            |
-| longitudoeste        |
-| municipio            |
-| nra                  |
-| numexterior          |
-| numinterior          |
-| parqueindustrial     |
-| scian                |
-| sector               |
-| subsector            |
-| utmx                 |
-| utmy                 |
+| Attributos ordenados | Años en los que aparece |
+| -------------------- | ----------------------- |
+| actprincipal         | 19                      |
+| actsemarnat          | 2                       |
+| anio                 | 19                      |
+| calle                | 19                      |
+| claveambiental       | 17                      |
+| codigopostal         | 19                      |
+| colonia              | 19                      |
+| descscian            | 17                      |
+| entrec1              | 1                       |
+| entrec2              | 1                       |
+| establecimiento      | 19                      |
+| estado               | 19                      |
+| latitudnorte         | 19                      |
+| localidad            | 19                      |
+| longitudoeste        | 19                      |
+| municipio            | 19                      |
+| nra                  | 19                      |
+| numexterior          | 19                      |
+| numinterior          | 19                      |
+| parqueindustrial     | 19                      |
+| scian                | 17                      |
+| sector               | 19                      |
+| subsector            | 16                      |
+| utmx                 | 18                      |
+| utmy                 | 18                      |
 
 ```
 2012
@@ -720,6 +720,253 @@ python3 db_agregar_cve_mun.py
 
 Como resultado del agregar los nombres adecuados y las claves correspondientes se generó la siguiente colección de los establecimientos.
 
+#### Proceso para homogeneizar los sectores
+
+Consultas para actualizar los registros
+
+```
+db.estab_2024_v6.updateMany({sector:'Alimenticio y/o de consumo humano '},{$set:{sector:'Alimenticio y/o de consumo humano'}})
+db.estab_2024_v6.updateMany({sector:'Articulos y productos compuestos de diferentes materiales'},{$set:{sector:'Artículos y productos compuestos de diferentes materiales'}})
+db.estab_2024_v6.updateMany({sector:'Articulos y productos compuestos de diferentes materiales '},{$set:{sector:'Artículos y productos compuestos de diferentes materiales'}})
+db.estab_2024_v6.updateMany({sector:'Articulos y productos metalicos'},{$set:{sector:'Artículos y productos metálicos'}})
+db.estab_2024_v6.updateMany({sector:'Articulos y productos metalicos '},{$set:{sector:'Artículos y productos metálicos'}})
+db.estab_2024_v6.updateMany({sector:'Articulos y productos plasticos'},{$set:{sector:'Artículos y productos plásticos'}})
+db.estab_2024_v6.updateMany({sector:'Articulos y productos plasticos '},{$set:{sector:'Artículos y productos plásticos'}})
+db.estab_2024_v6.updateMany({sector:'Automotriz '},{$set:{sector:'Automotriz'}})
+db.estab_2024_v6.updateMany({sector:'Equipos y articulos electronicos, electricos y domesticos'},{$set:{sector:'Equipos y artículos electrónicos, eléctricos y domésticos'}})
+db.estab_2024_v6.updateMany({sector:'Equipos y articulos electronicos, electricos y domesticos '},{$set:{sector:'Equipos y artículos electrónicos, eléctricos y domésticos'}})
+db.estab_2024_v6.updateMany({sector:'Generacion de energia electrica '},{$set:{sector:'Generación de energía eléctrica'}})
+db.estab_2024_v6.updateMany({sector:'Generación de energia electrica'},{$set:{sector:'Generación de energía eléctrica'}})
+db.estab_2024_v6.updateMany({sector:'Madera y Productos '},{$set:{sector:'Madera y Productos'}})
+db.estab_2024_v6.updateMany({sector:'Metalurgica (incluye la siderurgica)'},{$set:{sector:'Metalúrgica (incluye la siderúrgica)'}})
+db.estab_2024_v6.updateMany({sector:'Metalurgica (incluye la siderurgica) '},{$set:{sector:'Metalúrgica (incluye la siderúrgica)'}})
+db.estab_2024_v6.updateMany({sector:'Petroleo y petroquimica'},{$set:{sector:'Petroleo y petroquímica'}})
+db.estab_2024_v6.updateMany({sector:'Petroleo y petroquimica '},{$set:{sector:'Petroleo y petroquímica'}})
+db.estab_2024_v6.updateMany({sector:'Pinturas y tintas '},{$set:{sector:'Pinturas y tintas'}})
+db.estab_2024_v6.updateMany({sector:'Quimica'},{$set:{sector:'Química'}})
+db.estab_2024_v6.updateMany({sector:'Textiles, fibras e hilos '},{$set:{sector:'Textiles, fibras e hilos'}})
+db.estab_2024_v6.updateMany({sector:'Tratamiento de residuos peligrosos '},{$set:{sector:'Tratamiento de residuos peligrosos'}})
+db.estab_2024_v6.updateMany({sector:'vidrio'},{$set:{sector:'Vidrio'}})
+
+```
+
+Resultado de aplicar las consultas
+
+```
+db.estab_2024_v6.updateMany({sector:'Alimenticio y/o de consumo humano '},{$set:{sector:'Alimenticio y/o de consumo humano'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 120,
+  modifiedCount: 120,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Articulos y productos compuestos de diferentes materiales'},{$set:{sector:'Artículos y productos compuestos de diferentes materiales'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 615,
+  modifiedCount: 615,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Articulos y productos compuestos de diferentes materiales '},{$set:{sector:'Artículos y productos compuestos de diferentes materiales'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 74,
+  modifiedCount: 74,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Articulos y productos metalicos'},{$set:{sector:'Artículos y productos metálicos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 1695,
+  modifiedCount: 1695,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Articulos y productos metalicos '},{$set:{sector:'Artículos y productos metálicos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 146,
+  modifiedCount: 146,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Articulos y productos plasticos'},{$set:{sector:'Artículos y productos plásticos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 675,
+  modifiedCount: 675,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Articulos y productos plasticos '},{$set:{sector:'Artículos y productos plásticos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 42,
+  modifiedCount: 42,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Automotriz '},{$set:{sector:'Automotriz'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 405,
+  modifiedCount: 405,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Equipos y articulos electronicos, electricos y domesticos'},{$set:{sector:'Equipos y artículos electrónicos, eléctricos y domésticos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 2562,
+  modifiedCount: 2562,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Equipos y articulos electronicos, electricos y domesticos '},{$set:{sector:'Equipos y artículos electrónicos, eléctricos y domésticos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 423,
+  modifiedCount: 423,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Generacion de energia electrica '},{$set:{sector:'Generación de energía eléctrica'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 175,
+  modifiedCount: 175,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Generación de energia electrica'},{$set:{sector:'Generación de energía eléctrica'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 1984,
+  modifiedCount: 1984,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Madera y Productos '},{$set:{sector:'Madera y Productos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 12,
+  modifiedCount: 12,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Metalurgica (incluye la siderurgica)'},{$set:{sector:'Metalúrgica (incluye la siderúrgica)'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 6102,
+  modifiedCount: 6102,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Metalurgica (incluye la siderurgica) '},{$set:{sector:'Metalúrgica (incluye la siderúrgica)'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 475,
+  modifiedCount: 475,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Petroleo y petroquimica'},{$set:{sector:'Petroleo y petroquímica'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 4269,
+  modifiedCount: 4269,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Petroleo y petroquimica '},{$set:{sector:'Petroleo y petroquímica'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 525,
+  modifiedCount: 525,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Pinturas y tintas '},{$set:{sector:'Pinturas y tintas'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 92,
+  modifiedCount: 92,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Quimica'},{$set:{sector:'Química'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 10149,
+  modifiedCount: 10149,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Textiles, fibras e hilos '},{$set:{sector:'Textiles, fibras e hilos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 67,
+  modifiedCount: 67,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'Tratamiento de residuos peligrosos '},{$set:{sector:'Tratamiento de residuos peligrosos'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 56,
+  modifiedCount: 56,
+  upsertedCount: 0
+}
+db.estab_2024_v6.updateMany({sector:'vidrio'},{$set:{sector:'Vidrio'}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 68,
+  modifiedCount: 68,
+  upsertedCount: 0
+}
+```
+
+###### Listado de sectores sin modificación
+
+- Asbesto
+- Bebidas y tabaco
+- Celulosa y papel
+- Cemento y Cal
+- Otros
+- Servicios de apoyo a los negocios, manejo de residuos peligrosos (no incluye tratamiento) y servicios de remediación
+- Servicios de salud y de asistencia
+- Vidrio y cristal
+
+###### Listado de sectores con modificaciones en algunos registros
+
+| Sector                             | Registros sin inconsistencias | Registros actualizados | Total de registros |
+| ---------------------------------- | ----------------------------- | ---------------------- | ------------------ |
+| Alimenticio y/o de consumo humano  | 2237                          | 120                    | 2357               |
+| Automotriz                         | 5250                          | 405                    | 5655               |
+| Generación de energía eléctrica    | 128                           | 2159                   | 2287               |
+| Madera y Productos                 | 130                           | 12                     | 142                |
+| Pinturas y tintas                  | 807                           | 92                     | 899                |
+| Textiles, fibras e hilos           | 492                           | 67                     | 559                |
+| Tratamiento de residuos peligrosos | 644                           | 56                     | 700                |
+| Vidrio                             | 495                           | 68                     | 563                |
+
+###### Listado de sectores con todos los registros actualizados
+
+| Sector                                                    | Registros sin inconsistencias | Registros actualizados | Total de registros |
+| --------------------------------------------------------- | ----------------------------- | ---------------------- | ------------------ |
+| Artículos y productos compuestos de diferentes materiales | 0                             | 689                    | 689                |
+| Artículos y productos metálicos                           | 0                             | 1841                   | 1841               |
+| Artículos y productos plásticos                           | 0                             | 717                    | 717                |
+| Equipos y artículos electrónicos, eléctricos y domésticos | 0                             | 2985                   | 2985               |
+| Metalúrgica (incluye la siderúrgica)                      | 0                             | 6577                   | 6577               |
+| Petroleo y petroquímica                                   | 0                             | 4794                   | 4794               |
+| Química                                                   | 0                             | 10149                  | 10149              |
+
 #### Se genero la bd estab_2024_v6
 
 Adicional a la corrección de los nombres de los Municipios y actualizar el nombre de algunos estados se agregaron los campos.
@@ -728,8 +975,6 @@ Adicional a la corrección de los nombres de los Municipios y actualizar el nomb
 * cve_mun
 
 ## Análisis del contenido de la base de datos del RETC
-
-
 
 ### Detección de NRA con distintos estados o municipios
 
@@ -1019,281 +1264,285 @@ A continuación se obtuvieron el listado de NRA con las combinaciones detectadas
 
 Con estos datos podemos resumir que:
 
-| Combinaciones                     | Cantidad de NRA |
-| --------------------------------- | --------------- |
-| NRA con un Estado/Muniipio        | 7185            |
-| NRA con más de un Estado/Muniipio | 2836            |
-| **Total**                         | **10021**       |
+| Combinaciones                      | Cantidad de NRA |
+| ---------------------------------- | --------------- |
+| NRA con un Estado/Municipio        | 7185            |
+| NRA con más de un Estado/Municipio | 2836            |
+| **Total**                          | **10021**       |
 
 A continuación se muestran los datos de los NRA con más de un estado. Como se puede observar existen establecimientos que no están en el estado que les corresponde, o que por error de captura se uso un NRA incorrecto.
 
-| nra               | estado                              | municipio                    | posicion | total |
-| ----------------- | ----------------------------------- | ---------------------------- | -------- | ----- |
-| PEP100501812      | Coahuila de Zaragoza                | Zaragoza                     | 1        | 3     |
-| PEP100501812      | Coahuila de Zaragoza                | Monclova                     | 2        | 3     |
-| **PEP100501812**  | **Tamaulipas**                      | **Reynosa**                  | **3**    | **3** |
-| PEP100707417      | Chiapas                             | Reforma                      | 1        | 3     |
-| PEP100707417      | Chiapas                             | Juárez                       | 2        | 3     |
-| PEP100707417      | Chiapas                             | Ostuacán                     | 3        | 3     |
-| AME2604200008     | Sonora                              | Cajeme                       | 1        | 3     |
-| **AME2604200008** | **Michoacán de Ocampo**             | **Copándaro**                | **2**    | **3** |
-| AME2604200008     | Sonora                              | Navojoa                      | 3        | 3     |
-| PEP10301311G      | Veracruz de Ignacio de la Llave     | Cerro Azul                   | 1        | 2     |
-| PEP10301311G      | Veracruz de Ignacio de la Llave     | Poza Rica de Hidalgo         | 2        | 2     |
-| AER5V1505111      | México                              | Toluca                       | 1        | 2     |
-| AER5V1505111      | México                              | Lerma                        | 2        | 2     |
-| **TGN192403711**  | **Veracruz de Ignacio de la Llave** | **Tantoyuca**                | **1**    | **2** |
-| TGN192403711      | San Luis Potosí                     | Tamazunchale                 | 2        | 2     |
-| PREMH3019311      | Veracruz de Ignacio de la Llave     | Medellín de Bravo            | 1        | 2     |
-| PREMH3019311      | Veracruz de Ignacio de la Llave     | Veracruz                     | 2        | 2     |
-| WMP5Q2201111      | Querétaro                           | Querétaro                    | 1        | 2     |
-| WMP5Q2201111      | Querétaro                           | El Marqués                   | 2        | 2     |
-| CDE8A0901611      | Ciudad de México                    | Venustiano Carranza          | 1        | 2     |
-| CDE8A0901611      | Ciudad de México                    | Miguel Hidalgo               | 2        | 2     |
-| PEP102803218      | Tamaulipas                          | Reynosa                      | 1        | 2     |
-| PEP102803218      | Tamaulipas                          | Miguel Alemán                | 2        | 2     |
-| IJD8C0502711      | Coahuila de Zaragoza                | Ramos Arizpe                 | 1        | 2     |
-| IJD8C0502711      | Nuevo León                          | Los Herreras                 | 2        | 2     |
-| PASLX2700411      | Tabasco                             | Jalpa de Méndez              | 1        | 2     |
-| PASLX2700411      | Tabasco                             | Centro                       | 2        | 2     |
-| EANEE1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| EANEE1512111      | México                              | Cuautitlán                   | 2        | 2     |
-| MOFK90400312      | Campeche                            | Carmen                       | 1        | 2     |
-| MOFK90400312      | Campeche                            | Campeche                     | 2        | 2     |
-| NMEAE2601311      | Sonora                              | Hermosillo                   | 1        | 2     |
-| NMEAE2601311      | Sonora                              | Banámichi                    | 2        | 2     |
-| MMA143205611      | Zacatecas                           | Morelos                      | 1        | 2     |
-| MMA143205611      | Zacatecas                           | Zacatecas                    | 2        | 2     |
-| PEP100706212      | Chiapas                             | Ostuacán                     | 1        | 2     |
-| PEP100706212      | Chiapas                             | Pichucalco                   | 2        | 2     |
-| CFEAD1001211      | Durango                             | Durango                      | 1        | 2     |
-| CFEAD1001211      | Durango                             | Lerdo                        | 2        | 2     |
-| UMEND1900611      | Nuevo León                          | Apodaca                      | 1        | 2     |
-| UMEND1900611      | Nuevo León                          | Aramberri                    | 2        | 2     |
-| LTM5Y1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| LTM5Y1512111      | México                              | Cuautitlán                   | 2        | 2     |
-| DMC7T2903911      | Tlaxcala                            | Xaloztoc                     | 1        | 2     |
-| DMC7T2903911      | Tlaxcala                            | Apizaco                      | 2        | 2     |
-| PEP102700617      | Tabasco                             | Cunduacán                    | 1        | 2     |
-| PEP102700617      | Tabasco                             | Centro                       | 2        | 2     |
-| MOFK90400314      | Campeche                            | Campeche                     | 1        | 2     |
-| MOFK90400314      | Campeche                            | Carmen                       | 2        | 2     |
-| PMIUA3105011      | Yucatán                             | Progreso                     | 1        | 2     |
-| PMIUA3105011      | Yucatán                             | Mérida                       | 2        | 2     |
-| GOPAY2201611      | Querétaro                           | San Juan del Río             | 1        | 2     |
-| GOPAY2201611      | Querétaro                           | Querétaro                    | 2        | 2     |
-| AUT1902600005     | Nuevo León                          | Guadalupe                    | 1        | 2     |
-| AUT1902600005     | Nuevo León                          | Monterrey                    | 2        | 2     |
-| CFEAD2601711      | Sonora                              | Pitiquito                    | 1        | 2     |
-| CFEAD2601711      | Sonora                              | Caborca                      | 2        | 2     |
-| PEP100501311      | Tamaulipas                          | Reynosa                      | 1        | 2     |
-| **PEP100501311**  | **Coahuila de Zaragoza**            | **Hidalgo**                  | **2**    | **2** |
-| SIT8A2902211      | Tlaxcala                            | Teolocholco                  | 1        | 2     |
-| SIT8A2902211      | Tlaxcala                            | Acuamanala de Miguel Hidalgo | 2        | 2     |
-| DDM0400300043     | Tabasco                             | Centla                       | 1        | 2     |
-| **DDM0400300043** | **Campeche**                        | **Carmen**                   | **2**    | **2** |
-| PGPM90803712      | Chihuahua                           | Chihuahua                    | 1        | 2     |
-| PGPM90803712      | Chihuahua                           | Juárez                       | 2        | 2     |
-| CIC742300811      | Quintana Roo                        | Cozumel                      | 1        | 2     |
-| CIC742300811      | Quintana Roo                        | Solidaridad                  | 2        | 2     |
-| PEP103013118      | Veracruz de Ignacio de la Llave     | Poza Rica de Hidalgo         | 1        | 2     |
-| PEP103013118      | Veracruz de Ignacio de la Llave     | Cerro Azul                   | 2        | 2     |
-| DQU5W1512111      | México                              | Cuautitlán                   | 1        | 2     |
-| DQU5W1512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| CME5J1102811      | Guanajuato                          | Salvatierra                  | 1        | 2     |
-| CME5J1102811      | Guanajuato                          | Guanajuato                   | 2        | 2     |
-| PEP100400211      | Campeche                            | Carmen                       | 1        | 2     |
-| PEP100400211      | Campeche                            | Campeche                     | 2        | 2     |
-| HNAMC1100511      | Guanajuato                          | Apaseo el Grande             | 1        | 2     |
-| HNAMC1100511      | Guanajuato                          | Celaya                       | 2        | 2     |
-| PEP2701400048     | Tabasco                             | Paraíso                      | 1        | 2     |
-| **PEP2701400048** | **Ciudad de México**                | **Benito Juárez**            | **2**    | **2** |
-| NCS100400311      | Veracruz de Ignacio de la Llave     | Tuxpan                       | 1        | 2     |
-| **NCS100400311**  | **Campeche**                        | **Carmen**                   | **2**    | **2** |
-| PMETW0400311      | Campeche                            | Campeche                     | 1        | 2     |
-| PMETW0400311      | Campeche                            | Carmen                       | 2        | 2     |
-| CME1X1104411      | Guanajuato                          | Celaya                       | 1        | 2     |
-| CME1X1104411      | Guanajuato                          | Villagrán                    | 2        | 2     |
-| OCI2700400001     | Tabasco                             | Centla                       | 1        | 2     |
-| OCI2700400001     | Tabasco                             | Centro                       | 2        | 2     |
-| ZME5S1407011      | Jalisco                             | El Salto                     | 1        | 2     |
-| ZME5S1407011      | Jalisco                             | Tlajomulco de Zúñiga         | 2        | 2     |
-| CFEAD2606111      | Sonora                              | Hermosillo                   | 1        | 2     |
-| CFEAD2606111      | Sonora                              | Soyopa                       | 2        | 2     |
-| PREM91700611      | Morelos                             | Ayala                        | 1        | 2     |
-| PREM91700611      | Morelos                             | Cuautla                      | 2        | 2     |
-| PREM91412011      | Jalisco                             | Zapopan                      | 1        | 2     |
-| PREM91412011      | Jalisco                             | El Salto                     | 2        | 2     |
-| VRALJ1306911      | Hidalgo                             | Pachuca de Soto              | 1        | 2     |
-| VRALJ1306911      | Hidalgo                             | Tizayuca                     | 2        | 2     |
-| MTEKE0900211      | Ciudad de México                    | Azcapotzalco                 | 1        | 2     |
-| MTEKE0900211      | Ciudad de México                    | Gustavo A. Madero            | 2        | 2     |
-| BMU2P0502211      | Coahuila de Zaragoza                | Nava                         | 1        | 2     |
-| BMU2P0502211      | Coahuila de Zaragoza                | Piedras Negras               | 2        | 2     |
-| TIS7T2402811      | San Luis Potosí                     | Villa de Reyes               | 1        | 2     |
-| TIS7T2402811      | San Luis Potosí                     | San Luis Potosí              | 2        | 2     |
-| AARKE1901911      | Nuevo León                          | Monterrey                    | 1        | 2     |
-| AARKE1901911      | Nuevo León                          | San Pedro Garza García       | 2        | 2     |
-| RMCMB1512111      | México                              | Cuautitlán                   | 1        | 2     |
-| RMCMB1512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| OXA8A1505711      | México                              | Tlalnepantla de Baz          | 1        | 2     |
-| OXA8A1505711      | México                              | Naucalpan de Juárez          | 2        | 2     |
-| GCMBJ300861E      | Veracruz de Ignacio de la Llave     | Xalapa                       | 1        | 2     |
-| GCMBJ300861E      | Veracruz de Ignacio de la Llave     | Jalacingo                    | 2        | 2     |
-| PEP10270082H      | Tabasco                             | Cárdenas                     | 1        | 2     |
-| PEP10270082H      | Tabasco                             | Huimanguillo                 | 2        | 2     |
-| PEP1027002AC      | Tabasco                             | Cárdenas                     | 1        | 2     |
-| PEP1027002AC      | Tabasco                             | Huimanguillo                 | 2        | 2     |
-| PEP103002811      | Veracruz de Ignacio de la Llave     | Veracruz                     | 1        | 2     |
-| PEP103002811      | Veracruz de Ignacio de la Llave     | Boca del Río                 | 2        | 2     |
-| SAMLJ0101111      | Aguascalientes                      | San Francisco de los Romo    | 1        | 2     |
-| SAMLJ0101111      | Aguascalientes                      | Aguascalientes               | 2        | 2     |
-| BMUBT0801911      | Jalisco                             | Bolaños                      | 1        | 2     |
-| **BMUBT0801911**  | **Chihuahua**                       | **Chihuahua**                | **2**    | **2** |
-| PAS9M2803211      | Tamaulipas                          | Reynosa                      | 1        | 2     |
-| PAS9M2803211      | Tamaulipas                          | Matamoros                    | 2        | 2     |
-| PREN83011514      | Veracruz de Ignacio de la Llave     | Nogales                      | 1        | 2     |
-| PREN83011514      | Veracruz de Ignacio de la Llave     | Xalapa                       | 2        | 2     |
-| PEP103018112      | Veracruz de Ignacio de la Llave     | Veracruz                     | 1        | 2     |
-| PEP103018112      | Veracruz de Ignacio de la Llave     | Boca del Río                 | 2        | 2     |
-| CRO691300312      | Hidalgo                             | Actopan                      | 1        | 2     |
-| **CRO691300312**  | **Ciudad de México**                | **Coyoacán**                 | **2**    | **2** |
-| BMUB31903911      | Nuevo León                          | Monterrey                    | 1        | 2     |
-| **BMUB31903911**  | **Jalisco**                         | **Guadalajara**              | **2**    | **2** |
-| PEP103013114      | Veracruz de Ignacio de la Llave     | Veracruz                     | 1        | 2     |
-| PEP103013114      | Veracruz de Ignacio de la Llave     | Boca del Río                 | 2        | 2     |
-| CNL5E2201111      | Querétaro                           | El Marqués                   | 1        | 2     |
-| CNL5E2201111      | Querétaro                           | Querétaro                    | 2        | 2     |
-| TME9M2201411      | Querétaro                           | San Joaquín                  | 1        | 2     |
-| TME9M2201411      | Querétaro                           | Querétaro                    | 2        | 2     |
-| CFEAD1000714      | Durango                             | Durango                      | 1        | 2     |
-| CFEAD1000714      | Durango                             | Gómez Palacio                | 2        | 2     |
-| EDMK92700311      | Campeche                            | Carmen                       | 1        | 2     |
-| **EDMK92700311**  | **Tabasco**                         | **Centla**                   | **2**    | **2** |
-| PEP10270141K      | Campeche                            | Carmen                       | 1        | 2     |
-| **PEP10270141K**  | **Tabasco**                         | **Paraíso**                  | **2**    | **2** |
-| CME9I0502711      | Coahuila de Zaragoza                | Ramos Arizpe                 | 1        | 2     |
-| CME9I0502711      | Coahuila de Zaragoza                | Saltillo                     | 2        | 2     |
-| MPAND1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| MPAND1512111      | México                              | Cuautitlán                   | 2        | 2     |
-| EMCZU1901211      | Nuevo León                          | Ciénega de Flores            | 1        | 2     |
-| EMCZU1901211      | Nuevo León                          | Monterrey                    | 2        | 2     |
-| RBE8V0803716      | Chihuahua                           | Chihuahua                    | 1        | 2     |
-| RBE8V0803716      | Chihuahua                           | Juárez                       | 2        | 2     |
-| IPCMG3018911      | Veracruz de Ignacio de la Llave     | Tuxpan                       | 1        | 2     |
-| **IPCMG3018911**  | **Campeche**                        | **Carmen**                   | **2**    | **2** |
-| CMER30802011      | Chihuahua                           | Chínipas                     | 1        | 2     |
-| CMER30802011      | Chihuahua                           | Chihuahua                    | 2        | 2     |
-| MISUA3003911      | Veracruz de Ignacio de la Llave     | Agua Dulce                   | 1        | 2     |
-| MISUA3003911      | Veracruz de Ignacio de la Llave     | Coatzacoalcos                | 2        | 2     |
-| GMB121001911      | Durango                             | Otáez                        | 1        | 2     |
-| GMB121001911      | Durango                             | Durango                      | 2        | 2     |
-| PEP10280321N      | Tamaulipas                          | Mier                         | 1        | 2     |
-| PEP10280321N      | Tamaulipas                          | Reynosa                      | 2        | 2     |
-| PRO361512111      | México                              | Cuautitlán                   | 1        | 2     |
-| PRO361512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| AEEBU0900712      | Ciudad de México                    | Gustavo A. Madero            | 1        | 2     |
-| AEEBU0900712      | Ciudad de México                    | Iztapalapa                   | 2        | 2     |
-| IPAMC3004411      | Veracruz de Ignacio de la Llave     | Córdoba                      | 1        | 2     |
-| IPAMC3004411      | Veracruz de Ignacio de la Llave     | Veracruz                     | 2        | 2     |
-| FAI9K0502711      | Coahuila de Zaragoza                | Saltillo                     | 1        | 2     |
-| FAI9K0502711      | Coahuila de Zaragoza                | Ramos Arizpe                 | 2        | 2     |
-| PEPM93017411      | Veracruz de Ignacio de la Llave     | Tierra Blanca                | 1        | 2     |
-| PEPM93017411      | Veracruz de Ignacio de la Llave     | Boca del Río                 | 2        | 2     |
-| APAKE1901911      | Nuevo León                          | García                       | 1        | 2     |
-| APAKE1901911      | Nuevo León                          | San Pedro Garza García       | 2        | 2     |
-| IMA7Q1512111      | México                              | Cuautitlán                   | 1        | 2     |
-| IMA7Q1512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| TMEMD1900611      | Nuevo León                          | Aramberri                    | 1        | 2     |
-| TMEMD1900611      | Nuevo León                          | Apodaca                      | 2        | 2     |
-| CME2701400018     | Tabasco                             | Paraíso                      | 1        | 2     |
-| CME2701400018     | Campeche                            | Carmen                       | 2        | 2     |
-| GBW5Y0900711      | Ciudad de México                    | Iztapalapa                   | 1        | 2     |
-| GBW5Y0900711      | Ciudad de México                    | Gustavo A. Madero            | 2        | 2     |
-| IDPBB1900911      | Nuevo León                          | Monterrey                    | 1        | 2     |
-| IDPBB1900911      | Nuevo León                          | Cadereyta Jiménez            | 2        | 2     |
-| PRE671307612      | Hidalgo                             | Atitalaquia                  | 1        | 2     |
-| PRE671307612      | Hidalgo                             | Tula de Allende              | 2        | 2     |
-| UME9M0100111      | Aguascalientes                      | San Francisco de los Romo    | 1        | 2     |
-| UME9M0100111      | Aguascalientes                      | Aguascalientes               | 2        | 2     |
-| PEP100400214      | Campeche                            | Campeche                     | 1        | 2     |
-| PEP100400214      | Campeche                            | Carmen                       | 2        | 2     |
-| GSP0400300053     | Campeche                            | Carmen                       | 1        | 2     |
-| GSP0400300053     | Campeche                            | Champotón                    | 2        | 2     |
-| ANJ5P1409711      | Jalisco                             | San Pedro Tlaquepaque        | 1        | 2     |
-| ANJ5P1409711      | Jalisco                             | Tlajomulco de Zúñiga         | 2        | 2     |
-| BFO8L1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| BFO8L1512111      | México                              | Cuautitlán                   | 2        | 2     |
-| BMS5T0900311      | Ciudad de México                    | Benito Juárez                | 1        | 2     |
-| BMS5T0900311      | Ciudad de México                    | Coyoacán                     | 2        | 2     |
-| CEIM03004811      | Veracruz de Ignacio de la Llave     | Cosoleacaque                 | 1        | 2     |
-| CEIM03004811      | Veracruz de Ignacio de la Llave     | Coatzacoalcos                | 2        | 2     |
-| PEP102700612      | Tabasco                             | Centro                       | 1        | 2     |
-| PEP102700612      | Tabasco                             | Cunduacán                    | 2        | 2     |
-| SMSLU2700411      | Tabasco                             | Centro                       | 1        | 2     |
-| SMSLU2700411      | Tabasco                             | Paraíso                      | 2        | 2     |
-| SFA521512111      | México                              | Cuautitlán                   | 1        | 2     |
-| SFA521512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| KOB7N1900111      | Nuevo León                          | Apodaca                      | 1        | 2     |
-| KOB7N1900111      | Nuevo León                          | Abasolo                      | 2        | 2     |
-| MEX9M1901211      | Nuevo León                          | Ciénega de Flores            | 1        | 2     |
-| MEX9M1901211      | Nuevo León                          | Monterrey                    | 2        | 2     |
-| TME1F1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| TME1F1512111      | México                              | Cuautitlán                   | 2        | 2     |
-| PEA7J0900211      | Ciudad de México                    | Gustavo A. Madero            | 1        | 2     |
-| PEA7J0900211      | Ciudad de México                    | Azcapotzalco                 | 2        | 2     |
-| MME5Q0502711      | Coahuila de Zaragoza                | Ramos Arizpe                 | 1        | 2     |
-| MME5Q0502711      | Coahuila de Zaragoza                | Saltillo                     | 2        | 2     |
-| PEP102700218      | Tabasco                             | Huimanguillo                 | 1        | 2     |
-| PEP102700218      | Tabasco                             | Cárdenas                     | 2        | 2     |
-| P&GZU1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| P&GZU1512111      | México                              | Cuautitlán                   | 2        | 2     |
-| LCM9L0900711      | Ciudad de México                    | Azcapotzalco                 | 1        | 2     |
-| LCM9L0900711      | Ciudad de México                    | Iztapalapa                   | 2        | 2     |
-| CRY5K1104411      | Guanajuato                          | Celaya                       | 1        | 2     |
-| CRY5K1104411      | Guanajuato                          | Villagrán                    | 2        | 2     |
-| DDM0400300024     | Tabasco                             | Paraíso                      | 1        | 2     |
-| **DDM0400300024** | **Campeche**                        | **Carmen**                   | **2**    | **2** |
-| CIN6T0503011      | Coahuila de Zaragoza                | Ramos Arizpe                 | 1        | 2     |
-| CIN6T0503011      | Coahuila de Zaragoza                | Saltillo                     | 2        | 2     |
-| PYT7J0501011      | Coahuila de Zaragoza                | Frontera                     | 1        | 2     |
-| PYT7J0501011      | Coahuila de Zaragoza                | Monclova                     | 2        | 2     |
-| PFR5Q1512112      | México                              | Cuautitlán                   | 1        | 2     |
-| PFR5Q1512112      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| IAI0500400004     | Coahuila de Zaragoza                | Saltillo                     | 1        | 2     |
-| IAI0500400004     | Coahuila de Zaragoza                | Arteaga                      | 2        | 2     |
-| PEP102700818      | Tabasco                             | Centro                       | 1        | 2     |
-| PEP102700818      | Tabasco                             | Huimanguillo                 | 2        | 2     |
-| PREM93008511      | Veracruz de Ignacio de la Llave     | Orizaba                      | 1        | 2     |
-| PREM93008511      | Veracruz de Ignacio de la Llave     | Ixtaczoquitlán               | 2        | 2     |
-| CCO7Q1512111      | México                              | Cuautitlán                   | 1        | 2     |
-| CCO7Q1512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| FCH742800411      | Tamaulipas                          | El Mante                     | 1        | 2     |
-| FCH742800411      | Tamaulipas                          | Antiguo Morelos              | 2        | 2     |
-| CIT2M3010211      | Veracruz de Ignacio de la Llave     | Martínez de la Torre         | 1        | 2     |
-| CIT2M3010211      | Veracruz de Ignacio de la Llave     | San Rafael                   | 2        | 2     |
-| EME7S1904611      | Nuevo León                          | San Nicolás de los Garza     | 1        | 2     |
-| EME7S1904611      | Nuevo León                          | Monterrey                    | 2        | 2     |
-| PEP3005400002     | Veracruz de Ignacio de la Llave     | Boca del Río                 | 1        | 2     |
-| PEP3005400002     | Veracruz de Ignacio de la Llave     | Chacaltianguis               | 2        | 2     |
-| PEPM92803811      | Tamaulipas                          | Tampico                      | 1        | 2     |
-| PEPM92803811      | Tamaulipas                          | Reynosa                      | 2        | 2     |
-| MAL231512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| MAL231512111      | México                              | Cuautitlán                   | 2        | 2     |
-| MAG5I0502311      | Coahuila de Zaragoza                | Torreón                      | 1        | 2     |
-| MAG5I0502311      | Coahuila de Zaragoza                | Ocampo                       | 2        | 2     |
-| FMO9G1512111      | México                              | Cuautitlán                   | 1        | 2     |
-| FMO9G1512111      | México                              | Cuautitlán Izcalli           | 2        | 2     |
-| CFEAD2300521      | Campeche                            | Carmen                       | 1        | 2     |
-| **CFEAD2300521**  | **Quintana Roo**                    | **Benito Juárez**            | **2**    | **2** |
-| PEPR93002811      | Veracruz de Ignacio de la Llave     | Veracruz                     | 1        | 2     |
-| PEPR93002811      | Veracruz de Ignacio de la Llave     | Boca del Río                 | 2        | 2     |
-| PEP100704811      | Chiapas                             | Reforma                      | 1        | 2     |
-| PEP100704811      | Chiapas                             | Juárez                       | 2        | 2     |
-| PEP100400213      | Campeche                            | Carmen                       | 1        | 2     |
-| PEP100400213      | Campeche                            | Campeche                     | 2        | 2     |
-| FMA910100511      | Aguascalientes                      | Jesús María                  | 1        | 2     |
-| FMA910100511      | Aguascalientes                      | Aguascalientes               | 2        | 2     |
-| BDM5T1512111      | México                              | Cuautitlán Izcalli           | 1        | 2     |
-| BDM5T1512111      | México                              | Cuautitlán                   | 2        | 2     |
+
+
+
+
+| nra               | estado (cve_ent)                         | municipio (cve_mun)            | posición | total | url sinat                                                    |
+| ----------------- | ---------------------------------------- | ------------------------------ | -------- | ----- | ------------------------------------------------------------ |
+| PEP100501812      | Coahuila de Zaragoza (05)                | Zaragoza (038)                 | 1        | 3     | http://sinat.semarnat.gob.mx/retc/retc/index.php?nra=PEP100501812&anio=2015 |
+| **PEP100501812**  | **Coahuila de Zaragoza** (05)            | **Monclova **(018)             | **2**    | **3** | http://sinat.semarnat.gob.mx/retc/retc/index.php?nra=PEP100501812&anio=2014 |
+| PEP100501812      | Tamaulipas (28)                          | Reynosa (032)                  | 3        | 3     | http://sinat.semarnat.gob.mx/retc/retc/index.php?nra=PEP100501812&anio=2009 |
+| **PEP100707417**  | **Chiapas (07)**                         | **Reforma (074)**              | **1**    | **3** |                                                              |
+| PEP100707417      | Chiapas (07)                             | Juárez (048)                   | 2        | 3     |                                                              |
+| PEP100707417      | Chiapas (07)                             | Ostuacán (062)                 | 3        | 3     |                                                              |
+| AME2604200008     | Sonora (26)                              | Cajeme (018)                   | 1        | 3     |                                                              |
+| AME2604200008     | Michoacán de Ocampo (16)                 | Copándaro (018)                | 2        | 3     |                                                              |
+| **AME2604200008** | **Sonora (26)**                          | **Navojoa (042)**              | **3**    | **3** |                                                              |
+| PEP10301311G      | Veracruz de Ignacio de la Llave (30)     | Cerro Azul (034)               | 1        | 2     |                                                              |
+| **PEP10301311G**  | **Veracruz de Ignacio de la Llave (30)** | **Poza Rica de Hidalgo (131)** | **2**    | **2** |                                                              |
+| **AER5V1505111**  | **México (15)**                          | **Toluca (051)**               | **1**    | **2** |                                                              |
+| AER5V1505111      | México (15)                              | Lerma (106)                    | 2        | 2     |                                                              |
+| TGN192403711      | Veracruz de Ignacio de la Llave (30)     | Tantoyuca (155)                | 1        | 2     |                                                              |
+| **TGN192403711**  | **San Luis Potosí (24)**                 | **Tamazunchale (037)**         | **2**    | **2** |                                                              |
+| PREMH3019311      | Veracruz de Ignacio de la Llave (30)     | Medellín de Bravo (105)        | 1        | 2     |                                                              |
+| **PREMH3019311**  | **Veracruz de Ignacio de la Llave (30)** | **Veracruz (193)**             | **2**    | **2** |                                                              |
+| WMP5Q2201111      | Querétaro (22)                           | Querétaro (014)                | 1        | 2     |                                                              |
+| **WMP5Q2201111**  | **Querétaro (22)**                       | **El Marqués (011)**           | **2**    | **2** |                                                              |
+| CDE8A0901611      | Ciudad de México (09)                    | Venustiano Carranza (017)      | 1        | 2     |                                                              |
+| **CDE8A0901611**  | **Ciudad de México (09)**                | **Miguel Hidalgo (016)**       | **2**    | **2** |                                                              |
+| **PEP102803218**  | **Tamaulipas (28)**                      | **Reynosa (032)**              | **1**    | **2** |                                                              |
+| PEP102803218      | Tamaulipas (28)                          | Miguel Alemán (025)            | 2        | 2     |                                                              |
+| IJD8C0502711      | Coahuila de Zaragoza                     | Ramos Arizpe                   | 1        | 2     |                                                              |
+| IJD8C0502711      | Nuevo León                               | Los Herreras                   | 2        | 2     |                                                              |
+| PASLX2700411      | Tabasco                                  | Jalpa de Méndez                | 1        | 2     |                                                              |
+| PASLX2700411      | Tabasco                                  | Centro                         | 2        | 2     |                                                              |
+| EANEE1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| EANEE1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| MOFK90400312      | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| MOFK90400312      | Campeche                                 | Campeche                       | 2        | 2     |                                                              |
+| NMEAE2601311      | Sonora                                   | Hermosillo                     | 1        | 2     |                                                              |
+| NMEAE2601311      | Sonora                                   | Banámichi                      | 2        | 2     |                                                              |
+| MMA143205611      | Zacatecas                                | Morelos                        | 1        | 2     |                                                              |
+| MMA143205611      | Zacatecas                                | Zacatecas                      | 2        | 2     |                                                              |
+| PEP100706212      | Chiapas                                  | Ostuacán                       | 1        | 2     |                                                              |
+| PEP100706212      | Chiapas                                  | Pichucalco                     | 2        | 2     |                                                              |
+| CFEAD1001211      | Durango                                  | Durango                        | 1        | 2     |                                                              |
+| CFEAD1001211      | Durango                                  | Lerdo                          | 2        | 2     |                                                              |
+| UMEND1900611      | Nuevo León                               | Apodaca                        | 1        | 2     |                                                              |
+| UMEND1900611      | Nuevo León                               | Aramberri                      | 2        | 2     |                                                              |
+| LTM5Y1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| LTM5Y1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| DMC7T2903911      | Tlaxcala                                 | Xaloztoc                       | 1        | 2     |                                                              |
+| DMC7T2903911      | Tlaxcala                                 | Apizaco                        | 2        | 2     |                                                              |
+| PEP102700617      | Tabasco                                  | Cunduacán                      | 1        | 2     |                                                              |
+| PEP102700617      | Tabasco                                  | Centro                         | 2        | 2     |                                                              |
+| MOFK90400314      | Campeche                                 | Campeche                       | 1        | 2     |                                                              |
+| MOFK90400314      | Campeche                                 | Carmen                         | 2        | 2     |                                                              |
+| PMIUA3105011      | Yucatán                                  | Progreso                       | 1        | 2     |                                                              |
+| PMIUA3105011      | Yucatán                                  | Mérida                         | 2        | 2     |                                                              |
+| GOPAY2201611      | Querétaro                                | San Juan del Río               | 1        | 2     |                                                              |
+| GOPAY2201611      | Querétaro                                | Querétaro                      | 2        | 2     |                                                              |
+| AUT1902600005     | Nuevo León                               | Guadalupe                      | 1        | 2     |                                                              |
+| AUT1902600005     | Nuevo León                               | Monterrey                      | 2        | 2     |                                                              |
+| CFEAD2601711      | Sonora                                   | Pitiquito                      | 1        | 2     |                                                              |
+| CFEAD2601711      | Sonora                                   | Caborca                        | 2        | 2     |                                                              |
+| PEP100501311      | Tamaulipas                               | Reynosa                        | 1        | 2     |                                                              |
+| **PEP100501311**  | **Coahuila de Zaragoza**                 | **Hidalgo**                    | **2**    | **2** |                                                              |
+| SIT8A2902211      | Tlaxcala                                 | Teolocholco                    | 1        | 2     |                                                              |
+| SIT8A2902211      | Tlaxcala                                 | Acuamanala de Miguel Hidalgo   | 2        | 2     |                                                              |
+| DDM0400300043     | Tabasco                                  | Centla                         | 1        | 2     |                                                              |
+| **DDM0400300043** | **Campeche**                             | **Carmen**                     | **2**    | **2** |                                                              |
+| PGPM90803712      | Chihuahua                                | Chihuahua                      | 1        | 2     |                                                              |
+| PGPM90803712      | Chihuahua                                | Juárez                         | 2        | 2     |                                                              |
+| CIC742300811      | Quintana Roo                             | Cozumel                        | 1        | 2     |                                                              |
+| CIC742300811      | Quintana Roo                             | Solidaridad                    | 2        | 2     |                                                              |
+| PEP103013118      | Veracruz de Ignacio de la Llave          | Poza Rica de Hidalgo           | 1        | 2     |                                                              |
+| PEP103013118      | Veracruz de Ignacio de la Llave          | Cerro Azul                     | 2        | 2     |                                                              |
+| DQU5W1512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| DQU5W1512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| CME5J1102811      | Guanajuato                               | Salvatierra                    | 1        | 2     |                                                              |
+| CME5J1102811      | Guanajuato                               | Guanajuato                     | 2        | 2     |                                                              |
+| PEP100400211      | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| PEP100400211      | Campeche                                 | Campeche                       | 2        | 2     |                                                              |
+| HNAMC1100511      | Guanajuato                               | Apaseo el Grande               | 1        | 2     |                                                              |
+| HNAMC1100511      | Guanajuato                               | Celaya                         | 2        | 2     |                                                              |
+| PEP2701400048     | Tabasco                                  | Paraíso                        | 1        | 2     |                                                              |
+| **PEP2701400048** | **Ciudad de México**                     | **Benito Juárez**              | **2**    | **2** |                                                              |
+| NCS100400311      | Veracruz de Ignacio de la Llave          | Tuxpan                         | 1        | 2     |                                                              |
+| **NCS100400311**  | **Campeche**                             | **Carmen**                     | **2**    | **2** |                                                              |
+| PMETW0400311      | Campeche                                 | Campeche                       | 1        | 2     |                                                              |
+| PMETW0400311      | Campeche                                 | Carmen                         | 2        | 2     |                                                              |
+| CME1X1104411      | Guanajuato                               | Celaya                         | 1        | 2     |                                                              |
+| CME1X1104411      | Guanajuato                               | Villagrán                      | 2        | 2     |                                                              |
+| OCI2700400001     | Tabasco                                  | Centla                         | 1        | 2     |                                                              |
+| OCI2700400001     | Tabasco                                  | Centro                         | 2        | 2     |                                                              |
+| ZME5S1407011      | Jalisco                                  | El Salto                       | 1        | 2     |                                                              |
+| ZME5S1407011      | Jalisco                                  | Tlajomulco de Zúñiga           | 2        | 2     |                                                              |
+| CFEAD2606111      | Sonora                                   | Hermosillo                     | 1        | 2     |                                                              |
+| CFEAD2606111      | Sonora                                   | Soyopa                         | 2        | 2     |                                                              |
+| PREM91700611      | Morelos                                  | Ayala                          | 1        | 2     |                                                              |
+| PREM91700611      | Morelos                                  | Cuautla                        | 2        | 2     |                                                              |
+| PREM91412011      | Jalisco                                  | Zapopan                        | 1        | 2     |                                                              |
+| PREM91412011      | Jalisco                                  | El Salto                       | 2        | 2     |                                                              |
+| VRALJ1306911      | Hidalgo                                  | Pachuca de Soto                | 1        | 2     |                                                              |
+| VRALJ1306911      | Hidalgo                                  | Tizayuca                       | 2        | 2     |                                                              |
+| MTEKE0900211      | Ciudad de México                         | Azcapotzalco                   | 1        | 2     |                                                              |
+| MTEKE0900211      | Ciudad de México                         | Gustavo A. Madero              | 2        | 2     |                                                              |
+| BMU2P0502211      | Coahuila de Zaragoza                     | Nava                           | 1        | 2     |                                                              |
+| BMU2P0502211      | Coahuila de Zaragoza                     | Piedras Negras                 | 2        | 2     |                                                              |
+| TIS7T2402811      | San Luis Potosí                          | Villa de Reyes                 | 1        | 2     |                                                              |
+| TIS7T2402811      | San Luis Potosí                          | San Luis Potosí                | 2        | 2     |                                                              |
+| AARKE1901911      | Nuevo León                               | Monterrey                      | 1        | 2     |                                                              |
+| AARKE1901911      | Nuevo León                               | San Pedro Garza García         | 2        | 2     |                                                              |
+| RMCMB1512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| RMCMB1512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| OXA8A1505711      | México                                   | Tlalnepantla de Baz            | 1        | 2     |                                                              |
+| OXA8A1505711      | México                                   | Naucalpan de Juárez            | 2        | 2     |                                                              |
+| GCMBJ300861E      | Veracruz de Ignacio de la Llave          | Xalapa                         | 1        | 2     |                                                              |
+| GCMBJ300861E      | Veracruz de Ignacio de la Llave          | Jalacingo                      | 2        | 2     |                                                              |
+| PEP10270082H      | Tabasco                                  | Cárdenas                       | 1        | 2     |                                                              |
+| PEP10270082H      | Tabasco                                  | Huimanguillo                   | 2        | 2     |                                                              |
+| PEP1027002AC      | Tabasco                                  | Cárdenas                       | 1        | 2     |                                                              |
+| PEP1027002AC      | Tabasco                                  | Huimanguillo                   | 2        | 2     |                                                              |
+| PEP103002811      | Veracruz de Ignacio de la Llave          | Veracruz                       | 1        | 2     |                                                              |
+| PEP103002811      | Veracruz de Ignacio de la Llave          | Boca del Río                   | 2        | 2     |                                                              |
+| SAMLJ0101111      | Aguascalientes                           | San Francisco de los Romo      | 1        | 2     |                                                              |
+| SAMLJ0101111      | Aguascalientes                           | Aguascalientes                 | 2        | 2     |                                                              |
+| BMUBT0801911      | Jalisco                                  | Bolaños                        | 1        | 2     |                                                              |
+| **BMUBT0801911**  | **Chihuahua**                            | **Chihuahua**                  | **2**    | **2** |                                                              |
+| PAS9M2803211      | Tamaulipas                               | Reynosa                        | 1        | 2     |                                                              |
+| PAS9M2803211      | Tamaulipas                               | Matamoros                      | 2        | 2     |                                                              |
+| PREN83011514      | Veracruz de Ignacio de la Llave          | Nogales                        | 1        | 2     |                                                              |
+| PREN83011514      | Veracruz de Ignacio de la Llave          | Xalapa                         | 2        | 2     |                                                              |
+| PEP103018112      | Veracruz de Ignacio de la Llave          | Veracruz                       | 1        | 2     |                                                              |
+| PEP103018112      | Veracruz de Ignacio de la Llave          | Boca del Río                   | 2        | 2     |                                                              |
+| CRO691300312      | Hidalgo                                  | Actopan                        | 1        | 2     |                                                              |
+| **CRO691300312**  | **Ciudad de México**                     | **Coyoacán**                   | **2**    | **2** |                                                              |
+| BMUB31903911      | Nuevo León                               | Monterrey                      | 1        | 2     |                                                              |
+| **BMUB31903911**  | **Jalisco**                              | **Guadalajara**                | **2**    | **2** |                                                              |
+| PEP103013114      | Veracruz de Ignacio de la Llave          | Veracruz                       | 1        | 2     |                                                              |
+| PEP103013114      | Veracruz de Ignacio de la Llave          | Boca del Río                   | 2        | 2     |                                                              |
+| CNL5E2201111      | Querétaro                                | El Marqués                     | 1        | 2     |                                                              |
+| CNL5E2201111      | Querétaro                                | Querétaro                      | 2        | 2     |                                                              |
+| TME9M2201411      | Querétaro                                | San Joaquín                    | 1        | 2     |                                                              |
+| TME9M2201411      | Querétaro                                | Querétaro                      | 2        | 2     |                                                              |
+| CFEAD1000714      | Durango                                  | Durango                        | 1        | 2     |                                                              |
+| CFEAD1000714      | Durango                                  | Gómez Palacio                  | 2        | 2     |                                                              |
+| EDMK92700311      | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| **EDMK92700311**  | **Tabasco**                              | **Centla**                     | **2**    | **2** |                                                              |
+| PEP10270141K      | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| **PEP10270141K**  | **Tabasco**                              | **Paraíso**                    | **2**    | **2** |                                                              |
+| CME9I0502711      | Coahuila de Zaragoza                     | Ramos Arizpe                   | 1        | 2     |                                                              |
+| CME9I0502711      | Coahuila de Zaragoza                     | Saltillo                       | 2        | 2     |                                                              |
+| MPAND1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| MPAND1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| EMCZU1901211      | Nuevo León                               | Ciénega de Flores              | 1        | 2     |                                                              |
+| EMCZU1901211      | Nuevo León                               | Monterrey                      | 2        | 2     |                                                              |
+| RBE8V0803716      | Chihuahua                                | Chihuahua                      | 1        | 2     |                                                              |
+| RBE8V0803716      | Chihuahua                                | Juárez                         | 2        | 2     |                                                              |
+| IPCMG3018911      | Veracruz de Ignacio de la Llave          | Tuxpan                         | 1        | 2     |                                                              |
+| **IPCMG3018911**  | **Campeche**                             | **Carmen**                     | **2**    | **2** |                                                              |
+| CMER30802011      | Chihuahua                                | Chínipas                       | 1        | 2     |                                                              |
+| CMER30802011      | Chihuahua                                | Chihuahua                      | 2        | 2     |                                                              |
+| MISUA3003911      | Veracruz de Ignacio de la Llave          | Agua Dulce                     | 1        | 2     |                                                              |
+| MISUA3003911      | Veracruz de Ignacio de la Llave          | Coatzacoalcos                  | 2        | 2     |                                                              |
+| GMB121001911      | Durango                                  | Otáez                          | 1        | 2     |                                                              |
+| GMB121001911      | Durango                                  | Durango                        | 2        | 2     |                                                              |
+| PEP10280321N      | Tamaulipas                               | Mier                           | 1        | 2     |                                                              |
+| PEP10280321N      | Tamaulipas                               | Reynosa                        | 2        | 2     |                                                              |
+| PRO361512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| PRO361512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| AEEBU0900712      | Ciudad de México                         | Gustavo A. Madero              | 1        | 2     |                                                              |
+| AEEBU0900712      | Ciudad de México                         | Iztapalapa                     | 2        | 2     |                                                              |
+| IPAMC3004411      | Veracruz de Ignacio de la Llave          | Córdoba                        | 1        | 2     |                                                              |
+| IPAMC3004411      | Veracruz de Ignacio de la Llave          | Veracruz                       | 2        | 2     |                                                              |
+| FAI9K0502711      | Coahuila de Zaragoza                     | Saltillo                       | 1        | 2     |                                                              |
+| FAI9K0502711      | Coahuila de Zaragoza                     | Ramos Arizpe                   | 2        | 2     |                                                              |
+| PEPM93017411      | Veracruz de Ignacio de la Llave          | Tierra Blanca                  | 1        | 2     |                                                              |
+| PEPM93017411      | Veracruz de Ignacio de la Llave          | Boca del Río                   | 2        | 2     |                                                              |
+| APAKE1901911      | Nuevo León                               | García                         | 1        | 2     |                                                              |
+| APAKE1901911      | Nuevo León                               | San Pedro Garza García         | 2        | 2     |                                                              |
+| IMA7Q1512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| IMA7Q1512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| TMEMD1900611      | Nuevo León                               | Aramberri                      | 1        | 2     |                                                              |
+| TMEMD1900611      | Nuevo León                               | Apodaca                        | 2        | 2     |                                                              |
+| CME2701400018     | Tabasco                                  | Paraíso                        | 1        | 2     |                                                              |
+| CME2701400018     | Campeche                                 | Carmen                         | 2        | 2     |                                                              |
+| GBW5Y0900711      | Ciudad de México                         | Iztapalapa                     | 1        | 2     |                                                              |
+| GBW5Y0900711      | Ciudad de México                         | Gustavo A. Madero              | 2        | 2     |                                                              |
+| IDPBB1900911      | Nuevo León                               | Monterrey                      | 1        | 2     |                                                              |
+| IDPBB1900911      | Nuevo León                               | Cadereyta Jiménez              | 2        | 2     |                                                              |
+| PRE671307612      | Hidalgo                                  | Atitalaquia                    | 1        | 2     |                                                              |
+| PRE671307612      | Hidalgo                                  | Tula de Allende                | 2        | 2     |                                                              |
+| UME9M0100111      | Aguascalientes                           | San Francisco de los Romo      | 1        | 2     |                                                              |
+| UME9M0100111      | Aguascalientes                           | Aguascalientes                 | 2        | 2     |                                                              |
+| PEP100400214      | Campeche                                 | Campeche                       | 1        | 2     |                                                              |
+| PEP100400214      | Campeche                                 | Carmen                         | 2        | 2     |                                                              |
+| GSP0400300053     | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| GSP0400300053     | Campeche                                 | Champotón                      | 2        | 2     |                                                              |
+| ANJ5P1409711      | Jalisco                                  | San Pedro Tlaquepaque          | 1        | 2     |                                                              |
+| ANJ5P1409711      | Jalisco                                  | Tlajomulco de Zúñiga           | 2        | 2     |                                                              |
+| BFO8L1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| BFO8L1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| BMS5T0900311      | Ciudad de México                         | Benito Juárez                  | 1        | 2     |                                                              |
+| BMS5T0900311      | Ciudad de México                         | Coyoacán                       | 2        | 2     |                                                              |
+| CEIM03004811      | Veracruz de Ignacio de la Llave          | Cosoleacaque                   | 1        | 2     |                                                              |
+| CEIM03004811      | Veracruz de Ignacio de la Llave          | Coatzacoalcos                  | 2        | 2     |                                                              |
+| PEP102700612      | Tabasco                                  | Centro                         | 1        | 2     |                                                              |
+| PEP102700612      | Tabasco                                  | Cunduacán                      | 2        | 2     |                                                              |
+| SMSLU2700411      | Tabasco                                  | Centro                         | 1        | 2     |                                                              |
+| SMSLU2700411      | Tabasco                                  | Paraíso                        | 2        | 2     |                                                              |
+| SFA521512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| SFA521512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| KOB7N1900111      | Nuevo León                               | Apodaca                        | 1        | 2     |                                                              |
+| KOB7N1900111      | Nuevo León                               | Abasolo                        | 2        | 2     |                                                              |
+| MEX9M1901211      | Nuevo León                               | Ciénega de Flores              | 1        | 2     |                                                              |
+| MEX9M1901211      | Nuevo León                               | Monterrey                      | 2        | 2     |                                                              |
+| TME1F1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| TME1F1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| PEA7J0900211      | Ciudad de México                         | Gustavo A. Madero              | 1        | 2     |                                                              |
+| PEA7J0900211      | Ciudad de México                         | Azcapotzalco                   | 2        | 2     |                                                              |
+| MME5Q0502711      | Coahuila de Zaragoza                     | Ramos Arizpe                   | 1        | 2     |                                                              |
+| MME5Q0502711      | Coahuila de Zaragoza                     | Saltillo                       | 2        | 2     |                                                              |
+| PEP102700218      | Tabasco                                  | Huimanguillo                   | 1        | 2     |                                                              |
+| PEP102700218      | Tabasco                                  | Cárdenas                       | 2        | 2     |                                                              |
+| P&GZU1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| P&GZU1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| LCM9L0900711      | Ciudad de México                         | Azcapotzalco                   | 1        | 2     |                                                              |
+| LCM9L0900711      | Ciudad de México                         | Iztapalapa                     | 2        | 2     |                                                              |
+| CRY5K1104411      | Guanajuato                               | Celaya                         | 1        | 2     |                                                              |
+| CRY5K1104411      | Guanajuato                               | Villagrán                      | 2        | 2     |                                                              |
+| DDM0400300024     | Tabasco                                  | Paraíso                        | 1        | 2     |                                                              |
+| **DDM0400300024** | **Campeche**                             | **Carmen**                     | **2**    | **2** |                                                              |
+| CIN6T0503011      | Coahuila de Zaragoza                     | Ramos Arizpe                   | 1        | 2     |                                                              |
+| CIN6T0503011      | Coahuila de Zaragoza                     | Saltillo                       | 2        | 2     |                                                              |
+| PYT7J0501011      | Coahuila de Zaragoza                     | Frontera                       | 1        | 2     |                                                              |
+| PYT7J0501011      | Coahuila de Zaragoza                     | Monclova                       | 2        | 2     |                                                              |
+| PFR5Q1512112      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| PFR5Q1512112      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| IAI0500400004     | Coahuila de Zaragoza                     | Saltillo                       | 1        | 2     |                                                              |
+| IAI0500400004     | Coahuila de Zaragoza                     | Arteaga                        | 2        | 2     |                                                              |
+| PEP102700818      | Tabasco                                  | Centro                         | 1        | 2     |                                                              |
+| PEP102700818      | Tabasco                                  | Huimanguillo                   | 2        | 2     |                                                              |
+| PREM93008511      | Veracruz de Ignacio de la Llave          | Orizaba                        | 1        | 2     |                                                              |
+| PREM93008511      | Veracruz de Ignacio de la Llave          | Ixtaczoquitlán                 | 2        | 2     |                                                              |
+| CCO7Q1512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| CCO7Q1512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| FCH742800411      | Tamaulipas                               | El Mante                       | 1        | 2     |                                                              |
+| FCH742800411      | Tamaulipas                               | Antiguo Morelos                | 2        | 2     |                                                              |
+| CIT2M3010211      | Veracruz de Ignacio de la Llave          | Martínez de la Torre           | 1        | 2     |                                                              |
+| CIT2M3010211      | Veracruz de Ignacio de la Llave          | San Rafael                     | 2        | 2     |                                                              |
+| EME7S1904611      | Nuevo León                               | San Nicolás de los Garza       | 1        | 2     |                                                              |
+| EME7S1904611      | Nuevo León                               | Monterrey                      | 2        | 2     |                                                              |
+| PEP3005400002     | Veracruz de Ignacio de la Llave          | Boca del Río                   | 1        | 2     |                                                              |
+| PEP3005400002     | Veracruz de Ignacio de la Llave          | Chacaltianguis                 | 2        | 2     |                                                              |
+| PEPM92803811      | Tamaulipas                               | Tampico                        | 1        | 2     |                                                              |
+| PEPM92803811      | Tamaulipas                               | Reynosa                        | 2        | 2     |                                                              |
+| MAL231512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| MAL231512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
+| MAG5I0502311      | Coahuila de Zaragoza                     | Torreón                        | 1        | 2     |                                                              |
+| MAG5I0502311      | Coahuila de Zaragoza                     | Ocampo                         | 2        | 2     |                                                              |
+| FMO9G1512111      | México                                   | Cuautitlán                     | 1        | 2     |                                                              |
+| FMO9G1512111      | México                                   | Cuautitlán Izcalli             | 2        | 2     |                                                              |
+| CFEAD2300521      | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| **CFEAD2300521**  | **Quintana Roo**                         | **Benito Juárez**              | **2**    | **2** |                                                              |
+| PEPR93002811      | Veracruz de Ignacio de la Llave          | Veracruz                       | 1        | 2     |                                                              |
+| PEPR93002811      | Veracruz de Ignacio de la Llave          | Boca del Río                   | 2        | 2     |                                                              |
+| PEP100704811      | Chiapas                                  | Reforma                        | 1        | 2     |                                                              |
+| PEP100704811      | Chiapas                                  | Juárez                         | 2        | 2     |                                                              |
+| PEP100400213      | Campeche                                 | Carmen                         | 1        | 2     |                                                              |
+| PEP100400213      | Campeche                                 | Campeche                       | 2        | 2     |                                                              |
+| FMA910100511      | Aguascalientes                           | Jesús María                    | 1        | 2     |                                                              |
+| FMA910100511      | Aguascalientes                           | Aguascalientes                 | 2        | 2     |                                                              |
+| BDM5T1512111      | México                                   | Cuautitlán Izcalli             | 1        | 2     |                                                              |
+| BDM5T1512111      | México                                   | Cuautitlán                     | 2        | 2     |                                                              |
 
