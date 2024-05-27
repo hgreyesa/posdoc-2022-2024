@@ -1,0 +1,2461 @@
+﻿ESTADO,CVE EDO,MUNICIPIO,CVE MUN,PM10,PM2.5,SO2,CO,NOX,COV,NH3
+Aguascalientes,1,Aguascalientes,1,0,0,0,0,1749.047197,3430.576226,0
+Aguascalientes,1,Asientos,2,0,0,0,0,999.3325605,1809.725834,0
+Aguascalientes,1,Calvillo,3,0,0,0,0,877.7944241,3344.069016,0
+Aguascalientes,1,Cosio,4,0,0,0,0,256.2493975,471.4859958,0
+Aguascalientes,1,Jesus Maria,5,0,0,0,0,484.6514687,1305.732782,0
+Aguascalientes,1,Pabellon de Arteaga,6,0,0,0,0,350.7675633,772.2893261,0
+Aguascalientes,1,Rincon de Romos,7,0,0,0,0,530.4258244,1022.500727,0
+Aguascalientes,1,San Jose de Gracia,8,0,0,0,0,355.7957969,1141.538251,0
+Aguascalientes,1,Tepezala,9,0,0,0,0,375.3413232,671.7563947,0
+Aguascalientes,1,El Llano,10,0,0,0,0,1025.569094,1889.532574,0
+Aguascalientes,1,San Francisco de los Romo,11,0,0,0,0,259.5339479,466.0943952,0
+Baja California,2,Ensenada,1,0,0,0,0,10449.5035,15549.32974,0
+Baja California,2,Mexicali,2,0,0,0,0,7541.59955,13421.00992,0
+Baja California,2,Tecate,3,0,0,0,0,569.4802883,720.818993,0
+Baja California,2,Tijuana,4,0,0,0,0,427.7067896,658.8520248,0
+Baja California,2,Playas de Rosarito,5,0,0,0,0,272.1479781,444.5001908,0
+Baja California Sur,3,Comondu,1,0,0,0,0,6658.922926,12547.78762,0
+Baja California Sur,3,Mulege,2,0,0,0,0,4639.493318,9837.226977,0
+Baja California Sur,3,La Paz,3,0,0,0,0,3905.967261,27540.91451,0
+Baja California Sur,3,Los Cabos,8,0,0,0,0,1671.902987,20352.71856,0
+Baja California Sur,3,Loreto,9,0,0,0,0,719.4983576,571.1132864,0
+Campeche,4,Calkini,1,0,0,0,0,1735.233159,20005.89623,0
+Campeche,4,Campeche,2,0,0,0,0,4297.118151,43197.96087,0
+Campeche,4,Carmen,3,0,0,0,0,9735.30078,121103.8763,0
+Campeche,4,Champoton,4,0,0,0,0,9020.654778,192812.2879,0
+Campeche,4,Hecelchakan,5,0,0,0,0,1278.6056,14044.14537,0
+Campeche,4,Hopelchen,6,0,0,0,0,5598.279918,127419.3662,0
+Campeche,4,Palizada,7,0,0,0,0,2184.095531,25243.38713,0
+Campeche,4,Tenabo,8,0,0,0,0,997.5486971,15081.99439,0
+Campeche,4,Escarcega,9,0,0,0,0,5744.832227,147000.8134,0
+Campeche,4,Calakmul,10,0,0,0,0,11781.21949,491905.7523,0
+Campeche,4,Candelaria,11,0,0,0,0,8820.502961,144035.3848,0
+Coahuila de Zaragoza,5,Abasolo,1,0,0,0,0,218.3923898,312.3724438,0
+Coahuila de Zaragoza,5,Acuña,2,0,0,0,0,1630.593696,3854.973695,0
+Coahuila de Zaragoza,5,Allende,3,0,0,0,0,219.9005406,426.1468381,0
+Coahuila de Zaragoza,5,Arteaga,4,0,0,0,0,1327.41849,6261.8555,0
+Coahuila de Zaragoza,5,Candela,5,0,0,0,0,657.8897771,929.5966353,0
+Coahuila de Zaragoza,5,Castaños,6,0,0,0,0,1707.036603,2999.659794,0
+Coahuila de Zaragoza,5,Cuatro Cienegas,7,0,0,0,0,2963.047369,4450.813886,0
+Coahuila de Zaragoza,5,Escobedo,8,0,0,0,0,335.2476021,499.0594429,0
+Coahuila de Zaragoza,5,Francisco I Madero,9,0,0,0,0,1469.324355,2545.084703,0
+Coahuila de Zaragoza,5,Frontera,10,0,0,0,0,374.4439898,689.8132214,0
+Coahuila de Zaragoza,5,General Cepeda,11,0,0,0,0,1532.839747,4235.746923,0
+Coahuila de Zaragoza,5,Guerrero,12,0,0,0,0,1575.942897,2826.85594,0
+Coahuila de Zaragoza,5,Hidalgo,13,0,0,0,0,1019.860327,1904.178441,0
+Coahuila de Zaragoza,5,Jimenez,14,0,0,0,0,897.6974765,1505.659257,0
+Coahuila de Zaragoza,5,Juarez,15,0,0,0,0,1357.56645,2414.375815,0
+Coahuila de Zaragoza,5,Lamadrid,16,0,0,0,0,163.0751889,263.9387863,0
+Coahuila de Zaragoza,5,Matamoros,17,0,0,0,0,1566.310379,3111.427633,0
+Coahuila de Zaragoza,5,Monclova,18,0,0,0,0,677.2679959,1309.586831,0
+Coahuila de Zaragoza,5,Morelos,19,0,0,0,0,457.8239754,876.1972686,0
+Coahuila de Zaragoza,5,Muzquiz,20,0,0,0,0,2178.965314,8203.958359,0
+Coahuila de Zaragoza,5,Nadadores,21,0,0,0,0,357.3898025,621.3934325,0
+Coahuila de Zaragoza,5,Nava,22,0,0,0,0,982.1150513,1889.599862,0
+Coahuila de Zaragoza,5,Ocampo,23,0,0,0,0,3515.311495,8004.020216,0
+Coahuila de Zaragoza,5,Parras,24,0,0,0,0,3081.665184,4356.215078,0
+Coahuila de Zaragoza,5,Piedras Negras,25,0,0,0,0,381.4526008,792.9551421,0
+Coahuila de Zaragoza,5,Progreso,26,0,0,0,0,1283.291371,2204.486286,0
+Coahuila de Zaragoza,5,Ramos Arizpe,27,0,0,0,0,2238.097653,3319.747534,0
+Coahuila de Zaragoza,5,Sabinas,28,0,0,0,0,495.3061421,686.0388358,0
+Coahuila de Zaragoza,5,Sacramento,29,0,0,0,0,148.3047531,247.7461037,0
+Coahuila de Zaragoza,5,Saltillo,30,0,0,0,0,2931.214723,7241.370866,0
+Coahuila de Zaragoza,5,San Buenaventura,31,0,0,0,0,1360.016599,3254.848056,0
+Coahuila de Zaragoza,5,San Juan de Sabinas,32,0,0,0,0,359.8687557,639.8493998,0
+Coahuila de Zaragoza,5,San Pedro,33,0,0,0,0,3285.495262,5618.390299,0
+Coahuila de Zaragoza,5,Sierra Mojada,34,0,0,0,0,970.9301809,982.2115134,0
+Coahuila de Zaragoza,5,Torreon,35,0,0,0,0,623.3099779,1083.602761,0
+Coahuila de Zaragoza,5,Viesca,36,0,0,0,0,1398.549271,2159.579421,0
+Coahuila de Zaragoza,5,Villa Union,37,0,0,0,0,820.6761798,1361.696429,0
+Coahuila de Zaragoza,5,Zaragoza,38,0,0,0,0,1974.584359,4221.99562,0
+Colima,6,Armeria,1,0,0,0,0,678.0044265,3804.994238,0
+Colima,6,Colima,2,0,0,0,0,1621.976959,7084.854009,0
+Colima,6,Comala,3,0,0,0,0,672.425198,3024.107601,0
+Colima,6,Coquimatlan,4,0,0,0,0,708.6861089,4876.048615,0
+Colima,6,Cuauhtemoc,5,0,0,0,0,1154.420652,2885.762053,0
+Colima,6,Ixtlahuacan,6,0,0,0,0,616.2796918,4307.7663,0
+Colima,6,Manzanillo,7,0,0,0,0,2203.706038,13720.36218,0
+Colima,6,Minatitlan,8,0,0,0,0,526.2560816,3884.293876,0
+Colima,6,Tecoman,9,0,0,0,0,2912.013114,10446.56709,0
+Colima,6,Villa de alvarez,10,0,0,0,0,556.5958108,2659.980959,0
+Chiapas,7,Acacoyagua,1,0,0,0,0,327.9645061,7396.234568,0
+Chiapas,7,Acala,2,0,0,0,0,969.1604296,2977.797785,0
+Chiapas,7,Acapetahua,3,0,0,0,0,1915.233121,4638.312263,0
+Chiapas,7,Altamirano,4,0,0,0,0,622.5078748,16349.5666,0
+Chiapas,7,Amatan,5,0,0,0,0,643.2593114,6990.401157,0
+Chiapas,7,Amatenango de la Frontera,6,0,0,0,0,195.4626351,823.7874318,0
+Chiapas,7,Amatenango del Valle,7,0,0,0,0,181.834831,558.2462983,0
+Chiapas,7,Angel Albino Corzo,8,0,0,0,0,663.3405635,12570.25827,0
+Chiapas,7,Arriaga,9,0,0,0,0,1128.628006,7974.718135,0
+Chiapas,7,Bejucal de Ocampo,10,0,0,0,0,53.11928924,76.74695433,0
+Chiapas,7,Bella Vista,11,0,0,0,0,440.4553341,2397.957003,0
+Chiapas,7,Berriozabal,12,0,0,0,0,612.6712165,6331.139023,0
+Chiapas,7,Bochil,13,0,0,0,0,329.152083,3414.316671,0
+Chiapas,7,El Bosque,14,0,0,0,0,174.5469508,6081.704831,0
+Chiapas,7,Cacahoatan,15,0,0,0,0,420.6589235,4313.974069,0
+Chiapas,7,Catazaja,16,0,0,0,0,1137.542144,3570.04054,0
+Chiapas,7,Cintalapa,17,0,0,0,0,2413.629105,25340.28798,0
+Chiapas,7,Coapilla,18,0,0,0,0,123.3290579,2405.106241,0
+Chiapas,7,Comitan de Dominguez,19,0,0,0,0,1333.090559,4131.506106,0
+Chiapas,7,La Concordia,20,0,0,0,0,3313.106456,31371.11633,0
+Chiapas,7,Copainala,21,0,0,0,0,545.28207,5800.415918,0
+Chiapas,7,Chalchihuitan,22,0,0,0,0,147.5862447,6210.011765,0
+Chiapas,7,Chamula,23,0,0,0,0,513.7558204,4595.304585,0
+Chiapas,7,Chanal,24,0,0,0,0,241.7355076,569.8167083,0
+Chiapas,7,Chapultenango,25,0,0,0,0,317.7111143,4733.54593,0
+Chiapas,7,Chenalho,26,0,0,0,0,488.0415254,4892.035897,0
+Chiapas,7,Chiapa de Corzo,27,0,0,0,0,1645.768968,6356.137319,0
+Chiapas,7,Chiapilla,28,0,0,0,0,171.1517544,343.9121528,0
+Chiapas,7,Chicoasen,29,0,0,0,0,71.51499529,1091.946656,0
+Chiapas,7,Chicomuselo,30,0,0,0,0,1412.769784,9303.382379,0
+Chiapas,7,Chilon,31,0,0,0,0,1593.572573,51201.36542,0
+Chiapas,7,Escuintla,32,0,0,0,0,617.9236862,8970.197874,0
+Chiapas,7,Francisco Leon,33,0,0,0,0,411.6432899,4387.80446,0
+Chiapas,7,Frontera Comalapa,34,0,0,0,0,1797.817323,5457.36516,0
+Chiapas,7,Frontera Hidalgo,35,0,0,0,0,324.7924592,670.3625795,0
+Chiapas,7,La Grandeza,36,0,0,0,0,64.3473036,105.6613188,0
+Chiapas,7,Huehuetan,37,0,0,0,0,1359.231925,2879.620643,0
+Chiapas,7,Huixtan,38,0,0,0,0,686.1069432,1450.592882,0
+Chiapas,7,Huitiupan,39,0,0,0,0,599.5898756,9419.489581,0
+Chiapas,7,Huixtla,40,0,0,0,0,1006.233375,3424.805637,0
+Chiapas,7,La Independencia,41,0,0,0,0,573.6209,10012.33411,0
+Chiapas,7,Ixhuatan,42,0,0,0,0,222.3100218,2616.449311,0
+Chiapas,7,Ixtacomitan,43,0,0,0,0,322.5910772,2063.227588,0
+Chiapas,7,Ixtapa,44,0,0,0,0,250.0430684,737.6247356,0
+Chiapas,7,Ixtapangajoya,45,0,0,0,0,266.8822124,1544.336745,0
+Chiapas,7,Jiquipilas,46,0,0,0,0,1951.438582,9537.157167,0
+Chiapas,7,Jitotol,47,0,0,0,0,195.5094802,2822.14141,0
+Chiapas,7,Juarez,48,0,0,0,0,2100.400764,6687.714751,0
+Chiapas,7,Larrainzar,49,0,0,0,0,170.3351838,5154.210367,0
+Chiapas,7,La Libertad,50,0,0,0,0,1189.080243,2751.488283,0
+Chiapas,7,Mapastepec,51,0,0,0,0,2135.826586,24967.94727,0
+Chiapas,7,Las Margaritas,52,0,0,0,0,3015.361286,60212.15064,0
+Chiapas,7,Mazapa de Madero,53,0,0,0,0,109.1597623,1095.706367,0
+Chiapas,7,Mazatan,54,0,0,0,0,924.3039625,2491.16694,0
+Chiapas,7,Metapa,55,0,0,0,0,88.62721638,177.3397494,0
+Chiapas,7,Mitontic,56,0,0,0,0,60.78446417,1369.524972,0
+Chiapas,7,Motozintla,57,0,0,0,0,945.157679,5692.467456,0
+Chiapas,7,Nicolas Ruiz,58,0,0,0,0,85.87563022,217.5187687,0
+Chiapas,7,Ocosingo,59,0,0,0,0,9586.628397,288199.821,0
+Chiapas,7,Ocotepec,60,0,0,0,0,12.49622161,3343.144762,0
+Chiapas,7,Ocozocoautla de Espinosa,61,0,0,0,0,2966.16312,39196.6065,0
+Chiapas,7,Ostuacan,62,0,0,0,0,1485.153492,7487.725498,0
+Chiapas,7,Osumacinta,63,0,0,0,0,120.8320057,1217.874455,0
+Chiapas,7,Oxchuc,64,0,0,0,0,416.6566817,1869.069786,0
+Chiapas,7,Palenque,65,0,0,0,0,6228.214725,55335.75101,0
+Chiapas,7,Pantelho,66,0,0,0,0,367.0932339,2175.6208,0
+Chiapas,7,Pantepec,67,0,0,0,0,138.8042575,3559.653281,0
+Chiapas,7,Pichucalco,68,0,0,0,0,1641.47883,6135.400839,0
+Chiapas,7,Pijijiapan,69,0,0,0,0,2918.963926,29760.11541,0
+Chiapas,7,El Porvenir,70,0,0,0,0,142.6244772,776.8369481,0
+Chiapas,7,Villa Comaltitlan,71,0,0,0,0,1113.306189,4065.004345,0
+Chiapas,7,Pueblo Nuevo Solistahuacan,72,0,0,0,0,218.1712447,9314.903324,0
+Chiapas,7,Rayon,73,0,0,0,0,110.3670699,2003.777221,0
+Chiapas,7,Reforma,74,0,0,0,0,1258.390361,2585.503939,0
+Chiapas,7,Las Rosas,75,0,0,0,0,465.1625231,1154.314393,0
+Chiapas,7,Sabanilla,76,0,0,0,0,518.8495384,5591.505789,0
+Chiapas,7,Salto de Agua,77,0,0,0,0,2735.330537,22370.77088,0
+Chiapas,7,San Cristobal de las Casas,78,0,0,0,0,454.3396989,1298.277965,0
+Chiapas,7,San Fernando,79,0,0,0,0,571.2998218,6090.487408,0
+Chiapas,7,Siltepec,80,0,0,0,0,590.5485949,19939.25998,0
+Chiapas,7,Simojovel,81,0,0,0,0,531.3206445,10395.58576,0
+Chiapas,7,Sitala,82,0,0,0,0,121.9321651,456.2753885,0
+Chiapas,7,Socoltenango,83,0,0,0,0,999.9436633,2742.705258,0
+Chiapas,7,Solosuchiapa,84,0,0,0,0,366.9264888,2760.006504,0
+Chiapas,7,Soyalo,85,0,0,0,0,133.3976939,440.9802899,0
+Chiapas,7,Suchiapa,86,0,0,0,0,473.8807634,1795.517334,0
+Chiapas,7,Suchiate,87,0,0,0,0,804.6405778,1790.529758,0
+Chiapas,7,Sunuapa,88,0,0,0,0,208.1407268,1160.720488,0
+Chiapas,7,Tapachula,89,0,0,0,0,3187.242334,10493.41131,0
+Chiapas,7,Tapalapa,90,0,0,0,0,17.87216899,3156.67285,0
+Chiapas,7,Tapilula,91,0,0,0,0,119.9760387,807.3268982,0
+Chiapas,7,Tecpatan,92,0,0,0,0,2450.135901,15372.31416,0
+Chiapas,7,Tenejapa,93,0,0,0,0,415.0647014,2975.370134,0
+Chiapas,7,Teopisca,94,0,0,0,0,258.2703521,913.3477106,0
+Chiapas,7,Tila,96,0,0,0,0,1639.055989,17939.41949,0
+Chiapas,7,Tonala,97,0,0,0,0,2768.419163,27116.80741,0
+Chiapas,7,Totolapa,98,0,0,0,0,267.1331436,789.1472036,0
+Chiapas,7,La Trinitaria,99,0,0,0,0,2420.908512,16585.98613,0
+Chiapas,7,Tumbala,100,0,0,0,0,672.219258,11281.15727,0
+Chiapas,7,Tuxtla Gutierrez,101,0,0,0,0,446.4334177,2120.93257,0
+Chiapas,7,Tuxtla Chico,102,0,0,0,0,533.5270826,1105.843675,0
+Chiapas,7,Tuzantan,103,0,0,0,0,662.7189856,1371.668458,0
+Chiapas,7,Tzimol,104,0,0,0,0,743.1884662,2296.817839,0
+Chiapas,7,Union Juarez,105,0,0,0,0,211.0705619,763.2953598,0
+Chiapas,7,Venustiano Carranza,106,0,0,0,0,3049.475088,7894.797995,0
+Chiapas,7,Villa Corzo,107,0,0,0,0,3076.728386,31684.57202,0
+Chiapas,7,Villaflores,108,0,0,0,0,2904.577342,15657.48345,0
+Chiapas,7,Yajalon,109,0,0,0,0,351.8116594,5952.17152,0
+Chiapas,7,San Lucas,110,0,0,0,0,149.5167897,384.3664838,0
+Chiapas,7,Zinacantan,111,0,0,0,0,199.2698691,731.2436586,0
+Chiapas,7,San Juan Cancuc,112,0,0,0,0,343.4525381,2709.853226,0
+Chiapas,7,Aldama,113,0,0,0,0,57.54215537,793.6840783,0
+Chiapas,7,Benemerito de las Americas,114,0,0,0,0,1704.597251,25921.90862,0
+Chiapas,7,Maravilla Tenejapa,115,0,0,0,0,984.5981931,17232.7362,0
+Chiapas,7,Marques de Comillas,116,0,0,0,0,1395.382592,25098.72922,0
+Chiapas,7,Montecristo de Guerrero,117,0,0,0,0,99.98776821,7109.192827,0
+Chiapas,7,San Andres Duraznal,118,0,0,0,0,53.07998781,1567.083646,0
+Chiapas,7,Santiago el Pinar,119,0,0,0,0,36.46803335,538.4810987,0
+Chihuahua,8,Ahumada,1,0,0,0,0,2434.004687,2899.100953,0
+Chihuahua,8,Aldama,2,0,0,0,0,1580.499734,1976.365931,0
+Chihuahua,8,Allende,3,0,0,0,0,656.0165839,934.2257987,0
+Chihuahua,8,Aquiles Serdan,4,0,0,0,0,59.00135668,54.05242365,0
+Chihuahua,8,Ascension,5,0,0,0,0,2108.268459,2555.092645,0
+Chihuahua,8,Bachiniva,6,0,0,0,0,849.788105,2296.263067,0
+Chihuahua,8,Balleza,7,0,0,0,0,1001.853894,4841.835011,0
+Chihuahua,8,Batopilas,8,0,0,0,0,568.8296745,5817.96678,0
+Chihuahua,8,Bocoyna,9,0,0,0,0,1058.926191,1934.798545,0
+Chihuahua,8,Buenaventura,10,0,0,0,0,1896.225445,4658.358128,0
+Chihuahua,8,Camargo,11,0,0,0,0,1926.738736,2194.852814,0
+Chihuahua,8,Carichi,12,0,0,0,0,1258.933708,5256.113794,0
+Chihuahua,8,Casas Grandes,13,0,0,0,0,1034.561983,5130.200818,0
+Chihuahua,8,Coronado,14,0,0,0,0,1309.513765,2119.111265,0
+Chihuahua,8,Coyame del Sotol,15,0,0,0,0,1088.20382,889.127563,0
+Chihuahua,8,La Cruz,16,0,0,0,0,197.2102262,268.7584264,0
+Chihuahua,8,Cuauhtemoc,17,0,0,0,0,3927.600658,8547.966583,0
+Chihuahua,8,Cusihuiriachi,18,0,0,0,0,1534.519302,3618.070218,0
+Chihuahua,8,Chihuahua,19,0,0,0,0,2398.636346,6357.723372,0
+Chihuahua,8,Chinipas,20,0,0,0,0,486.9638811,6026.162795,0
+Chihuahua,8,Delicias,21,0,0,0,0,755.6049539,1256.88977,0
+Chihuahua,8,Dr Belisario Dominguez,22,0,0,0,0,588.4943295,1136.271163,0
+Chihuahua,8,Galeana,23,0,0,0,0,508.4777005,1137.191901,0
+Chihuahua,8,Santa Isabel,24,0,0,0,0,475.4980625,881.6492929,0
+Chihuahua,8,Gomez Farias,25,0,0,0,0,698.5032354,1559.880712,0
+Chihuahua,8,Gran Morelos,26,0,0,0,0,535.5103336,984.6859039,0
+Chihuahua,8,Guachochi,27,0,0,0,0,1798.722243,5480.881222,0
+Chihuahua,8,Guadalupe,28,0,0,0,0,838.1215141,1067.157686,0
+Chihuahua,8,Guadalupe y Calvo,29,0,0,0,0,2006.592485,10913.2036,0
+Chihuahua,8,Guazapares,30,0,0,0,0,429.5066766,3678.579533,0
+Chihuahua,8,Guerrero,31,0,0,0,0,3750.347913,10957.14228,0
+Chihuahua,8,Hidalgo del Parral,32,0,0,0,0,270.7362454,645.4221867,0
+Chihuahua,8,Huejotitan,33,0,0,0,0,154.2467469,646.2499854,0
+Chihuahua,8,Ignacio Zaragoza,34,0,0,0,0,1101.972451,4038.970337,0
+Chihuahua,8,Janos,35,0,0,0,0,2095.914873,6071.614715,0
+Chihuahua,8,Jimenez,36,0,0,0,0,3387.275921,4829.195248,0
+Chihuahua,8,Juarez,37,0,0,0,0,398.3166881,321.5216267,0
+Chihuahua,8,Julimes,38,0,0,0,0,584.9289082,830.3120153,0
+Chihuahua,8,Lopez,39,0,0,0,0,1190.918391,1903.428689,0
+Chihuahua,8,Madera,40,0,0,0,0,2151.75579,13799.61691,0
+Chihuahua,8,Maguarichi,41,0,0,0,0,175.8951467,1335.967366,0
+Chihuahua,8,Manuel Benavides,42,0,0,0,0,463.6812588,976.0483297,0
+Chihuahua,8,Matachi,43,0,0,0,0,527.0821664,1777.543248,0
+Chihuahua,8,Matamoros,44,0,0,0,0,346.1388157,798.1851772,0
+Chihuahua,8,Meoqui,45,0,0,0,0,884.8011681,1586.11174,0
+Chihuahua,8,Morelos,46,0,0,0,0,357.0402785,3332.387354,0
+Chihuahua,8,Moris,47,0,0,0,0,459.3823862,5036.564362,0
+Chihuahua,8,Namiquipa,48,0,0,0,0,3730.383475,9533.351663,0
+Chihuahua,8,Nonoava,49,0,0,0,0,491.6033056,2177.0772,0
+Chihuahua,8,Nuevo Casas Grandes,50,0,0,0,0,735.8178454,1225.391081,0
+Chihuahua,8,Ocampo,51,0,0,0,0,377.206968,2551.086348,0
+Chihuahua,8,Ojinaga,52,0,0,0,0,1832.598992,3243.739029,0
+Chihuahua,8,Praxedis G Guerrero,53,0,0,0,0,280.6960233,435.3730232,0
+Chihuahua,8,Riva Palacio,54,0,0,0,0,1873.576889,5070.36627,0
+Chihuahua,8,Rosales,55,0,0,0,0,754.1878898,1363.697061,0
+Chihuahua,8,Rosario,56,0,0,0,0,379.6149903,772.0353229,0
+Chihuahua,8,San Francisco de Borja,57,0,0,0,0,320.9534228,1392.252314,0
+Chihuahua,8,San Francisco de Conchos,58,0,0,0,0,217.0179798,293.8629805,0
+Chihuahua,8,San Francisco del Oro,59,0,0,0,0,167.1296021,687.8607901,0
+Chihuahua,8,Santa Barbara,60,0,0,0,0,179.2543417,526.2830849,0
+Chihuahua,8,Satevo,61,0,0,0,0,959.2347045,1826.990762,0
+Chihuahua,8,Saucillo,62,0,0,0,0,789.8548605,1241.692744,0
+Chihuahua,8,Temosachic,63,0,0,0,0,1366.51412,7600.075109,0
+Chihuahua,8,El Tule,64,0,0,0,0,216.8662918,444.1018843,0
+Chihuahua,8,Urique,65,0,0,0,0,858.3028747,7235.54046,0
+Chihuahua,8,Uruachi,66,0,0,0,0,643.5526478,7474.259388,0
+Chihuahua,8,Valle de Zaragoza,67,0,0,0,0,442.5767742,631.5563649,0
+Distrito Federal,9,Azcapotzalco,2,0,0,0,0,3.752669946,25.05953855,0
+Distrito Federal,9,Coyoacan,3,0,0,0,0,5.368692409,443.8943275,0
+Distrito Federal,9,Cuajimalpa de Morelos,4,0,0,0,0,34.10000499,133.9041583,0
+Distrito Federal,9,Gustavo A Madero,5,0,0,0,0,6.609353732,344.8051364,0
+Distrito Federal,9,Iztacalco,6,0,0,0,0,5.469991098,6.521420785,0
+Distrito Federal,9,Iztapalapa,7,0,0,0,0,9.421715924,135.5094166,0
+Distrito Federal,9,La Magdalena Contreras,8,0,0,0,0,17.58788385,61.87354912,0
+Distrito Federal,9,Milpa Alta,9,0,0,0,0,303.2286833,510.4150998,0
+Distrito Federal,9,alvaro Obregon,10,0,0,0,0,19.00963555,182.6967098,0
+Distrito Federal,9,Tlahuac,11,0,0,0,0,121.4415769,197.3845063,0
+Distrito Federal,9,Tlalpan,12,0,0,0,0,207.4493756,372.8183022,0
+Distrito Federal,9,Xochimilco,13,0,0,0,0,166.9869476,309.4834583,0
+Distrito Federal,9,Benito Juarez,14,0,0,0,0,1.618367798,0.553759438,0
+Distrito Federal,9,Cuauhtemoc,15,0,0,0,0,3.636956648,3.961495163,0
+Distrito Federal,9,Miguel Hidalgo,16,0,0,0,0,6.118444636,453.0222908,0
+Distrito Federal,9,Venustiano Carranza,17,0,0,0,0,2.677597115,2.311389355,0
+Durango,10,Canatlan,1,0,0,0,0,1931.595714,4718.177318,0
+Durango,10,Canelas,2,0,0,0,0,261.1001852,945.5735735,0
+Durango,10,Coneto de Comonfort,3,0,0,0,0,353.8412433,1270.809716,0
+Durango,10,Cuencame,4,0,0,0,0,2577.20818,4339.696538,0
+Durango,10,Durango,5,0,0,0,0,3485.128397,11126.24095,0
+Durango,10,General Simon Bolivar,6,0,0,0,0,859.9224027,1326.630565,0
+Durango,10,Gomez Palacio,7,0,0,0,0,1390.480904,2487.674926,0
+Durango,10,Guadalupe Victoria,8,0,0,0,0,1598.661725,2858.943177,0
+Durango,10,Guanacevi,9,0,0,0,0,1122.413727,6954.105702,0
+Durango,10,Hidalgo,10,0,0,0,0,1402.293402,2504.048746,0
+Durango,10,Inde,11,0,0,0,0,951.9160552,1717.45243,0
+Durango,10,Lerdo,12,0,0,0,0,905.9921275,1397.260012,0
+Durango,10,Mapimi,13,0,0,0,0,2622.442277,4004.677855,0
+Durango,10,Mezquital,14,0,0,0,0,2006.777909,23893.23178,0
+Durango,10,Nazas,15,0,0,0,0,672.3439995,913.654917,0
+Durango,10,Nombre de Dios,16,0,0,0,0,828.6237699,1520.268469,0
+Durango,10,Ocampo,17,0,0,0,0,1135.833541,4884.925688,0
+Durango,10,El Oro,18,0,0,0,0,1265.494434,3348.961185,0
+Durango,10,Otaez,19,0,0,0,0,311.965171,2483.465304,0
+Durango,10,Panuco de Coronado,20,0,0,0,0,820.6884001,1522.10591,0
+Durango,10,Peñon Blanco,21,0,0,0,0,783.954557,1474.985379,0
+Durango,10,Poanas,22,0,0,0,0,890.3660157,1552.613618,0
+Durango,10,Pueblo Nuevo,23,0,0,0,0,1452.391877,16973.94347,0
+Durango,10,Rodeo,24,0,0,0,0,568.1093482,1065.822048,0
+Durango,10,San Bernardo,25,0,0,0,0,706.0052724,3528.212891,0
+Durango,10,San Dimas,26,0,0,0,0,875.180611,7212.976102,0
+Durango,10,San Juan de Guadalupe,27,0,0,0,0,441.0190175,535.5628251,0
+Durango,10,San Juan del Rio,28,0,0,0,0,725.7146282,1217.557076,0
+Durango,10,San Luis del Cordero,29,0,0,0,0,248.2039927,389.1535014,0
+Durango,10,San Pedro del Gallo,30,0,0,0,0,498.608034,754.4313796,0
+Durango,10,Santa Clara,31,0,0,0,0,765.7075693,1314.671074,0
+Durango,10,Santiago Papasquiaro,32,0,0,0,0,2258.277581,8986.703115,0
+Durango,10,Suchil,33,0,0,0,0,612.0774787,3016.198761,0
+Durango,10,Tamazula,34,0,0,0,0,1956.954376,19603.02257,0
+Durango,10,Tepehuanes,35,0,0,0,0,1306.893157,7005.567293,0
+Durango,10,Tlahualilo,36,0,0,0,0,3016.715096,4977.410238,0
+Durango,10,Topia,37,0,0,0,0,357.2628426,2876.501719,0
+Durango,10,Vicente Guerrero,38,0,0,0,0,460.5343029,826.4761548,0
+Durango,10,Nuevo Ideal,39,0,0,0,0,1684.820475,3362.07044,0
+Guanajuato,11,Abasolo,1,0,0,0,0,1225.518071,2452.922638,0
+Guanajuato,11,Acambaro,2,0,0,0,0,1284.631645,3112.792247,0
+Guanajuato,11,San Miguel de Allende,3,0,0,0,0,1685.707164,3132.69441,0
+Guanajuato,11,Apaseo el Alto,4,0,0,0,0,726.8567139,1435.855459,0
+Guanajuato,11,Apaseo el Grande,5,0,0,0,0,861.6229536,1768.869021,0
+Guanajuato,11,Atarjea,6,0,0,0,0,71.78844615,366.3525591,0
+Guanajuato,11,Celaya,7,0,0,0,0,1060.120763,2374.049524,0
+Guanajuato,11,Manuel Doblado,8,0,0,0,0,1235.140424,2763.373492,0
+Guanajuato,11,Comonfort,9,0,0,0,0,605.7454428,1493.074412,0
+Guanajuato,11,Coroneo,10,0,0,0,0,186.0316084,300.9117226,0
+Guanajuato,11,Cortazar,11,0,0,0,0,573.2648887,1390.457271,0
+Guanajuato,11,Cueramaro,12,0,0,0,0,390.9849709,815.5137568,0
+Guanajuato,11,Doctor Mora,13,0,0,0,0,362.2903345,612.5321953,0
+Guanajuato,11,Dolores Hidalgo Cuna de la Independencia Nacional,14,0,0,0,0,2046.589066,3571.741519,0
+Guanajuato,11,Guanajuato,15,0,0,0,0,457.0210677,1205.380068,0
+Guanajuato,11,Huanimaro,16,0,0,0,0,253.0001819,466.45545,0
+Guanajuato,11,Irapuato,17,0,0,0,0,1459.594129,2920.486348,0
+Guanajuato,11,Jaral del Progreso,18,0,0,0,0,348.4683379,750.4373045,0
+Guanajuato,11,Jerecuaro,19,0,0,0,0,1317.943479,2599.148489,0
+Guanajuato,11,Leon,20,0,0,0,0,1294.598117,3492.259955,0
+Guanajuato,11,Moroleon,21,0,0,0,0,227.9575236,507.8521295,0
+Guanajuato,11,Ocampo,22,0,0,0,0,993.3473207,1689.605283,0
+Guanajuato,11,Penjamo,23,0,0,0,0,2393.232337,5544.392868,0
+Guanajuato,11,Pueblo Nuevo,24,0,0,0,0,114.770994,190.7288581,0
+Guanajuato,11,Purisima del Rincon,25,0,0,0,0,482.023765,1013.690902,0
+Guanajuato,11,Romita,26,0,0,0,0,969.9026072,1661.254574,0
+Guanajuato,11,Salamanca,27,0,0,0,0,1260.029875,2618.86294,0
+Guanajuato,11,Salvatierra,28,0,0,0,0,1049.410378,2442.168576,0
+Guanajuato,11,San Diego de la Union,29,0,0,0,0,1004.333671,1692.907765,0
+Guanajuato,11,San Felipe,30,0,0,0,0,2550.272448,4684.964142,0
+Guanajuato,11,San Francisco del Rincon,31,0,0,0,0,834.9079295,1407.58939,0
+Guanajuato,11,San Jose Iturbide,32,0,0,0,0,777.4798941,1616.948832,0
+Guanajuato,11,San Luis de la Paz,33,0,0,0,0,1565.239554,2978.955777,0
+Guanajuato,11,Santa Catarina,34,0,0,0,0,52.57012936,190.7216126,0
+Guanajuato,11,Santa Cruz de Juventino Rosas,35,0,0,0,0,663.9677523,1345.70482,0
+Guanajuato,11,Santiago Maravatio,36,0,0,0,0,125.1222463,412.2183809,0
+Guanajuato,11,Silao,37,0,0,0,0,931.3928253,1791.202919,0
+Guanajuato,11,Tarandacuao,38,0,0,0,0,232.004957,420.8299142,0
+Guanajuato,11,Tarimoro,39,0,0,0,0,536.9358596,1284.294529,0
+Guanajuato,11,Tierra Blanca,40,0,0,0,0,105.8527121,395.6423666,0
+Guanajuato,11,Uriangato,41,0,0,0,0,177.9039416,499.5656747,0
+Guanajuato,11,Valle de Santiago,42,0,0,0,0,1433.744074,3190.043517,0
+Guanajuato,11,Victoria,43,0,0,0,0,292.0455206,690.1301507,0
+Guanajuato,11,Villagran,44,0,0,0,0,290.1271372,490.9164373,0
+Guanajuato,11,Xichu,45,0,0,0,0,262.6447166,1904.179854,0
+Guanajuato,11,Yuriria,46,0,0,0,0,941.9747399,2557.885225,0
+Guerrero,12,Acapulco de Juarez,1,0,0,0,0,2538.898011,16374.17038,0
+Guerrero,12,Ahuacuotzingo,2,0,0,0,0,834.7665613,7829.189938,0
+Guerrero,12,Ajuchitlan del Progreso,3,0,0,0,0,1546.632718,14499.58768,0
+Guerrero,12,Alcozauca de Guerrero,4,0,0,0,0,249.4964976,3857.936542,0
+Guerrero,12,Alpoyeca,5,0,0,0,0,112.3967037,1113.917177,0
+Guerrero,12,Apaxtla,6,0,0,0,0,638.9806593,5591.009571,0
+Guerrero,12,Arcelia,7,0,0,0,0,821.6638358,7166.478757,0
+Guerrero,12,Atenango del Rio,8,0,0,0,0,640.6712569,6397.343812,0
+Guerrero,12,Atlamajalcingo del Monte,9,0,0,0,0,72.60661,1218.053247,0
+Guerrero,12,Atlixtac,10,0,0,0,0,453.4338365,3062.879775,0
+Guerrero,12,Atoyac de alvarez,11,0,0,0,0,1707.428532,52597.92407,0
+Guerrero,12,Ayutla de los Libres,12,0,0,0,0,1719.243758,7849.648978,0
+Guerrero,12,Azoyu,13,0,0,0,0,972.5394768,4692.502145,0
+Guerrero,12,Benito Juarez,14,0,0,0,0,627.0648231,1613.093345,0
+Guerrero,12,Buenavista de Cuellar,15,0,0,0,0,305.8147521,2285.89791,0
+Guerrero,12,Coahuayutla de Jose Maria Izazaga,16,0,0,0,0,2236.618869,27055.50596,0
+Guerrero,12,Cocula,17,0,0,0,0,468.3039228,3625.154175,0
+Guerrero,12,Copala,18,0,0,0,0,891.4442009,2764.892015,0
+Guerrero,12,Copalillo,19,0,0,0,0,783.6230428,8616.853943,0
+Guerrero,12,Copanatoyac,20,0,0,0,0,302.6367123,1284.938838,0
+Guerrero,12,Coyuca de Benitez,21,0,0,0,0,2613.420941,34315.15971,0
+Guerrero,12,Coyuca de Catalan,22,0,0,0,0,2761.558647,21652.99701,0
+Guerrero,12,Cuajinicuilapa,23,0,0,0,0,2242.304704,6811.191554,0
+Guerrero,12,Cualac,24,0,0,0,0,207.1030146,1896.614085,0
+Guerrero,12,Cuautepec,25,0,0,0,0,620.1447105,3984.352248,0
+Guerrero,12,Cuetzala del Progreso,26,0,0,0,0,545.4860015,3314.026858,0
+Guerrero,12,Cutzamala de Pinzon,27,0,0,0,0,1768.071667,11992.50967,0
+Guerrero,12,Chilapa de alvarez,28,0,0,0,0,1035.621334,4445.152816,0
+Guerrero,12,Chilpancingo de los Bravo,29,0,0,0,0,1127.470764,33966.58757,0
+Guerrero,12,Florencio Villarreal,30,0,0,0,0,836.0265879,2800.045674,0
+Guerrero,12,General Canuto A Neri,31,0,0,0,0,226.4985339,2588.484459,0
+Guerrero,12,General Heliodoro Castillo,32,0,0,0,0,1195.200206,18756.40763,0
+Guerrero,12,Huamuxtitlan,33,0,0,0,0,345.7334429,3157.814387,0
+Guerrero,12,Huitzuco de los Figueroa,34,0,0,0,0,1394.868445,13512.1424,0
+Guerrero,12,Iguala de la Independencia,35,0,0,0,0,903.41252,5053.331506,0
+Guerrero,12,Igualapa,36,0,0,0,0,233.4553311,2381.875271,0
+Guerrero,12,Ixcateopan de Cuauhtemoc,37,0,0,0,0,157.8202652,1089.566559,0
+Guerrero,12,Zihuatanejo de Azueta,38,0,0,0,0,2108.805743,12946.65241,0
+Guerrero,12,Juan R Escudero,39,0,0,0,0,739.9773957,4383.045543,0
+Guerrero,12,Leonardo Bravo,40,0,0,0,0,461.3679406,15724.88148,0
+Guerrero,12,Malinaltepec,41,0,0,0,0,194.9078592,2399.206388,0
+Guerrero,12,Martir de Cuilapan,42,0,0,0,0,608.5227909,6402.799143,0
+Guerrero,12,Metlatonoc,43,0,0,0,0,286.9478402,3480.559719,0
+Guerrero,12,Mochitlan,44,0,0,0,0,349.2451227,2894.846924,0
+Guerrero,12,Olinala,45,0,0,0,0,695.8122184,6002.520445,0
+Guerrero,12,Ometepec,46,0,0,0,0,1143.425187,8191.589866,0
+Guerrero,12,Pedro Ascencio Alquisiras,47,0,0,0,0,496.9006301,2915.076571,0
+Guerrero,12,Petatlan,48,0,0,0,0,3649.68148,19011.27852,0
+Guerrero,12,Pilcaya,49,0,0,0,0,273.7830922,1493.326224,0
+Guerrero,12,Pungarabato,50,0,0,0,0,326.5249581,1145.898545,0
+Guerrero,12,Quechultenango,51,0,0,0,0,640.3523229,6448.700788,0
+Guerrero,12,San Luis Acatlan,52,0,0,0,0,1080.701525,8900.222518,0
+Guerrero,12,San Marcos,53,0,0,0,0,2780.656746,12580.47982,0
+Guerrero,12,San Miguel Totolapan,54,0,0,0,0,1466.893799,21327.65321,0
+Guerrero,12,Taxco de Alarcon,55,0,0,0,0,792.4383856,6125.775242,0
+Guerrero,12,Tecoanapa,56,0,0,0,0,1572.079668,7125.956467,0
+Guerrero,12,Tecpan de Galeana,57,0,0,0,0,5157.182525,36822.98561,0
+Guerrero,12,Teloloapan,58,0,0,0,0,1381.116062,8885.957139,0
+Guerrero,12,Tepecoacuilco de Trujano,59,0,0,0,0,1209.475933,8344.306072,0
+Guerrero,12,Tetipac,60,0,0,0,0,286.5760632,1963.63085,0
+Guerrero,12,Tixtla de Guerrero,61,0,0,0,0,463.9510898,2783.915434,0
+Guerrero,12,Tlacoachistlahuaca,62,0,0,0,0,512.4138983,5588.701507,0
+Guerrero,12,Tlacoapa,63,0,0,0,0,121.603359,1327.610361,0
+Guerrero,12,Tlalchapa,64,0,0,0,0,627.5379046,3487.213328,0
+Guerrero,12,Tlalixtaquilla de Maldonado,65,0,0,0,0,112.365261,1139.494087,0
+Guerrero,12,Tlapa de Comonfort,66,0,0,0,0,740.8718856,5640.626445,0
+Guerrero,12,Tlapehuala,67,0,0,0,0,479.40778,2503.96138,0
+Guerrero,12,La Union de Isidoro Montes de Oca,68,0,0,0,0,2242.993634,22425.51329,0
+Guerrero,12,Xalpatlahuac,69,0,0,0,0,178.0886966,1253.969703,0
+Guerrero,12,Xochihuehuetlan,70,0,0,0,0,263.2504689,2739.846872,0
+Guerrero,12,Xochistlahuaca,71,0,0,0,0,188.2984395,3991.38482,0
+Guerrero,12,Zapotitlan Tablas,72,0,0,0,0,256.6421399,1401.516712,0
+Guerrero,12,Zirandaro,73,0,0,0,0,1959.148832,18313.47634,0
+Guerrero,12,Zitlala,74,0,0,0,0,345.5094148,2365.336241,0
+Guerrero,12,Eduardo Neri,75,0,0,0,0,999.4446635,12989.15065,0
+Guerrero,12,Acatepec,76,0,0,0,0,217.0587644,2221.479166,0
+Guerrero,12,Marquelia,77,0,0,0,0,464.8855768,2454.220647,0
+Guerrero,12,Cochoapa el Grande,78,0,0,0,0,184.9314595,3944.19807,0
+Guerrero,12,Jose Joaquin de Herrera,79,0,0,0,0,99.89751899,400.5825131,0
+Guerrero,12,Juchitan,80,0,0,0,0,811.2593411,2775.806786,0
+Guerrero,12,Iliatenco,81,0,0,0,0,37.15494501,1011.851207,0
+Hidalgo,13,Acatlan,1,0,0,0,0,372.2005037,826.8477758,0
+Hidalgo,13,Acaxochitlan,2,0,0,0,0,325.1474588,885.2267649,0
+Hidalgo,13,Actopan,3,0,0,0,0,264.3804658,518.2393704,0
+Hidalgo,13,Agua Blanca de Iturbide,4,0,0,0,0,174.0291547,766.290673,0
+Hidalgo,13,Ajacuba,5,0,0,0,0,287.0626609,488.5881158,0
+Hidalgo,13,Alfajayucan,6,0,0,0,0,577.5305946,1041.873985,0
+Hidalgo,13,Almoloya,7,0,0,0,0,441.2209869,750.1296458,0
+Hidalgo,13,Apan,8,0,0,0,0,598.6568012,992.5919029,0
+Hidalgo,13,El Arenal,9,0,0,0,0,173.8747314,290.5946923,0
+Hidalgo,13,Atitalaquia,10,0,0,0,0,112.269373,189.7544664,0
+Hidalgo,13,Atlapexco,11,0,0,0,0,185.0695417,1873.791279,0
+Hidalgo,13,Atotonilco el Grande,12,0,0,0,0,459.1783182,748.8826411,0
+Hidalgo,13,Atotonilco de Tula,13,0,0,0,0,195.657726,312.828407,0
+Hidalgo,13,Calnali,14,0,0,0,0,300.7188065,3258.093671,0
+Hidalgo,13,Cardonal,15,0,0,0,0,558.1115634,988.7854522,0
+Hidalgo,13,Cuautepec de Hinojosa,16,0,0,0,0,594.811871,990.8115713,0
+Hidalgo,13,Chapantongo,17,0,0,0,0,309.4287708,526.0898514,0
+Hidalgo,13,Chapulhuacan,18,0,0,0,0,164.5758747,4978.429058,0
+Hidalgo,13,Chilcuautla,19,0,0,0,0,273.7350339,503.0875788,0
+Hidalgo,13,Eloxochitlan,20,0,0,0,0,125.7938067,853.9533272,0
+Hidalgo,13,Emiliano Zapata,21,0,0,0,0,165.9574111,305.7670355,0
+Hidalgo,13,Epazoyucan,22,0,0,0,0,233.8066749,402.5719553,0
+Hidalgo,13,Francisco I Madero,23,0,0,0,0,191.7118406,336.8131105,0
+Hidalgo,13,Huasca de Ocampo,24,0,0,0,0,407.3962821,1018.201076,0
+Hidalgo,13,Huautla,25,0,0,0,0,396.4361759,3629.170242,0
+Hidalgo,13,Huazalingo,26,0,0,0,0,208.517255,873.687632,0
+Hidalgo,13,Huehuetla,27,0,0,0,0,389.4900358,2136.182601,0
+Hidalgo,13,Huejutla de Reyes,28,0,0,0,0,783.8291025,2721.108158,0
+Hidalgo,13,Huichapan,29,0,0,0,0,725.2418854,1295.568273,0
+Hidalgo,13,Ixmiquilpan,30,0,0,0,0,758.9079935,1310.242489,0
+Hidalgo,13,Jacala de Ledezma,31,0,0,0,0,209.9932758,2607.938096,0
+Hidalgo,13,Jaltocan,32,0,0,0,0,88.29830191,241.6301157,0
+Hidalgo,13,Juarez Hidalgo,33,0,0,0,0,50.70577942,1233.585343,0
+Hidalgo,13,Lolotla,34,0,0,0,0,221.3776372,2951.705855,0
+Hidalgo,13,Metepec,35,0,0,0,0,282.2606966,707.7693356,0
+Hidalgo,13,San Agustin Metzquititlan,36,0,0,0,0,167.8647759,300.3448033,0
+Hidalgo,13,Metztitlan,37,0,0,0,0,431.7912503,1189.929743,0
+Hidalgo,13,Mineral del Chico,38,0,0,0,0,139.9873395,375.4289097,0
+Hidalgo,13,Mineral del Monte,39,0,0,0,0,38.45827747,104.0888413,0
+Hidalgo,13,La Mision,40,0,0,0,0,199.1144147,2352.952348,0
+Hidalgo,13,Mixquiahuala de Juarez,41,0,0,0,0,234.3737603,404.6309151,0
+Hidalgo,13,Molango de Escamilla,42,0,0,0,0,179.2289378,4140.722424,0
+Hidalgo,13,Nicolas Flores,43,0,0,0,0,207.9837714,507.7727886,0
+Hidalgo,13,Nopala de Villagran,44,0,0,0,0,514.0864474,851.4394471,0
+Hidalgo,13,Omitlan de Juarez,45,0,0,0,0,81.59989494,180.9109141,0
+Hidalgo,13,San Felipe Orizatlan,46,0,0,0,0,599.6985554,2681.963464,0
+Hidalgo,13,Pacula,47,0,0,0,0,188.3121179,724.9371635,0
+Hidalgo,13,Pachuca de Soto,48,0,0,0,0,173.417452,289.9496414,0
+Hidalgo,13,Pisaflores,49,0,0,0,0,123.8410129,3292.979109,0
+Hidalgo,13,Progreso de Obregon,50,0,0,0,0,111.1536999,218.1451567,0
+Hidalgo,13,Mineral de la Reforma,51,0,0,0,0,183.094565,302.5456461,0
+Hidalgo,13,San Agustin Tlaxiaca,52,0,0,0,0,449.5611334,726.9880319,0
+Hidalgo,13,San Bartolo Tutotepec,53,0,0,0,0,472.471278,4570.290947,0
+Hidalgo,13,San Salvador,54,0,0,0,0,343.4534311,616.6277988,0
+Hidalgo,13,Santiago de Anaya,55,0,0,0,0,300.1659947,518.3094365,0
+Hidalgo,13,Santiago Tulantepec de Lugo Guerrero,56,0,0,0,0,134.4936981,227.3127437,0
+Hidalgo,13,Singuilucan,57,0,0,0,0,543.7501753,1010.451679,0
+Hidalgo,13,Tasquillo,58,0,0,0,0,249.3489232,393.6129747,0
+Hidalgo,13,Tecozautla,59,0,0,0,0,559.9580019,898.6594044,0
+Hidalgo,13,Tenango de Doria,60,0,0,0,0,164.1567257,1460.529607,0
+Hidalgo,13,Tepeapulco,61,0,0,0,0,306.7238409,535.1729655,0
+Hidalgo,13,Tepehuacan de Guerrero,62,0,0,0,0,364.8347676,5920.068959,0
+Hidalgo,13,Tepeji del Rio de Ocampo,63,0,0,0,0,316.2098686,497.0987281,0
+Hidalgo,13,Tepetitlan,64,0,0,0,0,167.2974738,284.4337867,0
+Hidalgo,13,Tetepango,65,0,0,0,0,90.43883326,149.1368572,0
+Hidalgo,13,Villa de Tezontepec,66,0,0,0,0,167.7722533,275.2725812,0
+Hidalgo,13,Tezontepec de Aldama,67,0,0,0,0,289.8135875,496.1472897,0
+Hidalgo,13,Tianguistengo,68,0,0,0,0,372.8077138,3950.924619,0
+Hidalgo,13,Tizayuca,69,0,0,0,0,145.9390065,239.6690055,0
+Hidalgo,13,Tlahuelilpan,70,0,0,0,0,70.24805843,114.2914488,0
+Hidalgo,13,Tlahuiltepa,71,0,0,0,0,256.1075066,4159.06081,0
+Hidalgo,13,Tlanalapa,72,0,0,0,0,132.6367153,214.5441117,0
+Hidalgo,13,Tlanchinol,73,0,0,0,0,491.3407435,6984.881541,0
+Hidalgo,13,Tlaxcoapan,74,0,0,0,0,109.4213755,180.6721502,0
+Hidalgo,13,Tolcayuca,75,0,0,0,0,172.184665,277.0085927,0
+Hidalgo,13,Tula de Allende,76,0,0,0,0,479.3314926,808.9590171,0
+Hidalgo,13,Tulancingo de Bravo,77,0,0,0,0,386.5997068,705.1956715,0
+Hidalgo,13,Xochiatipan,78,0,0,0,0,174.7088998,1890.654406,0
+Hidalgo,13,Xochicoatlan,79,0,0,0,0,175.3596419,3788.059074,0
+Hidalgo,13,Yahualica,80,0,0,0,0,230.1290106,1978.595519,0
+Hidalgo,13,Zacualtipan de angeles,81,0,0,0,0,239.7747697,2935.415646,0
+Hidalgo,13,Zapotlan de Juarez,82,0,0,0,0,195.7885732,314.5898202,0
+Hidalgo,13,Zempoala,83,0,0,0,0,630.6958269,1054.836146,0
+Hidalgo,13,Zimapan,84,0,0,0,0,427.0795564,1000.51773,0
+Jalisco,14,Acatic,1,0,0,0,0,857.8159182,1792.043826,0
+Jalisco,14,Acatlan de Juarez,2,0,0,0,0,357.899882,831.3799743,0
+Jalisco,14,Ahualulco de Mercado,3,0,0,0,0,463.2385586,1127.408218,0
+Jalisco,14,Amacueca,4,0,0,0,0,214.6839917,698.966109,0
+Jalisco,14,Amatitan,5,0,0,0,0,373.1925372,983.6885838,0
+Jalisco,14,Ameca,6,0,0,0,0,1287.220392,3722.851116,0
+Jalisco,14,San Juanito de Escobedo,7,0,0,0,0,404.275251,927.1142386,0
+Jalisco,14,Arandas,8,0,0,0,0,2139.840915,4453.803613,0
+Jalisco,14,El Arenal,9,0,0,0,0,247.357832,603.2861632,0
+Jalisco,14,Atemajac de Brizuela,10,0,0,0,0,251.0124748,892.2208314,0
+Jalisco,14,Atengo,11,0,0,0,0,549.438937,1338.115632,0
+Jalisco,14,Atenguillo,12,0,0,0,0,263.1590315,1076.222445,0
+Jalisco,14,Atotonilco el Alto,13,0,0,0,0,1225.299836,2745.141318,0
+Jalisco,14,Atoyac,14,0,0,0,0,397.2790091,1672.657864,0
+Jalisco,14,Autlan de Navarro,15,0,0,0,0,885.5772165,3904.48325,0
+Jalisco,14,Ayotlan,16,0,0,0,0,749.7556013,2092.074614,0
+Jalisco,14,Ayutla,17,0,0,0,0,807.5320726,3104.480659,0
+Jalisco,14,La Barca,18,0,0,0,0,1104.195445,2218.804556,0
+Jalisco,14,Bolaños,19,0,0,0,0,270.5274288,2736.627593,0
+Jalisco,14,Cabo Corrientes,20,0,0,0,0,583.939465,8551.733449,0
+Jalisco,14,Casimiro Castillo,21,0,0,0,0,641.9057301,3485.804572,0
+Jalisco,14,Cihuatlan,22,0,0,0,0,802.7609402,3641.798632,0
+Jalisco,14,Zapotlan el Grande,23,0,0,0,0,448.159646,1266.950238,0
+Jalisco,14,Cocula,24,0,0,0,0,756.100773,1841.460231,0
+Jalisco,14,Colotlan,25,0,0,0,0,507.9494342,3087.921946,0
+Jalisco,14,Concepcion de Buenos Aires,26,0,0,0,0,377.3834902,851.8048233,0
+Jalisco,14,Cuautitlan de Garcia Barragan,27,0,0,0,0,996.1478099,7029.202673,0
+Jalisco,14,Cuautla,28,0,0,0,0,256.403809,876.9701564,0
+Jalisco,14,Cuquio,29,0,0,0,0,1394.674989,3238.765449,0
+Jalisco,14,Chapala,30,0,0,0,0,167.5680192,555.2316647,0
+Jalisco,14,Chimaltitan,31,0,0,0,0,402.700494,2337.701012,0
+Jalisco,14,Chiquilistlan,32,0,0,0,0,194.8825351,896.0932944,0
+Jalisco,14,Degollado,33,0,0,0,0,655.2052063,1861.17507,0
+Jalisco,14,Ejutla,34,0,0,0,0,206.83308,1510.394903,0
+Jalisco,14,Encarnacion de Diaz,35,0,0,0,0,1789.62172,3449.747804,0
+Jalisco,14,Etzatlan,36,0,0,0,0,313.0237451,996.3884552,0
+Jalisco,14,El Grullo,37,0,0,0,0,320.5349539,967.1901828,0
+Jalisco,14,Guachinango,38,0,0,0,0,532.4740448,3465.927879,0
+Jalisco,14,Guadalajara,39,0,0,0,0,8.426169324,90.17181181,0
+Jalisco,14,Hostotipaquillo,40,0,0,0,0,545.2558391,4010.997795,0
+Jalisco,14,Huejucar,41,0,0,0,0,329.0020978,1090.387291,0
+Jalisco,14,Huejuquilla el Alto,42,0,0,0,0,570.4888749,3368.733138,0
+Jalisco,14,La Huerta,43,0,0,0,0,2627.694129,14592.48599,0
+Jalisco,14,Ixtlahuacan de los Membrillos,44,0,0,0,0,403.3355188,887.5984658,0
+Jalisco,14,Ixtlahuacan del Rio,45,0,0,0,0,1277.599844,4311.378483,0
+Jalisco,14,Jalostotitlan,46,0,0,0,0,813.1662533,1675.384899,0
+Jalisco,14,Jamay,47,0,0,0,0,325.8103815,757.0878727,0
+Jalisco,14,Jesus Maria,48,0,0,0,0,1051.901783,2640.469743,0
+Jalisco,14,Jilotlan de los Dolores,49,0,0,0,0,1815.759972,9283.997026,0
+Jalisco,14,Jocotepec,50,0,0,0,0,550.4750884,1880.277976,0
+Jalisco,14,Juanacatlan,51,0,0,0,0,248.5597055,674.1870388,0
+Jalisco,14,Juchitlan,52,0,0,0,0,367.7177187,1414.100072,0
+Jalisco,14,Lagos de Moreno,53,0,0,0,0,2244.893489,6290.025484,0
+Jalisco,14,El Limon,54,0,0,0,0,170.3392223,682.749968,0
+Jalisco,14,Magdalena,55,0,0,0,0,365.2448398,808.5091173,0
+Jalisco,14,Santa Maria del Oro,56,0,0,0,0,436.1699775,5104.683845,0
+Jalisco,14,La Manzanilla de la Paz,57,0,0,0,0,217.358802,533.0691813,0
+Jalisco,14,Mascota,58,0,0,0,0,771.1955683,5643.516597,0
+Jalisco,14,Mazamitla,59,0,0,0,0,226.9648389,585.4595072,0
+Jalisco,14,Mexticacan,60,0,0,0,0,406.1159295,1195.952554,0
+Jalisco,14,Mezquitic,61,0,0,0,0,1177.47496,13069.24482,0
+Jalisco,14,Mixtlan,62,0,0,0,0,298.1012001,1459.721238,0
+Jalisco,14,Ocotlan,63,0,0,0,0,505.2980963,1233.811605,0
+Jalisco,14,Ojuelos de Jalisco,64,0,0,0,0,1054.681907,2044.980856,0
+Jalisco,14,Pihuamo,65,0,0,0,0,815.1933196,4818.896142,0
+Jalisco,14,Poncitlan,66,0,0,0,0,491.6075133,1359.46355,0
+Jalisco,14,Puerto Vallarta,67,0,0,0,0,374.0630585,3842.463749,0
+Jalisco,14,Villa Purificacion,68,0,0,0,0,1768.635276,12009.6497,0
+Jalisco,14,Quitupan,69,0,0,0,0,404.6697614,2429.163755,0
+Jalisco,14,El Salto,70,0,0,0,0,125.690477,253.9344462,0
+Jalisco,14,San Cristobal de la Barranca,71,0,0,0,0,426.7196132,2179.041515,0
+Jalisco,14,San Diego de Alejandria,72,0,0,0,0,409.8058286,1005.643398,0
+Jalisco,14,San Juan de los Lagos,73,0,0,0,0,1545.457006,3286.343705,0
+Jalisco,14,San Julian,74,0,0,0,0,361.8091421,891.1090323,0
+Jalisco,14,San Marcos,75,0,0,0,0,185.8788234,626.8978143,0
+Jalisco,14,San Martin de Bolaños,76,0,0,0,0,437.893653,3355.233173,0
+Jalisco,14,San Martin Hidalgo,77,0,0,0,0,734.353484,1517.896815,0
+Jalisco,14,San Miguel el Alto,78,0,0,0,0,948.5116501,2399.344843,0
+Jalisco,14,Gomez Farias,79,0,0,0,0,380.6845644,1199.951839,0
+Jalisco,14,San Sebastian del Oeste,80,0,0,0,0,551.8778844,6004.068733,0
+Jalisco,14,Santa Maria de los angeles,81,0,0,0,0,252.1540184,1092.540668,0
+Jalisco,14,Sayula,82,0,0,0,0,286.7565716,1064.592868,0
+Jalisco,14,Tala,83,0,0,0,0,849.4550377,1986.577204,0
+Jalisco,14,Talpa de Allende,84,0,0,0,0,655.8713786,4572.249276,0
+Jalisco,14,Tamazula de Gordiano,85,0,0,0,0,818.5446172,5163.496517,0
+Jalisco,14,Tapalpa,86,0,0,0,0,575.1781029,1912.838975,0
+Jalisco,14,Tecalitlan,87,0,0,0,0,757.6946801,4074.177605,0
+Jalisco,14,Tecolotlan,88,0,0,0,0,751.4162489,2986.68164,0
+Jalisco,14,Techaluta de Montenegro,89,0,0,0,0,97.80568567,420.648257,0
+Jalisco,14,Tenamaxtlan,90,0,0,0,0,446.5660898,1432.82689,0
+Jalisco,14,Teocaltiche,91,0,0,0,0,1378.929867,2727.42391,0
+Jalisco,14,Teocuitatlan de Corona,92,0,0,0,0,524.1745027,1926.586743,0
+Jalisco,14,Tepatitlan de Morelos,93,0,0,0,0,2845.090689,7146.400583,0
+Jalisco,14,Tequila,94,0,0,0,0,1095.94114,5848.979083,0
+Jalisco,14,Teuchitlan,95,0,0,0,0,419.237244,938.6083298,0
+Jalisco,14,Tizapan el Alto,96,0,0,0,0,250.8621444,903.1216568,0
+Jalisco,14,Tlajomulco de Zuñiga,97,0,0,0,0,1251.568418,3288.856428,0
+Jalisco,14,San Pedro Tlaquepaque,98,0,0,0,0,147.2396347,268.5798271,0
+Jalisco,14,Toliman,99,0,0,0,0,634.2823903,3593.661658,0
+Jalisco,14,Tomatlan,100,0,0,0,0,3735.397769,19254.8338,0
+Jalisco,14,Tonala,101,0,0,0,0,222.6321976,519.1806352,0
+Jalisco,14,Tonaya,102,0,0,0,0,363.2932246,1678.864001,0
+Jalisco,14,Tonila,103,0,0,0,0,241.2134276,555.5550014,0
+Jalisco,14,Totatiche,104,0,0,0,0,430.2986276,1858.528812,0
+Jalisco,14,Tototlan,105,0,0,0,0,771.3316404,1994.335519,0
+Jalisco,14,Tuxcacuesco,106,0,0,0,0,523.423146,2833.085485,0
+Jalisco,14,Tuxcueca,107,0,0,0,0,178.5510763,698.8976138,0
+Jalisco,14,Tuxpan,108,0,0,0,0,1205.077966,3883.046064,0
+Jalisco,14,Union de San Antonio,109,0,0,0,0,886.9241743,2706.811348,0
+Jalisco,14,Union de Tula,110,0,0,0,0,633.7184349,1908.497694,0
+Jalisco,14,Valle de Guadalupe,111,0,0,0,0,451.6472291,1457.679908,0
+Jalisco,14,Valle de Juarez,112,0,0,0,0,129.5044703,667.5289254,0
+Jalisco,14,San Gabriel,113,0,0,0,0,940.85259,3439.568691,0
+Jalisco,14,Villa Corona,114,0,0,0,0,522.3258373,1611.51665,0
+Jalisco,14,Villa Guerrero,115,0,0,0,0,433.462067,3357.879625,0
+Jalisco,14,Villa Hidalgo,116,0,0,0,0,491.5439195,1081.61217,0
+Jalisco,14,Cañadas de Obregon,117,0,0,0,0,330.7902072,1239.962749,0
+Jalisco,14,Yahualica de Gonzalez Gallo,118,0,0,0,0,932.8357583,2781.755658,0
+Jalisco,14,Zacoalco de Torres,119,0,0,0,0,672.2778289,2807.837848,0
+Jalisco,14,Zapopan,120,0,0,0,0,1012.891961,3211.522623,0
+Jalisco,14,Zapotiltic,121,0,0,0,0,493.1801004,1431.707459,0
+Jalisco,14,Zapotitlan de Vadillo,122,0,0,0,0,392.3715974,2440.114238,0
+Jalisco,14,Zapotlan del Rey,123,0,0,0,0,648.6607592,2204.390559,0
+Jalisco,14,Zapotlanejo,124,0,0,0,0,1456.562556,4062.793997,0
+Jalisco,14,San Ignacio Cerro Gordo,125,0,0,0,0,4.740374922,4.843889106,0
+Mexico,15,Acambay,1,0,0,0,0,41.31046457,105.0549888,0
+Mexico,15,Acolman,2,0,0,0,0,5.21599285,6.888416913,0
+Mexico,15,Aculco,3,0,0,0,0,23.21792296,3.421550754,0
+Mexico,15,Almoloya de Alquisiras,4,0,0,0,0,19.73278687,333.5382808,0
+Mexico,15,Almoloya de Juarez,5,0,0,0,0,24.46943781,5.459700492,0
+Mexico,15,Almoloya del Rio,6,0,0,0,0,3.526700828,2.137919356,0
+Mexico,15,Amanalco,7,0,0,0,0,13.33241281,20.17131561,0
+Mexico,15,Amatepec,8,0,0,0,0,66.47109857,320.5645448,0
+Mexico,15,Amecameca,9,0,0,0,0,16.23608452,40.15966642,0
+Mexico,15,Apaxco,10,0,0,0,0,9.533550873,7.432633068,0
+Mexico,15,Atenco,11,0,0,0,0,48.68710445,64.7114038,0
+Mexico,15,Atizapan,12,0,0,0,0,2.99311858,2.137554069,0
+Mexico,15,Atizapan de Zaragoza,13,0,0,0,0,6.990254692,38.60767217,0
+Mexico,15,Atlacomulco,14,0,0,0,0,18.48670056,27.4129182,0
+Mexico,15,Atlautla,15,0,0,0,0,35.49900818,66.38936807,0
+Mexico,15,Axapusco,16,0,0,0,0,13.67385764,38.25653654,0
+Mexico,15,Ayapango,17,0,0,0,0,4.366311327,2.68840725,0
+Mexico,15,Calimaya,18,0,0,0,0,7.342135891,2.714143635,0
+Mexico,15,Capulhuac,19,0,0,0,0,4.831743918,8.026177468,0
+Mexico,15,Coacalco de Berriozabal,20,0,0,0,0,4.375067059,2.765109912,0
+Mexico,15,Coatepec Harinas,21,0,0,0,0,18.43227235,92.907971,0
+Mexico,15,Cocotitlan,22,0,0,0,0,3.443891219,2.128715977,0
+Mexico,15,Coyotepec,23,0,0,0,0,4.954463161,2.731219391,0
+Mexico,15,Cuautitlan,24,0,0,0,0,4.276412477,2.721213473,0
+Mexico,15,Chalco,25,0,0,0,0,14.83021945,67.35666483,0
+Mexico,15,Chapa de Mota,26,0,0,0,0,37.57889398,124.2030445,0
+Mexico,15,Chapultepec,27,0,0,0,0,3.341262477,2.128676717,0
+Mexico,15,Chiautla,28,0,0,0,0,3.913987894,2.41492676,0
+Mexico,15,Chicoloapan,29,0,0,0,0,5.361432024,37.97210511,0
+Mexico,15,Chiconcuac,30,0,0,0,0,3.006204861,2.1629296,0
+Mexico,15,Chimalhuacan,31,0,0,0,0,12.25835768,12.67867063,0
+Mexico,15,Donato Guerra,32,0,0,0,0,11.52171658,17.57405145,0
+Mexico,15,Ecatepec de Morelos,33,0,0,0,0,23.77023312,43.86635229,0
+Mexico,15,Ecatzingo,34,0,0,0,0,5.386761144,6.103811645,0
+Mexico,15,Huehuetoca,35,0,0,0,0,8.046314352,2.730378461,0
+Mexico,15,Hueypoxtla,36,0,0,0,0,13.38364139,2.726635484,0
+Mexico,15,Huixquilucan,37,0,0,0,0,9.281803657,4.07993182,0
+Mexico,15,Isidro Fabela,38,0,0,0,0,7.730356261,19.67187803,0
+Mexico,15,Ixtapaluca,39,0,0,0,0,17.89223732,119.8445123,0
+Mexico,15,Ixtapan de la Sal,40,0,0,0,0,8.043936169,7.281003003,0
+Mexico,15,Ixtapan del Oro,41,0,0,0,0,8.929317754,13.4556274,0
+Mexico,15,Ixtlahuaca,42,0,0,0,0,18.43702312,8.732295263,0
+Mexico,15,Xalatlaco,43,0,0,0,0,8.222273179,4.155378932,0
+Mexico,15,Jaltenco,44,0,0,0,0,3.773860633,3.478568261,0
+Mexico,15,Jilotepec,45,0,0,0,0,28.95843034,3.397679861,0
+Mexico,15,Jilotzingo,46,0,0,0,0,15.84367131,57.52407157,0
+Mexico,15,Jiquipilco,47,0,0,0,0,16.26716553,11.7662655,0
+Mexico,15,Jocotitlan,48,0,0,0,0,15.22229539,7.834965546,0
+Mexico,15,Joquicingo,49,0,0,0,0,5.694137073,13.87855572,0
+Mexico,15,Juchitepec,50,0,0,0,0,9.192375475,10.34505942,0
+Mexico,15,Lerma,51,0,0,0,0,14.4445038,16.67846241,0
+Mexico,15,Malinalco,52,0,0,0,0,24.29564673,158.2486155,0
+Mexico,15,Melchor Ocampo,53,0,0,0,0,3.702090043,2.46588368,0
+Mexico,15,Metepec,54,0,0,0,0,5.876259541,2.160410375,0
+Mexico,15,Mexicaltzingo,55,0,0,0,0,3.288383362,2.128689033,0
+Mexico,15,Morelos,56,0,0,0,0,21.44206494,50.76526316,0
+Mexico,15,Naucalpan de Juarez,57,0,0,0,0,9.970090258,39.00362478,0
+Mexico,15,Nezahualcoyotl,58,0,0,0,0,12.94159242,47.66992221,0
+Mexico,15,Nextlalpan,59,0,0,0,0,4.830827182,4.500600328,0
+Mexico,15,Nicolas Romero,60,0,0,0,0,19.97753242,86.22470622,0
+Mexico,15,Nopaltepec,61,0,0,0,0,6.917454976,2.531626608,0
+Mexico,15,Ocoyoacac,62,0,0,0,0,9.108730868,6.366935316,0
+Mexico,15,Ocuilan,63,0,0,0,0,27.17579953,478.0757809,0
+Mexico,15,El Oro,64,0,0,0,0,9.082043508,11.30993506,0
+Mexico,15,Otumba,65,0,0,0,0,16.29833218,63.11283213,0
+Mexico,15,Otzoloapan,66,0,0,0,0,11.1559535,409.6878174,0
+Mexico,15,Otzolotepec,67,0,0,0,0,8.291851953,4.134584304,0
+Mexico,15,Ozumba,68,0,0,0,0,4.751593486,2.688974975,0
+Mexico,15,Papalotla,69,0,0,0,0,3.602105973,3.100128798,0
+Mexico,15,La Paz,70,0,0,0,0,4.580473986,37.37702632,0
+Mexico,15,Polotitlan,71,0,0,0,0,8.515506142,2.844108224,0
+Mexico,15,Rayon,72,0,0,0,0,3.740949564,2.128344694,0
+Mexico,15,San Antonio la Isla,73,0,0,0,0,3.625481421,2.149624864,0
+Mexico,15,San Felipe del Progreso,74,0,0,0,0,19.29240308,8.407914389,0
+Mexico,15,San Martin de las Piramides,75,0,0,0,0,7.134747689,39.70632731,0
+Mexico,15,San Mateo Atenco,76,0,0,0,0,4.038640115,3.889195286,0
+Mexico,15,San Simon de Guerrero,77,0,0,0,0,12.85903096,201.8186733,0
+Mexico,15,Santo Tomas,78,0,0,0,0,8.577328551,347.0517809,0
+Mexico,15,Soyaniquilpan de Juarez,79,0,0,0,0,8.658768829,2.70681278,0
+Mexico,15,Sultepec,80,0,0,0,0,68.53451845,923.8398226,0
+Mexico,15,Tecamac,81,0,0,0,0,9.745642165,8.485169846,0
+Mexico,15,Tejupilco,82,0,0,0,0,64.66577118,188.258526,0
+Mexico,15,Temamatla,83,0,0,0,0,4.079543318,2.129042351,0
+Mexico,15,Temascalapa,84,0,0,0,0,10.30586573,2.845247399,0
+Mexico,15,Temascalcingo,85,0,0,0,0,32.69625516,80.11681602,0
+Mexico,15,Temascaltepec,86,0,0,0,0,31.13062065,401.6081136,0
+Mexico,15,Temoaya,87,0,0,0,0,11.28340787,8.629144825,0
+Mexico,15,Tenancingo,88,0,0,0,0,14.62667723,226.6679325,0
+Mexico,15,Tenango del Aire,89,0,0,0,0,4.492591286,2.128693158,0
+Mexico,15,Tenango del Valle,90,0,0,0,0,11.26782244,82.80809111,0
+Mexico,15,Teoloyucan,91,0,0,0,0,5.292986879,4.108480853,0
+Mexico,15,Teotihuacan,92,0,0,0,0,6.68857947,2.385786915,0
+Mexico,15,Tepetlaoxtoc,93,0,0,0,0,18.11530401,84.02157133,0
+Mexico,15,Tepetlixpa,94,0,0,0,0,4.706134815,4.2144985,0
+Mexico,15,Tepotzotlan,95,0,0,0,0,11.3798774,3.573941132,0
+Mexico,15,Tequixquiac,96,0,0,0,0,8.508129367,2.40120307,0
+Mexico,15,Texcaltitlan,97,0,0,0,0,12.37397648,138.6783885,0
+Mexico,15,Texcalyacac,98,0,0,0,0,4.863639972,10.39728616,0
+Mexico,15,Texcoco,99,0,0,0,0,66.67704194,172.6484175,0
+Mexico,15,Tezoyuca,100,0,0,0,0,3.78026975,4.022683307,0
+Mexico,15,Tianguistenco,101,0,0,0,0,11.36478684,22.23259134,0
+Mexico,15,Timilpan,102,0,0,0,0,10.61269022,3.273723366,0
+Mexico,15,Tlalmanalco,103,0,0,0,0,17.24127904,47.93032915,0
+Mexico,15,Tlalnepantla de Baz,104,0,0,0,0,6.513869196,37.65389647,0
+Mexico,15,Tlatlaya,105,0,0,0,0,61.48940802,132.2825838,0
+Mexico,15,Toluca,106,0,0,0,0,27.67805853,38.42671664,0
+Mexico,15,Tonatico,107,0,0,0,0,7.222634815,5.763641382,0
+Mexico,15,Tultepec,108,0,0,0,0,3.838987596,3.078129216,0
+Mexico,15,Tultitlan,109,0,0,0,0,5.598458644,3.90874231,0
+Mexico,15,Valle de Bravo,110,0,0,0,0,21.71437567,246.2711333,0
+Mexico,15,Villa de Allende,111,0,0,0,0,17.17125502,58.07115836,0
+Mexico,15,Villa del Carbon,112,0,0,0,0,25.04576091,57.99378943,0
+Mexico,15,Villa Guerrero,113,0,0,0,0,16.85568212,53.57859308,0
+Mexico,15,Villa Victoria,114,0,0,0,0,20.90598484,18.68666554,0
+Mexico,15,Xonacatlan,115,0,0,0,0,5.807773849,3.789075342,0
+Mexico,15,Zacazonapan,116,0,0,0,0,10.28706802,201.0187101,0
+Mexico,15,Zacualpan,117,0,0,0,0,34.12535918,405.9782003,0
+Mexico,15,Zinacantepec,118,0,0,0,0,15.52389877,85.17446272,0
+Mexico,15,Zumpahuacan,119,0,0,0,0,14.64933647,19.19829322,0
+Mexico,15,Zumpango,120,0,0,0,0,15.72445091,18.80505306,0
+Mexico,15,Cuautitlan Izcalli,121,0,0,0,0,7.973559386,37.93710451,0
+Mexico,15,Valle de Chalco Solidaridad,122,0,0,0,0,4.719617109,2.151205856,0
+Mexico,15,Luvianos,123,0,0,0,0,73.02594529,217.8661951,0
+Mexico,15,San Jose del Rincon,124,0,0,0,0,26.29573835,19.32199116,0
+Mexico,15,Tonanitla,125,0,0,0,0,3.112595652,2.55190654,0
+Michoacan de Ocampo,16,Acuitzio,1,0,0,0,0,280.0788962,596.6538897,0
+Michoacan de Ocampo,16,Aguililla,2,0,0,0,0,1347.017962,7268.759306,0
+Michoacan de Ocampo,16,alvaro Obregon,3,0,0,0,0,326.937815,688.4226822,0
+Michoacan de Ocampo,16,Angamacutiro,4,0,0,0,0,447.595334,1194.903885,0
+Michoacan de Ocampo,16,Angangueo,5,0,0,0,0,98.60558396,257.301157,0
+Michoacan de Ocampo,16,Apatzingan,6,0,0,0,0,2134.421541,10305.7467,0
+Michoacan de Ocampo,16,Aporo,7,0,0,0,0,63.3891482,178.6150004,0
+Michoacan de Ocampo,16,Aquila,8,0,0,0,0,2176.406273,17627.23619,0
+Michoacan de Ocampo,16,Ario,9,0,0,0,0,1100.008912,3012.407222,0
+Michoacan de Ocampo,16,Arteaga,10,0,0,0,0,1943.220874,21998.46363,0
+Michoacan de Ocampo,16,Briseñas,11,0,0,0,0,155.2540616,545.0561117,0
+Michoacan de Ocampo,16,Buenavista,12,0,0,0,0,1638.800198,6098.486134,0
+Michoacan de Ocampo,16,Caracuaro,13,0,0,0,0,656.3901983,6079.527125,0
+Michoacan de Ocampo,16,Coahuayana,14,0,0,0,0,730.769345,2564.072576,0
+Michoacan de Ocampo,16,Coalcoman de Vazquez Pallares,15,0,0,0,0,1177.163544,7777.720798,0
+Michoacan de Ocampo,16,Coeneo,16,0,0,0,0,581.8752811,1306.490022,0
+Michoacan de Ocampo,16,Contepec,17,0,0,0,0,667.5736533,1379.709937,0
+Michoacan de Ocampo,16,Copandaro,18,0,0,0,0,100.9397324,384.7529826,0
+Michoacan de Ocampo,16,Cotija,19,0,0,0,0,543.1728614,2439.256877,0
+Michoacan de Ocampo,16,Cuitzeo,20,0,0,0,0,205.671323,511.1215878,0
+Michoacan de Ocampo,16,Charapan,21,0,0,0,0,315.3355966,641.29666,0
+Michoacan de Ocampo,16,Charo,22,0,0,0,0,255.964579,1243.956547,0
+Michoacan de Ocampo,16,Chavinda,23,0,0,0,0,244.896591,902.3409204,0
+Michoacan de Ocampo,16,Cheran,24,0,0,0,0,204.4083685,475.0409019,0
+Michoacan de Ocampo,16,Chilchota,25,0,0,0,0,359.6107005,1473.462583,0
+Michoacan de Ocampo,16,Chinicuila,26,0,0,0,0,1092.761411,6379.5432,0
+Michoacan de Ocampo,16,Chucandiro,27,0,0,0,0,205.774921,827.2860526,0
+Michoacan de Ocampo,16,Churintzio,28,0,0,0,0,298.6037439,931.8735942,0
+Michoacan de Ocampo,16,Churumuco,29,0,0,0,0,808.2543656,6361.23891,0
+Michoacan de Ocampo,16,Ecuandureo,30,0,0,0,0,459.605394,1805.246535,0
+Michoacan de Ocampo,16,Epitacio Huerta,31,0,0,0,0,705.4488742,1378.134902,0
+Michoacan de Ocampo,16,Erongaricuaro,32,0,0,0,0,250.6625519,735.029322,0
+Michoacan de Ocampo,16,Gabriel Zamora,33,0,0,0,0,560.6608165,2282.339137,0
+Michoacan de Ocampo,16,Hidalgo,34,0,0,0,0,795.3534798,2802.898104,0
+Michoacan de Ocampo,16,La Huacana,35,0,0,0,0,1809.867974,13371.08623,0
+Michoacan de Ocampo,16,Huandacareo,36,0,0,0,0,104.4938432,452.5390678,0
+Michoacan de Ocampo,16,Huaniqueo,37,0,0,0,0,232.2489431,883.0313585,0
+Michoacan de Ocampo,16,Huetamo,38,0,0,0,0,1965.874969,12936.02321,0
+Michoacan de Ocampo,16,Huiramba,39,0,0,0,0,130.6653402,282.3398448,0
+Michoacan de Ocampo,16,Indaparapeo,40,0,0,0,0,234.5950998,1320.718465,0
+Michoacan de Ocampo,16,Irimbo,41,0,0,0,0,235.3625379,614.9158445,0
+Michoacan de Ocampo,16,Ixtlan,42,0,0,0,0,236.0189152,711.2392937,0
+Michoacan de Ocampo,16,Jacona,43,0,0,0,0,176.9758807,562.7281765,0
+Michoacan de Ocampo,16,Jimenez,44,0,0,0,0,333.1922736,703.5641332,0
+Michoacan de Ocampo,16,Jiquilpan,45,0,0,0,0,339.0211498,1225.400423,0
+Michoacan de Ocampo,16,Juarez,46,0,0,0,0,199.2657129,823.813134,0
+Michoacan de Ocampo,16,Jungapeo,47,0,0,0,0,285.3868541,1683.885294,0
+Michoacan de Ocampo,16,Lagunillas,48,0,0,0,0,119.7653185,284.3327068,0
+Michoacan de Ocampo,16,Madero,49,0,0,0,0,356.2924725,2695.42247,0
+Michoacan de Ocampo,16,Maravatio,50,0,0,0,0,1150.227356,2635.879936,0
+Michoacan de Ocampo,16,Marcos Castellanos,51,0,0,0,0,226.2112541,669.8250235,0
+Michoacan de Ocampo,16,Lazaro Cardenas,52,0,0,0,0,1294.671294,8167.073671,0
+Michoacan de Ocampo,16,Morelia,53,0,0,0,0,1335.254687,7051.941673,0
+Michoacan de Ocampo,16,Morelos,54,0,0,0,0,254.4159495,663.5384137,0
+Michoacan de Ocampo,16,Mugica,55,0,0,0,0,809.3484693,2141.96827,0
+Michoacan de Ocampo,16,Nahuatzen,56,0,0,0,0,378.9231522,1035.237846,0
+Michoacan de Ocampo,16,Nocupetaro,57,0,0,0,0,404.2672117,3504.490532,0
+Michoacan de Ocampo,16,Nuevo Parangaricutiro,58,0,0,0,0,342.3905993,845.3421589,0
+Michoacan de Ocampo,16,Nuevo Urecho,59,0,0,0,0,445.0418868,1635.179262,0
+Michoacan de Ocampo,16,Numaran,60,0,0,0,0,176.009219,409.6841405,0
+Michoacan de Ocampo,16,Ocampo,61,0,0,0,0,173.3021589,477.6811794,0
+Michoacan de Ocampo,16,Pajacuaran,62,0,0,0,0,350.0797273,940.1141221,0
+Michoacan de Ocampo,16,Panindicuaro,63,0,0,0,0,353.9490354,1353.252599,0
+Michoacan de Ocampo,16,Paracuaro,64,0,0,0,0,886.4614806,2576.701438,0
+Michoacan de Ocampo,16,Paracho,65,0,0,0,0,323.5418933,618.0589757,0
+Michoacan de Ocampo,16,Patzcuaro,66,0,0,0,0,547.461165,2664.909161,0
+Michoacan de Ocampo,16,Penjamillo,67,0,0,0,0,608.1530566,1633.219728,0
+Michoacan de Ocampo,16,Periban,68,0,0,0,0,872.214612,1957.215327,0
+Michoacan de Ocampo,16,La Piedad,69,0,0,0,0,532.5952727,1379.017477,0
+Michoacan de Ocampo,16,Purepero,70,0,0,0,0,217.7601709,716.9090266,0
+Michoacan de Ocampo,16,Puruandiro,71,0,0,0,0,1038.961795,3515.627136,0
+Michoacan de Ocampo,16,Querendaro,72,0,0,0,0,202.5002097,1853.188844,0
+Michoacan de Ocampo,16,Quiroga,73,0,0,0,0,243.4442465,662.3483157,0
+Michoacan de Ocampo,16,Cojumatlan de Regules,74,0,0,0,0,126.7264615,679.1705606,0
+Michoacan de Ocampo,16,Los Reyes,75,0,0,0,0,774.1251664,1588.430478,0
+Michoacan de Ocampo,16,Sahuayo,76,0,0,0,0,190.2917695,661.1004302,0
+Michoacan de Ocampo,16,San Lucas,77,0,0,0,0,646.0860207,2824.081204,0
+Michoacan de Ocampo,16,Santa Ana Maya,78,0,0,0,0,194.2759391,521.7604277,0
+Michoacan de Ocampo,16,Salvador Escalante,79,0,0,0,0,969.9303923,2850.462327,0
+Michoacan de Ocampo,16,Senguio,80,0,0,0,0,310.843918,810.1676286,0
+Michoacan de Ocampo,16,Susupuato,81,0,0,0,0,330.9291344,1355.31223,0
+Michoacan de Ocampo,16,Tacambaro,82,0,0,0,0,1315.219806,4118.977617,0
+Michoacan de Ocampo,16,Tancitaro,83,0,0,0,0,1352.061134,3002.650815,0
+Michoacan de Ocampo,16,Tangamandapio,84,0,0,0,0,443.1072328,1372.060265,0
+Michoacan de Ocampo,16,Tangancicuaro,85,0,0,0,0,578.9901918,1811.612618,0
+Michoacan de Ocampo,16,Tanhuato,86,0,0,0,0,427.3191859,1338.599467,0
+Michoacan de Ocampo,16,Taretan,87,0,0,0,0,303.4974573,887.1774123,0
+Michoacan de Ocampo,16,Tarimbaro,88,0,0,0,0,474.8079785,1340.834447,0
+Michoacan de Ocampo,16,Tepalcatepec,89,0,0,0,0,1533.848478,5039.689551,0
+Michoacan de Ocampo,16,Tingambato,90,0,0,0,0,305.6886391,1649.23833,0
+Michoacan de Ocampo,16,Tingüindin,91,0,0,0,0,328.4610094,727.1426225,0
+Michoacan de Ocampo,16,Tiquicheo de Nicolas Romero,92,0,0,0,0,857.4133155,8401.868356,0
+Michoacan de Ocampo,16,Tlalpujahua,93,0,0,0,0,247.2082176,735.5523374,0
+Michoacan de Ocampo,16,Tlazazalca,94,0,0,0,0,220.2149941,859.7742352,0
+Michoacan de Ocampo,16,Tocumbo,95,0,0,0,0,432.4129345,2156.48924,0
+Michoacan de Ocampo,16,Tumbiscatio,96,0,0,0,0,924.0213255,7438.508685,0
+Michoacan de Ocampo,16,Turicato,97,0,0,0,0,1373.74845,8620.946948,0
+Michoacan de Ocampo,16,Tuxpan,98,0,0,0,0,292.8147493,1113.140714,0
+Michoacan de Ocampo,16,Tuzantla,99,0,0,0,0,691.2169249,5837.473037,0
+Michoacan de Ocampo,16,Tzintzuntzan,100,0,0,0,0,175.6163995,797.4369301,0
+Michoacan de Ocampo,16,Tzitzio,101,0,0,0,0,321.7730567,4457.362764,0
+Michoacan de Ocampo,16,Uruapan,102,0,0,0,0,1147.273228,3025.608273,0
+Michoacan de Ocampo,16,Venustiano Carranza,103,0,0,0,0,522.7388664,1156.160069,0
+Michoacan de Ocampo,16,Villamar,104,0,0,0,0,608.645638,2019.475924,0
+Michoacan de Ocampo,16,Vista Hermosa,105,0,0,0,0,351.8995457,654.45712,0
+Michoacan de Ocampo,16,Yurecuaro,106,0,0,0,0,322.3979258,1016.363415,0
+Michoacan de Ocampo,16,Zacapu,107,0,0,0,0,568.2479832,1514.952813,0
+Michoacan de Ocampo,16,Zamora,108,0,0,0,0,547.6627712,1943.350435,0
+Michoacan de Ocampo,16,Zinaparo,109,0,0,0,0,214.6714153,470.5701467,0
+Michoacan de Ocampo,16,Zinapecuaro,110,0,0,0,0,713.5032976,1820.215196,0
+Michoacan de Ocampo,16,Ziracuaretiro,111,0,0,0,0,265.4343136,623.9613809,0
+Michoacan de Ocampo,16,Zitacuaro,112,0,0,0,0,696.5233252,2830.528075,0
+Michoacan de Ocampo,16,Jose Sixto Verduzco,113,0,0,0,0,467.6497379,1119.502927,0
+Morelos,17,Amacuzac,1,0,0,0,0,243.6301326,628.6293055,0
+Morelos,17,Atlatlahucan,2,0,0,0,0,179.8896818,358.3939785,0
+Morelos,17,Axochiapan,3,0,0,0,0,428.3724741,821.5061607,0
+Morelos,17,Ayala,4,0,0,0,0,737.6176035,2572.057596,0
+Morelos,17,Coatlan del Rio,5,0,0,0,0,156.9084419,575.7808203,0
+Morelos,17,Cuautla,6,0,0,0,0,212.333131,461.0171586,0
+Morelos,17,Cuernavaca,7,0,0,0,0,128.0972525,813.1516669,0
+Morelos,17,Emiliano Zapata,8,0,0,0,0,110.4292036,390.4305156,0
+Morelos,17,Huitzilac,9,0,0,0,0,134.5094667,664.4557367,0
+Morelos,17,Jantetelco,10,0,0,0,0,245.4508913,566.3682658,0
+Morelos,17,Jiutepec,11,0,0,0,0,70.07943664,207.6072519,0
+Morelos,17,Jojutla,12,0,0,0,0,336.4478292,869.3006795,0
+Morelos,17,Jonacatepec,13,0,0,0,0,202.5251101,531.7908503,0
+Morelos,17,Mazatepec,14,0,0,0,0,139.8659277,358.2300243,0
+Morelos,17,Miacatlan,15,0,0,0,0,319.638474,1269.224157,0
+Morelos,17,Ocuituco,16,0,0,0,0,242.0878564,489.4034768,0
+Morelos,17,Puente de Ixtla,17,0,0,0,0,481.967377,1621.075901,0
+Morelos,17,Temixco,18,0,0,0,0,153.9688875,487.5775738,0
+Morelos,17,Tepalcingo,19,0,0,0,0,524.5667475,2733.04477,0
+Morelos,17,Tepoztlan,20,0,0,0,0,239.8937313,2451.049074,0
+Morelos,17,Tetecala,21,0,0,0,0,105.608138,454.855763,0
+Morelos,17,Tetela del Volcan,22,0,0,0,0,156.3452489,349.4793098,0
+Morelos,17,Tlalnepantla,23,0,0,0,0,180.3158695,798.9606068,0
+Morelos,17,Tlaltizapan,24,0,0,0,0,394.3532073,1775.111713,0
+Morelos,17,Tlaquiltenango,25,0,0,0,0,622.3397504,3827.206157,0
+Morelos,17,Tlayacapan,26,0,0,0,0,113.9591617,366.5324721,0
+Morelos,17,Totolapan,27,0,0,0,0,152.5237443,305.8273768,0
+Morelos,17,Xochitepec,28,0,0,0,0,192.9911848,470.9759891,0
+Morelos,17,Yautepec,29,0,0,0,0,344.6746632,1030.203116,0
+Morelos,17,Yecapixtla,30,0,0,0,0,468.7075303,908.9970139,0
+Morelos,17,Zacatepec,31,0,0,0,0,45.83369378,129.6640378,0
+Morelos,17,Zacualpan,32,0,0,0,0,142.1430566,300.4773411,0
+Morelos,17,Temoac,33,0,0,0,0,102.6699382,192.0459213,0
+Nayarit,18,Acaponeta,1,0,0,0,0,1747.127382,13520.29146,0
+Nayarit,18,Ahuacatlan,2,0,0,0,0,572.2289334,3826.885465,0
+Nayarit,18,Amatlan de Cañas,3,0,0,0,0,643.8367685,3997.176181,0
+Nayarit,18,Compostela,4,0,0,0,0,2597.453054,23376.44119,0
+Nayarit,18,Huajicori,5,0,0,0,0,1024.087357,22500.31788,0
+Nayarit,18,Ixtlan del Rio,6,0,0,0,0,430.1357453,2790.4671,0
+Nayarit,18,Jala,7,0,0,0,0,370.0803574,3007.661647,0
+Nayarit,18,Xalisco,8,0,0,0,0,929.1386712,7183.641415,0
+Nayarit,18,Del Nayar,9,0,0,0,0,1946.005003,45108.47287,0
+Nayarit,18,Rosamorada,10,0,0,0,0,2686.101025,20954.99691,0
+Nayarit,18,Ruiz,11,0,0,0,0,572.6192518,9089.901181,0
+Nayarit,18,San Blas,12,0,0,0,0,1949.478726,12296.53062,0
+Nayarit,18,San Pedro Lagunillas,13,0,0,0,0,938.8212842,3693.351694,0
+Nayarit,18,Santa Maria del Oro,14,0,0,0,0,1634.044604,6977.661233,0
+Nayarit,18,Santiago Ixcuintla,15,0,0,0,0,3112.231945,12750.81092,0
+Nayarit,18,Tecuala,16,0,0,0,0,1901.481952,5679.011353,0
+Nayarit,18,Tepic,17,0,0,0,0,2210.711333,17758.30443,0
+Nayarit,18,Tuxpan,18,0,0,0,0,518.1988531,1380.341111,0
+Nayarit,18,La Yesca,19,0,0,0,0,1823.234671,19170.15091,0
+Nayarit,18,Bahia de Banderas,20,0,0,0,0,792.0144415,7159.135042,0
+Nuevo Leon,19,Abasolo,1,0,0,0,0,20.95414306,36.5239666,0
+Nuevo Leon,19,Agualeguas,2,0,0,0,0,1275.580851,2549.750417,0
+Nuevo Leon,19,Los Aldamas,3,0,0,0,0,1141.434653,2282.082702,0
+Nuevo Leon,19,Allende,4,0,0,0,0,358.2600417,818.2954608,0
+Nuevo Leon,19,Anahuac,5,0,0,0,0,5922.941282,11563.85126,0
+Nuevo Leon,19,Apodaca,6,0,0,0,0,259.2443079,514.0544615,0
+Nuevo Leon,19,Aramberri,7,0,0,0,0,1095.817629,4243.771791,0
+Nuevo Leon,19,Bustamante,8,0,0,0,0,289.7072764,543.7872726,0
+Nuevo Leon,19,Cadereyta Jimenez,9,0,0,0,0,2724.573206,5653.867456,0
+Nuevo Leon,19,Carmen,10,0,0,0,0,55.61279744,89.04313057,0
+Nuevo Leon,19,Cerralvo,11,0,0,0,0,725.5923185,1458.372695,0
+Nuevo Leon,19,Cienega de Flores,12,0,0,0,0,160.0192952,288.225939,0
+Nuevo Leon,19,China,13,0,0,0,0,7123.279484,14513.96727,0
+Nuevo Leon,19,Doctor Arroyo,14,0,0,0,0,3567.325355,6521.177239,0
+Nuevo Leon,19,Doctor Coss,15,0,0,0,0,1661.166101,3374.356876,0
+Nuevo Leon,19,Doctor Gonzalez,16,0,0,0,0,684.2271589,1338.639293,0
+Nuevo Leon,19,Galeana,17,0,0,0,0,4369.17915,8563.476613,0
+Nuevo Leon,19,Garcia,18,0,0,0,0,218.0481587,256.2856101,0
+Nuevo Leon,19,San Pedro Garza Garcia,19,0,0,0,0,12.05814565,62.18179805,0
+Nuevo Leon,19,General Bravo,20,0,0,0,0,3821.747462,7843.819643,0
+Nuevo Leon,19,General Escobedo,21,0,0,0,0,46.16245283,72.7833067,0
+Nuevo Leon,19,General Teran,22,0,0,0,0,4689.50232,9597.091433,0
+Nuevo Leon,19,General Treviño,23,0,0,0,0,595.0912694,1196.981597,0
+Nuevo Leon,19,General Zaragoza,24,0,0,0,0,398.5390634,3466.951274,0
+Nuevo Leon,19,General Zuazua,25,0,0,0,0,133.8166259,226.2147532,0
+Nuevo Leon,19,Guadalupe,26,0,0,0,0,5.608540853,18.40664291,0
+Nuevo Leon,19,Los Herreras,27,0,0,0,0,368.6374612,670.392412,0
+Nuevo Leon,19,Higueras,28,0,0,0,0,142.5218011,255.6677574,0
+Nuevo Leon,19,Hualahuises,29,0,0,0,0,338.3692087,699.7092551,0
+Nuevo Leon,19,Iturbide,30,0,0,0,0,124.2683663,1020.240649,0
+Nuevo Leon,19,Juarez,31,0,0,0,0,240.8485583,497.5940744,0
+Nuevo Leon,19,Lampazos de Naranjo,32,0,0,0,0,2881.248644,5419.922641,0
+Nuevo Leon,19,Linares,33,0,0,0,0,4205.31112,9805.008554,0
+Nuevo Leon,19,Marin,34,0,0,0,0,317.4015333,667.265327,0
+Nuevo Leon,19,Melchor Ocampo,35,0,0,0,0,140.2098131,249.7479206,0
+Nuevo Leon,19,Mier y Noriega,36,0,0,0,0,510.0567121,866.332944,0
+Nuevo Leon,19,Mina,37,0,0,0,0,1066.088312,1388.350546,0
+Nuevo Leon,19,Montemorelos,38,0,0,0,0,2957.543043,6581.132589,0
+Nuevo Leon,19,Monterrey,39,0,0,0,0,28.22340375,157.1780861,0
+Nuevo Leon,19,Paras,40,0,0,0,0,1647.571614,3251.482574,0
+Nuevo Leon,19,Pesqueria,41,0,0,0,0,689.030525,1417.976524,0
+Nuevo Leon,19,Los Ramones,42,0,0,0,0,2534.070291,5104.633146,0
+Nuevo Leon,19,Rayones,43,0,0,0,0,213.9655154,644.0665449,0
+Nuevo Leon,19,Sabinas Hidalgo,44,0,0,0,0,1964.719957,3908.994887,0
+Nuevo Leon,19,Salinas Victoria,45,0,0,0,0,1667.266776,3325.69811,0
+Nuevo Leon,19,San Nicolas de los Garza,46,0,0,0,0,5.342856628,8.365921389,0
+Nuevo Leon,19,Hidalgo,47,0,0,0,0,32.0342936,41.87284176,0
+Nuevo Leon,19,Santa Catarina,48,0,0,0,0,147.8504209,975.5748441,0
+Nuevo Leon,19,Santiago,49,0,0,0,0,274.9368973,2383.0213,0
+Nuevo Leon,19,Vallecillo,50,0,0,0,0,2116.399085,4117.516847,0
+Nuevo Leon,19,Villaldama,51,0,0,0,0,568.7642162,1099.226129,0
+Oaxaca,20,Abejones,1,0,0,0,0,77.24313664,493.5621927,0
+Oaxaca,20,Acatlan de Perez Figueroa,2,0,0,0,0,1980.456795,12037.43209,0
+Oaxaca,20,Asuncion Cacalotepec,3,0,0,0,0,22.3130582,4169.901784,0
+Oaxaca,20,Asuncion Cuyotepeji,4,0,0,0,0,21.61794834,133.1344714,0
+Oaxaca,20,Asuncion Ixtaltepec,5,0,0,0,0,1119.764468,6719.413394,0
+Oaxaca,20,Asuncion Nochixtlan,6,0,0,0,0,325.5878227,1046.686925,0
+Oaxaca,20,Asuncion Ocotlan,7,0,0,0,0,12.54113602,20.07976516,0
+Oaxaca,20,Asuncion Tlacolulita,8,0,0,0,0,114.2300101,1503.847579,0
+Oaxaca,20,Ayotzintepec,9,0,0,0,0,161.2812747,3715.4351,0
+Oaxaca,20,El Barrio de la Soledad,10,0,0,0,0,582.6293104,4706.527543,0
+Oaxaca,20,Calihuala,11,0,0,0,0,37.05147834,237.5071569,0
+Oaxaca,20,Candelaria Loxicha,12,0,0,0,0,195.7526458,2850.571381,0
+Oaxaca,20,Cienega de Zimatlan,13,0,0,0,0,35.0482975,65.23658804,0
+Oaxaca,20,Ciudad Ixtepec,14,0,0,0,0,323.4501598,1501.08444,0
+Oaxaca,20,Coatecas Altas,15,0,0,0,0,116.3010286,322.9498497,0
+Oaxaca,20,Coicoyan de las Flores,16,0,0,0,0,49.50953968,542.3606587,0
+Oaxaca,20,La Compañia,17,0,0,0,0,114.8049001,267.8738992,0
+Oaxaca,20,Concepcion Buenavista,18,0,0,0,0,89.98748216,781.0201634,0
+Oaxaca,20,Concepcion Papalo,19,0,0,0,0,102.0132069,1704.084522,0
+Oaxaca,20,Constancia del Rosario,20,0,0,0,0,47.16773357,202.4387444,0
+Oaxaca,20,Cosolapa,21,0,0,0,0,231.6594405,2026.746442,0
+Oaxaca,20,Cosoltepec,22,0,0,0,0,58.77461497,443.3322986,0
+Oaxaca,20,Cuilapam de Guerrero,23,0,0,0,0,123.3307993,240.743591,0
+Oaxaca,20,Cuyamecalco Villa de Zaragoza,24,0,0,0,0,109.7198184,578.7162657,0
+Oaxaca,20,Chahuites,25,0,0,0,0,61.25018072,115.7461729,0
+Oaxaca,20,Chalcatongo de Hidalgo,26,0,0,0,0,193.9157106,420.9998526,0
+Oaxaca,20,Chiquihuitlan de Benito Juarez,27,0,0,0,0,11.43629219,1211.28814,0
+Oaxaca,20,Heroica Ciudad de Ejutla de Crespo,28,0,0,0,0,467.4807783,976.9968697,0
+Oaxaca,20,Eloxochitlan de Flores Magon,29,0,0,0,0,74.863576,1007.527465,0
+Oaxaca,20,El Espinal,30,0,0,0,0,185.8837393,379.6400182,0
+Oaxaca,20,Tamazulapam del Espiritu Santo,31,0,0,0,0,100.1096088,1833.49783,0
+Oaxaca,20,Fresnillo de Trujano,32,0,0,0,0,110.7545027,633.2179537,0
+Oaxaca,20,Guadalupe Etla,33,0,0,0,0,24.2812065,43.02678542,0
+Oaxaca,20,Guadalupe de Ramirez,34,0,0,0,0,45.0249178,271.770857,0
+Oaxaca,20,Guelatao de Juarez,35,0,0,0,0,9.362171682,37.4741279,0
+Oaxaca,20,Guevea de Humboldt,36,0,0,0,0,93.56896589,8385.43576,0
+Oaxaca,20,Mesones Hidalgo,37,0,0,0,0,81.43838304,491.4245441,0
+Oaxaca,20,Villa Hidalgo,38,0,0,0,0,83.77686213,512.2965876,0
+Oaxaca,20,Heroica Ciudad de Huajuapan de Leon,39,0,0,0,0,258.5681204,848.6349567,0
+Oaxaca,20,Huautepec,40,0,0,0,0,97.27095244,1119.673739,0
+Oaxaca,20,Huautla de Jimenez,41,0,0,0,0,434.9180007,3664.492102,0
+Oaxaca,20,Ixtlan de Juarez,42,0,0,0,0,289.0396377,18968.38137,0
+Oaxaca,20,Heroica Ciudad de Juchitan de Zaragoza,43,0,0,0,0,1095.290162,2555.460068,0
+Oaxaca,20,Loma Bonita,44,0,0,0,0,1688.197685,3892.62782,0
+Oaxaca,20,Magdalena Apasco,45,0,0,0,0,58.52244627,117.6980655,0
+Oaxaca,20,Magdalena Jaltepec,46,0,0,0,0,204.6317747,412.6673948,0
+Oaxaca,20,Santa Magdalena Jicotlan,47,0,0,0,0,14.97782081,46.74307059,0
+Oaxaca,20,Magdalena Mixtepec,48,0,0,0,0,9.653785403,61.86109902,0
+Oaxaca,20,Magdalena Ocotlan,49,0,0,0,0,24.50250251,41.57705662,0
+Oaxaca,20,Magdalena Peñasco,50,0,0,0,0,92.69658859,207.8462954,0
+Oaxaca,20,Magdalena Teitipac,51,0,0,0,0,44.8178688,125.1471934,0
+Oaxaca,20,Magdalena Tequisistlan,52,0,0,0,0,492.6823493,5224.442066,0
+Oaxaca,20,Magdalena Tlacotepec,53,0,0,0,0,113.5534141,893.0691863,0
+Oaxaca,20,Magdalena Zahuatlan,54,0,0,0,0,21.48995689,28.79329802,0
+Oaxaca,20,Mariscala de Juarez,55,0,0,0,0,152.5792988,1077.626951,0
+Oaxaca,20,Martires de Tacubaya,56,0,0,0,0,65.01657968,534.9631048,0
+Oaxaca,20,Matias Romero Avendaño,57,0,0,0,0,3273.38573,20848.88694,0
+Oaxaca,20,Mazatlan Villa de Flores,58,0,0,0,0,364.2328386,1758.531021,0
+Oaxaca,20,Miahuatlan de Porfirio Diaz,59,0,0,0,0,805.8552522,1857.589413,0
+Oaxaca,20,Mixistlan de la Reforma,60,0,0,0,0,55.86809689,1340.375789,0
+Oaxaca,20,Monjas,61,0,0,0,0,36.67545765,63.56591652,0
+Oaxaca,20,Natividad,62,0,0,0,0,6.975093749,10.34710949,0
+Oaxaca,20,Nazareno Etla,63,0,0,0,0,16.58707385,28.13643112,0
+Oaxaca,20,Nejapa de Madero,64,0,0,0,0,515.9043033,3817.582339,0
+Oaxaca,20,Ixpantepec Nieves,65,0,0,0,0,104.6406062,443.7093254,0
+Oaxaca,20,Santiago Niltepec,66,0,0,0,0,723.2423927,2989.389088,0
+Oaxaca,20,Oaxaca de Juarez,67,0,0,0,0,55.46926735,172.8569811,0
+Oaxaca,20,Ocotlan de Morelos,68,0,0,0,0,258.7863951,487.7344525,0
+Oaxaca,20,La Pe,69,0,0,0,0,56.13875666,95.24133999,0
+Oaxaca,20,Pinotepa de Don Luis,70,0,0,0,0,216.1890244,553.8292792,0
+Oaxaca,20,Pluma Hidalgo,71,0,0,0,0,147.3588315,2408.430417,0
+Oaxaca,20,San Jose del Progreso,72,0,0,0,0,105.2087913,249.4274864,0
+Oaxaca,20,Putla Villa de Guerrero,73,0,0,0,0,399.7817509,2551.339081,0
+Oaxaca,20,Santa Catarina Quioquitani,74,0,0,0,0,20.89774121,56.32718184,0
+Oaxaca,20,Reforma de Pineda,75,0,0,0,0,114.9141857,233.7297768,0
+Oaxaca,20,La Reforma,76,0,0,0,0,69.5925699,562.6448926,0
+Oaxaca,20,Reyes Etla,77,0,0,0,0,31.85026856,57.02120037,0
+Oaxaca,20,Rojas de Cuauhtemoc,78,0,0,0,0,21.75809473,61.71568904,0
+Oaxaca,20,Salina Cruz,79,0,0,0,0,136.6625184,784.898983,0
+Oaxaca,20,San Agustin Amatengo,80,0,0,0,0,71.17091928,181.4211788,0
+Oaxaca,20,San Agustin Atenango,81,0,0,0,0,64.97990509,355.2315084,0
+Oaxaca,20,San Agustin Chayuco,82,0,0,0,0,185.3952718,2717.099908,0
+Oaxaca,20,San Agustin de las Juntas,83,0,0,0,0,15.90004185,49.13731391,0
+Oaxaca,20,San Agustin Etla,84,0,0,0,0,40.08695262,163.4888755,0
+Oaxaca,20,San Agustin Loxicha,85,0,0,0,0,183.9554222,10277.42385,0
+Oaxaca,20,San Agustin Tlacotepec,86,0,0,0,0,47.3093702,95.13489422,0
+Oaxaca,20,San Agustin Yatareni,87,0,0,0,0,17.36193283,29.5623197,0
+Oaxaca,20,San Andres Cabecera Nueva,88,0,0,0,0,70.38860834,719.4639842,0
+Oaxaca,20,San Andres Dinicuiti,89,0,0,0,0,55.90230966,398.7460439,0
+Oaxaca,20,San Andres Huaxpaltepec,90,0,0,0,0,244.5441179,687.3179081,0
+Oaxaca,20,San Andres Huayapam,91,0,0,0,0,24.53415809,81.2530046,0
+Oaxaca,20,San Andres Ixtlahuaca,92,0,0,0,0,46.54038576,92.98550473,0
+Oaxaca,20,San Andres Lagunas,93,0,0,0,0,65.09475227,155.0377647,0
+Oaxaca,20,San Andres Nuxiño,94,0,0,0,0,77.28119495,203.682653,0
+Oaxaca,20,San Andres Paxtlan,95,0,0,0,0,13.70074658,148.9063851,0
+Oaxaca,20,San Andres Sinaxtla,96,0,0,0,0,57.43310493,102.2754691,0
+Oaxaca,20,San Andres Solaga,97,0,0,0,0,60.36424592,328.0974422,0
+Oaxaca,20,San Andres Teotilalpam,98,0,0,0,0,195.6538719,3908.394071,0
+Oaxaca,20,San Andres Tepetlapa,99,0,0,0,0,16.56281822,22.30369113,0
+Oaxaca,20,San Andres Yaa,100,0,0,0,0,26.98775068,715.0122911,0
+Oaxaca,20,San Andres Zabache,101,0,0,0,0,14.44449359,22.38530069,0
+Oaxaca,20,San Andres Zautla,102,0,0,0,0,83.34214469,215.3152084,0
+Oaxaca,20,San Antonino Castillo Velasco,103,0,0,0,0,34.32598954,62.94977028,0
+Oaxaca,20,San Antonino el Alto,104,0,0,0,0,22.00195324,26.15967683,0
+Oaxaca,20,San Antonino Monte Verde,105,0,0,0,0,82.18411927,231.091309,0
+Oaxaca,20,San Antonio Acutla,106,0,0,0,0,42.39488123,76.92439977,0
+Oaxaca,20,San Antonio de la Cal,107,0,0,0,0,16.96154372,34.41640778,0
+Oaxaca,20,San Antonio Huitepec,108,0,0,0,0,151.4950498,459.3038322,0
+Oaxaca,20,San Antonio Nanahuatipam,109,0,0,0,0,114.7553879,1137.351722,0
+Oaxaca,20,San Antonio Sinicahua,110,0,0,0,0,22.95873175,64.25493,0
+Oaxaca,20,San Antonio Tepetlapa,111,0,0,0,0,54.17930732,580.3283725,0
+Oaxaca,20,San Baltazar Chichicapam,112,0,0,0,0,108.5129577,299.837801,0
+Oaxaca,20,San Baltazar Loxicha,113,0,0,0,0,69.85002292,619.4777615,0
+Oaxaca,20,San Baltazar Yatzachi el Bajo,114,0,0,0,0,33.74901764,149.8350084,0
+Oaxaca,20,San Bartolo Coyotepec,115,0,0,0,0,63.60311002,140.5193763,0
+Oaxaca,20,San Bartolome Ayautla,116,0,0,0,0,44.65174433,1814.974083,0
+Oaxaca,20,San Bartolome Loxicha,117,0,0,0,0,61.79880152,2356.044479,0
+Oaxaca,20,San Bartolome Quialana,118,0,0,0,0,41.18202777,92.01464284,0
+Oaxaca,20,San Bartolome Yucuañe,119,0,0,0,0,33.02695275,102.9250362,0
+Oaxaca,20,San Bartolome Zoogocho,120,0,0,0,0,14.32015448,37.83482152,0
+Oaxaca,20,San Bartolo Soyaltepec,121,0,0,0,0,87.86019908,205.9964808,0
+Oaxaca,20,San Bartolo Yautepec,122,0,0,0,0,50.54431818,571.7976694,0
+Oaxaca,20,San Bernardo Mixtepec,123,0,0,0,0,30.10264856,161.0086899,0
+Oaxaca,20,San Blas Atempa,124,0,0,0,0,517.771216,1471.458313,0
+Oaxaca,20,San Carlos Yautepec,125,0,0,0,0,876.5042367,12281.67554,0
+Oaxaca,20,San Cristobal Amatlan,126,0,0,0,0,52.71917601,187.0927674,0
+Oaxaca,20,San Cristobal Amoltepec,127,0,0,0,0,31.64235361,83.18547332,0
+Oaxaca,20,San Cristobal Lachirioag,128,0,0,0,0,22.19994264,38.6010059,0
+Oaxaca,20,San Cristobal Suchixtlahuaca,129,0,0,0,0,64.20485744,142.4815076,0
+Oaxaca,20,San Dionisio del Mar,130,0,0,0,0,286.5708232,1047.702706,0
+Oaxaca,20,San Dionisio Ocotepec,131,0,0,0,0,225.2403048,1627.546408,0
+Oaxaca,20,San Dionisio Ocotlan,132,0,0,0,0,26.1608697,45.80034167,0
+Oaxaca,20,San Esteban Atatlahuca,133,0,0,0,0,58.76189102,177.5559481,0
+Oaxaca,20,San Felipe Jalapa de Diaz,134,0,0,0,0,392.7107747,2679.696451,0
+Oaxaca,20,San Felipe Tejalapam,135,0,0,0,0,97.84117306,263.2835733,0
+Oaxaca,20,San Felipe Usila,136,0,0,0,0,297.4597888,16025.68037,0
+Oaxaca,20,San Francisco Cahuacua,137,0,0,0,0,109.1294954,594.7155674,0
+Oaxaca,20,San Francisco Cajonos,138,0,0,0,0,39.8339721,179.900887,0
+Oaxaca,20,San Francisco Chapulapa,139,0,0,0,0,19.4880259,1796.612912,0
+Oaxaca,20,San Francisco Chindua,140,0,0,0,0,19.50418819,27.84626792,0
+Oaxaca,20,San Francisco del Mar,141,0,0,0,0,362.4228122,1693.996747,0
+Oaxaca,20,San Francisco Huehuetlan,142,0,0,0,0,18.94432089,451.1754077,0
+Oaxaca,20,San Francisco Ixhuatan,143,0,0,0,0,397.6508735,993.143778,0
+Oaxaca,20,San Francisco Jaltepetongo,144,0,0,0,0,32.22169184,36.70314485,0
+Oaxaca,20,San Francisco Lachigolo,145,0,0,0,0,38.63583162,72.64482607,0
+Oaxaca,20,San Francisco Logueche,146,0,0,0,0,78.09706908,159.2889057,0
+Oaxaca,20,San Francisco Nuxaño,147,0,0,0,0,15.48856106,29.26353273,0
+Oaxaca,20,San Francisco Ozolotepec,148,0,0,0,0,13.78283831,62.7692045,0
+Oaxaca,20,San Francisco Sola,149,0,0,0,0,42.92347182,217.9941083,0
+Oaxaca,20,San Francisco Telixtlahuaca,150,0,0,0,0,127.8705337,754.3856924,0
+Oaxaca,20,San Francisco Teopan,151,0,0,0,0,32.75265911,211.0092539,0
+Oaxaca,20,San Francisco Tlapancingo,152,0,0,0,0,48.03018338,283.4916965,0
+Oaxaca,20,San Gabriel Mixtepec,153,0,0,0,0,148.8796481,4951.643089,0
+Oaxaca,20,San Ildefonso Amatlan,154,0,0,0,0,25.04587349,116.0143538,0
+Oaxaca,20,San Ildefonso Sola,155,0,0,0,0,28.74102806,66.64454488,0
+Oaxaca,20,San Ildefonso Villa Alta,156,0,0,0,0,56.95048938,2886.13569,0
+Oaxaca,20,San Jacinto Amilpas,157,0,0,0,0,7.274460893,9.862439525,0
+Oaxaca,20,San Jacinto Tlacotepec,158,0,0,0,0,44.62659222,163.5583145,0
+Oaxaca,20,San Jeronimo Coatlan,159,0,0,0,0,160.1894519,4920.798106,0
+Oaxaca,20,San Jeronimo Silacayoapilla,160,0,0,0,0,31.46138194,176.8078009,0
+Oaxaca,20,San Jeronimo Sosola,161,0,0,0,0,142.3147069,926.4255038,0
+Oaxaca,20,San Jeronimo Taviche,162,0,0,0,0,39.50649807,144.3017811,0
+Oaxaca,20,San Jeronimo Tecoatl,163,0,0,0,0,47.29345953,236.5893304,0
+Oaxaca,20,San Jorge Nuchita,164,0,0,0,0,90.95496885,393.8025,0
+Oaxaca,20,San Jose Ayuquila,165,0,0,0,0,50.32941535,98.52447859,0
+Oaxaca,20,San Jose Chiltepec,166,0,0,0,0,357.1382217,2946.871398,0
+Oaxaca,20,San Jose del Peñasco,167,0,0,0,0,22.88985483,49.45124696,0
+Oaxaca,20,San Jose Estancia Grande,168,0,0,0,0,134.2031984,548.7651992,0
+Oaxaca,20,San Jose Independencia,169,0,0,0,0,128.6807438,495.8476264,0
+Oaxaca,20,San Jose Lachiguiri,170,0,0,0,0,121.3231223,278.6271097,0
+Oaxaca,20,San Jose Tenango,171,0,0,0,0,215.1177312,8602.84585,0
+Oaxaca,20,San Juan Achiutla,172,0,0,0,0,25.31781588,75.3904439,0
+Oaxaca,20,San Juan Atepec,173,0,0,0,0,82.45971627,598.1587307,0
+Oaxaca,20,animas Trujano,174,0,0,0,0,9.957282721,15.17757213,0
+Oaxaca,20,San Juan Bautista Atatlahuca,175,0,0,0,0,259.4720688,3330.094801,0
+Oaxaca,20,San Juan Bautista Coixtlahuaca,176,0,0,0,0,222.6939817,637.2338917,0
+Oaxaca,20,San Juan Bautista Cuicatlan,177,0,0,0,0,455.9327836,4178.616337,0
+Oaxaca,20,San Juan Bautista Guelache,178,0,0,0,0,51.7336602,170.8150575,0
+Oaxaca,20,San Juan Bautista Jayacatlan,179,0,0,0,0,86.14910808,564.1549649,0
+Oaxaca,20,San Juan Bautista Lo de Soto,180,0,0,0,0,231.4804952,666.8006949,0
+Oaxaca,20,San Juan Bautista Suchitepec,181,0,0,0,0,29.59065877,85.82726575,0
+Oaxaca,20,San Juan Bautista Tlacoatzintepec,182,0,0,0,0,40.5582261,1675.31646,0
+Oaxaca,20,San Juan Bautista Tlachichilco,183,0,0,0,0,72.23635722,669.148953,0
+Oaxaca,20,San Juan Bautista Tuxtepec,184,0,0,0,0,3357.640298,8120.72526,0
+Oaxaca,20,San Juan Cacahuatepec,185,0,0,0,0,204.4165517,1794.535684,0
+Oaxaca,20,San Juan Cieneguilla,186,0,0,0,0,76.80282547,628.5718382,0
+Oaxaca,20,San Juan Coatzospam,187,0,0,0,0,45.05548907,2884.420826,0
+Oaxaca,20,San Juan Colorado,188,0,0,0,0,216.338236,1307.952843,0
+Oaxaca,20,San Juan Comaltepec,189,0,0,0,0,46.41512505,3057.209124,0
+Oaxaca,20,San Juan Cotzocon,190,0,0,0,0,2536.976196,31307.61344,0
+Oaxaca,20,San Juan Chicomezuchil,191,0,0,0,0,28.12372238,98.41344838,0
+Oaxaca,20,San Juan Chilateca,192,0,0,0,0,15.64272621,26.24562786,0
+Oaxaca,20,San Juan del Estado,193,0,0,0,0,122.1455783,464.3459147,0
+Oaxaca,20,San Juan del Rio,194,0,0,0,0,32.74442693,465.3808863,0
+Oaxaca,20,San Juan Diuxi,195,0,0,0,0,59.4019516,133.2218746,0
+Oaxaca,20,San Juan Evangelista Analco,196,0,0,0,0,29.94761624,115.4624839,0
+Oaxaca,20,San Juan Guelavia,197,0,0,0,0,83.91989096,170.1318149,0
+Oaxaca,20,San Juan Guichicovi,198,0,0,0,0,1777.395541,9184.120046,0
+Oaxaca,20,San Juan Ihualtepec,199,0,0,0,0,44.39210852,212.3242828,0
+Oaxaca,20,San Juan Juquila Mixes,200,0,0,0,0,120.0181461,3519.663377,0
+Oaxaca,20,San Juan Juquila Vijanos,201,0,0,0,0,26.7068916,1122.302418,0
+Oaxaca,20,San Juan Lachao,202,0,0,0,0,49.47917113,4359.373667,0
+Oaxaca,20,San Juan Lachigalla,203,0,0,0,0,110.2741974,263.983104,0
+Oaxaca,20,San Juan Lajarcia,204,0,0,0,0,126.4158356,794.3784741,0
+Oaxaca,20,San Juan Lalana,205,0,0,0,0,1265.400679,13706.10834,0
+Oaxaca,20,San Juan de los Cues,206,0,0,0,0,84.55646651,830.3512441,0
+Oaxaca,20,San Juan Mazatlan,207,0,0,0,0,2050.217748,32853.15343,0
+Oaxaca,20,San Juan Mixtepec -Dto 08 -,208,0,0,0,0,394.6714921,1090.674203,0
+Oaxaca,20,San Juan Mixtepec -Dto 26 -,209,0,0,0,0,20.16577561,62.15813516,0
+Oaxaca,20,San Juan Ñumi,210,0,0,0,0,235.8376379,626.2855849,0
+Oaxaca,20,San Juan Ozolotepec,211,0,0,0,0,131.0841917,1407.53952,0
+Oaxaca,20,San Juan Petlapa,212,0,0,0,0,104.9565852,7673.422945,0
+Oaxaca,20,San Juan Quiahije,213,0,0,0,0,55.44055225,386.8533949,0
+Oaxaca,20,San Juan Quiotepec,214,0,0,0,0,97.64177096,4208.54664,0
+Oaxaca,20,San Juan Sayultepec,215,0,0,0,0,35.91920893,62.64979599,0
+Oaxaca,20,San Juan Tabaa,216,0,0,0,0,26.3212423,217.2027217,0
+Oaxaca,20,San Juan Tamazola,217,0,0,0,0,317.4426992,1083.661776,0
+Oaxaca,20,San Juan Teita,218,0,0,0,0,60.87988394,225.9645122,0
+Oaxaca,20,San Juan Teitipac,219,0,0,0,0,50.50229362,125.1416251,0
+Oaxaca,20,San Juan Tepeuxila,220,0,0,0,0,210.1061861,4572.039132,0
+Oaxaca,20,San Juan Teposcolula,221,0,0,0,0,66.55253907,161.7103831,0
+Oaxaca,20,San Juan Yaee,222,0,0,0,0,51.5435414,118.4003401,0
+Oaxaca,20,San Juan Yatzona,223,0,0,0,0,13.35323187,677.8378657,0
+Oaxaca,20,San Juan Yucuita,224,0,0,0,0,56.88010507,109.1283139,0
+Oaxaca,20,San Lorenzo,225,0,0,0,0,105.6518204,561.257436,0
+Oaxaca,20,San Lorenzo Albarradas,226,0,0,0,0,98.36978663,850.6425684,0
+Oaxaca,20,San Lorenzo Cacaotepec,227,0,0,0,0,77.3789363,142.1624738,0
+Oaxaca,20,San Lorenzo Cuaunecuiltitla,228,0,0,0,0,11.09168713,315.4882874,0
+Oaxaca,20,San Lorenzo Texmelucan,229,0,0,0,0,54.54615106,331.4579812,0
+Oaxaca,20,San Lorenzo Victoria,230,0,0,0,0,51.70768536,437.277051,0
+Oaxaca,20,San Lucas Camotlan,231,0,0,0,0,18.29291945,3800.919591,0
+Oaxaca,20,San Lucas Ojitlan,232,0,0,0,0,976.2095313,9299.924383,0
+Oaxaca,20,San Lucas Quiavini,233,0,0,0,0,61.41470353,167.1730196,0
+Oaxaca,20,San Lucas Zoquiapam,234,0,0,0,0,142.6807253,1657.754192,0
+Oaxaca,20,San Luis Amatlan,235,0,0,0,0,359.4996924,1799.420443,0
+Oaxaca,20,San Marcial Ozolotepec,236,0,0,0,0,34.42884417,660.4605357,0
+Oaxaca,20,San Marcos Arteaga,237,0,0,0,0,70.89653435,565.7506403,0
+Oaxaca,20,San Martin de los Cansecos,238,0,0,0,0,24.30107508,41.76562326,0
+Oaxaca,20,San Martin Huamelulpam,239,0,0,0,0,63.72385053,150.2502979,0
+Oaxaca,20,San Martin Itunyoso,240,0,0,0,0,51.79219303,208.9593933,0
+Oaxaca,20,San Martin Lachila,241,0,0,0,0,26.29574901,45.65922054,0
+Oaxaca,20,San Martin Peras,242,0,0,0,0,93.71527177,1247.945888,0
+Oaxaca,20,San Martin Tilcajete,243,0,0,0,0,42.40380933,76.51811758,0
+Oaxaca,20,San Martin Toxpalan,244,0,0,0,0,93.05319911,657.8778195,0
+Oaxaca,20,San Martin Zacatepec,245,0,0,0,0,41.94536703,250.1882741,0
+Oaxaca,20,San Mateo Cajonos,246,0,0,0,0,38.33898363,97.52092044,0
+Oaxaca,20,Capulalpam de Mendez,247,0,0,0,0,29.63474597,1436.612842,0
+Oaxaca,20,San Mateo del Mar,248,0,0,0,0,159.11958,314.1790726,0
+Oaxaca,20,San Mateo Yoloxochitlan,249,0,0,0,0,37.2204903,69.31028322,0
+Oaxaca,20,San Mateo Etlatongo,250,0,0,0,0,50.15591578,90.10166827,0
+Oaxaca,20,San Mateo Nejapam,251,0,0,0,0,26.69375613,244.7635339,0
+Oaxaca,20,San Mateo Peñasco,252,0,0,0,0,28.74483502,77.13706474,0
+Oaxaca,20,San Mateo Piñas,253,0,0,0,0,142.4508567,2244.20885,0
+Oaxaca,20,San Mateo Rio Hondo,254,0,0,0,0,93.64030436,2786.413561,0
+Oaxaca,20,San Mateo Sindihui,255,0,0,0,0,83.29993555,449.7272883,0
+Oaxaca,20,San Mateo Tlapiltepec,256,0,0,0,0,10.51974526,19.89668729,0
+Oaxaca,20,San Melchor Betaza,257,0,0,0,0,62.86185256,202.1333001,0
+Oaxaca,20,San Miguel Achiutla,258,0,0,0,0,62.4098749,210.9320006,0
+Oaxaca,20,San Miguel Ahuehuetitlan,259,0,0,0,0,61.75699699,406.8792629,0
+Oaxaca,20,San Miguel Aloapam,260,0,0,0,0,91.05874405,1124.364068,0
+Oaxaca,20,San Miguel Amatitlan,261,0,0,0,0,177.2073755,759.7247384,0
+Oaxaca,20,San Miguel Amatlan,262,0,0,0,0,47.95430318,152.2531892,0
+Oaxaca,20,San Miguel Coatlan,263,0,0,0,0,59.67858341,447.5918488,0
+Oaxaca,20,San Miguel Chicahua,264,0,0,0,0,62.09771415,160.2603925,0
+Oaxaca,20,San Miguel Chimalapa,265,0,0,0,0,613.5526375,18186.24405,0
+Oaxaca,20,San Miguel del Puerto,266,0,0,0,0,245.345901,8930.70076,0
+Oaxaca,20,San Miguel del Rio,267,0,0,0,0,19.93253958,95.98976919,0
+Oaxaca,20,San Miguel Ejutla,268,0,0,0,0,35.75256596,67.21842174,0
+Oaxaca,20,San Miguel el Grande,269,0,0,0,0,122.5518352,262.1057325,0
+Oaxaca,20,San Miguel Huautla,270,0,0,0,0,41.01672314,123.289008,0
+Oaxaca,20,San Miguel Mixtepec,271,0,0,0,0,20.54881408,60.3777689,0
+Oaxaca,20,San Miguel Panixtlahuaca,272,0,0,0,0,28.06465361,3238.269863,0
+Oaxaca,20,San Miguel Peras,273,0,0,0,0,62.78050547,177.3949706,0
+Oaxaca,20,San Miguel Piedras,274,0,0,0,0,58.32185512,202.2991379,0
+Oaxaca,20,San Miguel Quetzaltepec,275,0,0,0,0,32.85258042,4509.90751,0
+Oaxaca,20,San Miguel Santa Flor,276,0,0,0,0,13.409742,327.0720074,0
+Oaxaca,20,Villa Sola de Vega,277,0,0,0,0,454.4289128,1977.073093,0
+Oaxaca,20,San Miguel Soyaltepec,278,0,0,0,0,1008.962247,7607.212101,0
+Oaxaca,20,San Miguel Suchixtepec,279,0,0,0,0,59.68150905,203.9608927,0
+Oaxaca,20,Villa Talea de Castro,280,0,0,0,0,132.9463066,1038.771973,0
+Oaxaca,20,San Miguel Tecomatlan,281,0,0,0,0,15.17321112,26.61127335,0
+Oaxaca,20,San Miguel Tenango,282,0,0,0,0,151.0755833,2553.685322,0
+Oaxaca,20,San Miguel Tequixtepec,283,0,0,0,0,91.24594018,229.1040762,0
+Oaxaca,20,San Miguel Tilquiapam,284,0,0,0,0,45.86463497,90.56030071,0
+Oaxaca,20,San Miguel Tlacamama,285,0,0,0,0,196.5377632,918.3606882,0
+Oaxaca,20,San Miguel Tlacotepec,286,0,0,0,0,89.34023491,228.5371652,0
+Oaxaca,20,San Miguel Tulancingo,287,0,0,0,0,25.05597475,64.27617333,0
+Oaxaca,20,San Miguel Yotao,288,0,0,0,0,20.59912588,1735.769026,0
+Oaxaca,20,San Nicolas,289,0,0,0,0,56.3242589,110.1975051,0
+Oaxaca,20,San Nicolas Hidalgo,290,0,0,0,0,21.98413386,95.63630109,0
+Oaxaca,20,San Pablo Coatlan,291,0,0,0,0,66.14847595,911.8404597,0
+Oaxaca,20,San Pablo Cuatro Venados,292,0,0,0,0,65.65238886,240.3683043,0
+Oaxaca,20,San Pablo Etla,293,0,0,0,0,48.68200086,127.1683916,0
+Oaxaca,20,San Pablo Huitzo,294,0,0,0,0,83.40567385,306.2408807,0
+Oaxaca,20,San Pablo Huixtepec,295,0,0,0,0,74.79501875,148.6646348,0
+Oaxaca,20,San Pablo Macuiltianguis,296,0,0,0,0,78.9087106,1659.290325,0
+Oaxaca,20,San Pablo Tijaltepec,297,0,0,0,0,74.24235554,306.9376474,0
+Oaxaca,20,San Pablo Villa de Mitla,298,0,0,0,0,237.5059019,880.2824843,0
+Oaxaca,20,San Pablo Yaganiza,299,0,0,0,0,49.55380331,109.2624687,0
+Oaxaca,20,San Pedro Amuzgos,300,0,0,0,0,101.1556377,726.1323631,0
+Oaxaca,20,San Pedro Apostol,301,0,0,0,0,36.11116296,66.61247746,0
+Oaxaca,20,San Pedro Atoyac,302,0,0,0,0,54.85863819,1021.221551,0
+Oaxaca,20,San Pedro Cajonos,303,0,0,0,0,10.04215338,14.97719493,0
+Oaxaca,20,San Pedro Coxcaltepec Cantaros,304,0,0,0,0,84.79254492,458.8622558,0
+Oaxaca,20,San Pedro Comitancillo,305,0,0,0,0,148.1817937,312.0429627,0
+Oaxaca,20,San Pedro el Alto,306,0,0,0,0,109.6725584,473.1997259,0
+Oaxaca,20,San Pedro Huamelula,307,0,0,0,0,684.4987988,7598.839229,0
+Oaxaca,20,San Pedro Huilotepec,308,0,0,0,0,46.68056754,115.6818221,0
+Oaxaca,20,San Pedro Ixcatlan,309,0,0,0,0,198.3155405,1184.430628,0
+Oaxaca,20,San Pedro Ixtlahuaca,310,0,0,0,0,50.69981318,93.56774061,0
+Oaxaca,20,San Pedro Jaltepetongo,311,0,0,0,0,38.90814848,449.1501686,0
+Oaxaca,20,San Pedro Jicayan,312,0,0,0,0,115.6074289,837.3706824,0
+Oaxaca,20,San Pedro Jocotipac,313,0,0,0,0,72.06244004,398.7930077,0
+Oaxaca,20,San Pedro Juchatengo,314,0,0,0,0,27.27436252,169.3656346,0
+Oaxaca,20,San Pedro Martir,315,0,0,0,0,25.38880875,45.32574612,0
+Oaxaca,20,San Pedro Martir Quiechapa,316,0,0,0,0,79.77380391,711.437948,0
+Oaxaca,20,San Pedro Martir Yucuxaco,317,0,0,0,0,95.59456259,290.1764046,0
+Oaxaca,20,San Pedro Mixtepec -Dto 22 -,318,0,0,0,0,528.3482618,2725.243617,0
+Oaxaca,20,San Pedro Mixtepec -Dto 26 -,319,0,0,0,0,24.49159593,152.8575192,0
+Oaxaca,20,San Pedro Molinos,320,0,0,0,0,27.38074707,63.77651032,0
+Oaxaca,20,San Pedro Nopala,321,0,0,0,0,25.26504319,195.8519631,0
+Oaxaca,20,San Pedro Ocopetatillo,322,0,0,0,0,14.99152342,168.0691708,0
+Oaxaca,20,San Pedro Ocotepec,323,0,0,0,0,10.39099897,1163.662673,0
+Oaxaca,20,San Pedro Pochutla,324,0,0,0,0,463.029014,6142.299499,0
+Oaxaca,20,San Pedro Quiatoni,325,0,0,0,0,274.9155968,3111.479141,0
+Oaxaca,20,San Pedro Sochiapam,326,0,0,0,0,106.912804,6941.054922,0
+Oaxaca,20,San Pedro Tapanatepec,327,0,0,0,0,1716.166349,6904.290023,0
+Oaxaca,20,San Pedro Taviche,328,0,0,0,0,38.31315221,259.8664818,0
+Oaxaca,20,San Pedro Teozacoalco,329,0,0,0,0,83.19778451,322.8968588,0
+Oaxaca,20,San Pedro Teutila,330,0,0,0,0,157.7715633,4561.394033,0
+Oaxaca,20,San Pedro Tidaa,331,0,0,0,0,29.94122422,149.5834963,0
+Oaxaca,20,San Pedro Topiltepec,332,0,0,0,0,27.70802925,67.1055846,0
+Oaxaca,20,San Pedro Totolapam,333,0,0,0,0,256.3260692,3754.06612,0
+Oaxaca,20,Villa de Tututepec de Melchor Ocampo,334,0,0,0,0,1956.521673,17892.96311,0
+Oaxaca,20,San Pedro Yaneri,335,0,0,0,0,8.435923715,56.14119217,0
+Oaxaca,20,San Pedro Yolox,336,0,0,0,0,82.58639398,4234.733649,0
+Oaxaca,20,San Pedro y San Pablo Ayutla,337,0,0,0,0,198.0354553,568.4011653,0
+Oaxaca,20,Villa de Etla,338,0,0,0,0,21.64510821,37.91765454,0
+Oaxaca,20,San Pedro y San Pablo Teposcolula,339,0,0,0,0,137.9715467,417.1918341,0
+Oaxaca,20,San Pedro y San Pablo Tequixtepec,340,0,0,0,0,93.1877878,295.3387326,0
+Oaxaca,20,San Pedro Yucunama,341,0,0,0,0,29.90855163,88.30935508,0
+Oaxaca,20,San Raymundo Jalpan,342,0,0,0,0,15.70064589,26.31012211,0
+Oaxaca,20,San Sebastian Abasolo,343,0,0,0,0,35.5568245,71.700182,0
+Oaxaca,20,San Sebastian Coatlan,344,0,0,0,0,80.84008733,2275.481301,0
+Oaxaca,20,San Sebastian Ixcapa,345,0,0,0,0,141.512568,879.8014449,0
+Oaxaca,20,San Sebastian Nicananduta,346,0,0,0,0,38.79694406,125.8589488,0
+Oaxaca,20,San Sebastian Rio Hondo,347,0,0,0,0,95.10021888,292.8682775,0
+Oaxaca,20,San Sebastian Tecomaxtlahuaca,348,0,0,0,0,143.1246067,1167.191885,0
+Oaxaca,20,San Sebastian Teitipac,349,0,0,0,0,53.18776332,131.724719,0
+Oaxaca,20,San Sebastian Tutla,350,0,0,0,0,9.159548522,17.7772737,0
+Oaxaca,20,San Simon Almolongas,351,0,0,0,0,99.038909,224.9413665,0
+Oaxaca,20,San Simon Zahuatlan,352,0,0,0,0,12.13961482,81.44268073,0
+Oaxaca,20,Santa Ana,353,0,0,0,0,69.54009816,201.2015995,0
+Oaxaca,20,Santa Ana Ateixtlahuaca,354,0,0,0,0,25.78109273,504.7918742,0
+Oaxaca,20,Santa Ana Cuauhtemoc,355,0,0,0,0,25.66039353,1282.148879,0
+Oaxaca,20,Santa Ana del Valle,356,0,0,0,0,55.03761298,125.2485896,0
+Oaxaca,20,Santa Ana Tavela,357,0,0,0,0,107.8436627,694.1642079,0
+Oaxaca,20,Santa Ana Tlapacoyan,358,0,0,0,0,91.07297654,200.7085278,0
+Oaxaca,20,Santa Ana Yareni,359,0,0,0,0,70.91635501,255.8739847,0
+Oaxaca,20,Santa Ana Zegache,360,0,0,0,0,71.62265013,135.1149167,0
+Oaxaca,20,Santa Catalina Quieri,361,0,0,0,0,33.89306664,110.181899,0
+Oaxaca,20,Santa Catarina Cuixtla,362,0,0,0,0,47.26647757,117.6669252,0
+Oaxaca,20,Santa Catarina Ixtepeji,363,0,0,0,0,108.8561653,676.4239344,0
+Oaxaca,20,Santa Catarina Juquila,364,0,0,0,0,303.2547257,11817.38081,0
+Oaxaca,20,Santa Catarina Lachatao,365,0,0,0,0,131.4184018,362.9940806,0
+Oaxaca,20,Santa Catarina Loxicha,366,0,0,0,0,50.46828962,897.0135519,0
+Oaxaca,20,Santa Catarina Mechoacan,367,0,0,0,0,126.4852208,402.2597176,0
+Oaxaca,20,Santa Catarina Minas,368,0,0,0,0,38.5661348,82.29784895,0
+Oaxaca,20,Santa Catarina Quiane,369,0,0,0,0,39.20165306,71.51896184,0
+Oaxaca,20,Santa Catarina Tayata,370,0,0,0,0,61.81940868,156.3645866,0
+Oaxaca,20,Santa Catarina Ticua,371,0,0,0,0,43.16126648,80.65444372,0
+Oaxaca,20,Santa Catarina Yosonotu,372,0,0,0,0,68.39333881,161.5525175,0
+Oaxaca,20,Santa Catarina Zapoquila,373,0,0,0,0,54.08834556,130.1794156,0
+Oaxaca,20,Santa Cruz Acatepec,374,0,0,0,0,24.15339289,62.46196421,0
+Oaxaca,20,Santa Cruz Amilpas,375,0,0,0,0,4.727108738,4.82516068,0
+Oaxaca,20,Santa Cruz de Bravo,376,0,0,0,0,18.36909607,48.81630062,0
+Oaxaca,20,Santa Cruz Itundujia,377,0,0,0,0,254.4157472,4475.417144,0
+Oaxaca,20,Santa Cruz Mixtepec,378,0,0,0,0,47.12345048,100.7708556,0
+Oaxaca,20,Santa Cruz Nundaco,379,0,0,0,0,39.15045218,117.5237235,0
+Oaxaca,20,Santa Cruz Papalutla,380,0,0,0,0,44.95351821,101.7950672,0
+Oaxaca,20,Santa Cruz Tacache de Mina,381,0,0,0,0,51.69258257,178.885274,0
+Oaxaca,20,Santa Cruz Tacahua,382,0,0,0,0,37.53666977,212.7230743,0
+Oaxaca,20,Santa Cruz Tayata,383,0,0,0,0,37.17307459,83.01317266,0
+Oaxaca,20,Santa Cruz Xitla,384,0,0,0,0,143.6925209,310.0708831,0
+Oaxaca,20,Santa Cruz Xoxocotlan,385,0,0,0,0,93.25405382,171.0249421,0
+Oaxaca,20,Santa Cruz Zenzontepec,386,0,0,0,0,382.026562,1495.24759,0
+Oaxaca,20,Santa Gertrudis,387,0,0,0,0,81.70546325,155.451183,0
+Oaxaca,20,Santa Ines del Monte,388,0,0,0,0,15.32107252,104.5680662,0
+Oaxaca,20,Santa Ines Yatzeche,389,0,0,0,0,8.464383192,12.21228143,0
+Oaxaca,20,Santa Lucia del Camino,390,0,0,0,0,9.849179492,15.05021517,0
+Oaxaca,20,Santa Lucia Miahuatlan,391,0,0,0,0,47.54972189,197.48386,0
+Oaxaca,20,Santa Lucia Monteverde,392,0,0,0,0,168.1655191,910.2271209,0
+Oaxaca,20,Santa Lucia Ocotlan,393,0,0,0,0,35.0346912,63.98853773,0
+Oaxaca,20,Santa Maria Alotepec,394,0,0,0,0,45.20903293,3321.791801,0
+Oaxaca,20,Santa Maria Apazco,395,0,0,0,0,62.29664358,175.3174607,0
+Oaxaca,20,Santa Maria la Asuncion,396,0,0,0,0,13.05789339,229.3016528,0
+Oaxaca,20,Heroica Ciudad de Tlaxiaco,397,0,0,0,0,447.9076781,1147.958852,0
+Oaxaca,20,Ayoquezco de Aldama,398,0,0,0,0,115.3258263,286.0946065,0
+Oaxaca,20,Santa Maria Atzompa,399,0,0,0,0,43.88537732,73.2994889,0
+Oaxaca,20,Santa Maria Camotlan,400,0,0,0,0,46.92086701,174.5964353,0
+Oaxaca,20,Santa Maria Colotepec,401,0,0,0,0,595.3582662,3659.98283,0
+Oaxaca,20,Santa Maria Cortijo,402,0,0,0,0,266.9183504,608.4952502,0
+Oaxaca,20,Santa Maria Coyotepec,403,0,0,0,0,19.77162857,34.35499663,0
+Oaxaca,20,Santa Maria Chachoapam,404,0,0,0,0,86.24709414,205.3239035,0
+Oaxaca,20,Villa de Chilapa de Diaz,405,0,0,0,0,123.8398167,495.7042105,0
+Oaxaca,20,Santa Maria Chilchotla,406,0,0,0,0,718.0611795,5611.78275,0
+Oaxaca,20,Santa Maria Chimalapa,407,0,0,0,0,3271.665289,134874.6487,0
+Oaxaca,20,Santa Maria del Rosario,408,0,0,0,0,18.69661292,59.3553363,0
+Oaxaca,20,Santa Maria del Tule,409,0,0,0,0,29.47509323,53.56369999,0
+Oaxaca,20,Santa Maria Ecatepec,410,0,0,0,0,213.5962632,3208.818772,0
+Oaxaca,20,Santa Maria Guelace,411,0,0,0,0,7.218180893,9.447548528,0
+Oaxaca,20,Santa Maria Guienagati,412,0,0,0,0,357.0511674,5481.88519,0
+Oaxaca,20,Santa Maria Huatulco,413,0,0,0,0,503.9693045,5818.214612,0
+Oaxaca,20,Santa Maria Huazolotitlan,414,0,0,0,0,417.4292564,2044.371888,0
+Oaxaca,20,Santa Maria Ipalapa,415,0,0,0,0,130.3931265,833.3190507,0
+Oaxaca,20,Santa Maria Ixcatlan,416,0,0,0,0,92.90142369,1259.064258,0
+Oaxaca,20,Santa Maria Jacatepec,417,0,0,0,0,399.8316549,9850.697085,0
+Oaxaca,20,Santa Maria Jalapa del Marques,418,0,0,0,0,673.7307454,5377.574065,0
+Oaxaca,20,Santa Maria Jaltianguis,419,0,0,0,0,47.41380343,240.8576367,0
+Oaxaca,20,Santa Maria Lachixio,420,0,0,0,0,20.06118609,61.28628477,0
+Oaxaca,20,Santa Maria Mixtequilla,421,0,0,0,0,179.3288928,1592.658142,0
+Oaxaca,20,Santa Maria Nativitas,422,0,0,0,0,26.2286972,48.44637196,0
+Oaxaca,20,Santa Maria Nduayaco,423,0,0,0,0,52.50301249,161.1037302,0
+Oaxaca,20,Santa Maria Ozolotepec,424,0,0,0,0,178.0189795,2748.796526,0
+Oaxaca,20,Santa Maria Papalo,425,0,0,0,0,66.39094584,1598.740373,0
+Oaxaca,20,Santa Maria Peñoles,426,0,0,0,0,198.5577076,739.5043507,0
+Oaxaca,20,Santa Maria Petapa,427,0,0,0,0,323.4278259,914.4819811,0
+Oaxaca,20,Santa Maria Quiegolani,428,0,0,0,0,40.47862979,373.6233249,0
+Oaxaca,20,Santa Maria Sola,429,0,0,0,0,33.66473061,96.51502754,0
+Oaxaca,20,Santa Maria Tataltepec,430,0,0,0,0,18.49130122,66.41710552,0
+Oaxaca,20,Santa Maria Tecomavaca,431,0,0,0,0,273.818714,3206.715312,0
+Oaxaca,20,Santa Maria Temaxcalapa,432,0,0,0,0,6.84794234,20.48481932,0
+Oaxaca,20,Santa Maria Temaxcaltepec,433,0,0,0,0,20.27241814,1131.169701,0
+Oaxaca,20,Santa Maria Teopoxco,434,0,0,0,0,78.36277162,542.1575324,0
+Oaxaca,20,Santa Maria Tepantlali,435,0,0,0,0,18.65226937,1056.90915,0
+Oaxaca,20,Santa Maria Texcatitlan,436,0,0,0,0,25.07810066,211.3978572,0
+Oaxaca,20,Santa Maria Tlahuitoltepec,437,0,0,0,0,152.9639081,2729.923731,0
+Oaxaca,20,Santa Maria Tlalixtac,438,0,0,0,0,23.71209464,880.0321785,0
+Oaxaca,20,Santa Maria Tonameca,439,0,0,0,0,727.3383519,5500.472355,0
+Oaxaca,20,Santa Maria Totolapilla,440,0,0,0,0,111.1379302,992.34345,0
+Oaxaca,20,Santa Maria Xadani,441,0,0,0,0,184.5240177,452.3370711,0
+Oaxaca,20,Santa Maria Yalina,442,0,0,0,0,12.55295877,786.9673121,0
+Oaxaca,20,Santa Maria Yavesia,443,0,0,0,0,22.98724721,748.6711214,0
+Oaxaca,20,Santa Maria Yolotepec,444,0,0,0,0,14.56392657,167.5638076,0
+Oaxaca,20,Santa Maria Yosoyua,445,0,0,0,0,28.04640028,74.63992268,0
+Oaxaca,20,Santa Maria Yucuhiti,446,0,0,0,0,102.4391905,939.7484399,0
+Oaxaca,20,Santa Maria Zacatepec,447,0,0,0,0,190.8052395,1932.145826,0
+Oaxaca,20,Santa Maria Zaniza,448,0,0,0,0,44.52516979,130.2157823,0
+Oaxaca,20,Santa Maria Zoquitlan,449,0,0,0,0,354.0171366,3322.531698,0
+Oaxaca,20,Santiago Amoltepec,450,0,0,0,0,58.00411149,461.6599441,0
+Oaxaca,20,Santiago Apoala,451,0,0,0,0,67.31274794,172.8338727,0
+Oaxaca,20,Santiago Apostol,452,0,0,0,0,54.12636949,101.7669043,0
+Oaxaca,20,Santiago Astata,453,0,0,0,0,150.7628687,974.3460623,0
+Oaxaca,20,Santiago Atitlan,454,0,0,0,0,16.07491891,3275.376134,0
+Oaxaca,20,Santiago Ayuquililla,455,0,0,0,0,121.4047786,443.6170697,0
+Oaxaca,20,Santiago Cacaloxtepec,456,0,0,0,0,18.72429013,28.7254626,0
+Oaxaca,20,Santiago Camotlan,457,0,0,0,0,134.2100779,12589.30659,0
+Oaxaca,20,Santiago Comaltepec,458,0,0,0,0,263.6832794,4824.989057,0
+Oaxaca,20,Santiago Chazumba,459,0,0,0,0,218.3517447,540.3228993,0
+Oaxaca,20,Santiago Choapam,460,0,0,0,0,97.02671574,9226.190776,0
+Oaxaca,20,Santiago del Rio,461,0,0,0,0,27.96716046,88.2541841,0
+Oaxaca,20,Santiago Huajolotitlan,462,0,0,0,0,55.89559961,149.9464152,0
+Oaxaca,20,Santiago Huauclilla,463,0,0,0,0,82.57768304,607.0223504,0
+Oaxaca,20,Santiago Ihuitlan Plumas,464,0,0,0,0,34.27008322,88.34637939,0
+Oaxaca,20,Santiago Ixcuintepec,465,0,0,0,0,26.4582811,639.79214,0
+Oaxaca,20,Santiago Ixtayutla,466,0,0,0,0,261.6426228,1301.965477,0
+Oaxaca,20,Santiago Jamiltepec,467,0,0,0,0,928.3731059,7307.62063,0
+Oaxaca,20,Santiago Jocotepec,468,0,0,0,0,895.7008911,17666.90098,0
+Oaxaca,20,Santiago Juxtlahuaca,469,0,0,0,0,290.5002445,3912.110521,0
+Oaxaca,20,Santiago Lachiguiri,470,0,0,0,0,197.0591592,5631.689045,0
+Oaxaca,20,Santiago Lalopa,471,0,0,0,0,26.74262716,636.1371893,0
+Oaxaca,20,Santiago Laollaga,472,0,0,0,0,241.8971602,2973.937819,0
+Oaxaca,20,Santiago Laxopa,473,0,0,0,0,64.54507508,801.6797526,0
+Oaxaca,20,Santiago Llano Grande,474,0,0,0,0,229.0677597,671.2711554,0
+Oaxaca,20,Santiago Matatlan,475,0,0,0,0,230.373136,534.7072526,0
+Oaxaca,20,Santiago Miltepec,476,0,0,0,0,27.00747522,83.5900847,0
+Oaxaca,20,Santiago Minas,477,0,0,0,0,82.72082762,440.9916789,0
+Oaxaca,20,Santiago Nacaltepec,478,0,0,0,0,186.5228689,1392.604377,0
+Oaxaca,20,Santiago Nejapilla,479,0,0,0,0,10.7558488,42.82592549,0
+Oaxaca,20,Santiago Nundiche,480,0,0,0,0,66.76561276,178.6878968,0
+Oaxaca,20,Santiago Nuyoo,481,0,0,0,0,75.11001504,1222.371816,0
+Oaxaca,20,Santiago Pinotepa Nacional,482,0,0,0,0,1373.539451,6587.270828,0
+Oaxaca,20,Santiago Suchilquitongo,483,0,0,0,0,70.45222301,247.0474584,0
+Oaxaca,20,Santiago Tamazola,484,0,0,0,0,168.0745952,601.6756481,0
+Oaxaca,20,Santiago Tapextla,485,0,0,0,0,145.3690775,1023.870173,0
+Oaxaca,20,Villa Tejupam de la Union,486,0,0,0,0,101.6337889,217.1955524,0
+Oaxaca,20,Santiago Tenango,487,0,0,0,0,84.07731925,440.3835287,0
+Oaxaca,20,Santiago Tepetlapa,488,0,0,0,0,9.717120411,8.879861988,0
+Oaxaca,20,Santiago Tetepec,489,0,0,0,0,337.2724665,1821.890419,0
+Oaxaca,20,Santiago Texcalcingo,490,0,0,0,0,49.69644006,284.3114453,0
+Oaxaca,20,Santiago Textitlan,491,0,0,0,0,76.96716255,190.4542993,0
+Oaxaca,20,Santiago Tilantongo,492,0,0,0,0,196.5396271,441.4829776,0
+Oaxaca,20,Santiago Tillo,493,0,0,0,0,44.43194217,80.47247955,0
+Oaxaca,20,Santiago Tlazoyaltepec,494,0,0,0,0,71.48940858,240.5655952,0
+Oaxaca,20,Santiago Xanica,495,0,0,0,0,68.7534649,4673.684427,0
+Oaxaca,20,Santiago Xiacui,496,0,0,0,0,28.98654024,145.9597781,0
+Oaxaca,20,Santiago Yaitepec,497,0,0,0,0,10.30026945,943.174394,0
+Oaxaca,20,Santiago Yaveo,498,0,0,0,0,2654.057667,15323.00626,0
+Oaxaca,20,Santiago Yolomecatl,499,0,0,0,0,52.89100941,111.6183616,0
+Oaxaca,20,Santiago Yosondua,500,0,0,0,0,269.0512626,1032.493065,0
+Oaxaca,20,Santiago Yucuyachi,501,0,0,0,0,82.59949551,245.4780982,0
+Oaxaca,20,Santiago Zacatepec,502,0,0,0,0,147.9193111,4954.518131,0
+Oaxaca,20,Santiago Zoochila,503,0,0,0,0,14.86563856,33.27786979,0
+Oaxaca,20,Nuevo Zoquiapam,504,0,0,0,0,66.65885984,262.2102765,0
+Oaxaca,20,Santo Domingo Ingenio,505,0,0,0,0,410.6187302,1761.350441,0
+Oaxaca,20,Santo Domingo Albarradas,506,0,0,0,0,102.6097259,279.2733847,0
+Oaxaca,20,Santo Domingo Armenta,507,0,0,0,0,341.4401158,1009.321835,0
+Oaxaca,20,Santo Domingo Chihuitan,508,0,0,0,0,179.5671411,1729.768183,0
+Oaxaca,20,Santo Domingo de Morelos,509,0,0,0,0,110.0197052,1070.425422,0
+Oaxaca,20,Santo Domingo Ixcatlan,510,0,0,0,0,40.32436466,77.26100504,0
+Oaxaca,20,Santo Domingo Nuxaa,511,0,0,0,0,60.56372753,294.4814054,0
+Oaxaca,20,Santo Domingo Ozolotepec,512,0,0,0,0,18.52359324,78.2591175,0
+Oaxaca,20,Santo Domingo Petapa,513,0,0,0,0,141.0259041,6593.879672,0
+Oaxaca,20,Santo Domingo Roayaga,514,0,0,0,0,14.10370466,2700.191449,0
+Oaxaca,20,Santo Domingo Tehuantepec,515,0,0,0,0,1337.423282,10599.11907,0
+Oaxaca,20,Santo Domingo Teojomulco,516,0,0,0,0,104.0753282,370.3850967,0
+Oaxaca,20,Santo Domingo Tepuxtepec,517,0,0,0,0,52.50294727,298.5893703,0
+Oaxaca,20,Santo Domingo Tlatayapam,518,0,0,0,0,8.789025812,12.98651022,0
+Oaxaca,20,Santo Domingo Tomaltepec,519,0,0,0,0,29.53898469,109.8686057,0
+Oaxaca,20,Santo Domingo Tonala,520,0,0,0,0,240.6002045,1118.082244,0
+Oaxaca,20,Santo Domingo Tonaltepec,521,0,0,0,0,14.67013166,23.64737475,0
+Oaxaca,20,Santo Domingo Xagacia,522,0,0,0,0,21.75145168,49.57415151,0
+Oaxaca,20,Santo Domingo Yanhuitlan,523,0,0,0,0,87.39042986,173.0376618,0
+Oaxaca,20,Santo Domingo Yodohino,524,0,0,0,0,22.10784648,245.7174573,0
+Oaxaca,20,Santo Domingo Zanatepec,525,0,0,0,0,1050.82549,5283.670812,0
+Oaxaca,20,Santos Reyes Nopala,526,0,0,0,0,405.7595847,3259.912113,0
+Oaxaca,20,Santos Reyes Papalo,527,0,0,0,0,27.15067112,344.0326067,0
+Oaxaca,20,Santos Reyes Tepejillo,528,0,0,0,0,58.2448154,267.5310089,0
+Oaxaca,20,Santos Reyes Yucuna,529,0,0,0,0,26.99699885,164.517315,0
+Oaxaca,20,Santo Tomas Jalieza,530,0,0,0,0,49.32750828,139.0896451,0
+Oaxaca,20,Santo Tomas Mazaltepec,531,0,0,0,0,52.03068646,156.4324638,0
+Oaxaca,20,Santo Tomas Ocotepec,532,0,0,0,0,130.1696925,867.7991362,0
+Oaxaca,20,Santo Tomas Tamazulapan,533,0,0,0,0,44.41280436,146.8625276,0
+Oaxaca,20,San Vicente Coatlan,534,0,0,0,0,60.50507679,181.2667849,0
+Oaxaca,20,San Vicente Lachixio,535,0,0,0,0,43.80406156,58.48503382,0
+Oaxaca,20,San Vicente Nuñu,536,0,0,0,0,40.77223957,224.184592,0
+Oaxaca,20,Silacayoapam,537,0,0,0,0,351.5428775,1940.510987,0
+Oaxaca,20,Sitio de Xitlapehua,538,0,0,0,0,57.31210393,110.3038399,0
+Oaxaca,20,Soledad Etla,539,0,0,0,0,35.26232552,63.72274228,0
+Oaxaca,20,Villa de Tamazulapam del Progreso,540,0,0,0,0,118.5064503,270.8886639,0
+Oaxaca,20,Tanetze de Zaragoza,541,0,0,0,0,38.06221356,573.7069151,0
+Oaxaca,20,Taniche,542,0,0,0,0,23.73128798,42.79795917,0
+Oaxaca,20,Tataltepec de Valdes,543,0,0,0,0,380.1054892,1734.031023,0
+Oaxaca,20,Teococuilco de Marcos Perez,544,0,0,0,0,66.11038509,368.2915984,0
+Oaxaca,20,Teotitlan de Flores Magon,545,0,0,0,0,121.7085202,616.7065258,0
+Oaxaca,20,Teotitlan del Valle,546,0,0,0,0,95.15629362,328.7071181,0
+Oaxaca,20,Teotongo,547,0,0,0,0,80.8994534,151.5230183,0
+Oaxaca,20,Tepelmeme Villa de Morelos,548,0,0,0,0,237.2043475,2669.667939,0
+Oaxaca,20,Tezoatlan de Segura y Luna,549,0,0,0,0,326.6935893,1743.572031,0
+Oaxaca,20,San Jeronimo Tlacochahuaya,550,0,0,0,0,85.36596596,200.2847967,0
+Oaxaca,20,Tlacolula de Matamoros,551,0,0,0,0,282.3597921,1196.860696,0
+Oaxaca,20,Tlacotepec Plumas,552,0,0,0,0,23.83910153,78.32938379,0
+Oaxaca,20,Tlalixtac de Cabrera,553,0,0,0,0,83.31069133,495.2519607,0
+Oaxaca,20,Totontepec Villa de Morelos,554,0,0,0,0,93.60396624,11870.22059,0
+Oaxaca,20,Trinidad Zaachila,555,0,0,0,0,43.78226162,75.92893884,0
+Oaxaca,20,La Trinidad Vista Hermosa,556,0,0,0,0,17.88706154,33.59934885,0
+Oaxaca,20,Union Hidalgo,557,0,0,0,0,251.8220812,715.161836,0
+Oaxaca,20,Valerio Trujano,558,0,0,0,0,56.81968651,435.1616407,0
+Oaxaca,20,San Juan Bautista Valle Nacional,559,0,0,0,0,658.7056452,21365.45199,0
+Oaxaca,20,Villa Diaz Ordaz,560,0,0,0,0,238.7511255,813.8804201,0
+Oaxaca,20,Yaxe,561,0,0,0,0,39.40923999,112.7860844,0
+Oaxaca,20,Magdalena Yodocono de Porfirio Diaz,562,0,0,0,0,33.43281124,123.8209072,0
+Oaxaca,20,Yogana,563,0,0,0,0,105.4540185,264.3607923,0
+Oaxaca,20,Yutanduchi de Guerrero,564,0,0,0,0,91.75201706,235.9058386,0
+Oaxaca,20,Villa de Zaachila,565,0,0,0,0,151.6233401,306.7412334,0
+Oaxaca,20,Zapotitlan del Rio,566,0,0,0,0,114.2695953,505.5934109,0
+Oaxaca,20,Zapotitlan Lagunas,567,0,0,0,0,199.0072577,858.7353876,0
+Oaxaca,20,Zapotitlan Palmas,568,0,0,0,0,36.15120071,99.06495922,0
+Oaxaca,20,Santa Ines de Zaragoza,569,0,0,0,0,41.44817028,99.08846115,0
+Oaxaca,20,Zimatlan de alvarez,570,0,0,0,0,269.0289083,540.4112996,0
+Puebla,21,Acajete,1,0,0,0,0,288.8031343,487.0446938,0
+Puebla,21,Acateno,2,0,0,0,0,358.7776045,827.8296928,0
+Puebla,21,Acatlan,3,0,0,0,0,406.8798907,2215.201748,0
+Puebla,21,Acatzingo,4,0,0,0,0,240.5870595,374.7094718,0
+Puebla,21,Acteopan,5,0,0,0,0,79.38074998,236.3293129,0
+Puebla,21,Ahuacatlan,6,0,0,0,0,126.2960454,361.5660566,0
+Puebla,21,Ahuatlan,7,0,0,0,0,139.9306218,725.7495802,0
+Puebla,21,Ahuazotepec,8,0,0,0,0,89.22511021,132.8859018,0
+Puebla,21,Ahuehuetitla,9,0,0,0,0,52.2457052,263.5125538,0
+Puebla,21,Ajalpan,10,0,0,0,0,333.201012,1237.388623,0
+Puebla,21,Albino Zertuche,11,0,0,0,0,18.26080205,154.8155364,0
+Puebla,21,Aljojuca,12,0,0,0,0,75.87671541,110.0133155,0
+Puebla,21,Altepexi,13,0,0,0,0,71.68823167,105.1519603,0
+Puebla,21,Amixtlan,14,0,0,0,0,60.40894634,247.946649,0
+Puebla,21,Amozoc,15,0,0,0,0,174.079439,274.7912114,0
+Puebla,21,Aquixtla,16,0,0,0,0,125.6001251,187.607383,0
+Puebla,21,Atempan,17,0,0,0,0,59.37404543,96.18623906,0
+Puebla,21,Atexcal,18,0,0,0,0,186.1289462,262.3868438,0
+Puebla,21,Atlixco,19,0,0,0,0,462.3236684,735.0767494,0
+Puebla,21,Atoyatempan,20,0,0,0,0,48.75704458,75.14568979,0
+Puebla,21,Atzala,21,0,0,0,0,20.66699458,46.56046477,0
+Puebla,21,Atzitzihuacan,22,0,0,0,0,176.2138459,349.1821039,0
+Puebla,21,Atzitzintla,23,0,0,0,0,154.3304511,244.3580286,0
+Puebla,21,Axutla,24,0,0,0,0,80.9881748,841.4461334,0
+Puebla,21,Ayotoxco de Guerrero,25,0,0,0,0,212.4579397,406.9619503,0
+Puebla,21,Calpan,26,0,0,0,0,108.4380494,175.7615681,0
+Puebla,21,Caltepec,27,0,0,0,0,206.79121,895.1602709,0
+Puebla,21,Camocuautla,28,0,0,0,0,5.624674035,215.1131179,0
+Puebla,21,Caxhuacan,29,0,0,0,0,32.21697618,47.63979237,0
+Puebla,21,Coatepec,30,0,0,0,0,20.08331275,94.58125605,0
+Puebla,21,Coatzingo,31,0,0,0,0,112.6332113,436.8020171,0
+Puebla,21,Cohetzala,32,0,0,0,0,101.9230584,760.5416188,0
+Puebla,21,Cohuecan,33,0,0,0,0,63.82113253,139.7185697,0
+Puebla,21,Coronango,34,0,0,0,0,69.17813178,103.0605741,0
+Puebla,21,Coxcatlan,35,0,0,0,0,223.5963688,701.1549513,0
+Puebla,21,Coyomeapan,36,0,0,0,0,191.7296765,2256.023551,0
+Puebla,21,Coyotepec,37,0,0,0,0,117.3254825,194.0386812,0
+Puebla,21,Cuapiaxtla de Madero,38,0,0,0,0,40.63609063,59.62103877,0
+Puebla,21,Cuautempan,39,0,0,0,0,67.55694668,147.6843196,0
+Puebla,21,Cuautinchan,40,0,0,0,0,158.050813,231.689771,0
+Puebla,21,Cuautlancingo,41,0,0,0,0,70.97323217,105.3814132,0
+Puebla,21,Cuayuca de Andrade,42,0,0,0,0,133.5494248,822.9306047,0
+Puebla,21,Cuetzalan del Progreso,43,0,0,0,0,315.2701546,895.5725778,0
+Puebla,21,Cuyoaco,44,0,0,0,0,411.436962,636.8910587,0
+Puebla,21,Chalchicomula de Sesma,45,0,0,0,0,579.202468,891.7417975,0
+Puebla,21,Chapulco,46,0,0,0,0,72.96653497,110.9017881,0
+Puebla,21,Chiautla,47,0,0,0,0,509.8503845,3116.93672,0
+Puebla,21,Chiautzingo,48,0,0,0,0,117.3526565,192.7716744,0
+Puebla,21,Chiconcuautla,49,0,0,0,0,100.0975868,776.743856,0
+Puebla,21,Chichiquila,50,0,0,0,0,128.1630499,1176.255246,0
+Puebla,21,Chietla,51,0,0,0,0,385.1267673,1304.176448,0
+Puebla,21,Chigmecatitlan,52,0,0,0,0,35.29813665,93.25973228,0
+Puebla,21,Chignahuapan,53,0,0,0,0,868.3023336,1365.187826,0
+Puebla,21,Chignautla,54,0,0,0,0,77.73448857,104.0628964,0
+Puebla,21,Chila,55,0,0,0,0,102.403508,306.9594004,0
+Puebla,21,Chila de la Sal,56,0,0,0,0,78.33786889,616.745175,0
+Puebla,21,Honey,57,0,0,0,0,69.57562771,253.5134485,0
+Puebla,21,Chilchotla,58,0,0,0,0,134.8861808,246.2099416,0
+Puebla,21,Chinantla,59,0,0,0,0,80.33105706,283.6393331,0
+Puebla,21,Domingo Arenas,60,0,0,0,0,25.00973277,37.35856287,0
+Puebla,21,Eloxochitlan,61,0,0,0,0,73.44089982,1571.681523,0
+Puebla,21,Epatlan,62,0,0,0,0,51.76723937,215.1222302,0
+Puebla,21,Esperanza,63,0,0,0,0,142.0023349,215.2509636,0
+Puebla,21,Francisco Z Mena,64,0,0,0,0,689.0602107,2673.23125,0
+Puebla,21,General Felipe angeles,65,0,0,0,0,133.957563,212.8555007,0
+Puebla,21,Guadalupe,66,0,0,0,0,155.9253475,566.5911802,0
+Puebla,21,Guadalupe Victoria,67,0,0,0,0,282.7949333,431.7890809,0
+Puebla,21,Hermenegildo Galeana,68,0,0,0,0,84.46656692,438.092499,0
+Puebla,21,Huaquechula,69,0,0,0,0,319.9577038,679.5137834,0
+Puebla,21,Huatlatlauca,70,0,0,0,0,215.806276,508.1339906,0
+Puebla,21,Huauchinango,71,0,0,0,0,232.0401873,1819.758545,0
+Puebla,21,Huehuetla,72,0,0,0,0,97.63306309,235.4628079,0
+Puebla,21,Huehuetlan el Chico,73,0,0,0,0,120.2763458,566.7210829,0
+Puebla,21,Huejotzingo,74,0,0,0,0,271.9252473,429.0166929,0
+Puebla,21,Hueyapan,75,0,0,0,0,78.688023,613.9892552,0
+Puebla,21,Hueytamalco,76,0,0,0,0,583.9268881,1723.093056,0
+Puebla,21,Hueytlalpan,77,0,0,0,0,75.61898603,148.2084801,0
+Puebla,21,Huitzilan de Serdan,78,0,0,0,0,78.79283207,189.2675791,0
+Puebla,21,Huitziltepec,79,0,0,0,0,61.855977,90.12997755,0
+Puebla,21,Atlequizayan,80,0,0,0,0,26.76489095,39.0210731,0
+Puebla,21,Ixcamilpa de Guerrero,81,0,0,0,0,122.5697516,1046.942663,0
+Puebla,21,Ixcaquixtla,82,0,0,0,0,144.3965216,213.9642622,0
+Puebla,21,Ixtacamaxtitlan,83,0,0,0,0,473.0288478,767.5452011,0
+Puebla,21,Ixtepec,84,0,0,0,0,42.17929701,63.43209846,0
+Puebla,21,Izucar de Matamoros,85,0,0,0,0,486.9775468,2232.615519,0
+Puebla,21,Jalpan,86,0,0,0,0,382.8023085,1006.629739,0
+Puebla,21,Jolalpan,87,0,0,0,0,374.5157736,2017.452978,0
+Puebla,21,Jonotla,88,0,0,0,0,60.11291391,161.5372335,0
+Puebla,21,Jopala,89,0,0,0,0,355.5610131,727.9810599,0
+Puebla,21,Juan C Bonilla,90,0,0,0,0,47.24145906,69.69141132,0
+Puebla,21,Juan Galindo,91,0,0,0,0,24.37564317,53.63389176,0
+Puebla,21,Juan N Mendez,92,0,0,0,0,143.3433268,200.3896433,0
+Puebla,21,Lafragua,93,0,0,0,0,203.5881969,336.7685854,0
+Puebla,21,Libres,94,0,0,0,0,356.7046138,558.4367455,0
+Puebla,21,La Magdalena Tlatlauquitepec,95,0,0,0,0,12.85863922,33.04655489,0
+Puebla,21,Mazapiltepec de Juarez,96,0,0,0,0,88.75110926,133.591177,0
+Puebla,21,Mixtla,97,0,0,0,0,16.18282485,22.6071088,0
+Puebla,21,Molcaxac,98,0,0,0,0,141.0662537,363.4189465,0
+Puebla,21,Cañada Morelos,99,0,0,0,0,301.7594828,444.9470094,0
+Puebla,21,Naupan,100,0,0,0,0,105.4188519,363.4533615,0
+Puebla,21,Nauzontla,101,0,0,0,0,49.11500615,107.3009585,0
+Puebla,21,Nealtican,102,0,0,0,0,31.04471029,46.63268195,0
+Puebla,21,Nicolas Bravo,103,0,0,0,0,65.18362999,98.69724595,0
+Puebla,21,Nopalucan,104,0,0,0,0,281.2431984,438.9190261,0
+Puebla,21,Ocotepec,105,0,0,0,0,63.35867371,97.39759147,0
+Puebla,21,Ocoyucan,106,0,0,0,0,99.56720578,175.5131374,0
+Puebla,21,Olintla,107,0,0,0,0,80.79732629,642.6265818,0
+Puebla,21,Oriental,108,0,0,0,0,230.1191543,343.9332475,0
+Puebla,21,Pahuatlan,109,0,0,0,0,104.5721217,850.9299984,0
+Puebla,21,Palmar de Bravo,110,0,0,0,0,462.6937272,689.4639807,0
+Puebla,21,Pantepec,111,0,0,0,0,426.3582413,1144.894847,0
+Puebla,21,Petlalcingo,112,0,0,0,0,183.0555121,644.199376,0
+Puebla,21,Piaxtla,113,0,0,0,0,135.466686,922.5578432,0
+Puebla,21,Puebla,114,0,0,0,0,390.8503781,776.7328468,0
+Puebla,21,Quecholac,115,0,0,0,0,264.0895623,397.4454165,0
+Puebla,21,Quimixtlan,116,0,0,0,0,183.6149727,1018.028773,0
+Puebla,21,Rafael Lara Grajales,117,0,0,0,0,7.438067383,9.301447588,0
+Puebla,21,Los Reyes de Juarez,118,0,0,0,0,51.04059684,75.53804519,0
+Puebla,21,San Andres Cholula,119,0,0,0,0,93.43500109,140.0252145,0
+Puebla,21,San Antonio Cañada,120,0,0,0,0,45.18549416,169.4187617,0
+Puebla,21,San Diego la Mesa Tochimiltzingo,121,0,0,0,0,50.47535388,316.9132159,0
+Puebla,21,San Felipe Teotlalcingo,122,0,0,0,0,59.59550355,92.59823385,0
+Puebla,21,San Felipe Tepatlan,123,0,0,0,0,60.44130112,447.0787368,0
+Puebla,21,San Gabriel Chilac,124,0,0,0,0,62.46391435,108.8726672,0
+Puebla,21,San Gregorio Atzompa,125,0,0,0,0,21.26607687,30.14581841,0
+Puebla,21,San Jeronimo Tecuanipan,126,0,0,0,0,77.97967958,116.7045022,0
+Puebla,21,San Jeronimo Xayacatlan,127,0,0,0,0,66.85599392,201.9720019,0
+Puebla,21,San Jose Chiapa,128,0,0,0,0,214.8707847,324.0432426,0
+Puebla,21,San Jose Miahuatlan,129,0,0,0,0,183.6095021,458.5587244,0
+Puebla,21,San Juan Atenco,130,0,0,0,0,148.2029296,223.0811373,0
+Puebla,21,San Juan Atzompa,131,0,0,0,0,27.14736546,66.70152511,0
+Puebla,21,San Martin Texmelucan,132,0,0,0,0,156.7243614,237.0485119,0
+Puebla,21,San Martin Totoltepec,133,0,0,0,0,7.257671978,27.28638177,0
+Puebla,21,San Matias Tlalancaleca,134,0,0,0,0,98.15872891,149.6235157,0
+Puebla,21,San Miguel Ixitlan,135,0,0,0,0,45.10634448,173.7871766,0
+Puebla,21,San Miguel Xoxtla,136,0,0,0,0,9.602809106,12.19271096,0
+Puebla,21,San Nicolas Buenos Aires,137,0,0,0,0,286.9098931,438.3548663,0
+Puebla,21,San Nicolas de los Ranchos,138,0,0,0,0,72.10434271,152.5839903,0
+Puebla,21,San Pablo Anicano,139,0,0,0,0,86.22239045,364.4315901,0
+Puebla,21,San Pedro Cholula,140,0,0,0,0,123.8419647,187.0825773,0
+Puebla,21,San Pedro Yeloixtlahuaca,141,0,0,0,0,127.007404,610.4129685,0
+Puebla,21,San Salvador el Seco,142,0,0,0,0,319.3456644,483.8580587,0
+Puebla,21,San Salvador el Verde,143,0,0,0,0,99.46073972,156.378876,0
+Puebla,21,San Salvador Huixcolotla,144,0,0,0,0,42.50130409,62.50399344,0
+Puebla,21,San Sebastian Tlacotepec,145,0,0,0,0,244.8520721,3024.182924,0
+Puebla,21,Santa Catarina Tlaltempan,146,0,0,0,0,48.72201698,154.3100558,0
+Puebla,21,Santa Ines Ahuatempan,147,0,0,0,0,116.2969152,516.0052797,0
+Puebla,21,Santa Isabel Cholula,148,0,0,0,0,48.52781848,69.9316299,0
+Puebla,21,Santiago Miahuatlan,149,0,0,0,0,87.20404633,126.2739587,0
+Puebla,21,Huehuetlan el Grande,150,0,0,0,0,166.5265808,548.7230561,0
+Puebla,21,Santo Tomas Hueyotlipan,151,0,0,0,0,30.87661409,44.80141855,0
+Puebla,21,Soltepec,152,0,0,0,0,147.6443936,237.5100687,0
+Puebla,21,Tecali de Herrera,153,0,0,0,0,161.7098497,226.6087517,0
+Puebla,21,Tecamachalco,154,0,0,0,0,265.6967176,404.6235251,0
+Puebla,21,Tecomatlan,155,0,0,0,0,102.3476279,602.2956994,0
+Puebla,21,Tehuacan,156,0,0,0,0,369.5333534,570.7023262,0
+Puebla,21,Tehuitzingo,157,0,0,0,0,359.936595,1921.983458,0
+Puebla,21,Tenampulco,158,0,0,0,0,284.7183787,502.5718493,0
+Puebla,21,Teopantlan,159,0,0,0,0,118.3023596,709.8942539,0
+Puebla,21,Teotlalco,160,0,0,0,0,82.21308681,502.5871647,0
+Puebla,21,Tepanco de Lopez,161,0,0,0,0,227.6501715,334.8558143,0
+Puebla,21,Tepango de Rodriguez,162,0,0,0,0,14.15836861,412.7035113,0
+Puebla,21,Tepatlaxco de Hidalgo,163,0,0,0,0,66.57188107,100.8824192,0
+Puebla,21,Tepeaca,164,0,0,0,0,290.0136442,450.2930876,0
+Puebla,21,Tepemaxalco,165,0,0,0,0,16.70002304,78.17700121,0
+Puebla,21,Tepeojuma,166,0,0,0,0,135.1295675,482.4728184,0
+Puebla,21,Tepetzintla,167,0,0,0,0,77.94742317,233.505094,0
+Puebla,21,Tepexco,168,0,0,0,0,115.5362779,454.8263143,0
+Puebla,21,Tepexi de Rodriguez,169,0,0,0,0,341.7510701,861.0321533,0
+Puebla,21,Tepeyahualco,170,0,0,0,0,403.0643237,595.3921733,0
+Puebla,21,Tepeyahualco de Cuauhtemoc,171,0,0,0,0,27.5994087,40.0293921,0
+Puebla,21,Tetela de Ocampo,172,0,0,0,0,268.4213924,517.6315637,0
+Puebla,21,Teteles de Avila Castillo,173,0,0,0,0,19.09781642,28.86605562,0
+Puebla,21,Teziutlan,174,0,0,0,0,114.3124975,604.5349204,0
+Puebla,21,Tianguismanalco,175,0,0,0,0,114.7934853,220.2668481,0
+Puebla,21,Tilapa,176,0,0,0,0,117.2290684,329.7268549,0
+Puebla,21,Tlacotepec de Benito Juarez,177,0,0,0,0,486.8078838,725.7588746,0
+Puebla,21,Tlacuilotepec,178,0,0,0,0,285.9339401,1185.350565,0
+Puebla,21,Tlachichuca,179,0,0,0,0,407.3235452,645.9596631,0
+Puebla,21,Tlahuapan,180,0,0,0,0,341.2895954,608.1676937,0
+Puebla,21,Tlaltenango,181,0,0,0,0,38.53695942,57.08958497,0
+Puebla,21,Tlanepantla,182,0,0,0,0,25.57870854,37.31735961,0
+Puebla,21,Tlaola,183,0,0,0,0,182.4814116,1573.10499,0
+Puebla,21,Tlapacoya,184,0,0,0,0,92.31260923,602.8922488,0
+Puebla,21,Tlapanala,185,0,0,0,0,129.0847445,285.9413525,0
+Puebla,21,Tlatlauquitepec,186,0,0,0,0,337.3419217,1169.332346,0
+Puebla,21,Tlaxco,187,0,0,0,0,90.35827133,522.7044945,0
+Puebla,21,Tochimilco,188,0,0,0,0,211.093607,379.1344964,0
+Puebla,21,Tochtepec,189,0,0,0,0,158.258576,241.1331872,0
+Puebla,21,Totoltepec de Guerrero,190,0,0,0,0,56.73958114,397.5259377,0
+Puebla,21,Tulcingo,191,0,0,0,0,186.9204012,878.8195872,0
+Puebla,21,Tuzamapan de Galeana,192,0,0,0,0,81.1436373,219.7139682,0
+Puebla,21,Tzicatlacoyan,193,0,0,0,0,157.8434184,512.3391799,0
+Puebla,21,Venustiano Carranza,194,0,0,0,0,515.8920241,1766.932271,0
+Puebla,21,Vicente Guerrero,195,0,0,0,0,289.5211863,526.47917,0
+Puebla,21,Xayacatlan de Bravo,196,0,0,0,0,25.56347677,213.3569742,0
+Puebla,21,Xicotepec,197,0,0,0,0,464.8847058,2365.556967,0
+Puebla,21,Xicotlan,198,0,0,0,0,60.44054715,619.3970927,0
+Puebla,21,Xiutetelco,199,0,0,0,0,146.6714465,227.3193085,0
+Puebla,21,Xochiapulco,200,0,0,0,0,37.37724238,94.6118661,0
+Puebla,21,Xochiltepec,201,0,0,0,0,41.31101921,194.5900151,0
+Puebla,21,Xochitlan de Vicente Suarez,202,0,0,0,0,112.972495,228.6642969,0
+Puebla,21,Xochitlan Todos Santos,203,0,0,0,0,175.148003,257.3267041,0
+Puebla,21,Yaonahuac,204,0,0,0,0,26.86442618,193.4671385,0
+Puebla,21,Yehualtepec,205,0,0,0,0,187.0681463,280.0486627,0
+Puebla,21,Zacapala,206,0,0,0,0,213.6547078,934.3135043,0
+Puebla,21,Zacapoaxtla,207,0,0,0,0,163.6326364,859.4419696,0
+Puebla,21,Zacatlan,208,0,0,0,0,623.719531,1256.5387,0
+Puebla,21,Zapotitlan,209,0,0,0,0,159.4651929,213.9447226,0
+Puebla,21,Zapotitlan de Mendez,210,0,0,0,0,35.10241536,150.0365645,0
+Puebla,21,Zaragoza,211,0,0,0,0,50.85713366,79.35352002,0
+Puebla,21,Zautla,212,0,0,0,0,171.0878996,376.6167115,0
+Puebla,21,Zihuateutla,213,0,0,0,0,327.1716328,1100.759363,0
+Puebla,21,Zinacatepec,214,0,0,0,0,75.01342811,139.4770073,0
+Puebla,21,Zongozotla,215,0,0,0,0,7.983735609,432.9015055,0
+Puebla,21,Zoquiapan,216,0,0,0,0,30.497272,152.6732178,0
+Puebla,21,Zoquitlan,217,0,0,0,0,229.6197604,2574.040413,0
+Queretaro,22,Amealco de Bonfil,1,0,0,0,0,962.2373595,1579.491132,0
+Queretaro,22,Pinal de Amoles,2,0,0,0,0,267.7891217,953.9745498,0
+Queretaro,22,Arroyo Seco,3,0,0,0,0,355.8991619,2073.546131,0
+Queretaro,22,Cadereyta de Montes,4,0,0,0,0,537.8146121,935.9650004,0
+Queretaro,22,Colon,5,0,0,0,0,699.2466425,1836.813982,0
+Queretaro,22,Corregidora,6,0,0,0,0,324.2786345,546.2157454,0
+Queretaro,22,Ezequiel Montes,7,0,0,0,0,377.9611675,598.2257906,0
+Queretaro,22,Huimilpan,8,0,0,0,0,489.6059152,968.4866054,0
+Queretaro,22,Jalpan de Serra,9,0,0,0,0,528.7590608,4030.475717,0
+Queretaro,22,Landa de Matamoros,10,0,0,0,0,302.4172445,1353.207863,0
+Queretaro,22,El Marques,11,0,0,0,0,841.2646457,2116.223556,0
+Queretaro,22,Pedro Escobedo,12,0,0,0,0,485.9085189,973.9162042,0
+Queretaro,22,Peñamiller,13,0,0,0,0,99.53371502,188.5696013,0
+Queretaro,22,Queretaro,14,0,0,0,0,807.7798851,1865.922552,0
+Queretaro,22,San Joaquin,15,0,0,0,0,122.4069562,413.847362,0
+Queretaro,22,San Juan del Rio,16,0,0,0,0,1062.906652,1830.3833,0
+Queretaro,22,Tequisquiapan,17,0,0,0,0,448.9522354,820.2170385,0
+Queretaro,22,Toliman,18,0,0,0,0,235.5764166,396.2383203,0
+Quintana Roo,23,Cozumel,1,0,0,0,0,334.1174762,10847.19677,0
+Quintana Roo,23,Felipe Carrillo Puerto,2,0,0,0,0,9523.441933,311047.0907,0
+Quintana Roo,23,Isla Mujeres,3,0,0,0,0,525.4171233,17856.63665,0
+Quintana Roo,23,Othon P Blanco,4,0,0,0,0,15936.67046,274993.8301,0
+Quintana Roo,23,Benito Juarez,5,0,0,0,0,1327.292525,48022.25613,0
+Quintana Roo,23,Jose Maria Morelos,6,0,0,0,0,3046.351512,95291.21915,0
+Quintana Roo,23,Lazaro Cardenas,7,0,0,0,0,2753.407234,74370.08116,0
+Quintana Roo,23,Solidaridad,8,0,0,0,0,2661.067748,94319.04997,0
+Quintana Roo,23,Tulum,9,0,0,0,0,0.571999835,0.316457064,0
+Quintana Roo,23,Bacalar,10,0,0,0,0,0,0,0
+San Luis Potosi,24,Ahualulco,1,0,0,0,0,404.9810872,834.8382644,0
+San Luis Potosi,24,Alaquines,2,0,0,0,0,360.0890601,1685.477261,0
+San Luis Potosi,24,Aquismon,3,0,0,0,0,1279.03877,16840.18549,0
+San Luis Potosi,24,Armadillo de los Infante,4,0,0,0,0,295.8398885,1069.362171,0
+San Luis Potosi,24,Cardenas,5,0,0,0,0,394.3292175,811.0514937,0
+San Luis Potosi,24,Catorce,6,0,0,0,0,723.8066496,1162.806302,0
+San Luis Potosi,24,Cedral,7,0,0,0,0,1244.690977,2271.438419,0
+San Luis Potosi,24,Cerritos,8,0,0,0,0,753.2663931,1470.888825,0
+San Luis Potosi,24,Cerro de San Pedro,9,0,0,0,0,79.57632916,152.1790662,0
+San Luis Potosi,24,Ciudad del Maiz,10,0,0,0,0,1448.13268,4979.60527,0
+San Luis Potosi,24,Ciudad Fernandez,11,0,0,0,0,579.3333983,1256.786223,0
+San Luis Potosi,24,Tancanhuitz,12,0,0,0,0,351.0048626,1688.375035,0
+San Luis Potosi,24,Ciudad Valles,13,0,0,0,0,4328.082398,20910.86303,0
+San Luis Potosi,24,Coxcatlan,14,0,0,0,0,287.6775401,1316.599161,0
+San Luis Potosi,24,Charcas,15,0,0,0,0,1024.763145,1608.66728,0
+San Luis Potosi,24,Ebano,16,0,0,0,0,1935.164694,3976.838773,0
+San Luis Potosi,24,Guadalcazar,17,0,0,0,0,1631.581529,3182.602914,0
+San Luis Potosi,24,Huehuetlan,18,0,0,0,0,180.5282691,1032.546595,0
+San Luis Potosi,24,Lagunillas,19,0,0,0,0,488.5205275,2121.479442,0
+San Luis Potosi,24,Matehuala,20,0,0,0,0,1326.28853,2428.940177,0
+San Luis Potosi,24,Mexquitic de Carmona,21,0,0,0,0,792.5626069,1606.274378,0
+San Luis Potosi,24,Moctezuma,22,0,0,0,0,922.2485353,1704.426488,0
+San Luis Potosi,24,Rayon,23,0,0,0,0,685.1089657,2295.748856,0
+San Luis Potosi,24,Rioverde,24,0,0,0,0,1857.143274,4838.064409,0
+San Luis Potosi,24,Salinas,25,0,0,0,0,1181.502998,2042.511394,0
+San Luis Potosi,24,San Antonio,26,0,0,0,0,230.2724308,1152.969604,0
+San Luis Potosi,24,San Ciro de Acosta,27,0,0,0,0,453.4702293,1391.546022,0
+San Luis Potosi,24,San Luis Potosi,28,0,0,0,0,1242.139114,2518.59273,0
+San Luis Potosi,24,San Martin Chalchicuautla,29,0,0,0,0,1052.454098,5128.329046,0
+San Luis Potosi,24,San Nicolas Tolentino,30,0,0,0,0,222.6028673,834.0388134,0
+San Luis Potosi,24,Santa Catarina,31,0,0,0,0,617.2443913,6704.821911,0
+San Luis Potosi,24,Santa Maria del Rio,32,0,0,0,0,506.1689158,2169.851193,0
+San Luis Potosi,24,Santo Domingo,33,0,0,0,0,2036.718342,3256.528445,0
+San Luis Potosi,24,San Vicente Tancuayalab,34,0,0,0,0,1465.614609,3409.419109,0
+San Luis Potosi,24,Soledad de Graciano Sanchez,35,0,0,0,0,363.4648679,691.6716859,0
+San Luis Potosi,24,Tamasopo,36,0,0,0,0,1297.021281,16005.49916,0
+San Luis Potosi,24,Tamazunchale,37,0,0,0,0,748.4475096,6519.257192,0
+San Luis Potosi,24,Tampacan,38,0,0,0,0,446.3064476,1973.743935,0
+San Luis Potosi,24,Tampamolon Corona,39,0,0,0,0,614.2536755,2811.104278,0
+San Luis Potosi,24,Tamuin,40,0,0,0,0,5288.970875,11015.13775,0
+San Luis Potosi,24,Tanlajas,41,0,0,0,0,983.4399141,3121.751841,0
+San Luis Potosi,24,Tanquian de Escobedo,42,0,0,0,0,399.7080672,857.6684836,0
+San Luis Potosi,24,Tierra Nueva,43,0,0,0,0,100.7391359,267.3814981,0
+San Luis Potosi,24,Vanegas,44,0,0,0,0,736.141199,1051.922307,0
+San Luis Potosi,24,Venado,45,0,0,0,0,778.4099587,1438.781014,0
+San Luis Potosi,24,Villa de Arriaga,46,0,0,0,0,1213.322513,2343.131935,0
+San Luis Potosi,24,Villa de Guadalupe,47,0,0,0,0,941.3505995,1559.760316,0
+San Luis Potosi,24,Villa de la Paz,48,0,0,0,0,87.31259339,152.3158631,0
+San Luis Potosi,24,Villa de Ramos,49,0,0,0,0,3055.176306,5652.533406,0
+San Luis Potosi,24,Villa de Reyes,50,0,0,0,0,756.8001451,1474.53789,0
+San Luis Potosi,24,Villa Hidalgo,51,0,0,0,0,778.9157375,1398.14556,0
+San Luis Potosi,24,Villa Juarez,52,0,0,0,0,766.3468929,1524.084433,0
+San Luis Potosi,24,Axtla de Terrazas,53,0,0,0,0,565.8996977,1847.242957,0
+San Luis Potosi,24,Xilitla,54,0,0,0,0,521.815509,6406.951064,0
+San Luis Potosi,24,Zaragoza,55,0,0,0,0,284.7868041,950.8507635,0
+San Luis Potosi,24,Villa de Arista,56,0,0,0,0,505.0700298,900.3084584,0
+San Luis Potosi,24,Matlapa,57,0,0,0,0,316.1048275,1743.563205,0
+San Luis Potosi,24,El Naranjo,58,0,0,0,0,968.1747024,4561.199838,0
+Sinaloa,25,Ahome,1,0,0,0,0,7031.99736,16628.33799,0
+Sinaloa,25,Angostura,2,0,0,0,0,2913.257918,7256.522092,0
+Sinaloa,25,Badiraguato,3,0,0,0,0,3309.10577,36182.79157,0
+Sinaloa,25,Concordia,4,0,0,0,0,1854.089006,17942.29169,0
+Sinaloa,25,Cosala,5,0,0,0,0,2296.52666,21492.4675,0
+Sinaloa,25,Culiacan,6,0,0,0,0,13477.49633,51059.43037,0
+Sinaloa,25,Choix,7,0,0,0,0,3574.841643,27054.97286,0
+Sinaloa,25,Elota,8,0,0,0,0,3446.854689,14045.17329,0
+Sinaloa,25,Escuinapa,9,0,0,0,0,2048.067089,12629.04353,0
+Sinaloa,25,El Fuerte,10,0,0,0,0,6609.551618,30880.35932,0
+Sinaloa,25,Guasave,11,0,0,0,0,6737.733757,15746.73107,0
+Sinaloa,25,Mazatlan,12,0,0,0,0,4368.37753,22511.3844,0
+Sinaloa,25,Mocorito,13,0,0,0,0,5855.798288,25360.52643,0
+Sinaloa,25,Rosario,14,0,0,0,0,3117.078347,20197.8974,0
+Sinaloa,25,Salvador Alvarado,15,0,0,0,0,2162.576609,5540.828828,0
+Sinaloa,25,San Ignacio,16,0,0,0,0,3856.794226,40559.53957,0
+Sinaloa,25,Sinaloa,17,0,0,0,0,8729.056157,50173.03393,0
+Sinaloa,25,Navolato,18,0,0,0,0,4711.756765,12856.3095,0
+Sonora,26,Aconchi,1,0,0,0,0,213.4735008,3003.523362,0
+Sonora,26,Agua Prieta,2,0,0,0,0,837.9453826,4717.734659,0
+Sonora,26,Alamos,3,0,0,0,0,6997.175465,59322.01191,0
+Sonora,26,Altar,4,0,0,0,0,1466.062963,2301.579397,0
+Sonora,26,Arivechi,5,0,0,0,0,348.2725563,4984.280812,0
+Sonora,26,Arizpe,6,0,0,0,0,757.2195521,7302.133283,0
+Sonora,26,Atil,7,0,0,0,0,101.0572455,152.1487454,0
+Sonora,26,Bacadehuachi,8,0,0,0,0,359.9796377,6127.98565,0
+Sonora,26,Bacanora,9,0,0,0,0,587.5345989,10614.35669,0
+Sonora,26,Bacerac,10,0,0,0,0,255.2330141,3651.260064,0
+Sonora,26,Bacoachi,11,0,0,0,0,210.5752281,1509.335813,0
+Sonora,26,Bacum,12,0,0,0,0,1653.71904,6114.547512,0
+Sonora,26,Banamichi,13,0,0,0,0,444.5945438,6667.565795,0
+Sonora,26,Baviacora,14,0,0,0,0,507.6884246,8501.42151,0
+Sonora,26,Bavispe,15,0,0,0,0,357.0153702,3193.606996,0
+Sonora,26,Benjamin Hill,16,0,0,0,0,1097.803334,2071.360823,0
+Sonora,26,Caborca,17,0,0,0,0,4851.860029,10557.67799,0
+Sonora,26,Cajeme,18,0,0,0,0,7030.101353,34922.2697,0
+Sonora,26,Cananea,19,0,0,0,0,303.8444313,3254.421318,0
+Sonora,26,Carbo,20,0,0,0,0,2903.63685,6904.464607,0
+Sonora,26,La Colorada,21,0,0,0,0,3047.061876,28433.33869,0
+Sonora,26,Cucurpe,22,0,0,0,0,332.6067705,1482.046984,0
+Sonora,26,Cumpas,23,0,0,0,0,641.7120211,5330.576473,0
+Sonora,26,Divisaderos,24,0,0,0,0,187.4271245,2479.262792,0
+Sonora,26,Empalme,25,0,0,0,0,631.1574472,1237.970198,0
+Sonora,26,Etchojoa,26,0,0,0,0,2613.663778,5754.491563,0
+Sonora,26,Fronteras,27,0,0,0,0,607.5083164,2942.809375,0
+Sonora,26,Granados,28,0,0,0,0,188.7531586,3176.813453,0
+Sonora,26,Guaymas,29,0,0,0,0,3897.005041,12933.56511,0
+Sonora,26,Hermosillo,30,0,0,0,0,11101.00112,25311.16989,0
+Sonora,26,Huachinera,31,0,0,0,0,183.657655,2763.878739,0
+Sonora,26,Huasabas,32,0,0,0,0,332.6950601,4181.509164,0
+Sonora,26,Huatabampo,33,0,0,0,0,2494.395842,5354.768419,0
+Sonora,26,Huepac,34,0,0,0,0,206.8958341,3097.337115,0
+Sonora,26,Imuris,35,0,0,0,0,516.6563405,1876.080286,0
+Sonora,26,Magdalena,36,0,0,0,0,441.6568236,1269.793476,0
+Sonora,26,Mazatan,37,0,0,0,0,356.0286545,2002.375609,0
+Sonora,26,Moctezuma,38,0,0,0,0,748.6477674,10459.66957,0
+Sonora,26,Naco,39,0,0,0,0,164.3236521,510.9916407,0
+Sonora,26,Nacori Chico,40,0,0,0,0,920.2871317,16024.28004,0
+Sonora,26,Nacozari de Garcia,41,0,0,0,0,239.9039274,2995.192603,0
+Sonora,26,Navojoa,42,0,0,0,0,4950.930368,13205.55477,0
+Sonora,26,Nogales,43,0,0,0,0,237.0937746,2801.30864,0
+Sonora,26,Onavas,44,0,0,0,0,375.2647277,5573.090957,0
+Sonora,26,Opodepe,45,0,0,0,0,1751.657762,9569.35435,0
+Sonora,26,Oquitoa,46,0,0,0,0,178.9438697,198.4107686,0
+Sonora,26,Pitiquito,47,0,0,0,0,2411.280098,3794.292528,0
+Sonora,26,Puerto Peñasco,48,0,0,0,0,846.4320217,1708.933727,0
+Sonora,26,Quiriego,49,0,0,0,0,4380.007992,35785.1512,0
+Sonora,26,Rayon,50,0,0,0,0,539.4042037,8365.049506,0
+Sonora,26,Rosario,51,0,0,0,0,2437.201711,33486.7318,0
+Sonora,26,Sahuaripa,52,0,0,0,0,2173.414011,38378.89443,0
+Sonora,26,San Felipe de Jesus,53,0,0,0,0,91.88600515,1325.060679,0
+Sonora,26,San Javier,54,0,0,0,0,331.6018738,5392.351443,0
+Sonora,26,San Luis Rio Colorado,55,0,0,0,0,2503.150964,4545.271973,0
+Sonora,26,San Miguel de Horcasitas,56,0,0,0,0,793.674667,3232.300116,0
+Sonora,26,San Pedro de la Cueva,57,0,0,0,0,1198.995162,21605.6502,0
+Sonora,26,Santa Ana,58,0,0,0,0,724.067742,1566.757588,0
+Sonora,26,Santa Cruz,59,0,0,0,0,172.0068706,1559.818285,0
+Sonora,26,Saric,60,0,0,0,0,261.788286,306.9456929,0
+Sonora,26,Soyopa,61,0,0,0,0,1046.535691,18970.96894,0
+Sonora,26,Suaqui Grande,62,0,0,0,0,665.8534836,8411.782464,0
+Sonora,26,Tepache,63,0,0,0,0,376.6988276,5515.218794,0
+Sonora,26,Trincheras,64,0,0,0,0,1694.980903,2925.046201,0
+Sonora,26,Tubutama,65,0,0,0,0,379.7285642,553.7290043,0
+Sonora,26,Ures,66,0,0,0,0,1565.293228,19177.84192,0
+Sonora,26,Villa Hidalgo,67,0,0,0,0,273.1406112,1650.928206,0
+Sonora,26,Villa Pesqueira,68,0,0,0,0,622.0789608,8152.68619,0
+Sonora,26,Yecora,69,0,0,0,0,1105.200856,16555.91363,0
+Sonora,26,General Plutarco Elias Calles,70,0,0,0,0,836.4885013,985.2710561,0
+Sonora,26,Benito Juarez,71,0,0,0,0,956.6671166,2086.615729,0
+Sonora,26,San Ignacio Rio Muerto,72,0,0,0,0,1470.883848,3557.741008,0
+Tabasco,27,Balancan,1,0,0,0,0,10375.71332,42113.39731,0
+Tabasco,27,Cardenas,2,0,0,0,0,5953.545936,18782.96253,0
+Tabasco,27,Centla,3,0,0,0,0,2980.223076,20634.36639,0
+Tabasco,27,Centro,4,0,0,0,0,4389.23624,13460.80132,0
+Tabasco,27,Comalcalco,5,0,0,0,0,2525.591727,6507.816419,0
+Tabasco,27,Cunduacan,6,0,0,0,0,2346.253906,5287.042069,0
+Tabasco,27,Emiliano Zapata,7,0,0,0,0,1448.021984,8297.942849,0
+Tabasco,27,Huimanguillo,8,0,0,0,0,11330.07832,49860.53284,0
+Tabasco,27,Jalapa,9,0,0,0,0,2020.141301,5178.576991,0
+Tabasco,27,Jalpa de Mendez,10,0,0,0,0,1116.808614,2998.621136,0
+Tabasco,27,Jonuta,11,0,0,0,0,2542.134511,16589.9453,0
+Tabasco,27,Macuspana,12,0,0,0,0,5742.654047,21566.93298,0
+Tabasco,27,Nacajuca,13,0,0,0,0,1306.580138,3826.024385,0
+Tabasco,27,Paraiso,14,0,0,0,0,715.1551616,2601.899502,0
+Tabasco,27,Tacotalpa,15,0,0,0,0,2226.971368,15483.30522,0
+Tabasco,27,Teapa,16,0,0,0,0,1397.95285,6243.644123,0
+Tabasco,27,Tenosique,17,0,0,0,0,5116.200516,40081.86894,0
+Tamaulipas,28,Abasolo,1,0,0,0,0,3017.29774,6781.017135,0
+Tamaulipas,28,Aldama,2,0,0,0,0,7893.101354,27650.6377,0
+Tamaulipas,28,Altamira,3,0,0,0,0,3665.54824,10240.44693,0
+Tamaulipas,28,Antiguo Morelos,4,0,0,0,0,1104.088682,4781.562152,0
+Tamaulipas,28,Burgos,5,0,0,0,0,1862.459804,4005.09287,0
+Tamaulipas,28,Bustamante,6,0,0,0,0,627.4278299,1082.970546,0
+Tamaulipas,28,Camargo,7,0,0,0,0,2047.514362,4153.20857,0
+Tamaulipas,28,Casas,8,0,0,0,0,3352.907292,15073.47153,0
+Tamaulipas,28,Ciudad Madero,9,0,0,0,0,6.137454853,14.50393936,0
+Tamaulipas,28,Cruillas,10,0,0,0,0,1602.819812,3162.107926,0
+Tamaulipas,28,Gomez Farias,11,0,0,0,0,996.5491249,14567.68802,0
+Tamaulipas,28,Gonzalez,12,0,0,0,0,8306.629161,21352.10846,0
+Tamaulipas,28,Güemez,13,0,0,0,0,2560.446,6896.340425,0
+Tamaulipas,28,Guerrero,14,0,0,0,0,3236.504911,6377.584324,0
+Tamaulipas,28,Gustavo Diaz Ordaz,15,0,0,0,0,1220.355269,2503.093935,0
+Tamaulipas,28,Hidalgo,16,0,0,0,0,2807.062813,7115.168602,0
+Tamaulipas,28,Jaumave,17,0,0,0,0,1066.471623,7956.404177,0
+Tamaulipas,28,Jimenez,18,0,0,0,0,2257.994918,4548.670266,0
+Tamaulipas,28,Llera,19,0,0,0,0,3593.831186,17315.78794,0
+Tamaulipas,28,Mainero,20,0,0,0,0,427.2823061,1191.535935,0
+Tamaulipas,28,El Mante,21,0,0,0,0,5301.995661,12325.86261,0
+Tamaulipas,28,Matamoros,22,0,0,0,0,5831.401274,17855.10001,0
+Tamaulipas,28,Mendez,23,0,0,0,0,4682.141498,9393.952752,0
+Tamaulipas,28,Mier,24,0,0,0,0,2105.055041,4278.374698,0
+Tamaulipas,28,Miguel Aleman,25,0,0,0,0,1399.543957,2849.208375,0
+Tamaulipas,28,Miquihuana,26,0,0,0,0,357.7221986,2041.662356,0
+Tamaulipas,28,Nuevo Laredo,27,0,0,0,0,1833.598253,3659.257628,0
+Tamaulipas,28,Nuevo Morelos,28,0,0,0,0,515.8572534,2852.709382,0
+Tamaulipas,28,Ocampo,29,0,0,0,0,1885.808176,13638.695,0
+Tamaulipas,28,Padilla,30,0,0,0,0,2343.402955,5485.309199,0
+Tamaulipas,28,Palmillas,31,0,0,0,0,241.7495898,892.3793445,0
+Tamaulipas,28,Reynosa,32,0,0,0,0,6892.439506,13932.19367,0
+Tamaulipas,28,Rio Bravo,33,0,0,0,0,4664.756347,9571.560021,0
+Tamaulipas,28,San Carlos,34,0,0,0,0,2414.177756,6020.816954,0
+Tamaulipas,28,San Fernando,35,0,0,0,0,11128.85186,25325.53078,0
+Tamaulipas,28,San Nicolas,36,0,0,0,0,90.99260573,308.8615663,0
+Tamaulipas,28,Soto la Marina,37,0,0,0,0,11316.84362,34815.23043,0
+Tamaulipas,28,Tampico,38,0,0,0,0,27.98877064,252.5148817,0
+Tamaulipas,28,Tula,39,0,0,0,0,1737.177855,5143.05726,0
+Tamaulipas,28,Valle Hermoso,40,0,0,0,0,2591.10472,5318.431746,0
+Tamaulipas,28,Victoria,41,0,0,0,0,1667.603635,5524.232444,0
+Tamaulipas,28,Villagran,42,0,0,0,0,1472.100498,3182.955727,0
+Tamaulipas,28,Xicotencatl,43,0,0,0,0,2230.784561,6941.81813,0
+Tlaxcala,29,Amaxac de Guerrero,1,0,0,0,0,19.74074962,27.30394491,0
+Tlaxcala,29,Apetatitlan de Antonio Carvajal,2,0,0,0,0,17.01991398,23.42176732,0
+Tlaxcala,29,Atlangatepec,3,0,0,0,0,145.3743332,209.5578575,0
+Tlaxcala,29,Atltzayanca,4,0,0,0,0,265.6292056,387.8064275,0
+Tlaxcala,29,Apizaco,5,0,0,0,0,62.84874481,90.89835875,0
+Tlaxcala,29,Calpulalpan,6,0,0,0,0,310.4721256,475.8691735,0
+Tlaxcala,29,El Carmen Tequexquitla,7,0,0,0,0,67.40232809,95.21868419,0
+Tlaxcala,29,Cuapiaxtla,8,0,0,0,0,138.026679,200.9985139,0
+Tlaxcala,29,Cuaxomulco,9,0,0,0,0,29.47894989,41.88494353,0
+Tlaxcala,29,Chiautempan,10,0,0,0,0,119.1307055,174.2767926,0
+Tlaxcala,29,Muñoz de Domingo Arenas,11,0,0,0,0,61.64117099,88.77422226,0
+Tlaxcala,29,Españita,12,0,0,0,0,166.6315358,259.816698,0
+Tlaxcala,29,Huamantla,13,0,0,0,0,468.7880611,685.552326,0
+Tlaxcala,29,Hueyotlipan,14,0,0,0,0,246.8769411,367.1736553,0
+Tlaxcala,29,Ixtacuixtla de Mariano Matamoros,15,0,0,0,0,203.491097,326.978769,0
+Tlaxcala,29,Ixtenco,16,0,0,0,0,67.94154059,97.32072354,0
+Tlaxcala,29,Mazatecochco de Jose Maria Morelos,17,0,0,0,0,25.06547134,35.41909991,0
+Tlaxcala,29,Contla de Juan Cuamatzi,18,0,0,0,0,43.21178262,61.58730232,0
+Tlaxcala,29,Tepetitla de Lardizabal,19,0,0,0,0,50.16500236,71.86698081,0
+Tlaxcala,29,Sanctorum de Lazaro Cardenas,20,0,0,0,0,135.6147815,201.2052363,0
+Tlaxcala,29,Nanacamilpa de Mariano Arista,21,0,0,0,0,127.670505,193.5335031,0
+Tlaxcala,29,Acuamanala de Miguel Hidalgo,22,0,0,0,0,25.54308037,36.01705003,0
+Tlaxcala,29,Nativitas,23,0,0,0,0,87.70888299,125.8948762,0
+Tlaxcala,29,Panotla,24,0,0,0,0,71.92053188,103.3923577,0
+Tlaxcala,29,San Pablo del Monte,25,0,0,0,0,81.64804726,119.5363164,0
+Tlaxcala,29,Santa Cruz Tlaxcala,26,0,0,0,0,45.61747082,65.32672333,0
+Tlaxcala,29,Tenancingo,27,0,0,0,0,18.39285131,25.12539316,0
+Tlaxcala,29,Teolocholco,28,0,0,0,0,82.63265891,122.5155674,0
+Tlaxcala,29,Tepeyanco,29,0,0,0,0,29.42901213,41.09875329,0
+Tlaxcala,29,Terrenate,30,0,0,0,0,147.8216772,208.7967801,0
+Tlaxcala,29,Tetla de la Solidaridad,31,0,0,0,0,199.155921,286.3536126,0
+Tlaxcala,29,Tetlatlahuca,32,0,0,0,0,48.37688418,69.56326474,0
+Tlaxcala,29,Tlaxcala,33,0,0,0,0,72.27347749,105.2098229,0
+Tlaxcala,29,Tlaxco,34,0,0,0,0,672.492953,983.9119826,0
+Tlaxcala,29,Tocatlan,35,0,0,0,0,21.74125857,29.82845445,0
+Tlaxcala,29,Totolac,36,0,0,0,0,16.5668734,22.59548746,0
+Tlaxcala,29,Ziltlaltepec de Trinidad Sanchez Santos,37,0,0,0,0,88.88024441,130.6873076,0
+Tlaxcala,29,Tzompantepec,38,0,0,0,0,62.9155678,90.64733931,0
+Tlaxcala,29,Xaloztoc,39,0,0,0,0,69.04519391,100.0389365,0
+Tlaxcala,29,Xaltocan,40,0,0,0,0,128.8664066,197.731782,0
+Tlaxcala,29,Papalotla de Xicohtencatl,41,0,0,0,0,37.75978118,53.15546092,0
+Tlaxcala,29,Xicohtzinco,42,0,0,0,0,12.03026899,15.81295547,0
+Tlaxcala,29,Yauhquemehcan,43,0,0,0,0,51.61068693,72.73581624,0
+Tlaxcala,29,Zacatelco,44,0,0,0,0,51.01151368,73.42567549,0
+Tlaxcala,29,Benito Juarez,45,0,0,0,0,43.48442711,62.08196932,0
+Tlaxcala,29,Emiliano Zapata,46,0,0,0,0,39.13807443,57.64589441,0
+Tlaxcala,29,Lazaro Cardenas,47,0,0,0,0,25.92395353,34.26767084,0
+Tlaxcala,29,La Magdalena Tlaltelulco,48,0,0,0,0,20.94575029,28.80867423,0
+Tlaxcala,29,San Damian Texoloc,49,0,0,0,0,18.00833629,24.49618423,0
+Tlaxcala,29,San Francisco Tetlanohcan,50,0,0,0,0,26.94562139,38.52903852,0
+Tlaxcala,29,San Jeronimo Zacualpan,51,0,0,0,0,14.3378222,19.15452908,0
+Tlaxcala,29,San Jose Teacalco,52,0,0,0,0,54.71836499,78.58997117,0
+Tlaxcala,29,San Juan Huactzinco,53,0,0,0,0,8.887370078,11.06870925,0
+Tlaxcala,29,San Lorenzo Axocomanitla,54,0,0,0,0,8.103502948,9.997081192,0
+Tlaxcala,29,San Lucas Tecopilco,55,0,0,0,0,46.5679383,66.60366367,0
+Tlaxcala,29,Santa Ana Nopalucan,56,0,0,0,0,10.59625221,13.71063587,0
+Tlaxcala,29,Santa Apolonia Teacalco,57,0,0,0,0,13.19522017,17.62421139,0
+Tlaxcala,29,Santa Catarina Ayometla,58,0,0,0,0,18.178084,24.80802824,0
+Tlaxcala,29,Santa Cruz Quilehtla,59,0,0,0,0,10.50042443,13.44176737,0
+Tlaxcala,29,Santa Isabel Xiloxoxtla,60,0,0,0,0,11.19005142,14.45632928,0
+Veracruz de Ignacio de la Llave,30,Acajete,1,0,0,0,0,134.8667126,1092.621221,0
+Veracruz de Ignacio de la Llave,30,Acatlan,2,0,0,0,0,50.84065748,213.9426072,0
+Veracruz de Ignacio de la Llave,30,Acayucan,3,0,0,0,0,1999.887019,5016.36289,0
+Veracruz de Ignacio de la Llave,30,Actopan,4,0,0,0,0,2122.35842,6200.779877,0
+Veracruz de Ignacio de la Llave,30,Acula,5,0,0,0,0,443.1755613,1135.535671,0
+Veracruz de Ignacio de la Llave,30,Acultzingo,6,0,0,0,0,263.7764815,778.903226,0
+Veracruz de Ignacio de la Llave,30,Camaron de Tejeda,7,0,0,0,0,422.2597971,882.5804582,0
+Veracruz de Ignacio de la Llave,30,Alpatlahuac,8,0,0,0,0,96.35511247,275.8909774,0
+Veracruz de Ignacio de la Llave,30,Alto Lucero de Gutierrez Barrios,9,0,0,0,0,1457.66145,4358.655791,0
+Veracruz de Ignacio de la Llave,30,Altotonga,10,0,0,0,0,643.3322189,7767.799528,0
+Veracruz de Ignacio de la Llave,30,Alvarado,11,0,0,0,0,1297.522257,3486.00534,0
+Veracruz de Ignacio de la Llave,30,Amatitlan,12,0,0,0,0,431.3026979,891.2404781,0
+Veracruz de Ignacio de la Llave,30,Naranjos Amatlan,13,0,0,0,0,340.7681106,1628.013298,0
+Veracruz de Ignacio de la Llave,30,Amatlan de los Reyes,14,0,0,0,0,458.3637675,1789.700905,0
+Veracruz de Ignacio de la Llave,30,Angel R Cabada,15,0,0,0,0,1402.914878,3125.914391,0
+Veracruz de Ignacio de la Llave,30,La Antigua,16,0,0,0,0,319.3374639,898.1480873,0
+Veracruz de Ignacio de la Llave,30,Apazapan,17,0,0,0,0,191.27058,463.3381857,0
+Veracruz de Ignacio de la Llave,30,Aquila,18,0,0,0,0,38.8390733,99.32364502,0
+Veracruz de Ignacio de la Llave,30,Astacinga,19,0,0,0,0,80.48099676,171.4405562,0
+Veracruz de Ignacio de la Llave,30,Atlahuilco,20,0,0,0,0,83.26835668,300.0536502,0
+Veracruz de Ignacio de la Llave,30,Atoyac,21,0,0,0,0,417.7266359,1264.029281,0
+Veracruz de Ignacio de la Llave,30,Atzacan,22,0,0,0,0,216.2336214,970.91663,0
+Veracruz de Ignacio de la Llave,30,Atzalan,23,0,0,0,0,1651.55352,6742.269995,0
+Veracruz de Ignacio de la Llave,30,Tlaltetela,24,0,0,0,0,749.0952575,3043.692132,0
+Veracruz de Ignacio de la Llave,30,Ayahualulco,25,0,0,0,0,249.8232086,733.1425842,0
+Veracruz de Ignacio de la Llave,30,Banderilla,26,0,0,0,0,56.3497747,107.7525737,0
+Veracruz de Ignacio de la Llave,30,Benito Juarez,27,0,0,0,0,603.0743417,4672.942943,0
+Veracruz de Ignacio de la Llave,30,Boca del Rio,28,0,0,0,0,43.62335837,100.5564712,0
+Veracruz de Ignacio de la Llave,30,Calcahualco,29,0,0,0,0,99.70496673,1174.672326,0
+Veracruz de Ignacio de la Llave,30,Camerino Z Mendoza,30,0,0,0,0,6.620801949,32.39212203,0
+Veracruz de Ignacio de la Llave,30,Carrillo Puerto,31,0,0,0,0,623.5279676,1953.913471,0
+Veracruz de Ignacio de la Llave,30,Catemaco,32,0,0,0,0,1441.86511,7699.517544,0
+Veracruz de Ignacio de la Llave,30,Cazones de Herrera,33,0,0,0,0,903.1486733,1920.092097,0
+Veracruz de Ignacio de la Llave,30,Cerro Azul,34,0,0,0,0,206.2873726,1245.439298,0
+Veracruz de Ignacio de la Llave,30,Citlaltepetl,35,0,0,0,0,197.6770646,969.6878104,0
+Veracruz de Ignacio de la Llave,30,Coacoatzintla,36,0,0,0,0,86.9183596,714.8681611,0
+Veracruz de Ignacio de la Llave,30,Coahuitlan,37,0,0,0,0,127.9695192,349.9791254,0
+Veracruz de Ignacio de la Llave,30,Coatepec,38,0,0,0,0,746.7909026,2759.347932,0
+Veracruz de Ignacio de la Llave,30,Coatzacoalcos,39,0,0,0,0,534.1780982,3100.594246,0
+Veracruz de Ignacio de la Llave,30,Coatzintla,40,0,0,0,0,792.9216826,2870.979172,0
+Veracruz de Ignacio de la Llave,30,Coetzala,41,0,0,0,0,33.52514635,131.3405952,0
+Veracruz de Ignacio de la Llave,30,Colipa,42,0,0,0,0,353.493422,1420.49282,0
+Veracruz de Ignacio de la Llave,30,Comapa,43,0,0,0,0,904.4210119,2180.639734,0
+Veracruz de Ignacio de la Llave,30,Cordoba,44,0,0,0,0,496.9028147,1499.221607,0
+Veracruz de Ignacio de la Llave,30,Cosamaloapan de Carpio,45,0,0,0,0,1704.513593,3552.429892,0
+Veracruz de Ignacio de la Llave,30,Cosautlan de Carvajal,46,0,0,0,0,243.806471,914.5956665,0
+Veracruz de Ignacio de la Llave,30,Coscomatepec,47,0,0,0,0,351.0457121,2495.658936,0
+Veracruz de Ignacio de la Llave,30,Cosoleacaque,48,0,0,0,0,489.4872419,1518.842069,0
+Veracruz de Ignacio de la Llave,30,Cotaxtla,49,0,0,0,0,1570.870998,3440.795091,0
+Veracruz de Ignacio de la Llave,30,Coxquihui,50,0,0,0,0,240.0605263,1016.769554,0
+Veracruz de Ignacio de la Llave,30,Coyutla,51,0,0,0,0,679.2381492,2595.921981,0
+Veracruz de Ignacio de la Llave,30,Cuichapa,52,0,0,0,0,90.94526725,364.2945269,0
+Veracruz de Ignacio de la Llave,30,Cuitlahuac,53,0,0,0,0,466.9591319,1020.210116,0
+Veracruz de Ignacio de la Llave,30,Chacaltianguis,54,0,0,0,0,879.7493243,2020.575378,0
+Veracruz de Ignacio de la Llave,30,Chalma,55,0,0,0,0,339.2937232,2684.638979,0
+Veracruz de Ignacio de la Llave,30,Chiconamel,56,0,0,0,0,221.3655667,1409.162399,0
+Veracruz de Ignacio de la Llave,30,Chiconquiaco,57,0,0,0,0,296.9062285,3437.044161,0
+Veracruz de Ignacio de la Llave,30,Chicontepec,58,0,0,0,0,2479.155068,12793.43161,0
+Veracruz de Ignacio de la Llave,30,Chinameca,59,0,0,0,0,522.1070165,1184.265575,0
+Veracruz de Ignacio de la Llave,30,Chinampa de Gorostiza,60,0,0,0,0,376.5095144,1590.288027,0
+Veracruz de Ignacio de la Llave,30,Las Choapas,61,0,0,0,0,6880.223834,63549.60801,0
+Veracruz de Ignacio de la Llave,30,Chocaman,62,0,0,0,0,97.04207376,908.0714568,0
+Veracruz de Ignacio de la Llave,30,Chontla,63,0,0,0,0,970.0377226,4363.635174,0
+Veracruz de Ignacio de la Llave,30,Chumatlan,64,0,0,0,0,49.59975814,513.8798236,0
+Veracruz de Ignacio de la Llave,30,Emiliano Zapata,65,0,0,0,0,1183.479998,2956.81933,0
+Veracruz de Ignacio de la Llave,30,Espinal,66,0,0,0,0,741.6426725,1775.26421,0
+Veracruz de Ignacio de la Llave,30,Filomeno Mata,67,0,0,0,0,138.8299362,321.2408618,0
+Veracruz de Ignacio de la Llave,30,Fortin,68,0,0,0,0,208.3864608,430.7374666,0
+Veracruz de Ignacio de la Llave,30,Gutierrez Zamora,69,0,0,0,0,616.0663412,1274.512153,0
+Veracruz de Ignacio de la Llave,30,Hidalgotitlan,70,0,0,0,0,2680.45301,13043.42029,0
+Veracruz de Ignacio de la Llave,30,Huatusco,71,0,0,0,0,579.7300995,3229.079391,0
+Veracruz de Ignacio de la Llave,30,Huayacocotla,72,0,0,0,0,495.6237369,8503.358744,0
+Veracruz de Ignacio de la Llave,30,Hueyapan de Ocampo,73,0,0,0,0,2069.460533,7307.511875,0
+Veracruz de Ignacio de la Llave,30,Huiloapan de Cuauhtemoc,74,0,0,0,0,12.53836997,255.8863637,0
+Veracruz de Ignacio de la Llave,30,Ignacio de la Llave,75,0,0,0,0,888.0404052,1992.989736,0
+Veracruz de Ignacio de la Llave,30,Ilamatlan,76,0,0,0,0,291.7983983,3935.830966,0
+Veracruz de Ignacio de la Llave,30,Isla,77,0,0,0,0,2947.605809,8826.554239,0
+Veracruz de Ignacio de la Llave,30,Ixcatepec,78,0,0,0,0,403.7068683,3046.748382,0
+Veracruz de Ignacio de la Llave,30,Ixhuacan de los Reyes,79,0,0,0,0,253.7899455,2880.953411,0
+Veracruz de Ignacio de la Llave,30,Ixhuatlan del Cafe,80,0,0,0,0,366.9459737,2081.679811,0
+Veracruz de Ignacio de la Llave,30,Ixhuatlancillo,81,0,0,0,0,79.73525947,801.226111,0
+Veracruz de Ignacio de la Llave,30,Ixhuatlan del Sureste,82,0,0,0,0,338.2555467,1578.989791,0
+Veracruz de Ignacio de la Llave,30,Ixhuatlan de Madero,83,0,0,0,0,1623.966042,11682.47029,0
+Veracruz de Ignacio de la Llave,30,Ixmatlahuacan,84,0,0,0,0,986.0110052,2190.410674,0
+Veracruz de Ignacio de la Llave,30,Ixtaczoquitlan,85,0,0,0,0,249.561556,2859.58919,0
+Veracruz de Ignacio de la Llave,30,Jalacingo,86,0,0,0,0,484.7281269,2915.566856,0
+Veracruz de Ignacio de la Llave,30,Xalapa,87,0,0,0,0,235.6572119,867.0568259,0
+Veracruz de Ignacio de la Llave,30,Jalcomulco,88,0,0,0,0,200.7456003,537.918691,0
+Veracruz de Ignacio de la Llave,30,Jaltipan,89,0,0,0,0,762.4398918,2394.590148,0
+Veracruz de Ignacio de la Llave,30,Jamapa,90,0,0,0,0,403.6447134,794.2718626,0
+Veracruz de Ignacio de la Llave,30,Jesus Carranza,91,0,0,0,0,3852.350497,12569.1298,0
+Veracruz de Ignacio de la Llave,30,Xico,92,0,0,0,0,394.3833201,1829.135882,0
+Veracruz de Ignacio de la Llave,30,Jilotepec,93,0,0,0,0,149.7313297,371.1467471,0
+Veracruz de Ignacio de la Llave,30,Juan Rodriguez Clara,94,0,0,0,0,3213.014389,7136.094279,0
+Veracruz de Ignacio de la Llave,30,Juchique de Ferrer,95,0,0,0,0,540.6606558,2474.771494,0
+Veracruz de Ignacio de la Llave,30,Landero y Coss,96,0,0,0,0,33.97919358,483.5180631,0
+Veracruz de Ignacio de la Llave,30,Lerdo de Tejada,97,0,0,0,0,243.4793913,527.9827832,0
+Veracruz de Ignacio de la Llave,30,Magdalena,98,0,0,0,0,7.476467802,701.474467,0
+Veracruz de Ignacio de la Llave,30,Maltrata,99,0,0,0,0,159.3916394,460.7086232,0
+Veracruz de Ignacio de la Llave,30,Manlio Fabio Altamirano,100,0,0,0,0,768.0140428,1601.617931,0
+Veracruz de Ignacio de la Llave,30,Mariano Escobedo,101,0,0,0,0,122.6780028,289.3882404,0
+Veracruz de Ignacio de la Llave,30,Martinez de la Torre,102,0,0,0,0,2044.027046,4134.320909,0
+Veracruz de Ignacio de la Llave,30,Mecatlan,103,0,0,0,0,148.0913921,337.3349058,0
+Veracruz de Ignacio de la Llave,30,Mecayapan,104,0,0,0,0,773.2129733,2271.7076,0
+Veracruz de Ignacio de la Llave,30,Medellin,105,0,0,0,0,1138.478416,2336.124309,0
+Veracruz de Ignacio de la Llave,30,Miahuatlan,106,0,0,0,0,60.86428918,777.7545795,0
+Veracruz de Ignacio de la Llave,30,Las Minas,107,0,0,0,0,86.02023094,1393.460158,0
+Veracruz de Ignacio de la Llave,30,Minatitlan,108,0,0,0,0,4808.776924,22143.10811,0
+Veracruz de Ignacio de la Llave,30,Misantla,109,0,0,0,0,1630.998565,5813.423198,0
+Veracruz de Ignacio de la Llave,30,Mixtla de Altamirano,110,0,0,0,0,167.3504753,1277.443683,0
+Veracruz de Ignacio de la Llave,30,Moloacan,111,0,0,0,0,638.4169473,3156.9466,0
+Veracruz de Ignacio de la Llave,30,Naolinco,112,0,0,0,0,314.5572726,1223.401601,0
+Veracruz de Ignacio de la Llave,30,Naranjal,113,0,0,0,0,69.50432355,162.159391,0
+Veracruz de Ignacio de la Llave,30,Nautla,114,0,0,0,0,1068.200544,3635.952074,0
+Veracruz de Ignacio de la Llave,30,Nogales,115,0,0,0,0,68.69070457,226.0077907,0
+Veracruz de Ignacio de la Llave,30,Oluta,116,0,0,0,0,228.8679536,450.9537641,0
+Veracruz de Ignacio de la Llave,30,Omealca,117,0,0,0,0,819.9481012,1859.679901,0
+Veracruz de Ignacio de la Llave,30,Orizaba,118,0,0,0,0,20.40656045,434.8136815,0
+Veracruz de Ignacio de la Llave,30,Otatitlan,119,0,0,0,0,201.2085986,402.1566051,0
+Veracruz de Ignacio de la Llave,30,Oteapan,120,0,0,0,0,56.49483623,108.1214398,0
+Veracruz de Ignacio de la Llave,30,Ozuluama de Mascareñas,121,0,0,0,0,5180.724493,20343.94493,0
+Veracruz de Ignacio de la Llave,30,Pajapan,122,0,0,0,0,842.4822772,2194.186695,0
+Veracruz de Ignacio de la Llave,30,Panuco,123,0,0,0,0,7998.882691,20453.90583,0
+Veracruz de Ignacio de la Llave,30,Papantla,124,0,0,0,0,4504.349844,14231.82229,0
+Veracruz de Ignacio de la Llave,30,Paso del Macho,125,0,0,0,0,1286.959088,2656.964896,0
+Veracruz de Ignacio de la Llave,30,Paso de Ovejas,126,0,0,0,0,1207.869387,2645.38125,0
+Veracruz de Ignacio de la Llave,30,La Perla,127,0,0,0,0,170.409082,1548.889384,0
+Veracruz de Ignacio de la Llave,30,Perote,128,0,0,0,0,1062.923691,2701.001921,0
+Veracruz de Ignacio de la Llave,30,Platon Sanchez,129,0,0,0,0,694.5212983,2068.101641,0
+Veracruz de Ignacio de la Llave,30,Playa Vicente,130,0,0,0,0,3467.992786,8061.939555,0
+Veracruz de Ignacio de la Llave,30,Poza Rica de Hidalgo,131,0,0,0,0,93.92977424,482.0198664,0
+Veracruz de Ignacio de la Llave,30,Las Vigas de Ramirez,132,0,0,0,0,159.3754116,456.3645321,0
+Veracruz de Ignacio de la Llave,30,Pueblo Viejo,133,0,0,0,0,404.5812054,1387.461336,0
+Veracruz de Ignacio de la Llave,30,Puente Nacional,134,0,0,0,0,1152.680813,2600.509393,0
+Veracruz de Ignacio de la Llave,30,Rafael Delgado,135,0,0,0,0,34.03187482,390.1639466,0
+Veracruz de Ignacio de la Llave,30,Rafael Lucio,136,0,0,0,0,36.48887526,67.84823218,0
+Veracruz de Ignacio de la Llave,30,Los Reyes,137,0,0,0,0,45.03427429,1227.989965,0
+Veracruz de Ignacio de la Llave,30,Rio Blanco,138,0,0,0,0,15.77689225,284.8717272,0
+Veracruz de Ignacio de la Llave,30,Saltabarranca,139,0,0,0,0,339.67976,681.3716972,0
+Veracruz de Ignacio de la Llave,30,San Andres Tenejapan,140,0,0,0,0,12.04948753,19.16331823,0
+Veracruz de Ignacio de la Llave,30,San Andres Tuxtla,141,0,0,0,0,2560.008947,10953.34744,0
+Veracruz de Ignacio de la Llave,30,San Juan Evangelista,142,0,0,0,0,3441.025169,8476.302615,0
+Veracruz de Ignacio de la Llave,30,Santiago Tuxtla,143,0,0,0,0,1846.830912,4047.609616,0
+Veracruz de Ignacio de la Llave,30,Sayula de Aleman,144,0,0,0,0,1835.583261,4997.32393,0
+Veracruz de Ignacio de la Llave,30,Soconusco,145,0,0,0,0,316.0139702,625.6835297,0
+Veracruz de Ignacio de la Llave,30,Sochiapa,146,0,0,0,0,76.11016731,154.7759732,0
+Veracruz de Ignacio de la Llave,30,Soledad Atzompa,147,0,0,0,0,123.2865893,379.8352791,0
+Veracruz de Ignacio de la Llave,30,Soledad de Doblado,148,0,0,0,0,1239.279948,2771.857041,0
+Veracruz de Ignacio de la Llave,30,Soteapan,149,0,0,0,0,1232.983979,6372.635929,0
+Veracruz de Ignacio de la Llave,30,Tamalin,150,0,0,0,0,579.1986145,3217.836103,0
+Veracruz de Ignacio de la Llave,30,Tamiahua,151,0,0,0,0,1870.965743,8981.950915,0
+Veracruz de Ignacio de la Llave,30,Tampico Alto,152,0,0,0,0,1733.235463,7319.777981,0
+Veracruz de Ignacio de la Llave,30,Tancoco,153,0,0,0,0,313.2477422,2482.046652,0
+Veracruz de Ignacio de la Llave,30,Tantima,154,0,0,0,0,900.3330761,3331.041782,0
+Veracruz de Ignacio de la Llave,30,Tantoyuca,155,0,0,0,0,3409.987433,14606.70989,0
+Veracruz de Ignacio de la Llave,30,Tatatila,156,0,0,0,0,79.54201146,3565.364916,0
+Veracruz de Ignacio de la Llave,30,Castillo de Teayo,157,0,0,0,0,860.5096562,2953.246127,0
+Veracruz de Ignacio de la Llave,30,Tecolutla,158,0,0,0,0,1459.370187,3273.438775,0
+Veracruz de Ignacio de la Llave,30,Tehuipango,159,0,0,0,0,211.95958,460.1668973,0
+Veracruz de Ignacio de la Llave,30,alamo Temapache,160,0,0,0,0,4046.429584,14201.90366,0
+Veracruz de Ignacio de la Llave,30,Tempoal,161,0,0,0,0,3084.48902,11930.84202,0
+Veracruz de Ignacio de la Llave,30,Tenampa,162,0,0,0,0,195.2563601,438.9127231,0
+Veracruz de Ignacio de la Llave,30,Tenochtitlan,163,0,0,0,0,167.2289651,2344.426016,0
+Veracruz de Ignacio de la Llave,30,Teocelo,164,0,0,0,0,181.9112558,696.5293596,0
+Veracruz de Ignacio de la Llave,30,Tepatlaxco,165,0,0,0,0,171.3196698,992.5857062,0
+Veracruz de Ignacio de la Llave,30,Tepetlan,166,0,0,0,0,206.1299368,1714.863611,0
+Veracruz de Ignacio de la Llave,30,Tepetzintla,167,0,0,0,0,514.3687676,3816.61584,0
+Veracruz de Ignacio de la Llave,30,Tequila,168,0,0,0,0,99.8039224,2837.718274,0
+Veracruz de Ignacio de la Llave,30,Jose Azueta,169,0,0,0,0,1804.684613,4502.379118,0
+Veracruz de Ignacio de la Llave,30,Texcatepec,170,0,0,0,0,336.8672563,4410.279125,0
+Veracruz de Ignacio de la Llave,30,Texhuacan,171,0,0,0,0,77.57946289,765.4345796,0
+Veracruz de Ignacio de la Llave,30,Texistepec,172,0,0,0,0,1246.309221,3128.489848,0
+Veracruz de Ignacio de la Llave,30,Tezonapa,173,0,0,0,0,892.6119014,13011.18182,0
+Veracruz de Ignacio de la Llave,30,Tierra Blanca,174,0,0,0,0,4848.866593,9971.000798,0
+Veracruz de Ignacio de la Llave,30,Tihuatlan,175,0,0,0,0,2367.459753,6267.110041,0
+Veracruz de Ignacio de la Llave,30,Tlacojalpan,176,0,0,0,0,349.6444427,704.5744282,0
+Veracruz de Ignacio de la Llave,30,Tlacolulan,177,0,0,0,0,171.7705301,2586.943919,0
+Veracruz de Ignacio de la Llave,30,Tlacotalpan,178,0,0,0,0,1632.360476,3470.465156,0
+Veracruz de Ignacio de la Llave,30,Tlacotepec de Mejia,179,0,0,0,0,173.766421,488.3537331,0
+Veracruz de Ignacio de la Llave,30,Tlachichilco,180,0,0,0,0,548.7320093,4464.283728,0
+Veracruz de Ignacio de la Llave,30,Tlalixcoyan,181,0,0,0,0,2257.843287,4570.424685,0
+Veracruz de Ignacio de la Llave,30,Tlalnelhuayocan,182,0,0,0,0,94.26191441,518.5040255,0
+Veracruz de Ignacio de la Llave,30,Tlapacoyan,183,0,0,0,0,609.6726077,1209.666543,0
+Veracruz de Ignacio de la Llave,30,Tlaquilpa,184,0,0,0,0,93.99474996,191.7587196,0
+Veracruz de Ignacio de la Llave,30,Tlilapan,185,0,0,0,0,7.057529869,282.3942324,0
+Veracruz de Ignacio de la Llave,30,Tomatlan,186,0,0,0,0,54.57565141,142.4328248,0
+Veracruz de Ignacio de la Llave,30,Tonayan,187,0,0,0,0,91.60207592,1448.343361,0
+Veracruz de Ignacio de la Llave,30,Totutla,188,0,0,0,0,422.1425228,924.2516357,0
+Veracruz de Ignacio de la Llave,30,Tuxpan,189,0,0,0,0,2572.524491,7381.523087,0
+Veracruz de Ignacio de la Llave,30,Tuxtilla,190,0,0,0,0,151.8204191,301.541079,0
+Veracruz de Ignacio de la Llave,30,Ursulo Galvan,191,0,0,0,0,421.0765104,856.7365778,0
+Veracruz de Ignacio de la Llave,30,Vega de Alatorre,192,0,0,0,0,850.4698701,4013.091027,0
+Veracruz de Ignacio de la Llave,30,Veracruz,193,0,0,0,0,492.3404979,1104.114512,0
+Veracruz de Ignacio de la Llave,30,Villa Aldama,194,0,0,0,0,121.0458356,233.6192485,0
+Veracruz de Ignacio de la Llave,30,Xoxocotla,195,0,0,0,0,66.50815155,170.4367078,0
+Veracruz de Ignacio de la Llave,30,Yanga,196,0,0,0,0,317.8916838,785.6425558,0
+Veracruz de Ignacio de la Llave,30,Yecuatla,197,0,0,0,0,216.4871608,3542.217822,0
+Veracruz de Ignacio de la Llave,30,Zacualpan,198,0,0,0,0,364.4533431,4758.81933,0
+Veracruz de Ignacio de la Llave,30,Zaragoza,199,0,0,0,0,62.72121359,146.64521,0
+Veracruz de Ignacio de la Llave,30,Zentla,200,0,0,0,0,626.0215302,1298.912236,0
+Veracruz de Ignacio de la Llave,30,Zongolica,201,0,0,0,0,518.5136282,8297.894614,0
+Veracruz de Ignacio de la Llave,30,Zontecomatlan de Lopez y Fuentes,202,0,0,0,0,354.9842951,7401.109216,0
+Veracruz de Ignacio de la Llave,30,Zozocolco de Hidalgo,203,0,0,0,0,210.6453595,647.6942636,0
+Veracruz de Ignacio de la Llave,30,Agua Dulce,204,0,0,0,0,1014.822899,2989.416958,0
+Veracruz de Ignacio de la Llave,30,El Higo,205,0,0,0,0,1146.843188,2848.766327,0
+Veracruz de Ignacio de la Llave,30,Nanchital de Lazaro Cardenas del Rio,206,0,0,0,0,68.57624211,255.7242556,0
+Veracruz de Ignacio de la Llave,30,Tres Valles,207,0,0,0,0,1858.87561,3727.765358,0
+Veracruz de Ignacio de la Llave,30,Carlos A Carrillo,208,0,0,0,0,764.9013688,1637.397239,0
+Veracruz de Ignacio de la Llave,30,Tatahuicapan de Juarez,209,0,0,0,0,741.9782188,3735.210176,0
+Veracruz de Ignacio de la Llave,30,Uxpanapa,210,0,0,0,0,3071.387949,55597.78461,0
+Veracruz de Ignacio de la Llave,30,San Rafael,211,0,0,0,0,806.868382,1667.183384,0
+Veracruz de Ignacio de la Llave,30,Santiago Sochiapan,212,0,0,0,0,1112.343582,2970.342618,0
+Yucatan,31,Abala,1,0,0,0,0,370.8846703,3710.884918,0
+Yucatan,31,Acanceh,2,0,0,0,0,170.0280284,1704.098661,0
+Yucatan,31,Akil,3,0,0,0,0,208.4768769,886.3604824,0
+Yucatan,31,Baca,4,0,0,0,0,274.4514383,1138.498808,0
+Yucatan,31,Bokoba,5,0,0,0,0,87.6261823,900.8986811,0
+Yucatan,31,Buctzotz,6,0,0,0,0,2628.460939,6136.749635,0
+Yucatan,31,Cacalchen,7,0,0,0,0,133.4852824,1270.70517,0
+Yucatan,31,Calotmul,8,0,0,0,0,411.8892874,3257.104617,0
+Yucatan,31,Cansahcab,9,0,0,0,0,278.5507859,1459.220575,0
+Yucatan,31,Cantamayec,10,0,0,0,0,97.11132067,4860.761745,0
+Yucatan,31,Celestun,11,0,0,0,0,223.6079772,3652.845387,0
+Yucatan,31,Cenotillo,12,0,0,0,0,1004.163682,5599.215604,0
+Yucatan,31,Conkal,13,0,0,0,0,108.909708,554.0297209,0
+Yucatan,31,Cuncunul,14,0,0,0,0,40.63620884,1848.303418,0
+Yucatan,31,Cuzama,15,0,0,0,0,95.24443896,1228.33421,0
+Yucatan,31,Chacsinkin,16,0,0,0,0,141.2400265,1352.553354,0
+Yucatan,31,Chankom,17,0,0,0,0,361.7984854,5645.622826,0
+Yucatan,31,Chapab,18,0,0,0,0,150.4941383,2258.203314,0
+Yucatan,31,Chemax,19,0,0,0,0,1736.186111,57472.95368,0
+Yucatan,31,Chicxulub Pueblo,20,0,0,0,0,63.15798821,481.2143097,0
+Yucatan,31,Chichimila,21,0,0,0,0,150.0536533,8124.472313,0
+Yucatan,31,Chikindzonot,22,0,0,0,0,122.5802961,6217.24045,0
+Yucatan,31,Chochola,23,0,0,0,0,458.1072463,3449.67114,0
+Yucatan,31,Chumayel,24,0,0,0,0,27.22531907,1134.793906,0
+Yucatan,31,Dzan,25,0,0,0,0,164.874416,904.095586,0
+Yucatan,31,Dzemul,26,0,0,0,0,277.8052043,1380.917975,0
+Yucatan,31,Dzidzantun,27,0,0,0,0,556.3688634,1410.592684,0
+Yucatan,31,Dzilam de Bravo,28,0,0,0,0,642.1157378,3797.966908,0
+Yucatan,31,Dzilam Gonzalez,29,0,0,0,0,1737.645772,5098.495278,0
+Yucatan,31,Dzitas,30,0,0,0,0,88.20963584,4196.215195,0
+Yucatan,31,Dzoncauich,31,0,0,0,0,446.8636334,1285.49247,0
+Yucatan,31,Espita,32,0,0,0,0,801.6069184,8735.621313,0
+Yucatan,31,Halacho,33,0,0,0,0,460.662916,5051.719539,0
+Yucatan,31,Hocaba,34,0,0,0,0,138.3062179,1208.645855,0
+Yucatan,31,Hoctun,35,0,0,0,0,84.13935797,1620.986553,0
+Yucatan,31,Homun,36,0,0,0,0,162.2726727,2630.512076,0
+Yucatan,31,Huhi,37,0,0,0,0,82.94990336,2657.32584,0
+Yucatan,31,Hunucma,38,0,0,0,0,531.5269764,7859.438536,0
+Yucatan,31,Ixil,39,0,0,0,0,154.1441865,996.3378975,0
+Yucatan,31,Izamal,40,0,0,0,0,732.7915747,5429.116239,0
+Yucatan,31,Kanasin,41,0,0,0,0,202.2227234,902.5020815,0
+Yucatan,31,Kantunil,42,0,0,0,0,162.5408444,2538.652502,0
+Yucatan,31,Kaua,43,0,0,0,0,38.25886697,1861.339051,0
+Yucatan,31,Kinchil,44,0,0,0,0,531.6664725,4303.446865,0
+Yucatan,31,Kopoma,45,0,0,0,0,261.8010583,1768.257112,0
+Yucatan,31,Mama,46,0,0,0,0,60.30834746,1328.666134,0
+Yucatan,31,Mani,47,0,0,0,0,134.7870954,1677.864216,0
+Yucatan,31,Maxcanu,48,0,0,0,0,688.710911,7469.348329,0
+Yucatan,31,Mayapan,49,0,0,0,0,29.68990012,1267.976465,0
+Yucatan,31,Merida,50,0,0,0,0,657.8828429,7686.415164,0
+Yucatan,31,Mococha,51,0,0,0,0,109.5871806,508.1622022,0
+Yucatan,31,Motul,52,0,0,0,0,672.2645355,3098.028354,0
+Yucatan,31,Muna,53,0,0,0,0,426.7006726,5129.497072,0
+Yucatan,31,Muxupip,54,0,0,0,0,101.0951849,871.2712786,0
+Yucatan,31,Opichen,55,0,0,0,0,284.4258537,3200.8223,0
+Yucatan,31,Oxkutzcab,56,0,0,0,0,852.0805928,8783.890543,0
+Yucatan,31,Panaba,57,0,0,0,0,3366.868982,7301.49368,0
+Yucatan,31,Peto,58,0,0,0,0,750.2114338,13665.92457,0
+Yucatan,31,Progreso,59,0,0,0,0,216.0875727,3023.191175,0
+Yucatan,31,Quintana Roo,60,0,0,0,0,32.23982343,1400.734767,0
+Yucatan,31,Rio Lagartos,61,0,0,0,0,765.23907,2128.9633,0
+Yucatan,31,Sacalum,62,0,0,0,0,223.4499899,2507.304578,0
+Yucatan,31,Samahil,63,0,0,0,0,205.1071413,1989.381883,0
+Yucatan,31,Sanahcat,64,0,0,0,0,23.17492027,355.6398505,0
+Yucatan,31,San Felipe,65,0,0,0,0,1325.560648,3948.217819,0
+Yucatan,31,Santa Elena,66,0,0,0,0,270.4402952,6498.056816,0
+Yucatan,31,Seye,67,0,0,0,0,193.41262,2325.189401,0
+Yucatan,31,Sinanche,68,0,0,0,0,331.3000997,1098.692915,0
+Yucatan,31,Sotuta,69,0,0,0,0,195.8076314,7375.624304,0
+Yucatan,31,Sucila,70,0,0,0,0,1481.369552,3681.967262,0
+Yucatan,31,Sudzal,71,0,0,0,0,258.6440833,2770.883774,0
+Yucatan,31,Suma,72,0,0,0,0,171.103321,1034.172501,0
+Yucatan,31,Tahdziu,73,0,0,0,0,94.79879981,3236.366771,0
+Yucatan,31,Tahmek,74,0,0,0,0,145.6069937,1267.896276,0
+Yucatan,31,Teabo,75,0,0,0,0,63.12984268,3053.934238,0
+Yucatan,31,Tecoh,76,0,0,0,0,453.6675583,4619.153951,0
+Yucatan,31,Tekal de Venegas,77,0,0,0,0,549.7810487,2009.78421,0
+Yucatan,31,Tekanto,78,0,0,0,0,135.2572737,914.0984706,0
+Yucatan,31,Tekax,79,0,0,0,0,1959.779848,35205.7777,0
+Yucatan,31,Tekit,80,0,0,0,0,287.6620836,3537.48068,0
+Yucatan,31,Tekom,81,0,0,0,0,91.44939677,3668.152756,0
+Yucatan,31,Telchac Pueblo,82,0,0,0,0,180.429297,526.7284784,0
+Yucatan,31,Telchac Puerto,83,0,0,0,0,97.55299071,301.163351,0
+Yucatan,31,Temax,84,0,0,0,0,892.4901788,3370.377724,0
+Yucatan,31,Temozon,85,0,0,0,0,791.4693929,8355.922369,0
+Yucatan,31,Tepakan,86,0,0,0,0,205.1262378,1253.876679,0
+Yucatan,31,Tetiz,87,0,0,0,0,300.6274062,3594.252584,0
+Yucatan,31,Teya,88,0,0,0,0,126.8600612,922.9460625,0
+Yucatan,31,Ticul,89,0,0,0,0,419.9103996,4275.821425,0
+Yucatan,31,Timucuy,90,0,0,0,0,156.5750789,1710.009005,0
+Yucatan,31,Tinum,91,0,0,0,0,221.0173735,6225.781375,0
+Yucatan,31,Tixcacalcupul,92,0,0,0,0,131.1967011,6851.3376,0
+Yucatan,31,Tixkokob,93,0,0,0,0,223.2264077,2098.305748,0
+Yucatan,31,Tixmehuac,94,0,0,0,0,63.08058918,3135.26792,0
+Yucatan,31,Tixpehual,95,0,0,0,0,91.38303598,868.0413463,0
+Yucatan,31,Tizimin,96,0,0,0,0,7068.288074,40994.02138,0
+Yucatan,31,Tunkas,97,0,0,0,0,548.0342677,5372.465586,0
+Yucatan,31,Tzucacab,98,0,0,0,0,1128.99745,8832.536022,0
+Yucatan,31,Uayma,99,0,0,0,0,55.20501469,2549.844523,0
+Yucatan,31,Ucu,100,0,0,0,0,87.71512568,1650.143278,0
+Yucatan,31,Uman,101,0,0,0,0,504.1554221,4115.597259,0
+Yucatan,31,Valladolid,102,0,0,0,0,639.0388078,15900.57859,0
+Yucatan,31,Xocchel,103,0,0,0,0,81.62078516,1493.923151,0
+Yucatan,31,Yaxcaba,104,0,0,0,0,475.2382654,19974.3481,0
+Yucatan,31,Yaxkukul,105,0,0,0,0,114.337501,556.8285326,0
+Yucatan,31,Yobain,106,0,0,0,0,214.3820006,927.6837381,0
+Zacatecas,32,Apozol,1,0,0,0,0,138.7141309,361.3080516,0
+Zacatecas,32,Apulco,2,0,0,0,0,129.4030853,213.0033366,0
+Zacatecas,32,Atolinga,3,0,0,0,0,167.4020727,328.3176106,0
+Zacatecas,32,Benito Juarez,4,0,0,0,0,128.9989207,288.2737613,0
+Zacatecas,32,Calera,5,0,0,0,0,373.0149377,594.6348158,0
+Zacatecas,32,Cañitas de Felipe Pescador,6,0,0,0,0,220.8137809,350.1985288,0
+Zacatecas,32,Concepcion del Oro,7,0,0,0,0,213.5014541,219.0798149,0
+Zacatecas,32,Cuauhtemoc,8,0,0,0,0,101.0257832,166.0075192,0
+Zacatecas,32,Chalchihuites,9,0,0,0,0,243.6212493,674.8955227,0
+Zacatecas,32,Fresnillo,10,0,0,0,0,2403.398601,4042.502454,0
+Zacatecas,32,Trinidad Garcia de la Cadena,11,0,0,0,0,101.2661624,372.5877663,0
+Zacatecas,32,Genaro Codina,12,0,0,0,0,141.9190524,327.6416712,0
+Zacatecas,32,General Enrique Estrada,13,0,0,0,0,206.2975063,328.491774,0
+Zacatecas,32,General Francisco R Murguia,14,0,0,0,0,1013.25522,1487.489253,0
+Zacatecas,32,El Plateado de Joaquin Amaro,15,0,0,0,0,97.61244532,405.7989066,0
+Zacatecas,32,General Panfilo Natera,16,0,0,0,0,225.466839,348.4318858,0
+Zacatecas,32,Guadalupe,17,0,0,0,0,453.428283,712.0598972,0
+Zacatecas,32,Huanusco,18,0,0,0,0,161.4705076,668.4876464,0
+Zacatecas,32,Jalpa,19,0,0,0,0,381.9258745,1192.888664,0
+Zacatecas,32,Jerez,20,0,0,0,0,737.2511864,1387.072022,0
+Zacatecas,32,Jimenez del Teul,21,0,0,0,0,159.7354654,1215.328929,0
+Zacatecas,32,Juan Aldama,22,0,0,0,0,276.0515811,436.4391821,0
+Zacatecas,32,Juchipila,23,0,0,0,0,129.4404439,537.2164959,0
+Zacatecas,32,Loreto,24,0,0,0,0,226.4256562,357.5769483,0
+Zacatecas,32,Luis Moya,25,0,0,0,0,141.3658642,222.1847765,0
+Zacatecas,32,Mazapil,26,0,0,0,0,763.5723497,619.1557941,0
+Zacatecas,32,Melchor Ocampo,27,0,0,0,0,99.1270306,56.01441382,0
+Zacatecas,32,Mezquital del Oro,28,0,0,0,0,144.3191626,811.3603979,0
+Zacatecas,32,Miguel Auza,29,0,0,0,0,806.8760356,1285.368126,0
+Zacatecas,32,Momax,30,0,0,0,0,64.97002452,162.8606127,0
+Zacatecas,32,Monte Escobedo,31,0,0,0,0,266.8287863,1083.631265,0
+Zacatecas,32,Morelos,32,0,0,0,0,138.6426576,217.1422255,0
+Zacatecas,32,Moyahua de Estrada,33,0,0,0,0,191.565064,1034.163061,0
+Zacatecas,32,Nochistlan de Mejia,34,0,0,0,0,425.6429342,1003.046142,0
+Zacatecas,32,Noria de angeles,35,0,0,0,0,243.9253287,378.545158,0
+Zacatecas,32,Ojocaliente,36,0,0,0,0,418.8009816,655.6220437,0
+Zacatecas,32,Panuco,37,0,0,0,0,419.9691591,662.5562249,0
+Zacatecas,32,Pinos,38,0,0,0,0,1355.453512,2160.174196,0
+Zacatecas,32,Rio Grande,39,0,0,0,0,957.1310653,1499.694623,0
+Zacatecas,32,Sain Alto,40,0,0,0,0,310.3626337,582.0404343,0
+Zacatecas,32,El Salvador,41,0,0,0,0,40.95082163,35.40218087,0
+Zacatecas,32,Sombrerete,42,0,0,0,0,1563.75838,2777.743553,0
+Zacatecas,32,Susticacan,43,0,0,0,0,28.22614746,164.2981487,0
+Zacatecas,32,Tabasco,44,0,0,0,0,224.3108375,753.3199561,0
+Zacatecas,32,Tepechitlan,45,0,0,0,0,223.5856019,470.3605342,0
+Zacatecas,32,Tepetongo,46,0,0,0,0,349.5791302,1028.662319,0
+Zacatecas,32,Teul de Gonzalez Ortega,47,0,0,0,0,187.8298555,425.2301854,0
+Zacatecas,32,Tlaltenango de Sanchez Roman,48,0,0,0,0,301.348546,852.2045674,0
+Zacatecas,32,Valparaiso,49,0,0,0,0,923.562953,5091.221075,0
+Zacatecas,32,Vetagrande,50,0,0,0,0,91.70001365,141.5108141,0
+Zacatecas,32,Villa de Cos,51,0,0,0,0,1593.24664,2319.579113,0
+Zacatecas,32,Villa Garcia,52,0,0,0,0,127.7836668,205.257016,0
+Zacatecas,32,Villa Gonzalez Ortega,53,0,0,0,0,183.792172,279.3881952,0
+Zacatecas,32,Villa Hidalgo,54,0,0,0,0,216.9665024,338.6573404,0
+Zacatecas,32,Villanueva,55,0,0,0,0,703.5708866,2175.996832,0
+Zacatecas,32,Zacatecas,56,0,0,0,0,183.1916533,280.9075926,0
+Zacatecas,32,Trancoso,57,0,0,0,0,147.7302357,230.1903501,0
+Zacatecas,32,Santa Maria de la Paz,58,0,0,0,0,96.04330301,200.9755561,0
+Notas:,,,,,,,,,,
+Cantidades en toneladas.,,,,,,,,,,
+"* Si se muestran ""blancos"" en la posicion de cifras, representan valores no reportados o nulos.",,,,,,,,,,

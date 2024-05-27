@@ -1,0 +1,11 @@
+Categoría,  PM10,  PM2.5,  SO2,  CO,  NOX,  COV,  NH3
+Agropecuarias,308593.0207,173420.3895,5954.650867,917031.1053,40618.48199,98718.82041,665120.0462
+Almacenamiento y transporte de derivados de petróleo,0,0,0,0,0,431721.9161,0
+Fuentes industriales ligeras y comerciales,43996.09338,11180.41207,10.7359533,18939.27218,515.9578768,7123.045256,0
+Fuentes misceláneas,127270.1177,88149.14295,7825.449032,355015.9539,12887.57264,25552.40507,178269.6893
+Manejo de Residuos,386.3981787,355.0229121,11.35137596,1381.716012,68.10825574,107153.0068,18.13358033
+Quema de combustibles en fuentes estacionarias,123517.8517,118541.7033,3838.170912,1435393.951,76250.50788,318158.6857,498.1459755
+Uso de Solventes,0,0,0,0,0,603112.9491,0
+Notas:,,,,,,,
+Cantidades en toneladas.,,,,,,,
+"* Si se muestran ""blancos"" en la posicion de cifras, representan valores no reportados o nulos.",,,,,,,

@@ -1,0 +1,95 @@
+﻿Año,Fuente,Categoría,PM10,PM2.5,SO2,CO,NOX,COV,NH3
+2005,AREA,Combustión industrial,"13,569.86","9,172.81","225,303.30","15,992.03","64,138.64","1,027.67",
+2005,AREA,Combustión comercial,219.34,219.34,14.47,"1,378.03","6,920.16",134.41,
+2005,AREA,Combustión agrícola,6.19,6.19,0.4,35.5,208.47,3.72,
+2005,AREA,Combustión doméstica,"262,928.16","252,465.24","3,535.19","1,980,652.37","68,260.81","453,868.87",
+2005,AREA,Artes gráficas,,,,,,"42,673.70",
+2005,AREA,Asfaltado,,,,,,"10,744.83",
+2005,AREA,Lavado en seco,,,,,,"18,783.88",
+2005,AREA,Pintado automotriz,,,,,,"19,675.98",
+2005,AREA,Pintura para señalización vial,,,,,,"2,924.85",
+2005,AREA,Recubrimiento de superficies en la industria,,,,,,"59,975.78",
+2005,AREA,Recubrimiento de superficies arquitectónicas,,,,,,"213,899.96",
+2005,AREA,Uso comercial y doméstico de solventes,,,,,,"323,794.18",
+2005,AREA,Limpieza de superficies industriales,,,,,,"166,633.44",
+2005,AREA,Manejo y distribución de gas LP,,,,,,"282,813.76",
+2005,AREA,Manejo y distribución de gasolina y diesel,,,,,,"58,530.57",
+2005,AREA,Actividades de construcción,"23,060.86","4,793.20",,,,,
+2005,AREA,Asados al carbón,"8,255.03","6,588.87",,"16,434.32",302.94,"1,060.28",
+2005,AREA,Panificación,,,,,,"5,737.39",
+2005,AREA,Aplicación de fertilizantes,,,,,,,"170,774.41"
+2005,AREA,Aplicación de plaguicidas,,,,,,"18,415.49",
+2005,AREA,Corrales de engorda,"5,870.66",670.43,,,,,
+2005,AREA,Emisiones ganaderas de amoniaco,,,,,,,"507,551.90"
+2005,AREA,Labranza,"149,558.61","33,157.14",,,,,
+2005,AREA,Aguas residuales,,,,,,"97,056.15",
+2005,AREA,Incendios en construcciones,14.52,13.56,,230.51,5.49,14.3,
+2005,AREA,Incendios forestales,"35,198.98","29,864.03","3,380.12","345,795.03","10,882.05","24,151.75","3,734.57"
+2005,AREA,Emisiones domésticas de amoniaco,,,,,,,"249,427.49"
+2005,AREA,Esterilización de material hospitalario,,,,,,44.47,
+2005,AREA,Cruces fronterizos,2.66,1.74,8.89,"6,014.52",122.89,759.98,5.86
+2005,AREA,Terminales de autobuses,2.73,2.01,12.36,"4,188.51","1,729.53",353.95,1.08
+2005,AREA,Quemas agrícolas,"4,053.70","3,824.47",,"34,950.51","2,918.24","2,197.09",980.14
+2005,AREA,Aeropuertos y equipo en aeropuertos,60.61,59.29,125.1,"11,242.59","1,404.55",401.31,
+2005,AREA,Aviación,148.5,148.5,938.19,"10,545.81","7,771.39","2,148.78",
+2005,AREA,Embarcaciones marítimas comerciales,"1,433.25","1,398.91","13,131.00","1,376.85","14,716.48",164.13,
+2005,AREA,Locomotoras de patio,108.13,97.45,28.48,448.12,"4,255.98",246.98,
+2005,AREA,Locomotoras de arrastre,"1,146.78","1,030.16",414.66,"4,554.74","46,214.71","1,710.46",
+2005,AREA,Maquinaria agrícola,"17,248.40","16,730.95","1,265.30","68,494.20","96,658.20","16,495.56",11.41
+2005,AREA,Equipo de construcción,"1,383.60","1,342.09",165.2,"6,031.80","12,294.50","1,236.43",1.48
+2005,FIJAS,Extracción de petróleo y gas,"1,950.88","1,900.16","746,837.44","21,424.70","81,601.01","13,176.05",724.84
+2005,FIJAS,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas","14,390.47","7,558.13","8,008.67",436.29,"1,634.93",772.96,163.65
+2005,FIJAS,"Generación, transmisión y distribución de energía eléctricaMÉX.","68,035.03","50,568.11","1,403,020.45","48,444.01","357,400.56","8,667.22","21,075.16"
+2005,FIJAS,Industria alimentaria,"105,894.70","100,053.33","64,332.17","552,963.47","49,511.59","40,860.23","15,372.47"
+2005,FIJAS,Industria de las bebidas y del tabaco,694.83,591.37,"10,836.90",502.97,"1,220.86",94.83,34.79
+2005,FIJAS,Fabricación de insumos textiles y acabado de textiles,437.85,389.75,195.28,164,484.87,224.41,11.72
+2005,FIJAS,"Fabricación de productos textiles, excepto prendas de vestir",57.23,50.59,135.85,18.72,97.39,113.45,1.89
+2005,FIJAS,Fabricación de prendas de vestir,30.19,29.09,10.77,187.13,311.23,30.18,8.53
+2005,FIJAS,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",6.36,4.19,10.78,2.26,12.06,180.25,0.24
+2005,FIJAS,Industria de la madera,253.68,226.17,11.96,121,41.59,"1,449.96",3.68
+2005,FIJAS,Industria del papel,"2,087.08","1,757.33","27,090.20","1,250.72","3,447.15","3,608.79",86.92
+2005,FIJAS,Impresión e industrias conexas,6.73,4.93,65.06,0.68,5.76,"2,105.03",0.1
+2005,FIJAS,Fabricación de productos derivados del petróleo y del carbón,"18,045.04","13,057.11","364,295.41","378,005.63","30,244.24","41,881.63",673.78
+2005,FIJAS,Industria química,"5,861.01","4,278.22","47,847.50","7,749.12","19,126.02","100,016.67","1,296.42"
+2005,FIJAS,Industria del plástico y del hule,431.7,208.45,"1,629.49",57.19,275.13,"7,222.07",6.25
+2005,FIJAS,Fabricación de productos a base de minerales no metálicos,"31,813.89","25,195.02","62,352.41","15,631.51","32,239.75","4,438.03","3,058.26"
+2005,FIJAS,Industrias metálicas básicas,"12,927.51","9,521.66","77,744.15","18,953.50","14,879.31","4,660.56",914.41
+2005,FIJAS,Fabricación de productos metálicos,96.49,59.57,14.45,172.99,319.4,"1,505.67",8.89
+2005,FIJAS,Fabricación de maquinaria y equipo,"2,282.21","2,166.96","5,431.56",52.8,359.18,648.68,108.25
+2005,FIJAS,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",109.27,64.29,1.14,92.73,112.47,333.87,2.23
+2005,FIJAS,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",364.27,176.47,143.09,239.59,267.58,"2,753.82",9.04
+2005,FIJAS,Fabricación de equipo de transporte,"4,868.87","2,803.74",61.56,551.84,"1,431.30","10,980.13",44.81
+2005,FIJAS,"Fabricación de muebles, colchones y persianas",0.27,0.17,0,0.24,1.42,0.96,0.02
+2005,FIJAS,Otras industrias manufactureras,49.57,34.62,56.43,56.34,200.48,"1,162.36",4.31
+2005,FIJAS,Servicios de almacenamiento,41.07,41.07,"4,688.72",447.92,"1,842.38","26,701.21",17.32
+2005,FIJAS,Manejo de desechos y servicios de remediación,31.58,29.25,52.07,8.88,61.11,243.31,0.84
+2005,MOVILES,Autobuses de transporte urbano e inter-urbano a diesel,"2,469.56","2,176.23","2,345.01","389,972.82","289,404.02","41,736.04",145.67
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,0.96,0.85,0.95,12.82,32.15,6.63,0.06
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas (microbus),163.48,144.7,123.9,"4,760.93","5,862.33","1,230.85",8.91
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,0.07,0.07,0.08,13.36,7.05,1.77,0
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,"2,385.96","2,104.36","1,945.77","248,072.23","137,718.42","38,197.76",240.78
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,25.48,22.23,25.63,"3,104.07","2,119.20",506.62,1.46
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,0.3,0.26,0.3,65.71,34.05,8.67,0.02
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,44.59,38.95,44.8,"12,883.70","6,459.76","1,548.99",2.69
+2005,MOVILES,Tractocamiones,"1,464.63","1,290.86","1,454.64","291,742.51","201,247.11","32,124.37",96.13
+2005,MOVILES,Autobus escolar a diesel,130.6,100.15,254.31,"335,285.81","21,176.74","18,664.73",45.31
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,0.78,0.57,1.26,"1,428.13",71.42,71.73,0.3
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas (microbus),206.64,148.56,350.88,"1,147,991.71","38,330.79","60,015.73",115.28
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,0.02,0.02,0.03,35.35,2.86,2.19,0.02
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,"1,748.55","1,291.42","3,119.10","5,577,576.50","250,018.88","324,466.02",835.16
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,18.96,13.39,27.68,"45,181.39","1,951.00","2,249.66",19.99
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,0.08,0.06,0.11,308.07,15.26,11.68,0.09
+2005,MOVILES,Vehículos privados y comerciales con peso > 3 toneladas,24.44,17.29,35.32,"699,595.10","6,640.07","25,323.09",25.8
+2005,MOVILES,Tractocamiones,41.69,34.2,65.18,"12,919.52","1,188.28",640.95,13.65
+2005,MOVILES,Pick_up,56.57,49.26,26.08,"2,651.11","1,671.46","1,316.03",3.05
+2005,MOVILES,Vehículos privados y comerciales con peso < 3 toneladas (incluye SUV),114.34,81.81,64.86,"5,791.27","2,444.91","1,586.61",6.54
+2005,MOVILES,Autos particulares (tipo sedan),10.92,9.53,4.58,546.26,405.53,282.12,1.02
+2005,MOVILES,Camioneta de transporte publico de pasajeros,124.64,77.86,344.17,"897,146.51","22,795.89","67,205.38",346.44
+2005,MOVILES,Pick_up,"2,017.86","1,284.24","5,101.87","12,440,923.28","222,857.86","1,002,093.75","4,249.10"
+2005,MOVILES,Vehículos privados y comerciales con peso < 3 toneladas (incluye SUV),"1,091.18",675.48,"3,653.51","4,341,852.00","138,285.40","385,133.45","2,586.75"
+2005,MOVILES,Vehículos privados y comerciales con peso < 3 toneladas (incluye SUV),0.45,0.28,1.13,"1,882.84",30.47,180.59,0.73
+2005,MOVILES,Autos Particulares (tipo sedan),"3,742.28","2,076.38","9,173.66","11,459,874.02","483,734.56","993,394.59","12,304.73"
+2005,MOVILES,Motocicletas,315.95,185.07,290.9,"497,470.27","13,981.35","64,142.42",141.28
+2005,NATURALES,Biogenicas,,,,,"1,752,916.36","14,009,227.81",
+Cantidades en toneladas.,,,,,,,,,
+"* Las cifras que se muestran como "".00"" representan cantidades menores a centecimas.  Si se muestran ""blancos"" en la posicion de cifras, representan valores no reportados o nulos.",,,,,,,,,

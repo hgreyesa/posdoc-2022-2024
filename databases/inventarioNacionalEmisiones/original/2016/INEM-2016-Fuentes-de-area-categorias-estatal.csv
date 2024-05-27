@@ -1,0 +1,1060 @@
+Estado,CVE Estado,Categoría,Subcategoría,  PM10,  PM2.5,  SO2,  CO,  NOX,  COV,  NH3
+Aguascalientes,01,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,765.6068894
+Aguascalientes,01,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,156.7996012,0
+Aguascalientes,01,Agropecuarias,Corrales de engorda,154.2505488,17.61541267,0,0,0,0,0
+Aguascalientes,01,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,41176.68699
+Aguascalientes,01,Agropecuarias,Labranza,944.0890967,209.3045527,0,0,0,0,0
+Aguascalientes,01,Agropecuarias,Quemas agrícolas,2776.367921,2670.332158,88.54269198,17353.25546,795.2136048,1962.452827,346.837824
+Aguascalientes,01,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,996.2744634,0
+Aguascalientes,01,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,4708.064787,0
+Aguascalientes,01,Fuentes industriales ligeras y comerciales,Actividades de construcción,2212.072348,221.2072348,0,0,0,0,0
+Aguascalientes,01,Fuentes industriales ligeras y comerciales,Asados al carbón,104.3142602,83.25321104,0,207.6760574,3.822899091,13.39971797,0
+Aguascalientes,01,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,45.39934297,0
+Aguascalientes,01,Fuentes misceláneas,Caminos pavimentados y no pavimentados,287.1028725,65.59756267,0,0,0,0,0
+Aguascalientes,01,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,1366.323681
+Aguascalientes,01,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.6875,0
+Aguascalientes,01,Fuentes misceláneas,Incendios en construcción,0.037284714,0.034817861,0,0.5920446,0.0140963,0.036720862,0
+Aguascalientes,01,Fuentes misceláneas,Incendios forestales,415.8892159,352.9257838,38.11904056,4128.840781,122.6435461,288.290185,41.42021674
+Aguascalientes,01,Fuentes misceláneas,Ladrilleras,1183.852707,1080.308316,97.84009967,233.6479992,54.03109982,26.28539991,0
+Aguascalientes,01,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1265.356266,0
+Aguascalientes,01,Manejo de Residuos,Quema de residuos a cielo abierto,0,0,0,0,0,0,0
+Aguascalientes,01,Manejo de Residuos,Rellenos sanitarios,0,0,0,2.426379233,0,128.6573346,0
+Aguascalientes,01,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.059005437,1.059003505,0.037593269,8.676011785,15.2361181,0.532191385,0.000209892
+Aguascalientes,01,Quema de combustibles en fuentes estacionarias,Combustión comercial,4.609412078,4.609412078,0.167992714,38.04270159,66.16508018,2.337508532,0.006475237
+Aguascalientes,01,Quema de combustibles en fuentes estacionarias,Combustión doméstica,119.3306918,115.3979142,3.537584684,1348.909371,232.0514017,279.2720705,0.072897599
+Aguascalientes,01,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.123021542,0.09295688,0.005097428,0.881430156,1.991452848,0.04983449,0.031647013
+Aguascalientes,01,Uso de Solventes,Artes gráficas,0,0,0,0,0,646.4947264,0
+Aguascalientes,01,Uso de Solventes,Asfaltado,0,0,0,0,0,41.1395038,0
+Aguascalientes,01,Uso de Solventes,Lavado en seco,0,0,0,0,0,150.6508615,0
+Aguascalientes,01,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,2525.38462,0
+Aguascalientes,01,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,297.1043431,0
+Aguascalientes,01,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,35.85919392,0
+Aguascalientes,01,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,613.9974331,0
+Aguascalientes,01,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,458.4994289,0
+Aguascalientes,01,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,2708.050817,0
+Baja California,02,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,1306.500139
+Baja California,02,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,107.3890381,0
+Baja California,02,Agropecuarias,Corrales de engorda,324.1428,37.01710776,0,0,0,0,0
+Baja California,02,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,3695.044358
+Baja California,02,Agropecuarias,Labranza,2786.565231,617.7815117,0,0,0,0,0
+Baja California,02,Agropecuarias,Quemas agrícolas,2126.080794,2026.5878,104.9630834,18876.9323,690.5658562,1639.564373,377.7502022
+Baja California,02,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,3474.599432,0
+Baja California,02,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,13408.99242,0
+Baja California,02,Fuentes industriales ligeras y comerciales,Actividades de construcción,488.8793385,48.88793385,0,0,0,0,0
+Baja California,02,Fuentes industriales ligeras y comerciales,Asados al carbón,282.5983222,225.541721,0,562.6163221,10.35663645,36.3012479,0
+Baja California,02,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,104.760602,0
+Baja California,02,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1054.762182,246.6442875,0,0,0,0,0
+Baja California,02,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,3808.823205
+Baja California,02,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.67996,0
+Baja California,02,Fuentes misceláneas,Incendios en construcción,4.709805009,4.398192202,0,74.78707387,1.780644616,4.638579225,0
+Baja California,02,Fuentes misceláneas,Incendios forestales,576.739665,489.4185286,52.84295295,5726.110197,170.0336507,399.8190922,57.44410783
+Baja California,02,Fuentes misceláneas,Ladrilleras,247.9023085,226.2198025,20.4880104,48.926592,11.3142744,5.5042416,0
+Baja California,02,Manejo de Residuos,Aguas residuales,0,0,0,0,0,4311.435049,0
+Baja California,02,Manejo de Residuos,Quema de residuos a cielo abierto,2.407266975,2.204549756,0.063349131,5.384676129,0.380094786,0.542015164,0
+Baja California,02,Manejo de Residuos,Rellenos sanitarios,0,0,0,5.526895107,0,293.0603689,0
+Baja California,02,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.803064555,0.803063472,0.028507765,6.578835877,11.55254889,0.403519633,0.000117702
+Baja California,02,Quema de combustibles en fuentes estacionarias,Combustión comercial,13.72689918,13.72689918,0.498633765,113.1829947,197.0870927,6.95272279,0.016833283
+Baja California,02,Quema de combustibles en fuentes estacionarias,Combustión doméstica,191.1279828,185.1662852,5.730691541,2129.405334,500.8667228,428.556352,0.176455536
+Baja California,02,Quema de combustibles en fuentes estacionarias,Combustión industrial,12.83405493,3.282010874,0.687622782,65.01770425,255.1888255,2.647092624,10.05478322
+Baja California,02,Uso de Solventes,Artes gráficas,0,0,0,0,0,1228.768122,0
+Baja California,02,Uso de Solventes,Asfaltado,0,0,0,0,0,147.1260673,0
+Baja California,02,Uso de Solventes,Lavado en seco,0,0,0,0,0,304.0989538,0
+Baja California,02,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,10110.53775,0
+Baja California,02,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,827.5539113,0
+Baja California,02,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,128.2422414,0
+Baja California,02,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1877.928356,0
+Baja California,02,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,826.2948708,0
+Baja California,02,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,8653.030464,0
+Baja California Sur,03,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,270.1498848
+Baja California Sur,03,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,16.75780072,0
+Baja California Sur,03,Agropecuarias,Corrales de engorda,22.586436,2.579370991,0,0,0,0,0
+Baja California Sur,03,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,700.641263
+Baja California Sur,03,Agropecuarias,Labranza,368.5601772,81.70979128,0,0,0,0,0
+Baja California Sur,03,Agropecuarias,Quemas agrícolas,151.7369689,145.293018,6.393619793,1097.204397,47.1887235,107.6245801,21.94159789
+Baja California Sur,03,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,956.2613087,0
+Baja California Sur,03,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,3147.075815,0
+Baja California Sur,03,Fuentes industriales ligeras y comerciales,Actividades de construcción,130.1378809,13.01378809,0,0,0,0,0
+Baja California Sur,03,Fuentes industriales ligeras y comerciales,Asados al carbón,62.90976918,50.20828679,0,125.2451277,2.305511241,8.081092302,0
+Baja California Sur,03,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,35.69072584,0
+Baja California Sur,03,Fuentes misceláneas,Caminos pavimentados y no pavimentados,475.3771523,96.93652303,0,0,0,0,0
+Baja California Sur,03,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,935.337258
+Baja California Sur,03,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.32832,0
+Baja California Sur,03,Fuentes misceláneas,Incendios en construcción,0.202828841,0.189409164,0,3.220722624,0.076683872,0.199761487,0
+Baja California Sur,03,Fuentes misceláneas,Incendios forestales,47.46680764,40.24931117,4.884271344,458.4873874,15.76543528,32.04245855,4.553728075
+Baja California Sur,03,Fuentes misceláneas,Ladrilleras,54.91989604,50.11638701,4.538882304,10.83912192,2.506546944,1.219401216,0
+Baja California Sur,03,Manejo de Residuos,Aguas residuales,0,0,0,0,0,997.9361216,0
+Baja California Sur,03,Manejo de Residuos,Quema de residuos a cielo abierto,2.186988177,2.002820751,0.05755232,4.891947237,0.345313923,0.492417654,0
+Baja California Sur,03,Manejo de Residuos,Rellenos sanitarios,0,0,0,1.781555296,0,94.46592381,0
+Baja California Sur,03,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.061380177,0.061379889,0.00217889,0.503026814,0.883687933,0.030869715,3.13145E-05
+Baja California Sur,03,Quema de combustibles en fuentes estacionarias,Combustión comercial,4.895838626,4.895838626,0.173796917,40.10138767,70.40701651,2.45914362,0
+Baja California Sur,03,Quema de combustibles en fuentes estacionarias,Combustión doméstica,205.5025387,198.106622,5.928647592,2378.517018,166.5921557,515.4408566,0.077073741
+Baja California Sur,03,Quema de combustibles en fuentes estacionarias,Combustión industrial,1.222867419,0.324367432,0.065235841,6.24398578,24.22904474,0.256855813,0.94578946
+Baja California Sur,03,Uso de Solventes,Artes gráficas,0,0,0,0,0,308.2623861,0
+Baja California Sur,03,Uso de Solventes,Asfaltado,0,0,0,0,0,75.69986891,0
+Baja California Sur,03,Uso de Solventes,Lavado en seco,0,0,0,0,0,142.2591689,0
+Baja California Sur,03,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,92.24254538,0
+Baja California Sur,03,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,183.3896277,0
+Baja California Sur,03,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,65.98369032,0
+Baja California Sur,03,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,410.4041258,0
+Baja California Sur,03,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,169.1342245,0
+Baja California Sur,03,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,1762.656545,0
+Campeche,04,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,1701.55302
+Campeche,04,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,96.08389366,0
+Campeche,04,Agropecuarias,Corrales de engorda,98.3540388,11.23203123,0,0,0,0,0
+Campeche,04,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,3760.893883
+Campeche,04,Agropecuarias,Labranza,2238.90513,496.3652674,0,0,0,0,0
+Campeche,04,Agropecuarias,Quemas agrícolas,1402.777299,1337.760933,68.09799688,8322.031589,413.4820229,850.7491367,166.3866709
+Campeche,04,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,662.4935004,0
+Campeche,04,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,2271.951905,0
+Campeche,04,Fuentes industriales ligeras y comerciales,Actividades de construcción,411.3797437,41.13797437,0,0,0,0,0
+Campeche,04,Fuentes industriales ligeras y comerciales,Asados al carbón,73.67528829,58.80024758,0,146.6778691,2.700044962,9.463980122,0
+Campeche,04,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,37.63244926,0
+Campeche,04,Fuentes misceláneas,Caminos pavimentados y no pavimentados,168.7860703,40.83533959,0,0,0,0,0
+Campeche,04,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,1362.222201
+Campeche,04,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.55779,0
+Campeche,04,Fuentes misceláneas,Incendios en construcción,0.011931108,0.011141716,0,0.189454272,0.004510816,0.011750676,0
+Campeche,04,Fuentes misceláneas,Incendios forestales,736.1091827,624.651406,69.06151195,7270.325169,222.1858999,507.6922546,72.83359686
+Campeche,04,Fuentes misceláneas,Ladrilleras,0,0,0,0,0,0,0
+Campeche,04,Manejo de Residuos,Aguas residuales,0,0,0,0,0,102.1227406,0
+Campeche,04,Manejo de Residuos,Quema de residuos a cielo abierto,1.632986587,1.495471927,0.042973331,3.652733154,0.257839987,0.367679822,0
+Campeche,04,Manejo de Residuos,Rellenos sanitarios,0,0,0,2.623683567,0,139.1192811,0
+Campeche,04,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.009859214,0.009857044,0.000349693,0.082768153,0.149167902,0.005245263,0.000235878
+Campeche,04,Quema de combustibles en fuentes estacionarias,Combustión comercial,1.278262296,1.278262296,0.045376914,10.47013511,18.38267996,0.64206172,0
+Campeche,04,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1646.246518,1585.246029,47.14641734,19212.94242,654.8950699,4226.296679,0.047224519
+Campeche,04,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.484654969,0.127055734,0.025891133,2.468361359,9.613704717,0.101202286,0.376420248
+Campeche,04,Uso de Solventes,Artes gráficas,0,0,0,0,0,274.0110099,0
+Campeche,04,Uso de Solventes,Asfaltado,0,0,0,0,0,89.30003187,0
+Campeche,04,Uso de Solventes,Lavado en seco,0,0,0,0,0,119.8813221,0
+Campeche,04,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,196.605079,0
+Campeche,04,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,182.7323172,0
+Campeche,04,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,77.83825432,0
+Campeche,04,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,325.6094977,0
+Campeche,04,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,188.3874406,0
+Campeche,04,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,1777.948137,0
+Chiapas,07,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,11210.91436
+Chiapas,07,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,212.7412482,0
+Chiapas,07,Agropecuarias,Corrales de engorda,551.2674852,62.95474681,0,0,0,0,0
+Chiapas,07,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,25504.58616
+Chiapas,07,Agropecuarias,Labranza,3572.742636,792.0770424,0,0,0,0,0
+Chiapas,07,Agropecuarias,Quemas agrícolas,3185.971601,3032.18071,157.9991971,19305.08939,938.4769281,2050.463698,385.9082952
+Chiapas,07,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,2173.075724,0
+Chiapas,07,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,8652.595648,0
+Chiapas,07,Fuentes industriales ligeras y comerciales,Actividades de construcción,607.2800497,60.72800497,0,0,0,0,0
+Chiapas,07,Fuentes industriales ligeras y comerciales,Asados al carbón,425.170884,339.3288825,0,846.4596574,15.58162214,54.61544689,0
+Chiapas,07,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,175.3098865,0
+Chiapas,07,Fuentes misceláneas,Caminos pavimentados y no pavimentados,522.1950109,124.8781262,0,0,0,0,0
+Chiapas,07,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,9502.150197
+Chiapas,07,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,2.08307,0
+Chiapas,07,Fuentes misceláneas,Incendios en construcción,0.202828841,0.189409164,0,3.220722624,0.076683872,0.199761487,0
+Chiapas,07,Fuentes misceláneas,Incendios forestales,1267.364998,1075.47043,117.9065025,12541.18473,379.2938971,875.7306575,125.6799729
+Chiapas,07,Fuentes misceláneas,Ladrilleras,1307.064922,1192.743909,108.0230348,257.9654563,59.65451177,29.02111384,0
+Chiapas,07,Manejo de Residuos,Aguas residuales,0,0,0,0,0,977.4279286,0
+Chiapas,07,Manejo de Residuos,Quema de residuos a cielo abierto,10.7606414,9.854482124,0.283174774,24.06985576,1.699048642,2.422843363,0
+Chiapas,07,Manejo de Residuos,Rellenos sanitarios,0,0,0,9.556415802,0,506.7233384,0
+Chiapas,07,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.83988173,0.839851687,0.029810755,6.907244169,12.18049849,0.425921865,0.003264252
+Chiapas,07,Quema de combustibles en fuentes estacionarias,Combustión comercial,0.867570275,0.867570275,0.030797796,7.10619254,12.47652125,0.435774148,0
+Chiapas,07,Quema de combustibles en fuentes estacionarias,Combustión doméstica,16605.28306,15988.48021,475.2738879,193934.5619,6023.95544,42713.24443,0.085695152
+Chiapas,07,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.047853988,0.047853988,0.001698764,0.391967847,0.688187824,0.024036705,0
+Chiapas,07,Uso de Solventes,Artes gráficas,0,0,0,0,0,1239.471677,0
+Chiapas,07,Uso de Solventes,Asfaltado,0,0,0,0,0,466.0397473,0
+Chiapas,07,Uso de Solventes,Lavado en seco,0,0,0,0,0,335.6677019,0
+Chiapas,07,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,357.3219293,0
+Chiapas,07,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,837.4135687,0
+Chiapas,07,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,467.7017021,0
+Chiapas,07,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1181.351262,0
+Chiapas,07,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,1202.908455,0
+Chiapas,07,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,6473.780107,0
+Chihuahua,08,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,8961.803227
+Chihuahua,08,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,395.8389541,0
+Chihuahua,08,Agropecuarias,Corrales de engorda,359.3469864,41.03742585,0,0,0,0,0
+Chihuahua,08,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,6040.65735
+Chihuahua,08,Agropecuarias,Labranza,13962.52081,3095.490863,0,0,0,0,0
+Chihuahua,08,Agropecuarias,Quemas agrícolas,12879.13725,12302.29037,409.3990477,83752.14708,3258.191247,7419.945101,1674.959149
+Chihuahua,08,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,3382.815465,0
+Chihuahua,08,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,10036.31637,0
+Chihuahua,08,Fuentes industriales ligeras y comerciales,Actividades de construcción,5792.622649,579.2622649,0,0,0,0,0
+Chihuahua,08,Fuentes industriales ligeras y comerciales,Asados al carbón,299.5151966,239.0430784,0,596.2956078,10.97660445,38.47430981,0
+Chihuahua,08,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,112.4350327,0
+Chihuahua,08,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1571.794425,377.6187546,0,0,0,0,0
+Chihuahua,08,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,4632.393434
+Chihuahua,08,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.64883,0
+Chihuahua,08,Fuentes misceláneas,Incendios en construcción,0.645771238,0.603045353,0,10.25421247,0.244147916,0.636005321,0
+Chihuahua,08,Fuentes misceláneas,Incendios forestales,1683.123609,1428.237507,156.2481624,16662.62144,502.8017096,1163.531067,167.0081835
+Chihuahua,08,Fuentes misceláneas,Ladrilleras,1501.715907,1370.369957,124.110063,296.38224,68.538393,33.343002,0
+Chihuahua,08,Manejo de Residuos,Aguas residuales,0,0,0,0,0,5347.034159,0
+Chihuahua,08,Manejo de Residuos,Quema de residuos a cielo abierto,3.32743336,3.047228445,0.087564036,7.442943042,0.525384215,0.74919789,0
+Chihuahua,08,Manejo de Residuos,Rellenos sanitarios,0,0,0,5.279078265,0,279.9200263,0
+Chihuahua,08,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.649865739,0.649858934,0.023068588,5.329300653,9.368854142,0.32734131,0.000739337
+Chihuahua,08,Quema de combustibles en fuentes estacionarias,Combustión comercial,23.05929889,23.05929889,1.259053892,217.8883838,319.216017,13.82695046,0.653624554
+Chihuahua,08,Quema de combustibles en fuentes estacionarias,Combustión doméstica,2414.44597,2325.973347,69.81644392,28117.40824,1322.619368,6145.607506,0.821085582
+Chihuahua,08,Quema de combustibles en fuentes estacionarias,Combustión industrial,17.89181304,4.531915146,0.959663909,90.45782098,356.0775111,3.672980205,14.06305041
+Chihuahua,08,Uso de Solventes,Artes gráficas,0,0,0,0,0,1093.903328,0
+Chihuahua,08,Uso de Solventes,Asfaltado,0,0,0,0,0,267.2946187,0
+Chihuahua,08,Uso de Solventes,Lavado en seco,0,0,0,0,0,234.9673913,0
+Chihuahua,08,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,12205.22734,0
+Chihuahua,08,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,747.3620311,0
+Chihuahua,08,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,232.7613801,0
+Chihuahua,08,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1811.638633,0
+Chihuahua,08,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,971.8200975,0
+Chihuahua,08,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,8350.256919,0
+Ciudad de México,09,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,247.4542258
+Ciudad de México,09,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,5.399421697,0
+Ciudad de México,09,Agropecuarias,Corrales de engorda,2.5766904,0.29414274,0,0,0,0,0
+Ciudad de México,09,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,360.7178675
+Ciudad de México,09,Agropecuarias,Labranza,158.4263279,35.20585064,0,0,0,0,0
+Ciudad de México,09,Agropecuarias,Quemas agrícolas,9.262519159,7.936779734,0.722758834,86.17852925,2.685623607,2.64437942,0.564898312
+Ciudad de México,09,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1359.979524,0
+Ciudad de México,09,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,34595.65742,0
+Ciudad de México,09,Fuentes industriales ligeras y comerciales,Actividades de construcción,505.3235787,453.1485392,0,0,0,0,0
+Ciudad de México,09,Fuentes industriales ligeras y comerciales,Asados al carbón,140.3710841,60.76516958,10.7359533,883.020923,183.5668786,16.66492308,0
+Ciudad de México,09,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,920.0755939,0
+Ciudad de México,09,Fuentes misceláneas,Caminos pavimentados y no pavimentados,2603.897332,639.449513,0,0,0,0,0
+Ciudad de México,09,Fuentes misceláneas,Emisiones domésticas de amoniaco,34.9150824,18.1041168,0,0,0,0,13299.1009
+Ciudad de México,09,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,16.69404,0
+Ciudad de México,09,Fuentes misceláneas,Incendios en construcción,12.83757132,11.93894133,0,203.7709733,4.851689841,13.20451218,0
+Ciudad de México,09,Fuentes misceláneas,Incendios forestales,45.28167897,38.42628534,4.149317197,449.569498,13.34997707,31.39048662,4.510127388
+Ciudad de México,09,Fuentes misceláneas,Ladrilleras,0,0,0,0,0,0,0
+Ciudad de México,09,Manejo de Residuos,Aguas residuales,0,0,0,0,0,8449.52472,0
+Ciudad de México,09,Manejo de Residuos,Quema de residuos a cielo abierto,35.90700438,34.046784,2.127924,360.4703256,12.767544,95.50974082,3.238700328
+Ciudad de México,09,Manejo de Residuos,Rellenos sanitarios,0,0,0,14.44308655,0,151.3149732,14.89488
+Ciudad de México,09,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.256080001,0.256080001,0.005471692,2.733404885,4.764362614,32.51785843,0.291803741
+Ciudad de México,09,Quema de combustibles en fuentes estacionarias,Combustión comercial,10.64623722,8.684523852,0.411492849,158.1105918,153.2526118,1937.508612,0
+Ciudad de México,09,Quema de combustibles en fuentes estacionarias,Combustión doméstica,104.2927397,101.1826334,275.6801953,2170.369111,931.1484973,1626.428399,1.328649701
+Ciudad de México,09,Quema de combustibles en fuentes estacionarias,Combustión industrial,35.74649498,35.74649498,2.468329266,392.7667635,503.8144902,1301.883218,1.908593791
+Ciudad de México,09,Uso de Solventes,Artes gráficas,0,0,0,0,0,11302.48565,0
+Ciudad de México,09,Uso de Solventes,Asfaltado,0,0,0,0,0,84.25,0
+Ciudad de México,09,Uso de Solventes,Lavado en seco,0,0,0,0,0,432.48,0
+Ciudad de México,09,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,10117.458,0
+Ciudad de México,09,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,2903.688728,0
+Ciudad de México,09,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,358.1994352,0
+Ciudad de México,09,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,3995.784368,0
+Ciudad de México,09,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,1021.656041,0
+Ciudad de México,09,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,31088.9695,0
+Coahuila de Zaragoza,05,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,943.4016725
+Coahuila de Zaragoza,05,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,79.0298515,0
+Coahuila de Zaragoza,05,Agropecuarias,Corrales de engorda,192.5522148,21.98946293,0,0,0,0,0
+Coahuila de Zaragoza,05,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,12211.19717
+Coahuila de Zaragoza,05,Agropecuarias,Labranza,2844.085544,630.5337652,0,0,0,0,0
+Coahuila de Zaragoza,05,Agropecuarias,Quemas agrícolas,4600.198377,4401.236418,148.0630722,27594.99027,1206.851248,2513.015045,551.8221239
+Coahuila de Zaragoza,05,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,2449.023673,0
+Coahuila de Zaragoza,05,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,9449.742283,0
+Coahuila de Zaragoza,05,Fuentes industriales ligeras y comerciales,Actividades de construcción,41.04560073,4.104560073,0,0,0,0,0
+Coahuila de Zaragoza,05,Fuentes industriales ligeras y comerciales,Asados al carbón,239.4801303,191.129092,0,476.7736379,8.776445052,30.76248829,0
+Coahuila de Zaragoza,05,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,159.7760991,0
+Coahuila de Zaragoza,05,Fuentes misceláneas,Caminos pavimentados y no pavimentados,554.2924568,134.1030137,0,0,0,0,0
+Coahuila de Zaragoza,05,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,3584.592832
+Coahuila de Zaragoza,05,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.68858,0
+Coahuila de Zaragoza,05,Fuentes misceláneas,Incendios en construcción,0.645771238,0.603045353,0,10.25421247,0.244147916,0.636005321,0
+Coahuila de Zaragoza,05,Fuentes misceláneas,Incendios forestales,497.0689559,421.8073383,46.18131267,4920.202808,148.5621866,343.567669,49.31165859
+Coahuila de Zaragoza,05,Fuentes misceláneas,Ladrilleras,1396.357426,1274.226541,115.4026586,275.5884384,63.72982638,31.00369932,0
+Coahuila de Zaragoza,05,Manejo de Residuos,Aguas residuales,0,0,0,0,0,3534.374523,0
+Coahuila de Zaragoza,05,Manejo de Residuos,Quema de residuos a cielo abierto,22.55362555,20.65437288,0.593516462,50.44889927,3.561098772,5.078126848,0
+Coahuila de Zaragoza,05,Manejo de Residuos,Rellenos sanitarios,0,0,0,3.453700331,0,183.1304328,0
+Coahuila de Zaragoza,05,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.464921496,1.46491742,0.052002551,12.0028221,21.08088482,0.736369446,0.000442846
+Coahuila de Zaragoza,05,Quema de combustibles en fuentes estacionarias,Combustión comercial,7.75486862,7.75486862,0.359467952,69.06384898,109.1530319,4.32414524,0.124913612
+Coahuila de Zaragoza,05,Quema de combustibles en fuentes estacionarias,Combustión doméstica,280.0456035,270.6904742,8.428321017,3187.271825,492.91184,663.161586,0.392261708
+Coahuila de Zaragoza,05,Quema de combustibles en fuentes estacionarias,Combustión industrial,10.72781455,2.708273292,0.575627661,54.19999241,213.5685448,2.198701896,8.441622378
+Coahuila de Zaragoza,05,Uso de Solventes,Artes gráficas,0,0,0,0,0,1211.642434,0
+Coahuila de Zaragoza,05,Uso de Solventes,Asfaltado,0,0,0,0,0,183.510366,0
+Coahuila de Zaragoza,05,Uso de Solventes,Lavado en seco,0,0,0,0,0,181.4204008,0
+Coahuila de Zaragoza,05,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,9070.432292,0
+Coahuila de Zaragoza,05,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,464.0612084,0
+Coahuila de Zaragoza,05,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,2761.55862,0
+Coahuila de Zaragoza,05,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1499.570041,0
+Coahuila de Zaragoza,05,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,780.0923229,0
+Coahuila de Zaragoza,05,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,7185.335504,0
+Colima,06,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,617.9859563
+Colima,06,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,43.38315749,0
+Colima,06,Agropecuarias,Corrales de engorda,45.6678888,5.215272901,0,0,0,0,0
+Colima,06,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,2615.066755
+Colima,06,Agropecuarias,Labranza,537.2607432,119.1107068,0,0,0,0,0
+Colima,06,Agropecuarias,Quemas agrícolas,530.0975369,497.5850971,41.10191864,2805.773434,150.1109836,254.2936825,56.12600575
+Colima,06,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,679.9064082,0
+Colima,06,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,3459.380699,0
+Colima,06,Fuentes industriales ligeras y comerciales,Actividades de construcción,432.238778,43.2238778,0,0,0,0,0
+Colima,06,Fuentes industriales ligeras y comerciales,Asados al carbón,58.8210974,46.94511784,0,117.1051166,2.155669986,7.555880805,0
+Colima,06,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,29.68062952,0
+Colima,06,Fuentes misceláneas,Caminos pavimentados y no pavimentados,189.4800489,44.58886443,0,0,0,0,0
+Colima,06,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,876.7440346
+Colima,06,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.47758,0
+Colima,06,Fuentes misceláneas,Incendios en construcción,0.226691058,0.211692595,0,3.599631168,0.085705504,0.223262838,0
+Colima,06,Fuentes misceláneas,Incendios forestales,604.047442,512.5980284,55.35096082,5997.156276,178.0857,418.7420514,60.16408785
+Colima,06,Fuentes misceláneas,Ladrilleras,544.9083435,497.2485274,45.03422286,107.5444128,24.86964546,12.09874644,0
+Colima,06,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1263.72139,0
+Colima,06,Manejo de Residuos,Quema de residuos a cielo abierto,10.54503553,9.657032535,0.277500935,23.58757947,1.66500561,2.374297999,0
+Colima,06,Manejo de Residuos,Rellenos sanitarios,0,0,0,2.244111373,0,118.9926883,0
+Colima,06,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.691929691,0.69192887,0.024562634,5.668297217,9.953428938,0.347662068,8.92546E-05
+Colima,06,Quema de combustibles en fuentes estacionarias,Combustión comercial,1.18134104,1.18134104,0.041936315,9.676261544,16.98885615,0.593378889,0
+Colima,06,Quema de combustibles en fuentes estacionarias,Combustión doméstica,484.9985695,467.2520509,13.9315415,5639.39357,278.6076102,1232.597607,0.038678204
+Colima,06,Quema de combustibles en fuentes estacionarias,Combustión industrial,12.0958932,2.938320708,0.651836774,60.62770214,241.6568291,2.433221859,9.639549996
+Colima,06,Uso de Solventes,Artes gráficas,0,0,0,0,0,265.4481658,0
+Colima,06,Uso de Solventes,Asfaltado,0,0,0,0,0,56.80170219,0
+Colima,06,Uso de Solventes,Lavado en seco,0,0,0,0,0,141.4599601,0
+Colima,06,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,240.8394074,0
+Colima,06,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,174.8445913,0
+Colima,06,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,2508.210335,0
+Colima,06,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,358.5997613,0
+Colima,06,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,182.7136848,0
+Colima,06,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,1744.972146,0
+Durango,10,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,4105.921015
+Durango,10,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,291.8935297,0
+Durango,10,Agropecuarias,Corrales de engorda,349.7739,39.94417938,0,0,0,0,0
+Durango,10,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,30849.3144
+Durango,10,Agropecuarias,Labranza,6509.161118,1443.08102,0,0,0,0,0
+Durango,10,Agropecuarias,Quemas agrícolas,9529.99348,9121.975163,292.1786706,60843.75952,2489.017505,5824.563584,1216.655139
+Durango,10,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1174.243306,0
+Durango,10,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,5651.032533,0
+Durango,10,Fuentes industriales ligeras y comerciales,Actividades de construcción,1035.428201,103.5428201,0,0,0,0,0
+Durango,10,Fuentes industriales ligeras y comerciales,Asados al carbón,142.4873017,113.7191155,0,283.6735936,5.221861088,18.30324689,0
+Durango,10,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,59.08386997,0
+Durango,10,Fuentes misceláneas,Caminos pavimentados y no pavimentados,517.3607592,121.5519877,0,0,0,0,0
+Durango,10,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,2642.682195
+Durango,10,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.68044,0
+Durango,10,Fuentes misceláneas,Incendios en construcción,0.386269632,0.36071304,0,6.133582056,0.146037668,0.380428125,0
+Durango,10,Fuentes misceláneas,Incendios forestales,1220.502936,1035.664805,112.8086897,12094.2128,363.0676102,844.5141674,121.250953
+Durango,10,Fuentes misceláneas,Ladrilleras,2994.850581,2732.909229,247.5109256,591.0708672,136.685138,66.49547256,0
+Durango,10,Manejo de Residuos,Aguas residuales,0,0,0,0,0,2667.532672,0
+Durango,10,Manejo de Residuos,Quema de residuos a cielo abierto,4.154245347,3.80441416,0.109322246,9.292390908,0.655933476,0.935361137,0
+Durango,10,Manejo de Residuos,Rellenos sanitarios,0,0,0,2.187225042,0,115.976324,0
+Durango,10,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.228460336,0.228452231,0.008108978,1.878810853,3.313047984,0.115848,0.000880609
+Durango,10,Quema de combustibles en fuentes estacionarias,Combustión comercial,5.018016773,5.018016773,0.178134107,41.10213822,72.16405947,2.520512802,0
+Durango,10,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1008.004431,971.0330168,28.94989471,11729.73542,545.8225022,2566.734661,0.102107444
+Durango,10,Quema de combustibles en fuentes estacionarias,Combustión industrial,4.02133317,1.031314372,0.215383215,20.38458769,79.93725957,0.830595689,3.147388209
+Durango,10,Uso de Solventes,Artes gráficas,0,0,0,0,0,500.9263774,0
+Durango,10,Uso de Solventes,Asfaltado,0,0,0,0,0,281.4174415,0
+Durango,10,Uso de Solventes,Lavado en seco,0,0,0,0,0,73.9268153,0
+Durango,10,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,44169.55542,0
+Durango,10,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,258.9803344,0
+Durango,10,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,245.2971396,0
+Durango,10,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,772.4893679,0
+Durango,10,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,363.1791518,0
+Durango,10,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,3265.675408,0
+Guanajuato,11,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,5577.617773
+Guanajuato,11,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,684.8559479,0
+Guanajuato,11,Agropecuarias,Corrales de engorda,234.6949212,26.80216,0,0,0,0,0
+Guanajuato,11,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,29516.41684
+Guanajuato,11,Agropecuarias,Labranza,8418.29337,1866.33564,0,0,0,0,0
+Guanajuato,11,Agropecuarias,Quemas agrícolas,7375.023235,7080.634941,226.927654,54266.80056,2183.546529,5718.345583,1085.322756
+Guanajuato,11,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,3557.655652,0
+Guanajuato,11,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,18631.22066,0
+Guanajuato,11,Fuentes industriales ligeras y comerciales,Actividades de construcción,3087.119966,308.7119966,0,0,0,0,0
+Guanajuato,11,Fuentes industriales ligeras y comerciales,Asados al carbón,468.8281135,374.1717174,0,933.3754951,17.18156814,60.22344873,0
+Guanajuato,11,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,234.3937565,0
+Guanajuato,11,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1166.890163,278.9661039,0,0,0,0,0
+Guanajuato,11,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,7974.907129
+Guanajuato,11,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,2.7622,0
+Guanajuato,11,Fuentes misceláneas,Incendios en construcción,0.703935391,0.657361216,0,11.17780205,0.266138144,0.693289865,0
+Guanajuato,11,Fuentes misceláneas,Incendios forestales,351.5184534,298.3002291,32.23509555,3489.406919,103.7122575,243.6432156,35.00431043
+Guanajuato,11,Fuentes misceláneas,Ladrilleras,10649.72426,9718.257703,880.1517934,2101.855029,486.0539755,236.4586908,0
+Guanajuato,11,Manejo de Residuos,Aguas residuales,0,0,0,0,0,4199.533467,0
+Guanajuato,11,Manejo de Residuos,Quema de residuos a cielo abierto,0.957927228,0.877259672,0.025208611,2.142731958,0.151251668,0.215684878,0
+Guanajuato,11,Manejo de Residuos,Rellenos sanitarios,0,0,0,9.528394574,0,505.2375293,0
+Guanajuato,11,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.431675435,0.431657672,0.015321565,3.552279306,6.268324547,0.219225099,0.001929922
+Guanajuato,11,Quema de combustibles en fuentes estacionarias,Combustión comercial,15.6201791,15.6201791,0.575679538,129.3385573,224.0374362,7.953824723,0.031429642
+Guanajuato,11,Quema de combustibles en fuentes estacionarias,Combustión doméstica,2860.064825,2755.7646,82.34165965,33230.31891,1770.352858,7249.658058,0.349290533
+Guanajuato,11,Quema de combustibles en fuentes estacionarias,Combustión industrial,6.460079093,2.150436909,0.334010885,34.81961248,124.7653904,1.530675019,4.536465458
+Guanajuato,11,Uso de Solventes,Artes gráficas,0,0,0,0,0,2536.742552,0
+Guanajuato,11,Uso de Solventes,Asfaltado,0,0,0,0,0,240.987391,0
+Guanajuato,11,Uso de Solventes,Lavado en seco,0,0,0,0,0,382.0218131,0
+Guanajuato,11,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,6916.049947,0
+Guanajuato,11,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,1078.64652,0
+Guanajuato,11,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,210.0563397,0
+Guanajuato,11,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,2528.332199,0
+Guanajuato,11,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,1451.182751,0
+Guanajuato,11,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,10587.01393,0
+Guerrero,12,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,3140.760408
+Guerrero,12,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,156.4128587,0
+Guerrero,12,Agropecuarias,Corrales de engorda,238.3733724,27.22223913,0,0,0,0,0
+Guerrero,12,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,9065.371767
+Guerrero,12,Agropecuarias,Labranza,4423.537319,980.6982235,0,0,0,0,0
+Guerrero,12,Agropecuarias,Quemas agrícolas,2759.422295,2652.204977,89.60567996,16473.75047,795.2343974,1815.202082,329.2551024
+Guerrero,12,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1761.284666,0
+Guerrero,12,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,6275.159052,0
+Guerrero,12,Fuentes industriales ligeras y comerciales,Actividades de construcción,387.5762183,38.75762183,0,0,0,0,0
+Guerrero,12,Fuentes industriales ligeras y comerciales,Asados al carbón,286.8809956,228.9597226,0,571.142565,10.51358746,36.85137992,0
+Guerrero,12,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,172.7209219,0
+Guerrero,12,Fuentes misceláneas,Caminos pavimentados y no pavimentados,679.3541761,144.8661922,0,0,0,0,0
+Guerrero,12,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,7192.916864
+Guerrero,12,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,2.5083,0
+Guerrero,12,Fuentes misceláneas,Incendios en construcción,0.978350882,0.913620673,0,15.5352503,0.369886912,0.963555406,0
+Guerrero,12,Fuentes misceláneas,Incendios forestales,1260.215715,1069.426477,115.559026,12509.81793,371.8063081,873.4804888,125.4985147
+Guerrero,12,Fuentes misceláneas,Ladrilleras,350.4003784,319.7529901,28.9590147,69.155856,15.9922917,7.7800338,0
+Guerrero,12,Manejo de Residuos,Aguas residuales,0,0,0,0,0,2829.826466,0
+Guerrero,12,Manejo de Residuos,Quema de residuos a cielo abierto,21.17964727,19.39609803,0.557359139,47.37552679,3.344154832,4.768764791,0
+Guerrero,12,Manejo de Residuos,Rellenos sanitarios,0,0,0,7.614477628,0,403.7532066,0
+Guerrero,12,Quema de combustibles en fuentes estacionarias,Combustión agrícola,7.9551E-05,6.07481E-05,2.40461E-07,0.018079779,0.065087203,0.002578176,0.002043015
+Guerrero,12,Quema de combustibles en fuentes estacionarias,Combustión comercial,2.6009081,2.6009081,0.092329393,21.30381165,37.40363878,1.306416949,0
+Guerrero,12,Quema de combustibles en fuentes estacionarias,Combustión doméstica,9733.216082,9371.82702,278.6118237,113661.2151,3588.951163,25028.05618,0.081941001
+Guerrero,12,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.585824252,0.146468498,0.031468473,2.95376971,11.67308059,0.119499933,0.462479741
+Guerrero,12,Uso de Solventes,Artes gráficas,0,0,0,0,0,637.9318823,0
+Guerrero,12,Uso de Solventes,Asfaltado,0,0,0,0,0,254.5485714,0
+Guerrero,12,Uso de Solventes,Lavado en seco,0,0,0,0,0,248.1543368,0
+Guerrero,12,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,30.40883282,0
+Guerrero,12,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,579.7478553,0
+Guerrero,12,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,221.8769246,0
+Guerrero,12,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,902.9456689,0
+Guerrero,12,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,2660.409778,0
+Guerrero,12,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,5402.434739,0
+Hidalgo,13,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,2048.281615
+Hidalgo,13,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,143.2851723,0
+Hidalgo,13,Agropecuarias,Corrales de engorda,132.6510396,15.14874872,0,0,0,0,0
+Hidalgo,13,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,11460.27776
+Hidalgo,13,Agropecuarias,Labranza,4619.985804,1024.250853,0,0,0,0,0
+Hidalgo,13,Agropecuarias,Quemas agrícolas,2857.448808,2743.224005,88.28835987,18913.79412,853.6096768,2092.54068,378.0393897
+Hidalgo,13,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1933.862068,0
+Hidalgo,13,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,8348.393091,0
+Hidalgo,13,Fuentes industriales ligeras y comerciales,Actividades de construcción,814.4379138,81.44379138,0,0,0,0,0
+Hidalgo,13,Fuentes industriales ligeras y comerciales,Asados al carbón,232.9103145,185.9008932,0,463.6838372,8.547167505,29.91508627,0
+Hidalgo,13,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,134.1454031,0
+Hidalgo,13,Fuentes misceláneas,Caminos pavimentados y no pavimentados,11770.47598,1846.781453,0,0,0,0,0
+Hidalgo,13,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,4615.097299
+Hidalgo,13,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.44222,0
+Hidalgo,13,Fuentes misceláneas,Incendios en construcción,0.258327473,0.241235863,0,4.10198634,0.097666341,0.254420819,0
+Hidalgo,13,Fuentes misceláneas,Incendios forestales,370.7392423,314.6106219,34.08840842,3678.047169,109.6771543,256.8175523,36.89217551
+Hidalgo,13,Fuentes misceláneas,Ladrilleras,37.61712,36.21301573,0.43488,274.62672,2.82672,248.9688,0
+Hidalgo,13,Manejo de Residuos,Aguas residuales,0,0,0,0,0,475.882655,0
+Hidalgo,13,Manejo de Residuos,Quema de residuos a cielo abierto,13.11121146,12.00710944,0.34503188,29.32770984,2.070191283,2.95209277,0
+Hidalgo,13,Manejo de Residuos,Rellenos sanitarios,0,0,0,0,0,1194.90591,0
+Hidalgo,13,Quema de combustibles en fuentes estacionarias,Combustión agrícola,447.1788485,124.597157,22.90361843,2308.421313,8815.861109,96.30665563,339.5596752
+Hidalgo,13,Quema de combustibles en fuentes estacionarias,Combustión comercial,4.169277,4.169277,7.57231E-05,44.28448273,77.75138189,1.915613757,0
+Hidalgo,13,Quema de combustibles en fuentes estacionarias,Combustión doméstica,3560.470008,3428.034555,101.8730255,41600.40323,1224.390914,9168.647134,0
+Hidalgo,13,Quema de combustibles en fuentes estacionarias,Combustión industrial,10.64727592,2.677743475,0.56583906,53.75027301,212.0405828,2.178139115,8.388981526
+Hidalgo,13,Uso de Solventes,Artes gráficas,0,0,0,0,0,1157.384125,0
+Hidalgo,13,Uso de Solventes,Asfaltado,0,0,0,0,0,187.8359392,0
+Hidalgo,13,Uso de Solventes,Lavado en seco,0,0,0,0,0,296.8931752,0
+Hidalgo,13,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,1877.037823,0
+Hidalgo,13,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,664.071678,0
+Hidalgo,13,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,92.53581003,0
+Hidalgo,13,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1156.763611,0
+Hidalgo,13,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,668.6993979,0
+Hidalgo,13,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,4148.703642,0
+Jalisco,14,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,8469.337463
+Jalisco,14,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,1447.834894,0
+Jalisco,14,Agropecuarias,Corrales de engorda,866.0960988,98.90817448,0,0,0,0,0
+Jalisco,14,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,58207.38607
+Jalisco,14,Agropecuarias,Labranza,8799.695861,1950.892572,0,0,0,0,0
+Jalisco,14,Agropecuarias,Quemas agrícolas,17954.01907,17182.519,747.4781331,109938.2134,5144.067043,11976.37079,2197.664509
+Jalisco,14,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,5105.519487,0
+Jalisco,14,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,26451.85595,0
+Jalisco,14,Fuentes industriales ligeras y comerciales,Actividades de construcción,5086.890335,508.6890335,0,0,0,0,0
+Jalisco,14,Fuentes industriales ligeras y comerciales,Asados al carbón,641.3733801,511.8800947,0,1276.890568,23.50499067,82.38780004,0
+Jalisco,14,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,265.7387204,0
+Jalisco,14,Fuentes misceláneas,Caminos pavimentados y no pavimentados,2132.6622,439.9383114,0,0,0,0,0
+Jalisco,14,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,8804.804694
+Jalisco,14,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,3.58895,0
+Jalisco,14,Fuentes misceláneas,Incendios en construcción,2.190849765,2.045897512,0,34.7885407,0.828298588,2.157717822,0
+Jalisco,14,Fuentes misceláneas,Incendios forestales,7123.359851,6044.825346,656.0728143,70643.94604,2110.905289,4932.743261,708.4479157
+Jalisco,14,Fuentes misceláneas,Ladrilleras,6654.270043,6072.261545,549.9454792,1313.302637,303.7012348,147.7465466,0
+Jalisco,14,Manejo de Residuos,Aguas residuales,0,0,0,0,0,9658.050984,0
+Jalisco,14,Manejo de Residuos,Quema de residuos a cielo abierto,25.30298077,23.17220344,0.665867915,56.59877277,3.99520749,5.69716588,0
+Jalisco,14,Manejo de Residuos,Rellenos sanitarios,0,0,0,20.80013877,0,1102.915149,0
+Jalisco,14,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.884751199,1.88473852,0.066904864,15.44958468,27.14770891,0.94840814,0.001377603
+Jalisco,14,Quema de combustibles en fuentes estacionarias,Combustión comercial,21.03696414,21.03696414,0.782324737,174.6524757,301.5320709,10.74778306,0.052731573
+Jalisco,14,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1419.04003,1369.309226,41.24988408,16300.84244,1646.371539,3484.739025,0.402800083
+Jalisco,14,Quema de combustibles en fuentes estacionarias,Combustión industrial,3.787811296,1.683470215,0.185579524,22.19040988,70.03078582,1.065580742,2.215095875
+Jalisco,14,Uso de Solventes,Artes gráficas,0,0,0,0,0,3679.882234,0
+Jalisco,14,Uso de Solventes,Asfaltado,0,0,0,0,0,295.5685662,0
+Jalisco,14,Uso de Solventes,Lavado en seco,0,0,0,0,0,1014.195985,0
+Jalisco,14,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,7624.125789,0
+Jalisco,14,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,1655.107823,0
+Jalisco,14,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,257.6319486,0
+Jalisco,14,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,3717.535163,0
+Jalisco,14,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,2676.744605,0
+Jalisco,14,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,18231.77308,0
+México,15,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,6093.495854
+México,15,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,347.1562422,0
+México,15,Agropecuarias,Corrales de engorda,199.6802496,22.8034845,0,0,0,0,0
+México,15,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,19580.02271
+México,15,Agropecuarias,Labranza,6213.131656,1377.451288,0,0,0,0,0
+México,15,Agropecuarias,Quemas agrícolas,8874.104489,8514.959597,272.7485916,57798.79445,2424.004425,6056.620732,1155.56483
+México,15,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,7223.501989,0
+México,15,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,54622.06883,0
+México,15,Fuentes industriales ligeras y comerciales,Actividades de construcción,2038.700215,203.8700215,0,0,0,0,0
+México,15,Fuentes industriales ligeras y comerciales,Asados al carbón,1368.626058,1092.300456,0,2724.755592,50.15727765,175.8072497,0
+México,15,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,672.2061576,0
+México,15,Fuentes misceláneas,Caminos pavimentados y no pavimentados,3102.978383,750.7205764,0,0,0,0,0
+México,15,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,20749.23544
+México,15,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,5.30804,0
+México,15,Fuentes misceláneas,Incendios en construcción,0.835177582,0.779920086,0,13.26179904,0.31575712,0.822547298,0
+México,15,Fuentes misceláneas,Incendios forestales,648.105782,549.9841835,59.73838511,6426.259049,192.2082549,448.7143413,64.45077209
+México,15,Fuentes misceláneas,Ladrilleras,1080.720099,986.1960897,89.31665363,213.2935012,49.32412215,23.99551888,0
+México,15,Manejo de Residuos,Aguas residuales,0,0,0,0,0,4922.232454,0
+México,15,Manejo de Residuos,Quema de residuos a cielo abierto,43.02070796,39.3979115,1.132123894,96.23053096,6.792743362,9.686452034,0
+México,15,Manejo de Residuos,Rellenos sanitarios,0,0,0,22.30839241,0,1182.889413,0
+México,15,Quema de combustibles en fuentes estacionarias,Combustión agrícola,2.664705027,2.664705027,0.094594114,21.82636673,38.32110189,1.338461675,0
+México,15,Quema de combustibles en fuentes estacionarias,Combustión comercial,56.97170048,56.97170048,2.077695126,470.2900532,817.7539167,28.89805261,0.082004033
+México,15,Quema de combustibles en fuentes estacionarias,Combustión doméstica,6914.099729,6667.235376,200.2011845,79848.37336,6266.652106,17232.52024,1.086514315
+México,15,Quema de combustibles en fuentes estacionarias,Combustión industrial,3.514347622,2.044138554,0.160468217,22.61294014,61.40969532,1.180450153,1.547588493
+México,15,Uso de Solventes,Artes gráficas,0,0,0,0,0,4878.680402,0
+México,15,Uso de Solventes,Asfaltado,0,0,0,0,0,107.448784,0
+México,15,Uso de Solventes,Lavado en seco,0,0,0,0,0,2242.979537,0
+México,15,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,11111.27139,0
+México,15,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,2330.82301,0
+México,15,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,93.65759005,0
+México,15,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,7703.568533,0
+México,15,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,3315.283287,0
+México,15,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,39188.45292,0
+Michoacán de Ocampo,16,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,8106.727473
+Michoacán de Ocampo,16,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,442.6201241,0
+Michoacán de Ocampo,16,Agropecuarias,Corrales de engorda,362.9301624,41.44662455,0,0,0,0,0
+Michoacán de Ocampo,16,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,13739.78212
+Michoacán de Ocampo,16,Agropecuarias,Labranza,7289.066674,1615.986082,0,0,0,0,0
+Michoacán de Ocampo,16,Agropecuarias,Quemas agrícolas,5896.182562,5637.422691,235.6045874,36882.74985,1664.051923,3642.976215,737.5032625
+Michoacán de Ocampo,16,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,2862.083424,0
+Michoacán de Ocampo,16,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,13415.76117,0
+Michoacán de Ocampo,16,Fuentes industriales ligeras y comerciales,Actividades de construcción,373.1351578,37.31351578,0,0,0,0,0
+Michoacán de Ocampo,16,Fuentes industriales ligeras y comerciales,Asados al carbón,370.0007318,295.297584,0,736.6230954,13.55975165,47.52854928,0
+Michoacán de Ocampo,16,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,267.7729068,0
+Michoacán de Ocampo,16,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1166.104916,282.1221572,0,0,0,0,0
+Michoacán de Ocampo,16,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,7022.073656
+Michoacán de Ocampo,16,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.79031,0
+Michoacán de Ocampo,16,Fuentes misceláneas,Incendios en construcción,0.720340665,0.672681075,0,11.43830167,0.272340516,0.709447044,0
+Michoacán de Ocampo,16,Fuentes misceláneas,Incendios forestales,2231.963014,1893.536584,210.3567228,22018.09146,677.9104679,1537.774683,220.3677041
+Michoacán de Ocampo,16,Fuentes misceláneas,Ladrilleras,1954.944495,1783.957399,161.5673665,385.832517,89.22376957,43.40615817,0
+Michoacán de Ocampo,16,Manejo de Residuos,Aguas residuales,0,0,0,0,0,2392.698553,0
+Michoacán de Ocampo,16,Manejo de Residuos,Quema de residuos a cielo abierto,18.54631438,16.98451948,0.488060905,41.4851769,2.928365428,4.1758491,0
+Michoacán de Ocampo,16,Manejo de Residuos,Rellenos sanitarios,0,0,0,12.9286061,0,685.5317496,0
+Michoacán de Ocampo,16,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.368038761,0.368019949,0.013062389,3.032010287,5.356737512,0.187402636,0.002044032
+Michoacán de Ocampo,16,Quema de combustibles en fuentes estacionarias,Combustión comercial,11.3522918,11.3522918,0.402993943,92.98563313,163.2572185,5.702172413,0
+Michoacán de Ocampo,16,Quema de combustibles en fuentes estacionarias,Combustión doméstica,7395.529282,7121.893976,211.8724045,86272.9589,3089.607483,18963.62821,0.106215992
+Michoacán de Ocampo,16,Quema de combustibles en fuentes estacionarias,Combustión industrial,3.098923868,0.942869314,0.162380941,16.33067036,60.50624119,0.698988458,2.269531109
+Michoacán de Ocampo,16,Uso de Solventes,Artes gráficas,0,0,0,0,0,1415.009981,0
+Michoacán de Ocampo,16,Uso de Solventes,Asfaltado,0,0,0,0,0,183.103319,0
+Michoacán de Ocampo,16,Uso de Solventes,Lavado en seco,0,0,0,0,0,329.2740314,0
+Michoacán de Ocampo,16,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,834.2470961,0
+Michoacán de Ocampo,16,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,1081.275762,0
+Michoacán de Ocampo,16,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,159.6017652,0
+Michoacán de Ocampo,16,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1769.426837,0
+Michoacán de Ocampo,16,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,3098.056876,0
+Michoacán de Ocampo,16,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,8394.986142,0
+Morelos,17,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,844.5853328
+Morelos,17,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,96.35824217,0
+Morelos,17,Agropecuarias,Corrales de engorda,30.0137592,3.427571301,0,0,0,0,0
+Morelos,17,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,6512.470656
+Morelos,17,Agropecuarias,Labranza,1155.168395,256.1008333,0,0,0,0,0
+Morelos,17,Agropecuarias,Quemas agrícolas,1417.795211,1337.503168,86.97322895,7619.511954,380.3185858,649.5649268,152.4075899
+Morelos,17,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1343.516948,0
+Morelos,17,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,6907.273638,0
+Morelos,17,Fuentes industriales ligeras y comerciales,Actividades de construcción,177.4984166,17.74984166,0,0,0,0,0
+Morelos,17,Fuentes industriales ligeras y comerciales,Asados al carbón,155.3463922,123.9819556,0,309.274362,5.693119814,19.95506501,0
+Morelos,17,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,89.22681459,0
+Morelos,17,Fuentes misceláneas,Caminos pavimentados y no pavimentados,485.4175209,108.4280713,0,0,0,0,0
+Morelos,17,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,2397.218979
+Morelos,17,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.84498,0
+Morelos,17,Fuentes misceláneas,Incendios en construcción,0.101414421,0.094704582,0,1.610361312,0.038341936,0.099880743,0
+Morelos,17,Fuentes misceláneas,Incendios forestales,183.1235302,155.3986835,16.87262341,1815.927655,54.2843642,126.7974201,18.21128905
+Morelos,17,Fuentes misceláneas,Ladrilleras,54.91989604,50.11638701,4.538882304,10.83912192,2.506546944,1.219401216,0
+Morelos,17,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1504.466436,0
+Morelos,17,Manejo de Residuos,Quema de residuos a cielo abierto,8.13023846,7.4455868,0.213953644,18.18605971,1.283721862,1.830587375,0
+Morelos,17,Manejo de Residuos,Rellenos sanitarios,0,0,0,4.152573948,0,220.1877961,0
+Morelos,17,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.17426469,0.174259926,0.006185551,1.43180195,2.522297766,0.088174872,0.000517554
+Morelos,17,Quema de combustibles en fuentes estacionarias,Combustión comercial,7.352366196,7.352366196,0.261000959,60.22259098,105.73432,3.693039294,0
+Morelos,17,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1081.374652,1042.395838,31.17146256,12518.18727,842.4303147,2715.369846,0.049029516
+Morelos,17,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.929349699,0.345720681,0.047167779,5.161815378,17.6799918,0.234665042,0.614346334
+Morelos,17,Uso de Solventes,Artes gráficas,0,0,0,0,0,655.0575705,0
+Morelos,17,Uso de Solventes,Asfaltado,0,0,0,0,0,45.02984593,0
+Morelos,17,Uso de Solventes,Lavado en seco,0,0,0,0,0,319.2839212,0
+Morelos,17,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,3840.149334,0
+Morelos,17,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,379.2681548,0
+Morelos,17,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,39.25020548,0
+Morelos,17,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,913.2765591,0
+Morelos,17,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,409.6181839,0
+Morelos,17,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,4418.523996,0
+Nayarit,18,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,1888.509434
+Nayarit,18,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,171.8302025,0
+Nayarit,18,Agropecuarias,Corrales de engorda,90.6118932,10.3478782,0,0,0,0,0
+Nayarit,18,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,4660.360491
+Nayarit,18,Agropecuarias,Labranza,2400.254954,532.1365233,0,0,0,0,0
+Nayarit,18,Agropecuarias,Quemas agrícolas,2253.288477,2131.312268,136.3918362,12494.82019,647.6909127,1160.374184,249.8916905
+Nayarit,18,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,911.9095745,0
+Nayarit,18,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,4221.804362,0
+Nayarit,18,Fuentes industriales ligeras y comerciales,Actividades de construcción,95.28128437,9.528128437,0,0,0,0,0
+Nayarit,18,Fuentes industriales ligeras y comerciales,Asados al carbón,99.63386188,79.51778517,0,198.3579962,3.651372299,12.79849608,0
+Nayarit,18,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,46.32397317,0
+Nayarit,18,Fuentes misceláneas,Caminos pavimentados y no pavimentados,324.721972,68.94740969,0,0,0,0,0
+Nayarit,18,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,1728.106646
+Nayarit,18,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.6403,0
+Nayarit,18,Fuentes misceláneas,Incendios en construcción,0.090974701,0.084955581,0,1.444588824,0.034394972,0.089598902,0
+Nayarit,18,Fuentes misceláneas,Incendios forestales,500.9490093,425.1078288,45.93881666,4972.735167,147.8031171,347.2145933,49.88484967
+Nayarit,18,Fuentes misceláneas,Ladrilleras,58.35238955,53.2486612,4.822562448,11.51656704,2.663206128,1.295613792,0
+Nayarit,18,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1908.851197,0
+Nayarit,18,Manejo de Residuos,Quema de residuos a cielo abierto,2.27017592,2.079003211,0.059741472,5.078025084,0.358448829,0.511148031,0
+Nayarit,18,Manejo de Residuos,Rellenos sanitarios,0,0,0,5.253365193,0,278.5566057,0
+Nayarit,18,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.458412888,0.458407172,0.016272371,3.760117995,6.611870095,0.231029,0.000621053
+Nayarit,18,Quema de combustibles en fuentes estacionarias,Combustión comercial,5.632271898,5.632271898,0.199939493,46.13344844,80.99765756,2.829048619,0
+Nayarit,18,Quema de combustibles en fuentes estacionarias,Combustión doméstica,904.0771464,870.9081034,25.95273173,10520.33792,485.2448096,2302.550416,0.046156983
+Nayarit,18,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.105151144,0.105151144,0.003732751,0.861283862,1.512177772,0.052816644,0
+Nayarit,18,Uso de Solventes,Artes gráficas,0,0,0,0,0,378.9058496,0
+Nayarit,18,Uso de Solventes,Asfaltado,0,0,0,0,0,112.2385153,0
+Nayarit,18,Uso de Solventes,Lavado en seco,0,0,0,0,0,204.9970608,0
+Nayarit,18,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,202.5199236,0
+Nayarit,18,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,295.7897221,0
+Nayarit,18,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,94.30214,0
+Nayarit,18,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,560.7651458,0
+Nayarit,18,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,322.6116283,0
+Nayarit,18,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,2215.378123,0
+Nuevo León,19,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,445.9496495
+Nuevo León,19,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,26.05406785,0
+Nuevo León,19,Agropecuarias,Corrales de engorda,202.7300916,23.15177646,0,0,0,0,0
+Nuevo León,19,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,12176.77462
+Nuevo León,19,Agropecuarias,Labranza,1702.240951,377.3868188,0,0,0,0,0
+Nuevo León,19,Agropecuarias,Quemas agrícolas,631.19779,603.8087009,24.38988075,4076.101138,181.0015657,372.2121721,81.52264207
+Nuevo León,19,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,5112.060023,0
+Nuevo León,19,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,8058.369607,0
+Nuevo León,19,Fuentes industriales ligeras y comerciales,Actividades de construcción,3432.938928,343.2938928,0,0,0,0,0
+Nuevo León,19,Fuentes industriales ligeras y comerciales,Asados al carbón,412.3645439,329.1081425,0,820.963908,15.1122966,52.97040482,0
+Nuevo León,19,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,110.7706983,0
+Nuevo León,19,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1088.041457,263.2021052,0,0,0,0,0
+Nuevo León,19,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,5613.942821
+Nuevo León,19,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.12886,0
+Nuevo León,19,Fuentes misceláneas,Incendios en construcción,5.443568171,5.083407706,0,86.4385116,2.0580598,5.361245779,0
+Nuevo León,19,Fuentes misceláneas,Incendios forestales,141.8562177,120.3771015,13.22369859,1403.116525,42.53843284,97.97829365,14.05910951
+Nuevo León,19,Fuentes misceláneas,Ladrilleras,20.59496102,18.79364513,1.702080864,4.06467072,0.939955104,0.457275456,0
+Nuevo León,19,Manejo de Residuos,Aguas residuales,0,0,0,0,0,8950.681815,0
+Nuevo León,19,Manejo de Residuos,Quema de residuos a cielo abierto,2.017046267,1.847189739,0.053080165,4.511814019,0.31848099,0.454153891,0
+Nuevo León,19,Manejo de Residuos,Rellenos sanitarios,0,0,0,9.888400549,0,524.3266348,0
+Nuevo León,19,Quema de combustibles en fuentes estacionarias,Combustión agrícola,2.47281369,2.472810354,0.087781723,20.25769362,35.57285892,1.242526404,0.000362473
+Nuevo León,19,Quema de combustibles en fuentes estacionarias,Combustión comercial,25.01834937,25.01834937,1.459322118,242.544894,343.7091542,15.47707145,0.847607548
+Nuevo León,19,Quema de combustibles en fuentes estacionarias,Combustión doméstica,419.129927,405.7096587,14.1886942,4812.244981,915.5791478,967.6100932,2.75978935
+Nuevo León,19,Quema de combustibles en fuentes estacionarias,Combustión industrial,18.53162028,4.914865971,0.988615643,94.61999684,367.1776244,3.892185136,14.33342559
+Nuevo León,19,Uso de Solventes,Artes gráficas,0,0,0,0,0,2457.536245,0
+Nuevo León,19,Uso de Solventes,Asfaltado,0,0,0,0,0,150.823225,0
+Nuevo León,19,Uso de Solventes,Lavado en seco,0,0,0,0,0,329.6736358,0
+Nuevo León,19,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,11397.2886,0
+Nuevo León,19,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,758.5363095,0
+Nuevo León,19,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,131.8307564,0
+Nuevo León,19,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,2587.583499,0
+Nuevo León,19,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,1386.516151,0
+Nuevo León,19,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,13033.68183,0
+Oaxaca,20,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,4337.079267
+Oaxaca,20,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,87.0087261,0
+Oaxaca,20,Agropecuarias,Corrales de engorda,308.6730072,35.25045742,0,0,0,0,0
+Oaxaca,20,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,10495.53905
+Oaxaca,20,Agropecuarias,Labranza,4749.817832,1053.034613,0,0,0,0,0
+Oaxaca,20,Agropecuarias,Quemas agrícolas,2505.058713,2366.053749,161.1024932,14222.70154,702.515365,1391.493861,284.4000447
+Oaxaca,20,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1772.048377,0
+Oaxaca,20,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,6205.068101,0
+Oaxaca,20,Fuentes industriales ligeras y comerciales,Actividades de construcción,60.64661588,6.064661588,0,0,0,0,0
+Oaxaca,20,Fuentes industriales ligeras y comerciales,Asados al carbón,322.7866991,257.6160646,0,642.6261276,11.82945627,41.46365729,0
+Oaxaca,20,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,320.1994393,0
+Oaxaca,20,Fuentes misceláneas,Caminos pavimentados y no pavimentados,279.3007251,67.3575455,0,0,0,0,0
+Oaxaca,20,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,9859.80287
+Oaxaca,20,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,2.96272,0
+Oaxaca,20,Fuentes misceláneas,Incendios en construcción,0.114836918,0.107239012,0,1.823497368,0.043416604,0.113100253,0
+Oaxaca,20,Fuentes misceláneas,Incendios forestales,2558.97987,2171.49825,238.573065,25310.22423,767.5183216,1767.395569,253.6108113
+Oaxaca,20,Fuentes misceláneas,Ladrilleras,1061.212575,968.3947699,87.70444452,209.4434496,48.43379772,23.56238808,0
+Oaxaca,20,Manejo de Residuos,Aguas residuales,0,0,0,0,0,814.5486208,0
+Oaxaca,20,Manejo de Residuos,Quema de residuos a cielo abierto,36.25665824,33.20346596,0.954122585,81.10041974,5.724735511,8.163472839,0
+Oaxaca,20,Manejo de Residuos,Rellenos sanitarios,0,0,0,5.591265561,0,296.4735744,0
+Oaxaca,20,Quema de combustibles en fuentes estacionarias,Combustión agrícola,8.82251E-05,6.73719E-05,2.6668E-07,0.020051152,0.072184148,0.002859294,0.00226578
+Oaxaca,20,Quema de combustibles en fuentes estacionarias,Combustión comercial,1.630362882,1.630362882,0.057876099,13.35416033,23.44623569,0.818919247,0
+Oaxaca,20,Quema de combustibles en fuentes estacionarias,Combustión doméstica,13909.41574,13392.68863,398.1003091,162454.8441,5021.630551,35782.19064,0.043904278
+Oaxaca,20,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.453428725,0.138411215,0.023748287,2.391372252,8.849815284,0.102454602,0.331597379
+Oaxaca,20,Uso de Solventes,Artes gráficas,0,0,0,0,0,971.8828006,0
+Oaxaca,20,Uso de Solventes,Asfaltado,0,0,0,0,0,569.0028889,0
+Oaxaca,20,Uso de Solventes,Lavado en seco,0,0,0,0,0,380.0237911,0
+Oaxaca,20,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,336.4566801,0
+Oaxaca,20,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,644.8215941,0
+Oaxaca,20,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,496.3760979,0
+Oaxaca,20,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,902.9494167,0
+Oaxaca,20,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,1406.031513,0
+Oaxaca,20,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,5064.181823,0
+Puebla,21,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,5068.420483
+Puebla,21,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,280.3932344,0
+Puebla,21,Agropecuarias,Corrales de engorda,169.8932868,19.40181335,0,0,0,0,0
+Puebla,21,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,30999.0035
+Puebla,21,Agropecuarias,Labranza,6102.858794,1353.003795,0,0,0,0,0
+Puebla,21,Agropecuarias,Quemas agrícolas,3888.543052,3719.4823,149.7817762,25523.63237,1134.460014,2750.120284,510.2851615
+Puebla,21,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,2763.539162,0
+Puebla,21,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,15422.75925,0
+Puebla,21,Fuentes industriales ligeras y comerciales,Actividades de construcción,378.9852246,37.89852246,0,0,0,0,0
+Puebla,21,Fuentes industriales ligeras y comerciales,Asados al carbón,500.0550099,399.0939034,0,995.5441642,18.32596847,64.23470859,0
+Puebla,21,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,379.3757723,0
+Puebla,21,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1117.194102,270.2888956,0,0,0,0,0
+Puebla,21,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,9637.391112
+Puebla,21,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,3.83001,0
+Puebla,21,Fuentes misceláneas,Incendios en construcción,0.268449937,0.250688599,0,4.26272112,0.10149336,0.264390203,0
+Puebla,21,Fuentes misceláneas,Incendios forestales,1222.251052,1037.204432,112.4447451,12124.36399,361.7718866,846.579743,121.6026567
+Puebla,21,Fuentes misceláneas,Ladrilleras,13290.18578,12127.77412,1098.374058,2622.982824,606.5647781,295.0855677,0
+Puebla,21,Manejo de Residuos,Aguas residuales,0,0,0,0,0,2731.794718,0
+Puebla,21,Manejo de Residuos,Quema de residuos a cielo abierto,7.056567965,6.462330663,0.185699157,15.78442834,1.114194942,1.588841987,0
+Puebla,21,Manejo de Residuos,Rellenos sanitarios,0,0,0,12.30447332,0,652.4374752,0
+Puebla,21,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.195685586,0.195655564,0.006942499,1.630671019,2.916250387,0.102344178,0.003262064
+Puebla,21,Quema de combustibles en fuentes estacionarias,Combustión comercial,8.81282487,8.81282487,0.3937563,77.5142345,124.4594866,4.838897061,0.120064274
+Puebla,21,Quema de combustibles en fuentes estacionarias,Combustión doméstica,9602.765584,9248.587099,275.494438,111927.4401,4429.595566,24561.62761,0.359076803
+Puebla,21,Quema de combustibles en fuentes estacionarias,Combustión industrial,1.170328929,0.60444894,0.055291138,7.210175791,21.01428599,0.362766868,0.595663147
+Puebla,21,Uso de Solventes,Artes gráficas,0,0,0,0,0,2241.324432,0
+Puebla,21,Uso de Solventes,Asfaltado,0,0,0,0,0,238.1538258,0
+Puebla,21,Uso de Solventes,Lavado en seco,0,0,0,0,0,707.2998005,0
+Puebla,21,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,3637.629411,0
+Puebla,21,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,1151.607985,0
+Puebla,21,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,209.2727652,0
+Puebla,21,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,2258.494143,0
+Puebla,21,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,2268.98194,0
+Puebla,21,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,11544.86361,0
+Querétaro,22,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,947.0939962
+Querétaro,22,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,118.861072,0
+Querétaro,22,Agropecuarias,Corrales de engorda,137.807292,15.73759275,0,0,0,0,0
+Querétaro,22,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,30460.08486
+Querétaro,22,Agropecuarias,Labranza,1246.947292,276.4482147,0,0,0,0,0
+Querétaro,22,Agropecuarias,Quemas agrícolas,2020.557173,1943.224225,62.14272659,13157.96102,580.5128566,1479.424118,263.0228511
+Querétaro,22,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1933.553801,0
+Querétaro,22,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,6389.243808,0
+Querétaro,22,Fuentes industriales ligeras y comerciales,Actividades de construcción,914.2951861,91.42951861,0,0,0,0,0
+Querétaro,22,Fuentes industriales ligeras y comerciales,Asados al carbón,162.6206922,129.7875744,0,323.7565425,5.959707667,20.88948728,0
+Querétaro,22,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,70.17943241,0
+Querétaro,22,Fuentes misceláneas,Caminos pavimentados y no pavimentados,215.5768535,46.74888516,0,0,0,0,0
+Querétaro,22,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,2556.301098
+Querétaro,22,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.95331,0
+Querétaro,22,Fuentes misceláneas,Incendios en construcción,0.341527976,0.318931607,0,5.423128536,0.129122108,0.336363091,0
+Querétaro,22,Fuentes misceláneas,Incendios forestales,144.6373205,122.730063,14.02866641,1417.834715,45.10981816,99.02527325,14.16472285
+Querétaro,22,Fuentes misceláneas,Ladrilleras,2948.368898,2690.493016,243.6694237,581.8971312,134.5637116,65.46342726,0
+Querétaro,22,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1439.018154,0
+Querétaro,22,Manejo de Residuos,Quema de residuos a cielo abierto,1.437994595,1.316900313,0.037841963,3.216566857,0.227051778,0.323775836,0
+Querétaro,22,Manejo de Residuos,Rellenos sanitarios,0,0,0,3.818248662,0,202.4603941,0
+Querétaro,22,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.138874058,0.138869415,0.004929239,1.141808457,2.012934775,0.07038212,0.000504436
+Querétaro,22,Quema de combustibles en fuentes estacionarias,Combustión comercial,9.368317587,9.368317587,0.448190116,84.35068163,131.4707932,5.294804304,0.171577428
+Querétaro,22,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1349.917417,1300.465353,38.88200598,15709.16489,749.3381721,3434.509864,0.246484774
+Querétaro,22,Quema de combustibles en fuentes estacionarias,Combustión industrial,1.300156687,0.447954194,0.066854917,7.071438692,24.99824376,0.31409263,0.897055256
+Querétaro,22,Uso de Solventes,Artes gráficas,0,0,0,0,0,971.8828006,0
+Querétaro,22,Uso de Solventes,Asfaltado,0,0,0,0,0,51.56858605,0
+Querétaro,22,Uso de Solventes,Lavado en seco,0,0,0,0,0,260.142469,0
+Querétaro,22,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,3769.788085,0
+Querétaro,22,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,322.7394523,0
+Querétaro,22,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,43.51392785,0
+Querétaro,22,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,912.8080805,0
+Querétaro,22,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,571.8687616,0
+Querétaro,22,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,3805.229971,0
+Quintana Roo,23,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,489.0348236
+Quintana Roo,23,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,8.541681538,0
+Quintana Roo,23,Agropecuarias,Corrales de engorda,18.1447476,2.072130176,0,0,0,0,0
+Quintana Roo,23,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,874.9581306
+Quintana Roo,23,Agropecuarias,Labranza,547.9454465,121.4795055,0,0,0,0,0
+Quintana Roo,23,Agropecuarias,Quemas agrícolas,523.2391655,487.7553749,46.0112338,2726.704202,139.8106261,231.9089609,54.54567018
+Quintana Roo,23,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1585.346123,0
+Quintana Roo,23,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,6331.153248,0
+Quintana Roo,23,Fuentes industriales ligeras y comerciales,Actividades de construcción,827.4384911,82.74384911,0,0,0,0,0
+Quintana Roo,23,Fuentes industriales ligeras y comerciales,Asados al carbón,129.5000099,103.3539579,0,257.8175933,4.745904054,16.63496063,0
+Quintana Roo,23,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,39.38924665,0
+Quintana Roo,23,Fuentes misceláneas,Caminos pavimentados y no pavimentados,235.7216662,56.84667872,0,0,0,0,0
+Quintana Roo,23,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,1848.013683
+Quintana Roo,23,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.43355,0
+Quintana Roo,23,Fuentes misceláneas,Incendios en construcción,0.426537122,0.39831633,0,6.772990224,0.161261672,0.420086656,0
+Quintana Roo,23,Fuentes misceláneas,Incendios forestales,304.8316063,258.3702022,26.91795096,3047.002444,87.55326037,212.8567937,30.57796019
+Quintana Roo,23,Fuentes misceláneas,Ladrilleras,2.288329002,2.088182792,0.189120096,0.45163008,0.104439456,0.050808384,0
+Quintana Roo,23,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1349.077143,0
+Quintana Roo,23,Manejo de Residuos,Quema de residuos a cielo abierto,0.87481504,0.801146405,0.023021448,1.956823117,0.138128691,0.196971513,0
+Quintana Roo,23,Manejo de Residuos,Rellenos sanitarios,0,0,0,8.467296965,0,448.9734514,0
+Quintana Roo,23,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.017312479,0.017311412,0.000614427,0.142794856,0.252602325,0.00884009,0.000116034
+Quintana Roo,23,Quema de combustibles en fuentes estacionarias,Combustión comercial,16.40768945,16.40768945,0.582455031,134.3939548,235.958852,8.241461353,0
+Quintana Roo,23,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1470.780881,1416.603295,42.18058672,17136.572,713.6563246,3758.092054,0.253329561
+Quintana Roo,23,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.022564168,0.022564168,0.000801003,0.184821134,0.324495121,0.011333815,0
+Quintana Roo,23,Uso de Solventes,Artes gráficas,0,0,0,0,0,511.6299325,0
+Quintana Roo,23,Uso de Solventes,Asfaltado,0,0,0,0,0,114.5945441,0
+Quintana Roo,23,Uso de Solventes,Lavado en seco,0,0,0,0,0,389.2146925,0
+Quintana Roo,23,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,71.70388264,0
+Quintana Roo,23,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,255.693782,0
+Quintana Roo,23,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,101.9686722,0
+Quintana Roo,23,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,740.9232793,0
+Quintana Roo,23,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,256.309043,0
+Quintana Roo,23,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,3642.586439,0
+San Luis Potosí,24,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,1880.192994
+San Luis Potosí,24,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,73.44055548,0
+San Luis Potosí,24,Agropecuarias,Corrales de engorda,389.6103252,44.49349914,0,0,0,0,0
+San Luis Potosí,24,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,14948.55842
+San Luis Potosí,24,Agropecuarias,Labranza,4558.403266,1010.598004,0,0,0,0,0
+San Luis Potosí,24,Agropecuarias,Quemas agrícolas,2357.512579,2211.993135,171.5448562,13068.26468,626.4226696,1134.187183,261.4070486
+San Luis Potosí,24,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1800.758556,0
+San Luis Potosí,24,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,7183.820159,0
+San Luis Potosí,24,Fuentes industriales ligeras y comerciales,Actividades de construcción,1510.597462,151.0597462,0,0,0,0,0
+San Luis Potosí,24,Fuentes industriales ligeras y comerciales,Asados al carbón,222.10068,177.2585527,0,442.1734238,8.139524607,28.53000605,0
+San Luis Potosí,24,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,116.6883316,0
+San Luis Potosí,24,Fuentes misceláneas,Caminos pavimentados y no pavimentados,447.5042112,108.1640656,0,0,0,0,0
+San Luis Potosí,24,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,4900.647241
+San Luis Potosí,24,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.18791,0
+San Luis Potosí,24,Fuentes misceláneas,Incendios en construcción,0.390743797,0.364891183,0,6.204627408,0.147729224,0.384834629,0
+San Luis Potosí,24,Fuentes misceláneas,Incendios forestales,332.0699633,281.7924116,30.7650403,3288.988763,98.97423406,229.6601093,32.97089587
+San Luis Potosí,24,Fuentes misceláneas,Ladrilleras,5097.491219,4651.644689,421.2847139,1006.053048,232.6497674,113.1809679,0
+San Luis Potosí,24,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1629.796817,0
+San Luis Potosí,24,Manejo de Residuos,Quema de residuos a cielo abierto,6.819480795,6.245208728,0.179460021,15.25410178,1.076760126,1.535459939,0
+San Luis Potosí,24,Manejo de Residuos,Rellenos sanitarios,0,0,0,3.081760174,0,163.4085243,0
+San Luis Potosí,24,Quema de combustibles en fuentes estacionarias,Combustión agrícola,2.238952131,2.238936821,0.079478248,18.35325283,32.2504189,1.126675893,0.001663535
+San Luis Potosí,24,Quema de combustibles en fuentes estacionarias,Combustión comercial,8.351184556,8.351184556,0.326489598,70.3818519,119.2529112,4.347764778,0.044564363
+San Luis Potosí,24,Quema de combustibles en fuentes estacionarias,Combustión doméstica,4112.802246,3960.674212,117.9460551,47981.2717,1733.172175,10544.06885,0.244674339
+San Luis Potosí,24,Quema de combustibles en fuentes estacionarias,Combustión industrial,7.563375393,1.948919859,0.404871804,38.37826672,150.2789339,1.565858599,5.909953194
+San Luis Potosí,24,Uso de Solventes,Artes gráficas,0,0,0,0,0,1006.134177,0
+San Luis Potosí,24,Uso de Solventes,Asfaltado,0,0,0,0,0,261.8952624,0
+San Luis Potosí,24,Uso de Solventes,Lavado en seco,0,0,0,0,0,286.1167554,0
+San Luis Potosí,24,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,3154.680537,0
+San Luis Potosí,24,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,478.5220393,0
+San Luis Potosí,24,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,263.8850088,0
+San Luis Potosí,24,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1026.224878,0
+San Luis Potosí,24,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,699.039053,0
+San Luis Potosí,24,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,4658.935195,0
+Sinaloa,25,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,9989.913939
+Sinaloa,25,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,297.7835861,0
+Sinaloa,25,Agropecuarias,Corrales de engorda,370.2466764,42.28217044,0,0,0,0,0
+Sinaloa,25,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,18859.3506
+Sinaloa,25,Agropecuarias,Labranza,12175.07363,2699.213823,0,0,0,0,0
+Sinaloa,25,Agropecuarias,Quemas agrícolas,13205.67807,12684.41572,465.5595797,83265.77548,3877.88397,9106.56598,1664.386438
+Sinaloa,25,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,2766.162393,0
+Sinaloa,25,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,10342.44148,0
+Sinaloa,25,Fuentes industriales ligeras y comerciales,Actividades de construcción,775.8012692,77.58012692,0,0,0,0,0
+Sinaloa,25,Fuentes industriales ligeras y comerciales,Asados al carbón,240.6456705,192.0593096,0,479.0940759,8.819159656,30.91220808,0
+Sinaloa,25,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,111.4179395,0
+Sinaloa,25,Fuentes misceláneas,Caminos pavimentados y no pavimentados,733.1068548,148.7146101,0,0,0,0,0
+Sinaloa,25,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,3887.857954
+Sinaloa,25,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.88274,0
+Sinaloa,25,Fuentes misceláneas,Incendios en construcción,1.410853559,1.31750786,0,22.40296766,0.533403992,1.389517399,0
+Sinaloa,25,Fuentes misceláneas,Incendios forestales,183.6571097,155.8516937,16.89667591,1821.812286,54.36179678,127.2074952,18.27184923
+Sinaloa,25,Fuentes misceláneas,Ladrilleras,624.7138175,570.0739023,51.62978621,123.2950118,28.51197149,13.87068883,0
+Sinaloa,25,Manejo de Residuos,Aguas residuales,0,0,0,0,0,4363.370888,0
+Sinaloa,25,Manejo de Residuos,Quema de residuos a cielo abierto,6.674224137,6.11218421,0.175637477,14.92918557,1.053824864,1.502754256,0
+Sinaloa,25,Manejo de Residuos,Rellenos sanitarios,0,0,0,9.403578687,0,498.6192401,0
+Sinaloa,25,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.432237091,1.432226956,0.050841458,11.74072329,20.6314566,0.720770262,0.001101216
+Sinaloa,25,Quema de combustibles en fuentes estacionarias,Combustión comercial,7.92855618,7.92855618,0.281455073,64.94211294,114.0205036,3.982455272,0
+Sinaloa,25,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1581.448123,1523.472983,45.40960668,18398.50118,865.5787737,4025.19147,0.077655977
+Sinaloa,25,Quema de combustibles en fuentes estacionarias,Combustión industrial,8.265681726,2.471712273,0.434163468,43.37709503,161.7060195,1.847219608,6.098915213
+Sinaloa,25,Uso de Solventes,Artes gráficas,0,0,0,0,0,819.8923186,0
+Sinaloa,25,Uso de Solventes,Asfaltado,0,0,0,0,0,210.9443374,0
+Sinaloa,25,Uso de Solventes,Lavado en seco,0,0,0,0,0,273.3294144,0
+Sinaloa,25,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,1140.186081,0
+Sinaloa,25,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,752.6205151,0
+Sinaloa,25,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,145.2114208,0
+Sinaloa,25,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1404.948606,0
+Sinaloa,25,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,507.9490033,0
+Sinaloa,25,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,5852.136914,0
+Sonora,26,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,5124.10453
+Sonora,26,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,441.5269775,0
+Sonora,26,Agropecuarias,Corrales de engorda,318.1818864,36.33637143,0,0,0,0,0
+Sonora,26,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,18548.50498
+Sonora,26,Agropecuarias,Labranza,9110.642473,2019.829436,0,0,0,0,0
+Sonora,26,Agropecuarias,Quemas agrícolas,5394.98149,5135.597527,310.233275,49612.62618,1840.736439,4207.202848,992.8383469
+Sonora,26,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,3048.294204,0
+Sonora,26,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,10701.26502,0
+Sonora,26,Fuentes industriales ligeras y comerciales,Actividades de construcción,0,0,0,0,0,0,0
+Sonora,26,Fuentes industriales ligeras y comerciales,Asados al carbón,237.6577536,189.6746531,0,473.145524,8.709658762,30.52839436,0
+Sonora,26,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,317.7029378,0
+Sonora,26,Fuentes misceláneas,Caminos pavimentados y no pavimentados,533.7466316,129.1322496,0,0,0,0,0
+Sonora,26,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,4149.880286
+Sonora,26,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.47089,0
+Sonora,26,Fuentes misceláneas,Incendios en construcción,1.319878858,1.232552279,0,20.95837884,0.49900902,1.299918497,0
+Sonora,26,Fuentes misceláneas,Incendios forestales,6434.290095,5459.836878,588.4968462,63903.73807,1894.451346,4462.091842,641.0998276
+Sonora,26,Fuentes misceláneas,Ladrilleras,540.0456444,492.811139,44.63234266,106.5846989,24.64771162,11.99077862,0
+Sonora,26,Manejo de Residuos,Aguas residuales,0,0,0,0,0,3592.971533,0
+Sonora,26,Manejo de Residuos,Quema de residuos a cielo abierto,19.60638123,17.95531754,0.515957401,43.85637906,3.095744404,4.41453152,0
+Sonora,26,Manejo de Residuos,Rellenos sanitarios,0,0,0,4.371895246,0,231.8171792,0
+Sonora,26,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.758174511,1.758171632,0.062412877,14.40372357,25.29408734,0.883506842,0.000312911
+Sonora,26,Quema de combustibles en fuentes estacionarias,Combustión comercial,9.151692918,9.151692918,0.337127145,75.76769704,131.2655215,4.659258167,0.01818097
+Sonora,26,Quema de combustibles en fuentes estacionarias,Combustión doméstica,984.5753377,948.8407436,28.36917907,11423.9666,678.8318214,2486.233721,0.243660261
+Sonora,26,Quema de combustibles en fuentes estacionarias,Combustión industrial,28.62683261,7.164517625,1.537560469,144.3688691,570.3624081,5.842336981,22.59191051
+Sonora,26,Uso de Solventes,Artes gráficas,0,0,0,0,0,1021.119154,0
+Sonora,26,Uso de Solventes,Asfaltado,0,0,0,0,0,158.0174009,0
+Sonora,26,Uso de Solventes,Lavado en seco,0,0,0,0,0,200.6014123,0
+Sonora,26,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,4034.43202,0
+Sonora,26,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,651.3946991,0
+Sonora,26,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,149.9505237,0
+Sonora,26,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1456.458766,0
+Sonora,26,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,676.5859611,0
+Sonora,26,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,6793.718645,0
+Tabasco,27,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,1253.27146
+Tabasco,27,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,28.61879823,0
+Tabasco,27,Agropecuarias,Corrales de engorda,308.303298,35.20823663,0,0,0,0,0
+Tabasco,27,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,5307.789496
+Tabasco,27,Agropecuarias,Labranza,1044.310888,231.5237238,0,0,0,0,0
+Tabasco,27,Agropecuarias,Quemas agrícolas,815.0146235,762.0396396,68.23736282,4214.283061,223.32161,371.4338539,84.30519985
+Tabasco,27,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1584.916131,0
+Tabasco,27,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,5815.115409,0
+Tabasco,27,Fuentes industriales ligeras y comerciales,Actividades de construcción,958.7352645,95.87352645,0,0,0,0,0
+Tabasco,27,Fuentes industriales ligeras y comerciales,Asados al carbón,192.5084447,153.6409897,0,383.2591513,7.055031182,24.72872704,0
+Tabasco,27,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,56.77229447,0
+Tabasco,27,Fuentes misceláneas,Caminos pavimentados y no pavimentados,400.0528771,91.41374114,0,0,0,0,0
+Tabasco,27,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,2938.453218
+Tabasco,27,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.90871,0
+Tabasco,27,Fuentes misceláneas,Incendios en construcción,0.129750803,0.121166156,0,2.060315208,0.049055124,0.127788598,0
+Tabasco,27,Fuentes misceláneas,Incendios forestales,534.7993376,453.8337008,49.00551699,5309.641232,157.6699242,370.7373894,53.26686629
+Tabasco,27,Fuentes misceláneas,Ladrilleras,34.32493503,31.32274188,2.83680144,6.7744512,1.56659184,0.76212576,0
+Tabasco,27,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1950.772468,0
+Tabasco,27,Manejo de Residuos,Quema de residuos a cielo abierto,19.74161444,18.0791627,0.519516169,44.1588744,3.117097017,4.444980346,0
+Tabasco,27,Manejo de Residuos,Rellenos sanitarios,0,0,0,6.593043569,0,349.5922653,0
+Tabasco,27,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.9791E-05,1.51131E-05,5.98227E-08,0.004497946,0.016192607,0.000641407,0.000508268
+Tabasco,27,Quema de combustibles en fuentes estacionarias,Combustión comercial,0.380367782,0.380367782,0.013628636,3.123858009,5.466519216,0.19169794,0.000186966
+Tabasco,27,Quema de combustibles en fuentes estacionarias,Combustión doméstica,4893.897551,4712.455306,140.1358595,57124.46788,1905.405929,12569.41494,0.059232193
+Tabasco,27,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.01209959,0.01209959,0.000429522,0.099106689,0.17400411,0.006077535,0
+Tabasco,27,Uso de Solventes,Artes gráficas,0,0,0,0,0,682.8868137,0
+Tabasco,27,Uso de Solventes,Asfaltado,0,0,0,0,0,188.0809395,0
+Tabasco,27,Uso de Solventes,Lavado en seco,0,0,0,0,0,192.6093242,0
+Tabasco,27,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,265.2608209,0
+Tabasco,27,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,399.6447801,0
+Tabasco,27,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,155.1373396,0
+Tabasco,27,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,824.4417716,0
+Tabasco,27,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,343.5386614,0
+Tabasco,27,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,3635.026647,0
+Tamaulipas,28,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,6125.157265
+Tamaulipas,28,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,464.9939682,0
+Tamaulipas,28,Agropecuarias,Corrales de engorda,186.5467704,21.30364118,0,0,0,0,0
+Tamaulipas,28,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,3507.798165
+Tamaulipas,28,Agropecuarias,Labranza,18194.17656,4033.648944,0,0,0,0,0
+Tamaulipas,28,Agropecuarias,Quemas agrícolas,9299.877017,8868.896718,371.3901683,45595.02921,2459.876883,3751.254464,911.7371234
+Tamaulipas,28,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,3352.99414,0
+Tamaulipas,28,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,11763.70687,0
+Tamaulipas,28,Fuentes industriales ligeras y comerciales,Actividades de construcción,305.7262569,30.57262569,0,0,0,0,0
+Tamaulipas,28,Fuentes industriales ligeras y comerciales,Asados al carbón,286.4844206,228.6432161,0,570.3530361,10.49905381,36.80043777,0
+Tamaulipas,28,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,121.9587238,0
+Tamaulipas,28,Fuentes misceláneas,Caminos pavimentados y no pavimentados,668.2314192,161.6688917,0,0,0,0,0
+Tamaulipas,28,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,5176.386709
+Tamaulipas,28,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.69594,0
+Tamaulipas,28,Fuentes misceláneas,Incendios en construcción,2.064081739,1.927516785,0,32.77558906,0.780371168,2.032866893,0
+Tamaulipas,28,Fuentes misceláneas,Incendios forestales,54.97880247,46.6553213,5.038491445,545.8309458,16.21085491,38.11180641,5.475822875
+Tamaulipas,28,Fuentes misceláneas,Ladrilleras,40.04575753,36.54319886,3.30960168,7.9035264,1.82769048,0.88914672,0
+Tamaulipas,28,Manejo de Residuos,Aguas residuales,0,0,0,0,0,4085.251809,0
+Tamaulipas,28,Manejo de Residuos,Quema de residuos a cielo abierto,2.874812744,2.63272325,0.075652967,6.43050219,0.453917802,0.647286785,0
+Tamaulipas,28,Manejo de Residuos,Rellenos sanitarios,0,0,0,10.23738756,0,542.831466,0
+Tamaulipas,28,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.864242615,0.864236019,0.030678761,7.085049843,12.45109773,0.434993106,0.000716698
+Tamaulipas,28,Quema de combustibles en fuentes estacionarias,Combustión comercial,8.276410978,8.276410978,0.359472088,72.11659877,117.1743961,4.491794191,0.097446334
+Tamaulipas,28,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1569.79962,1512.641506,45.30479947,18237.85839,1007.08862,3974.719401,0.458250344
+Tamaulipas,28,Quema de combustibles en fuentes estacionarias,Combustión industrial,6.931574371,1.828726543,0.370016141,35.35126013,137.4104719,1.452003337,5.371418767
+Tamaulipas,28,Uso de Solventes,Artes gráficas,0,0,0,0,0,1130.295416,0
+Tamaulipas,28,Uso de Solventes,Asfaltado,0,0,0,0,0,172.51258,0
+Tamaulipas,28,Uso de Solventes,Lavado en seco,0,0,0,0,0,415.1889789,0
+Tamaulipas,28,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,7879.153565,0
+Tamaulipas,28,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,851.2170891,0
+Tamaulipas,28,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,146.935061,0
+Tamaulipas,28,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,1775.387759,0
+Tamaulipas,28,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,659.1419103,0
+Tamaulipas,28,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,8422.59666,0
+Tlaxcala,29,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,3314.650571
+Tlaxcala,29,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,114.5101915,0
+Tlaxcala,29,Agropecuarias,Corrales de engorda,52.774176,6.026810899,0,0,0,0,0
+Tlaxcala,29,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,6104.846951
+Tlaxcala,29,Agropecuarias,Labranza,2253.075657,499.5068732,0,0,0,0,0
+Tlaxcala,29,Agropecuarias,Quemas agrícolas,1978.423189,1899.607793,60.81579764,14504.50943,574.7448277,1548.448355,290.0395839
+Tlaxcala,29,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,615.0250728,0
+Tlaxcala,29,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,3992.793794,0
+Tlaxcala,29,Fuentes industriales ligeras y comerciales,Actividades de construcción,137.3042111,13.73042111,0,0,0,0,0
+Tlaxcala,29,Fuentes industriales ligeras y comerciales,Asados al carbón,103.5976553,82.68128867,0,206.2493907,3.796637022,13.30766629,0
+Tlaxcala,29,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,124.0853732,0
+Tlaxcala,29,Fuentes misceláneas,Caminos pavimentados y no pavimentados,292.8660775,70.85469618,0,0,0,0,0
+Tlaxcala,29,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,1722.326331
+Tlaxcala,29,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.82492,0
+Tlaxcala,29,Fuentes misceláneas,Incendios en construcción,0.089483312,0.083562866,0,1.42090704,0.03383112,0.088130068,0
+Tlaxcala,29,Fuentes misceláneas,Incendios forestales,245.1312131,208.0193458,22.50372532,2432.752813,72.40310173,169.8645198,24.40302581
+Tlaxcala,29,Fuentes misceláneas,Ladrilleras,66.36154105,60.55730098,5.484482784,13.09727232,3.028744224,1.473443136,0
+Tlaxcala,29,Manejo de Residuos,Aguas residuales,0,0,0,0,0,728.1359011,0
+Tlaxcala,29,Manejo de Residuos,Quema de residuos a cielo abierto,1.855573018,1.699314237,0.048830869,4.150623855,0.292985213,0.417796914,0
+Tlaxcala,29,Manejo de Residuos,Rellenos sanitarios,0,0,0,2.633824867,0,139.6570176,0
+Tlaxcala,29,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.00238949,0.002382393,8.38491E-05,0.026150727,0.058499885,0.002158325,0.000771177
+Tlaxcala,29,Quema de combustibles en fuentes estacionarias,Combustión comercial,2.436418697,2.436418697,0.086490199,19.95649329,35.03811799,1.223795135,0
+Tlaxcala,29,Quema de combustibles en fuentes estacionarias,Combustión doméstica,726.4628483,700.183224,20.92727791,8418.580153,529.7652811,1829.407886,0.019609179
+Tlaxcala,29,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.073369152,0.073369152,0.002604525,0.600960336,1.0551212,0.036852784,0
+Tlaxcala,29,Uso de Solventes,Artes gráficas,0,0,0,0,0,545.8813087,0
+Tlaxcala,29,Uso de Solventes,Asfaltado,0,0,0,0,0,62.62696996,0
+Tlaxcala,29,Uso de Solventes,Lavado en seco,0,0,0,0,0,139.0623337,0
+Tlaxcala,29,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,1083.033442,0
+Tlaxcala,29,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,285.2727542,0
+Tlaxcala,29,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,54.88512478,0
+Tlaxcala,29,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,545.6763868,0
+Tlaxcala,29,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,420.9864385,0
+Tlaxcala,29,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,2712.435095,0
+Veracruz de Ignacio de la Llave,30,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,27042.37367
+Veracruz de Ignacio de la Llave,30,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,544.3082997,0
+Veracruz de Ignacio de la Llave,30,Agropecuarias,Corrales de engorda,1115.226248,127.3588376,0,0,0,0,0
+Veracruz de Ignacio de la Llave,30,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,51219.14249
+Veracruz de Ignacio de la Llave,30,Agropecuarias,Labranza,6760.699083,1498.846987,0,0,0,0,0
+Veracruz de Ignacio de la Llave,30,Agropecuarias,Quemas agrícolas,7321.469834,6832.706126,633.9817419,38524.89961,1996.914643,3425.964278,770.6432024
+Veracruz de Ignacio de la Llave,30,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,4092.93724,0
+Veracruz de Ignacio de la Llave,30,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,20013.49612,0
+Veracruz de Ignacio de la Llave,30,Fuentes industriales ligeras y comerciales,Actividades de construcción,1044.201883,104.4201883,0,0,0,0,0
+Veracruz de Ignacio de la Llave,30,Fuentes industriales ligeras y comerciales,Asados al carbón,648.0857675,517.237251,0,1290.254054,23.7509856,83.25004168,0
+Veracruz de Ignacio de la Llave,30,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,399.1628587,0
+Veracruz de Ignacio de la Llave,30,Fuentes misceláneas,Caminos pavimentados y no pavimentados,1145.700272,276.7646959,0,0,0,0,0
+Veracruz de Ignacio de la Llave,30,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,14048.52839
+Veracruz de Ignacio de la Llave,30,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,3.02089,0
+Veracruz de Ignacio de la Llave,30,Fuentes misceláneas,Incendios en construcción,0.165544128,0.154591303,0,2.628678024,0.062587572,0.163040625,0
+Veracruz de Ignacio de la Llave,30,Fuentes misceláneas,Incendios forestales,439.6243752,373.0677664,40.29869067,4364.368289,129.6580234,304.7355456,43.78356681
+Veracruz de Ignacio de la Llave,30,Fuentes misceláneas,Ladrilleras,508.0090384,463.5765799,41.98466131,100.2618778,23.18555923,11.27946125,0
+Veracruz de Ignacio de la Llave,30,Manejo de Residuos,Aguas residuales,0,0,0,0,0,3967.844875,0
+Veracruz de Ignacio de la Llave,30,Manejo de Residuos,Quema de residuos a cielo abierto,39.63808786,36.30014362,1.043107575,88.66414389,6.258645451,8.924828413,0
+Veracruz de Ignacio de la Llave,30,Manejo de Residuos,Rellenos sanitarios,0,0,0,22.36420341,0,1185.848758,0
+Veracruz de Ignacio de la Llave,30,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.297546932,1.29751755,0.04605746,10.65532834,18.75993409,0.655714642,0.003192553
+Veracruz de Ignacio de la Llave,30,Quema de combustibles en fuentes estacionarias,Combustión comercial,10.81376422,10.81376422,0.386642863,88.75678625,155.4347915,5.445768438,0.004104589
+Veracruz de Ignacio de la Llave,30,Quema de combustibles en fuentes estacionarias,Combustión doméstica,19112.4911,18403.56166,547.2215602,223123.8478,7319.353225,49106.68308,0.304679591
+Veracruz de Ignacio de la Llave,30,Quema de combustibles en fuentes estacionarias,Combustión industrial,18.36548108,4.759578212,0.982454292,93.30472565,364.7081484,3.81305084,14.32200302
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Artes gráficas,0,0,0,0,0,2108.600349,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Asfaltado,0,0,0,0,0,323.9090693,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Lavado en seco,0,0,0,0,0,830.3779579,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,2297.318374,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,1604.494915,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,284.8878801,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,2760.637623,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,1850.604195,0
+Veracruz de Ignacio de la Llave,30,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,13406.91915,0
+Yucatán,31,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,103.1397344
+Yucatán,31,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,5.623131307,0
+Yucatán,31,Agropecuarias,Corrales de engorda,169.2201468,19.32494076,0,0,0,0,0
+Yucatán,31,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,21166.99739
+Yucatán,31,Agropecuarias,Labranza,414.6709785,91.93255594,0,0,0,0,0
+Yucatán,31,Agropecuarias,Quemas agrícolas,214.4492473,206.0054859,7.16752026,1387.06083,62.1906368,151.069939,27.72094593
+Yucatán,31,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1574.351002,0
+Yucatán,31,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,5052.039203,0
+Yucatán,31,Fuentes industriales ligeras y comerciales,Actividades de construcción,514.5717924,51.45717924,0,0,0,0,0
+Yucatán,31,Fuentes industriales ligeras y comerciales,Asados al carbón,171.5629133,136.9243611,0,341.5593359,6.287421337,22.03816284,0
+Yucatán,31,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,153.2112246,0
+Yucatán,31,Fuentes misceláneas,Caminos pavimentados y no pavimentados,376.4213376,87.2150241,0,0,0,0,0
+Yucatán,31,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,3634.259717
+Yucatán,31,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,1.15928,0
+Yucatán,31,Fuentes misceláneas,Incendios en construcción,0.329596867,0.307789891,0,5.233674264,0.124611292,0.324612416,0
+Yucatán,31,Fuentes misceláneas,Incendios forestales,1301.983522,1104.243551,130.2765054,12664.37139,420.1688207,884.8642448,126.1180423
+Yucatán,31,Fuentes misceláneas,Ladrilleras,4.576658004,4.176365585,0.378240192,0.90326016,0.208878912,0.101616768,0
+Yucatán,31,Manejo de Residuos,Aguas residuales,0,0,0,0,0,151.1158023,0
+Yucatán,31,Manejo de Residuos,Quema de residuos a cielo abierto,10.19656194,9.337904091,0.268330577,22.80809907,1.609983464,2.29583642,0
+Yucatán,31,Manejo de Residuos,Rellenos sanitarios,0,0,0,4.623517387,0,245.1592955,0
+Yucatán,31,Quema de combustibles en fuentes estacionarias,Combustión agrícola,1.0325E-05,7.88456E-06,3.12097E-08,0.002346594,0.008447739,0.000334624,0.000265165
+Yucatán,31,Quema de combustibles en fuentes estacionarias,Combustión comercial,8.270974892,8.270974892,0.293610563,67.74683477,118.9448244,4.154449664,0
+Yucatán,31,Quema de combustibles en fuentes estacionarias,Combustión doméstica,4793.805807,4615.97245,137.2508157,55966.65381,1832.198371,12318.11585,0.180594168
+Yucatán,31,Quema de combustibles en fuentes estacionarias,Combustión industrial,7.375036163,1.840707634,0.396239609,37.1720153,146.9780154,1.503127986,5.825608978
+Yucatán,31,Uso de Solventes,Artes gráficas,0,0,0,0,0,785.6409424,0
+Yucatán,31,Uso de Solventes,Asfaltado,0,0,0,0,0,179.970492,0
+Yucatán,31,Uso de Solventes,Lavado en seco,0,0,0,0,0,344.0593945,0
+Yucatán,31,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,1204.741348,0
+Yucatán,31,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,444.3418936,0
+Yucatán,31,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,155.1216257,0
+Yucatán,31,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,666.7050243,0
+Yucatán,31,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,571.0760584,0
+Yucatán,31,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,4776.463798,0
+Zacatecas,32,Agropecuarias,Aplicación de fertilizantes,0,0,0,0,0,0,4561.593008
+Zacatecas,32,Agropecuarias,Aplicación de plaguicidas,0,0,0,0,0,295.1266298,0
+Zacatecas,32,Agropecuarias,Corrales de engorda,238.2646344,27.20982125,0,0,0,0,0
+Zacatecas,32,Agropecuarias,Emisiones ganaderas de amoniaco,0,0,0,0,0,0,5475.526174
+Zacatecas,32,Agropecuarias,Labranza,9830.042725,2179.320472,0,0,0,0,0
+Zacatecas,32,Agropecuarias,Quemas agrícolas,7684.56138,7364.413631,220.8123269,52725.75961,2133.78265,5377.761413,1054.240371
+Zacatecas,32,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de combustibles,0,0,0,0,0,1111.636547,0
+Zacatecas,32,Almacenamiento y transporte de derivados de petróleo,Manejo y distribución de gas L.P.,0,0,0,0,0,5074.668027,0
+Zacatecas,32,Fuentes industriales ligeras y comerciales,Actividades de construcción,207.8956972,20.78956972,0,0,0,0,0
+Zacatecas,32,Fuentes industriales ligeras y comerciales,Asados al carbón,126.9939858,101.3539,0,252.8284267,4.654063518,16.31304858,0
+Zacatecas,32,Fuentes industriales ligeras y comerciales,Panificación,0,0,0,0,0,58.06677675,0
+Zacatecas,32,Fuentes misceláneas,Caminos pavimentados y no pavimentados,327.5377987,77.27438925,0,0,0,0,0
+Zacatecas,32,Fuentes misceláneas,Emisiones domésticas de amoniaco,0,0,0,0,0,0,2361.871255
+Zacatecas,32,Fuentes misceláneas,Esterilización de material hospitalario,0,0,0,0,0,0.86182,0
+Zacatecas,32,Fuentes misceláneas,Incendios en construcción,0.102905809,0.096097296,0,1.634043096,0.038905788,0.101349578,0
+Zacatecas,32,Fuentes misceláneas,Incendios forestales,973.4488773,826.0741544,89.20204301,9664.642169,286.9980246,674.818553,96.95665894
+Zacatecas,32,Fuentes misceláneas,Ladrilleras,1615.314429,1474.032708,133.4984697,318.8023158,73.72303552,35.86526052,0
+Zacatecas,32,Manejo de Residuos,Aguas residuales,0,0,0,0,0,1255.645861,0
+Zacatecas,32,Manejo de Residuos,Quema de residuos a cielo abierto,5.353929722,4.903072482,0.140892887,11.97589543,0.845357325,1.205479545,0
+Zacatecas,32,Manejo de Residuos,Rellenos sanitarios,0,0,0,1.765294884,0,93.60372504,0
+Zacatecas,32,Quema de combustibles en fuentes estacionarias,Combustión agrícola,0.020932382,0.020917951,0.000741094,0.184830721,0.350102148,0.012462158,0.001567929
+Zacatecas,32,Quema de combustibles en fuentes estacionarias,Combustión comercial,3.773587915,3.773587915,0.133958244,30.90912986,54.26793792,1.895445368,0
+Zacatecas,32,Quema de combustibles en fuentes estacionarias,Combustión doméstica,1051.626163,1013.076361,30.19644874,12234.13272,575.5433952,2676.50848,0.024482926
+Zacatecas,32,Quema de combustibles en fuentes estacionarias,Combustión industrial,0.708691354,0.204039998,0.03741621,3.686015308,13.92278998,0.15524362,0.531211954
+Zacatecas,32,Uso de Solventes,Artes gráficas,0,0,0,0,0,436.705047,0
+Zacatecas,32,Uso de Solventes,Asfaltado,0,0,0,0,0,223.1834428,0
+Zacatecas,32,Uso de Solventes,Lavado en seco,0,0,0,0,0,75.52523293,0
+Zacatecas,32,Uso de Solventes,Limpieza de superficies industriales,0,0,0,0,0,846.6573835,0
+Zacatecas,32,Uso de Solventes,Pintado Automotriz,0,0,0,0,0,325.3686943,0
+Zacatecas,32,Uso de Solventes,Pintura para señalización vial,0,0,0,0,0,193.2524453,0
+Zacatecas,32,Uso de Solventes,Recubrimiento de superficies arquitectónicas,0,0,0,0,0,691.45756,0
+Zacatecas,32,Uso de Solventes,Recubrimiento de superficies en la industria,0,0,0,0,0,387.6777808,0
+Zacatecas,32,Uso de Solventes,Uso doméstico de solventes,0,0,0,0,0,2542.391687,0
+Notas:,,,,,,,,,,
+Cantidades en toneladas.,,,,,,,,,,
+"* Si se muestran ""blancos"" en la posicion de cifras, representan valores no reportados o nulos.",,,,,,,,,,
