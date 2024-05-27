@@ -1,0 +1,63 @@
+Se cambio el nombre de la sustancia de 'Arsénico' a 'Arsénico (polvos, respirables, vapores o humos)' para las emisiones con cas "7440-38-2"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"7440-38-2"},{$set:{"sustancia":"Arsénico (polvos, respirables, vapores o humos)"}})
+Se cambio el nombre de la sustancia de 'Arsénico (compuestos)' a 'Arsénico (Compuestos solubles)' para las emisiones con cas "As"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"As"},{$set:{"sustancia":"Arsénico (Compuestos solubles)"}})
+Se cambio el nombre de la sustancia de 'Asbesto' a 'Asbesto y sus formas (En forma de polvo, fibras o productos desmenuzables con la presión de la mano)' para las emisiones con cas "1332-21-4"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"1332-21-4 "},{$set:{"sustancia":"Asbesto y sus formas (En forma de polvo, fibras o productos desmenuzables con la presión de la mano)"}})
+
+Se cambio el nombre de la sustancia de 'Cadmio' a 'Cadmio (Compuestos solubles)' para las emisiones con cas "Cd"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"Cd"},{$set:{"sustancia":"Cadmio (Compuestos solubles)"}})
+
+
+Se cambio el nombre de la sustancia de 'Cromo (compuestos)' a 'Cromo (Compuestos solubles)' para las emisiones con cas "Cr"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"Cr"},{$set:{"sustancia":"Cromo (Compuestos solubles)"}})
+
+Se cambio el nombre de la sustancia de 'Cromo (polvos, respirables, vapores o humos)' a 'Cromo (Compuestos solubles)' para las emisiones con cas "7440-47-3"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"7440-47-3"},{$set:{"sustancia":"Cromo (polvos respirables, humos o vapores)"}})
+
+Se cambio el CAS de la sustancia de 'Endrin' de '72-02-8' a '72-20-8' donde el cas era '72-02-8' url de apoyo https://stacks.cdc.gov/view/cdc/45769
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"72-02-8"},{$set:{"cas":"72-20-8"}})
+
+Se cambio el nombre de la sustancia de 'Mercurio (compuestos)' a 'Mercurio (Compuestos solubles)' para las emisiones con cas "Hg"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"Hg"},{$set:{"sustancia":"Mercurio (Compuestos solubles)"}})
+
+
+Se cambio el nombre de la sustancia de 'Mercurio' a 'Mercurio (polvos, respirables, vapores o humos)' para las emisiones con cas "7439-97-6"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"7439-97-6"},{$set:{"sustancia":"Mercurio (polvos, respirables, vapores o humos)"}})
+
+
+Se cambio el nombre de la sustancia de 'Níquel (compuestos)' a 'Níquel (Compuestos solubles)' para las emisiones con cas "Ni"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"Ni"},{$set:{"sustancia":"Níquel (Compuestos solubles)"}})
+
+
+Se cambio el nombre de la sustancia de 'Níquel (polvos, respirables, vapores o humos)' a 'Níquel (polvos respirables, humos o vapores)' para las emisiones con cas "7440-02-0"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"7440-02-0"},{$set:{"sustancia":"Níquel (polvos respirables, humos o vapores)"}})
+
+Se cambio el nombre de la sustancia de 'Plomo (compuestos)' a 'Plomo (Compuestos solubles)' para las emisiones con cas "Pb"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"Pb"},{$set:{"sustancia":"Plomo (Compuestos solubles)"}})
+
+Se cambio el nombre de la sustancia de 'Plomo (polvos, respirables, vapores o humos)' a 'Plomo (polvos respirables, humos o vapores)' para las emisiones con cas "7439-92-1"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"7439-92-1"},{$set:{"sustancia":"Plomo (polvos respirables, humos o vapores)"}})
+
+Se cambio el nombre de la sustancia de 'Cadmio' a 'Cadmio (polvos, respirables, vapores o humos)' para las emisiones con cas "7440-43-9"
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":"7440-43-9"},{$set:{"sustancia":"Cadmio (polvos, respirables, vapores o humos)"}})
+
+
+
+Se cambio el nombre de la sustancia de '' a '' para las emisiones con cas ""
+---Comando
+----db.retc_2004_2022_complete.updateMany({"cas":""},{$set:{"sustancia":""}})
